@@ -1,6 +1,5 @@
 <!-- badges: start -->
-[![License](https://img.shields.io/badge/license%20-%20CC%20BY%20SA%204.0%20-%20red)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) 
-
+[![License](https://img.shields.io/badge/license%20-%20CC%20BY%20SA%204.0%20-%20%233182bd)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) 
 <!-- badges: end --> 
 
 ## The triadic comparison of technology options data from XX on-farm experimental trials in YY countries
