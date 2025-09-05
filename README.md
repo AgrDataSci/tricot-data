@@ -1,5 +1,5 @@
 <!-- badges: start -->
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/deed.en) 
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) 
 
 <!-- badges: end --> 
 
