@@ -8,11 +8,7 @@ The triadic comparison of technologies (tricot) is a citizen science approach fo
 
 ---
 
-<p align="center">
-  <img src="docs/trial-locations.png" alt="Trial map" width="600"/>
-</p>
-
-
+![Trial map](docs/trial-locations.png)
 
 ## Data structure
 
@@ -31,7 +27,7 @@ The triadic comparison of technologies (tricot) is a citizen science approach fo
 │   │   ├── trial name
 │   │   ├── trial type
 │   │   ├── trial experimental site
-│   │   ├── trial unit of analysis 
+│   │   ├── trial unit of analysis
 │   │   ├── trial objective
 │   │   ├── trial description
 │   │   ├── trial country (ISO2)
