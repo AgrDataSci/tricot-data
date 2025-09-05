@@ -102,6 +102,22 @@ The hierarchical organization allows users to track data from trial design throu
 │   │   ├── casi var
 ```
 
+## Citation
 
----
+The dataset is archived and made publicly available through [Zenodo](https://zenodo.org/).  
+Users of this dataset are required to provide proper citation in any publications, presentations, or derivative works.  
+de Sousa, K., Laporte, M.-A., Achigan-Dako, E. G., Aglinglo, L. A., Ayenan, M., Boukar, O., Coulibaly, H., Cremaschi, A., Diarra, D. Y., Dolo, A., Gandhi, H., Houdegbe, A. C., Dorado-Betancourt, H., Kileo, A., Legba, E. C., Madriz, B., Malulu, D., Manners, R., Matumbo, Z., Mlaki, A., N'Danikou, S., Nabateregga, M., Nadigatla, G. R., Ojiewo, C. O., Ongom, P. O., Ouedraogo, C. O., Shango, A., Sidibe, A., Solberg, S. Ø., van Heerwaarden, J., van Zonneveld, M., & van Etten, J. (2025). **Global multi-crop agricultural trial data supported by citizen science** (Version 1) [Dataset]. Zenodo. https://doi.org/XXXX/zenodo.XXXXX  *(DOI will be added upon release)*  
+
+### BibTeX (dataset)
+```bibtex
+@dataset{desousa2025tricot,
+  author       = {de Sousa, Kauê and Laporte, Marie-Angélique and Achigan-Dako, Enoch G. and Aglinglo, Lys Amavi and Ayenan, Mathieu and Boukar, Ousmane and Coulibaly, Harouna and Cremaschi, Almendra and Diarra, Danfing dit Youssouf and Dolo, Aminata and Gandhi, Harish and Houdegbe, Aristide Carlos and Dorado-Betancourt, Hugo and Kileo, Aishi and Legba, Eric C. and Madriz, Brandon and Malulu, Dickson and Manners, Rhys and Matumbo, Zamira and Mlaki, Anna and N'Danikou, Sognigbé and Nabateregga, Mabel and Nadigatla, Ganga Rao V. P. R. and Ojiewo, Christopher Ochieng and Ongom, Patrick Obia and Ouedraogo, Colette Ouidyam and Shango, Abdul and Sidibe, Amadou and Solberg, Svein Øivind and van Heerwaarden, Joost and van Zonneveld, Maarten and van Etten, Jacob},
+  title        = {Global multi-crop agricultural trial data supported by citizen science},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {v1},
+  doi          = {10.5281/zenodo.XXXXX},
+  url          = {https://doi.org/10.5281/zenodo.XXXXX}
+}
+
 
