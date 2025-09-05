@@ -17,6 +17,15 @@ The map below shows the crops and trial sites that are currently available for p
 
 ## Data structure
 
+The dataset follows a structured format designed to ensure consistency and interoperability across trials. It is organized into four main components: **metadata**, **block data**, **plot data**, and **rank analysis**.  
+
+- **Metadata**: Provides detailed contextual information about each trial, including identifiers, objectives, location, time frame, crops, genotypes, variables, and contributors. This ensures that each dataset is fully documented and reusable under the terms of the CC BY-SA 4.0 license.  
+- **Block data**: Contains information at the block level (e.g., farmer or experimental unit), including geolocation, planting dates, and farmer demographics.  
+- **Plot data**: Stores trial-level measurements for each genotype and trait, with flexible support for different data types (rank, numeric, text, date).  
+- **Rank analysis**: Includes the results of statistical analyses performed on ranked data, providing estimates, standard errors, and variance components.  
+
+The hierarchical organization allows users to track data from trial design through analysis while maintaining links between metadata, blocks, and plots.  
+
 ``` text
 ├── Tricot data 
 │   ├── metadata
