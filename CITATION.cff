@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset or software, please cite it as below."
 title: "The triadic comparison of technology options data from XX on-farm experimental trials in YY countries"
-version: "v1.2"
+version: "v1"
 date-released: 2025-09-06
 authors:
   - family-names: de Sousa
@@ -12,12 +12,13 @@ authors:
     given-names: Marie-Angélique
     orcid: https://orcid.org/0000-0002-8461-9745
     affiliation: "Bioversity International"
-  - family-names: Cremaschi
-    given-names: Almendra
-    orcid: https://orcid.org/0000-0001-8932-5626
-    affiliation: "Bioversity International"
+  - family-names: Achigan-Dako
+    given-names: Enoch G.
+    orcid: https://orcid.org/0000-0002-5493-0516
+    affiliation: "University of Abomey-Calavi"
   - family-names: Aglinglo
     given-names: Lys Amavi
+    orcid: https://orcid.org/0009-0005-1515-4699
     affiliation: "World Vegetable Center"
   - family-names: Ayenan
     given-names: Mathieu
@@ -25,17 +26,59 @@ authors:
   - family-names: Boukar
     given-names: Osmane
     affiliation: "International Institute of Tropical Agriculture"
+  - family-names: Coulibaly
+    given-names: Harouna
+    affiliation: "Institut d'Economie Rurale"
+  - family-names: Cremaschi
+    given-names: Almendra
+    orcid: https://orcid.org/0000-0001-8932-5626
+    affiliation: "Bioversity International"
+  - family-names: Diarra
+    given-names: Danfing dit Youssouf
+    orcid: https://orcid.org/0009-0006-0868-6571
+    affiliation: "Institut d'Economie Rurale"
+  - family-names: Dolo
+    given-names: Aminata
+    affiliation: "Institut d'Economie Rurale"
   - family-names: Gandhi
     given-names: Harish
     affiliation: "International Maize and Wheat Improvement Center"
+  - family-names: Houdegbe
+    given-names: Aristide Carlos
+    orcid: https://orcid.org/0000-0003-3774-5658
+    affiliation: "University of Abomey-Calavi"
+  - family-names: Hugo Dorado-Betancourt
+    given-names: Hugo
+    orcid: https://orcid.org/0000-0002-0103-7505
+    affiliation: "Wageningen University and Research; Bioversity International"
+  - family-names: Kileo
+    given-names: Aishi
+    orcid: https://orcid.org/0009-0004-5010-3355
+    affiliation: "Tanzania Agricultural Research Institute"
+  - family-names: Legba
+    given-names: Eric C.
+    orcid: https://orcid.org/0009-0008-8284-0463
+    affiliation: "World Vegetable Center"
   - family-names: Madriz
     given-names: Brandon
     affiliation: "MrBot"
+  - family-names: Malulu
+    given-names: Dickson
+    orcid: https://orcid.org/0009-0005-5327-6769
+    affiliation: "Tanzania Agricultural Research Institute"
   - family-names: Manners
     given-names: Rhys
     affiliation: "International Institute of Tropical Agriculture"
-  - family-names: N'danikou
+  - family-names: Matumbo
+    given-names: Zamira
+    orcid: https://orcid.org/0009-0005-4091-782X
+    affiliation: "Tanzania Agricultural Research Institute"
+  - family-names: Mlaki
+    given-names: Anna
+    affiliation: "World Vegetable Center"
+  - family-names: N'Danikou
     given-names: Sognigbé
+    orcid: https://orcid.org/0000-0002-4163-8567
     affiliation: "World Vegetable Center"
   - family-names: Nabateregga
     given-names: Mabel
@@ -49,11 +92,27 @@ authors:
   - family-names: Ongom
     given-names: Patrick Obia
     affiliation: "International Institute of Tropical Agriculture"
+  - family-names: Ouedraogo
+    given-names: Colette Ouidyam
+    orcid: https://orcid.org/0000-0002-1997-3684
+    affiliation: "World Vegetable Center"
+  - family-names: Shango
+    given-names: Abdul
+    orcid: https://orcid.org/0000-0002-0233-8385
+    affiliation: "World Vegetable Center"
+  - family-names: Sidibe
+    given-names: Amadou
+    affiliation: "Institut d'Economie Rurale"
   - family-names: Solberg
     given-names: Svein Øivind
     affiliation: "University of Inland Norway"
+  - family-names: van Heerwaarden
+    given-names: Joost
+    orcid: https://orcid.org/0000-0002-4959-3914
+    affiliation: "Wageningen University and Research"
   - family-names: van Zonneveld
     given-names: Maarten
+    orcid: https://orcid.org/0000-0002-7875-4756
     affiliation: "World Vegetable Center"
   - family-names: van Etten
     given-names: Jacob
