@@ -105,7 +105,11 @@ The hierarchical organization allows users to track data from trial design throu
 ## Citation
 
 The dataset is archived and made publicly available through [Zenodo](https://zenodo.org/).  
-Users of this dataset are required to provide proper citation in any publications, presentations, or derivative works.  
+
+
+Users of this dataset are required to provide proper citation in any publications, presentations, or derivative works.
+
+
 de Sousa, K., Laporte, M.-A., Achigan-Dako, E. G., Aglinglo, L. A., Ayenan, M., Boukar, O., Coulibaly, H., Cremaschi, A., Diarra, D. Y., Dolo, A., Gandhi, H., Houdegbe, A. C., Dorado-Betancourt, H., Kileo, A., Legba, E. C., Madriz, B., Malulu, D., Manners, R., Matumbo, Z., Mlaki, A., N'Danikou, S., Nabateregga, M., Nadigatla, G. R., Ojiewo, C. O., Ongom, P. O., Ouedraogo, C. O., Shango, A., Sidibe, A., Solberg, S. Ø., van Heerwaarden, J., van Zonneveld, M., & van Etten, J. (2025). **Global multi-crop agricultural trial data supported by citizen science** (Version 1) [Dataset]. Zenodo. https://doi.org/XXXX/zenodo.XXXXX  *(DOI will be added upon release)*  
 
 ### BibTeX (dataset)
