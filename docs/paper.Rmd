@@ -1,5 +1,5 @@
 ---
-title: A FAIR and project-oriented template for open science data workflows
+title: Global multi-crop agricultural trial data supported by citizen science
 author:
   - name: Kauê de Sousa
     email: k.desousa@cgiar.org
@@ -22,14 +22,12 @@ address:
     city: Montpellier
     country: France
 abstract: |
-  Managing research data in accordance with the FAIR principles (Findable, Accessible, Interoperable, and Reusable) is essential for ensuring transparency, reproducibility, and effective scientific collaboration [@Wilkinson2016]. Reproducibility, the ability to repeat an analysis, and replicability, the ability to repeat an experiment under similar conditions [@Stevens2017], are foundational to trustworthy and collaborative science [@Powers2019; @Munafo2017]. These practices enable researchers to revisit analyses after extended periods and allow peers to verify results or generate new insights from existing data. In this context, we present a structured and reusable repository template specifically designed to support FAIR data workflows and promote both reproducibility and replicability across research projects.
+  The triadic comparison of technologies (tricot) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. ‘Triadic’ refers to the sets of three technology options that are compared by each participant. In the approach, participants are invited to test a anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. [...] Between 2011 and 2023 the tricot approach was applied in XX countries in Central America, Sub-Saharan Africa and Asia with YY crops. 
 keywords: 
  - data management
- - metadata
- - FAIR principles
  - reproducibility
  - open science
-journal: "CGSpace"
+journal: "Scientific Data"
 date: "`r Sys.Date()`"
 linenumbers: false
 numbersections: false
@@ -40,62 +38,81 @@ output:
     keep_tex: false
 ---
 
-# Suggested citation
+# Background & Summary
 
-> de Sousa, K.; Laporte, M.-A. (2025) A FAIR and project-oriented template for open science data workflows. <https://hdl.handle.net/10568/174310>.
+700 words maximum
+The Background & Summary should provide an overview of the study design, the assay(s) performed, and the data generated, including any background information needed to put this study in the context of previous work and the literature, and should reference literature as needed. The section should also briefly outline the broader goals that motivated collection of the data, as well as their potential reuse value. We also encourage authors to include a figure that provides a schematic overview of the study and assay(s) design. 
 
-\pagebreak
 
-# Statement of need
+# Methods
 
-Data-driven research faces several challenges, including inadequate data documentation, inconsistent structure, and poor reproducibility [@Wilkinson2016; @Munafo2017]. Researchers often struggle with these aspects, lacking practical examples or accessible tools. To address these issues, we created a project-oriented, easy-to-use data template. It streamlines metadata management, facilitates reproducibility, and ensures alignment with FAIR principles.
+The Methods should include detailed text describing any steps or procedures used in producing the data, including full descriptions of the experimental design, data acquisition assays, and any computational processing (e.g. normalization, image feature extraction). See the detailed section in our submission guidelines for advice on writing a transparent and reproducible methods section. Related methods should be grouped under corresponding subheadings where possible, and methods should be described in enough detail to allow other researchers to interpret and repeat, if required, the full study. Specific data outputs should be explicitly referenced via data citation (see Data Records and Citing Data, below).
+Authors should cite previous descriptions of the methods under use, but ideally the method descriptions should be complete enough for others to understand and reproduce the methods and processing steps without referring to associated publications. There is no limit to the length of the Methods section.
 
-# Repository structure
+# Data Records
 
-The template repository includes clear, intuitive folder structures and essential resources.
+The Data Records section should be used to explain each data record associated with this work, including the repository where this information is stored, and to provide an overview of the data files and their formats. Each external data record should be cited as described below. A data citation should also be placed in the subsection of the Methods containing the data-collection or analytical procedure(s) used to derive the corresponding record.
 
-```text
-template-repo-data-analysis/
-|-- data/                                       # Anonimized raw and cleaned datasets
-|-- docs/                                       # Reports or additional documentation
-|-- metadata/                                   # Metadata files and templates
-|    |-- project-metadata.xlsx                  # Project metadata
-|    |-- project-metadata.json                  # Project metadata for DataCite
-|    |-- example-metadata-data-mip-uganda.csv   # Description of the dataset (example)
-|    |-- README.md    
-|-- output/                                     # Model results, figures, tables
-|-- script/                                     # Data analysis scripts
-|-- .gitignore                                  # List of files to exclude from Git
-|-- LICENSE                                     # License stablishing the rights to use
-|-- CITATION.cff                                # Used by Zenodo to generate citation
-|-- template-repo-data-analysis.Rproj           # RStudio file to set up the environment 
-|-- README.md                                   # Project overview
-```
+Tables should be used to support the data records, and should clearly indicate the samples and subjects (study inputs), their provenance, and the experimental manipulations performed on each. They should also specify the data output resulting from each data-collection or analytical step, should these form part of the archived record.
 
-# Key features
+# Technical Validation
 
--   FAIR-aligned metadata: Comprehensive metadata files (.xlsx, .json) aligned with Zenodo (<https://zenodo.org>) and DataCite [@RobinsonGarcia2017] schemas.
--   Automated workflows: R scripts [@CRAN] to validate and convert metadata, ensuring consistent quality.
--   Citation integration: A CITATION.cff file for automatic citation generation.
--   Reproducibility: Scripts and clear instructions ensure any researcher can reproduce results.
--   Open and collaborative: Open licensing (CC BY 4.0, <https://creativecommons.org>) promotes collaboration, reuse, and attribution.
+The Technical Validation section should present any experiments or analyses that are needed to support the technical quality of the dataset. This section may be supported by figures and tables, as needed. This is a required section; authors must provide information to justify the reliability of their data. 
+Possible content may include:
+-	experiments that support or validate the data-collection procedure(s) (e.g. negative controls, or an analysis of standards to confirm measurement linearity)
+-	statistical analyses of experimental error and variation
+-	phenotypic or genotypic assessments of biological samples (e.g. confirming disease status, cell line identity, or the success of perturbations)
+-	general discussions of any procedures used to ensure reliable and unbiased data production, such as blinding and randomization, sample tracking systems, etc. 
+-	any other information needed for assessment of technical rigour by the referees
+Generally, this should not include:
+-	follow-up experiments aimed at testing or supporting an interpretation of the data
+-	statistical hypothesis testing (e.g. tests of statistical significance, identifying differentially expressed genes, trend analysis, etc.)
+-	exploratory computational analyses like clustering and annotation enrichment (e.g. GO analysis). 
 
-# Implementation and usage
 
-Researchers can easily adopt this repository by:
+# Usage Notes
 
-1.  Cloning the repository from GitHub (<https://github.com/AgrDataSci/template-repo-data-analysis>).
-2.  Adding their data and performing their analysis.
-3.  Filling in the provided project-metadata.xlsx template.
-4.  Running provided R scripts for validation and metadata generation.
-5.  Publishing via integrated platforms like Zenodo for long-term archiving and DOI assignment.
+This section is optional
+The Usage Notes should contain brief instructions to assist other researchers with reuse of the data. This may include discussion of software packages that are suitable for analysing the assay data files, suggested downstream processing steps (e.g. normalization, etc.), or tips for integrating or comparing the data records with other datasets. Authors are encouraged to provide code, programs or data-processing workflows if they may help others understand or use the data. Please see our code availability policy for advice on supplying custom code alongside Data Descriptor manuscripts.
+For studies involving privacy or safety controls on public access to the data, this section should describe in detail these controls, including how authors can apply to access the data, what criteria will be used to determine who may access the data, and any limitations on data use. 
+Code Availability
+For all studies using custom code in the generation or processing of datasets, a statement must be included under the subheading "Code availability", indicating whether and how the code can be accessed, including any restrictions to access. This section should also include information on the versions of any software used, if relevant, and any specific variables or parameters used to generate, test, or process the current dataset. 
 
-# Conclusion
+# Acknowledgements
 
-Adopting structured, FAIR-aligned workflows can significantly enhance reproducibility, collaboration, and transparency in research. This template provides a practical starting point, promoting best practices from the outset of research projects.
+The Acknowledgements should contain text acknowledging non-author contributors. Acknowledgements should be brief, and should not include thanks to anonymous referees and editors or effusive comments. Grant or contribution numbers may be acknowledged.
 
-# Acknowledgments
+# Author contributions
 
-This work has been supported by the projects 1000FARMS (INV-031561) funded by the Gates Foundation, and BOLD Work Package 7 (Crop Trust Ref: CONT-1522) funded by the Norwegian Agency for Development Cooperation (Norad) through The Global Crop Diversity Trust.
+Each author’s contribution to the work should be described briefly, on a separate line, in the Author Contributions section. 
+
+# Competing interests
+
+A competing interests statement is required for all papers accepted by and published in Scientific Data. If there is no conflict of interest, a statement declaring this must still be included in the manuscript.
+
+# Figures
+
+Figure images should be provided as separate files and should be referred to using a consistent numbering scheme through the entire Data Descriptor. In most cases, a Data Descriptor should not contain more than three figures, but more may be allowed when needed. We discourage the inclusion of figures in the Supplementary Information – all key figures should be included here in the main Figure section.
+
+For initial submissions, authors may choose to supply a single PDF with embedded figures.
+
+Authors are encouraged to consider creating a figure that outlines the experimental workflow(s) used to generate and analyse the data output(s).
+
+# Figure Legends
+
+Figure legends begin with a brief title sentence summarizing the purpose of the figure as a whole, and continue with a short description of what is shown in each panel and an explanation of any symbols used. Legends must total no more than 350 words, and may contain literature references. The first sentence of the legend will be used as the title for the figure. It should contain no references of any kind, including to specific figure panels, bibliographic citations or references to other figures or panels.
+
+# Tables
+
+Authors are encouraged to provide one or more tables that provide basic information on the main ‘inputs’ to the study (e.g. samples, participants, or information sources) and the main data outputs of the study; also see the additional information on providing metadata on page 6. Tables in the manuscript should generally not be used to present primary data (i.e. measurements). Tables containing primary data should be submitted to an appropriate data repository.
+
+Authors may provide tables within the Word document or as separate files (tab-delimited text or Excel files). Legends, where needed, should be included in the Word document. Generally, a Data Descriptor should have fewer than ten tables, but more may be allowed when needed. Tables may be of any size, but only tables that fit onto a single printed page will be included in the PDF version of the article (up to a maximum of three).
+
+Due to typesetting constraints, tables that do not fit onto a single A4 page cannot be included in the PDF version of the article and will be made available in the online version only. Any such tables must be labelled in the text as ‘Online-only’ tables and numbered separately from the main table list e.g. ‘Table 1, Table 2, Online-only Table 1’ etc.
 
 # References
+
+
+
+
+
