@@ -62,9 +62,9 @@ cmdata = cmdata[keep]
 
 cmdata
 
-k = 1
+k = 5
 
-for(k in seq_along(cmdata)) {
+for(k in 1:3) {
   
   x = cmdata[[k]]
   
