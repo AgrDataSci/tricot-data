@@ -39,5 +39,5 @@ ggsave("docs/trial-locations.png",
        width = 36,
        height = 18,
        units = "cm",
-       dpi = 500)
+       dpi = 200)
 
