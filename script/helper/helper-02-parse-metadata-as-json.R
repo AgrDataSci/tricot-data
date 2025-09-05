@@ -12,6 +12,10 @@ funders = read_excel(file, sheet = "funders")
 communities = read_excel(file, sheet = "communities")
 dates = read_excel(file, sheet = "dates")
 
+keep = grep("1", authors$checked_dataset)
+
+authors = authors[keep, ]
+
 # Check required fields in metadata
 required_fields = c("title", "version", "publication_date", "publisher", "description", "language", "resource_type", "license")
 missing_fields = setdiff(required_fields, metadata$key)

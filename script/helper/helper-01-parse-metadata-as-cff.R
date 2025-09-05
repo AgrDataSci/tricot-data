@@ -6,6 +6,10 @@ file = "metadata/project-metadata.xlsx"
 metadata = read_excel(file, sheet = "metadata")
 authors = read_excel(file, sheet = "authors")
 
+keep = grep("1", authors$checked_dataset)
+
+authors = authors[keep, ]
+
 # Convert metadata to named list
 meta_list = setNames(as.list(metadata$value), metadata$key)
 
