@@ -1,5 +1,3 @@
-#load("/Users/kauedesousa/Library/Mobile Documents/com~apple~CloudDocs/Work/Rcode/tricot-data-v1/processing/trial-data.rda")
-load('/Users/kauedesousa/Library/Mobile Documents/com~apple~CloudDocs/Work/Rcode/tricot-data-v1/tests/test-data.rda')
 library("ClimMobTools")
 library("sf")
 library("readxl")
@@ -7,9 +5,30 @@ library("jsonlite")
 library("PlackettLuce")
 library("gosset")
 
-geno = read_excel('/Users/kauedesousa/Library/Mobile Documents/com~apple~CloudDocs/Work/Rcode/tricot-data-v1/data/variety-metadata/avisa-crops-metadata/Ousmane Boukar_data.xlsx')
+load('raw/trial-data.rda')
 
-cmdata
+geno = read_excel('raw/variety-metadata/avisa-crops-metadata/worldveg.xlsx')
+
+# filter the worlveg projects
+keep = grep("@worldveg.org", projects$email)
+
+projects = projects[keep, ]
+
+cmdata = cmdata[keep]
+
+# x = do.call("rbind", lapply(cmdata, function(x){do.call("rbind", x$combination$elements)}))
+# x$technology_name[x$technology_name == "Amaranths"] = "Amaranth"
+# x$id = paste0(x$technology_name, x$alias_name)
+# x = x[!duplicated(x$id), ]
+
+# remove eggplant piment and tomate
+projects$project_name
+
+keep = !grepl("piment|tomate|eggplant", projects$project_name)
+
+projects = projects[keep, ]
+
+cmdata = cmdata[keep]
 
 for(k in seq_along(cmdata)) {
   
@@ -62,9 +81,9 @@ for(k in seq_along(cmdata)) {
   
   meta$variables = variables
   
-  meta$data_producer_institute = "IITA"
+  meta$data_producer_institute = "World Vegetable Center"
   
-  meta$program = "Africa Dryland Crops Improvement Network (ADCIN)"
+  meta$program = "World Vegetable Center"
   
   meta$taxon = "Vigna unguiculata"
   
