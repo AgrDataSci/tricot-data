@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/license%20-%20CC%20BY%20SA%204.0%20-%20%233182bd)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) 
 <!-- badges: end --> 
 
-## Global multi-crop agricultural trial data supported by citizen science
+# Global multi-crop agricultural trial data supported by citizen science
 
 The triadic comparison of technologies (tricot) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. ‘Triadic’ refers to the sets of three technology options that are compared by each participant. In the approach, participants are invited to test a anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. […] Between 2011 and 2025 the tricot approach was applied in XX countries in Central America, Sub-Saharan Africa and Asia with YY crops.
 
