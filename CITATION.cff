@@ -24,7 +24,7 @@ authors:
     given-names: Mathieu
     affiliation: "World Vegetable Center"
   - family-names: Boukar
-    given-names: Osmane
+    given-names: Ousmane
     affiliation: "International Institute of Tropical Agriculture"
   - family-names: Coulibaly
     given-names: Harouna
@@ -42,6 +42,7 @@ authors:
     affiliation: "Institut d'Economie Rurale"
   - family-names: Gandhi
     given-names: Harish
+    orcid: https://orcid.org/0000-0002-1304-8877
     affiliation: "International Maize and Wheat Improvement Center"
   - family-names: Houdegbe
     given-names: Aristide Carlos
@@ -68,6 +69,7 @@ authors:
     affiliation: "Tanzania Agricultural Research Institute"
   - family-names: Manners
     given-names: Rhys
+    orcid: https://orcid.org/0000-0003-0213-5462
     affiliation: "International Institute of Tropical Agriculture"
   - family-names: Matumbo
     given-names: Zamira
@@ -88,9 +90,11 @@ authors:
     affiliation: "International Maize and Wheat Improvement Center; International Center for Biosaline Agriculture"
   - family-names: Ojiewo
     given-names: Christopher Ochieng
+    orcid: https://orcid.org/0000-0002-2885-9381
     affiliation: "International Maize and Wheat Improvement Center"
   - family-names: Ongom
     given-names: Patrick Obia
+    orcid: https://orcid.org/0000-0002-5303-3602
     affiliation: "International Institute of Tropical Agriculture"
   - family-names: Ouedraogo
     given-names: Colette Ouidyam
@@ -105,6 +109,7 @@ authors:
     affiliation: "Institut d'Economie Rurale"
   - family-names: Solberg
     given-names: Svein Øivind
+    orcid: https://orcid.org/0000-0002-4491-4483
     affiliation: "University of Inland Norway"
   - family-names: van Heerwaarden
     given-names: Joost
@@ -116,6 +121,7 @@ authors:
     affiliation: "World Vegetable Center"
   - family-names: van Etten
     given-names: Jacob
+    orcid: https://orcid.org/0000-0001-7554-2558
     affiliation: "Bioversity International"
 repository-code: https://github.com/AgrDataSci/tricot-data
 license: CC-BY-4.0
