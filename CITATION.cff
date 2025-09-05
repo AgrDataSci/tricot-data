@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this dataset or software, please cite it as below."
-title: "A FAIR and project-oriented template for open science data workflows"
+title: "The triadic comparison of technology options data from XX on-farm experimental trials in YY countries"
 version: "v1.2"
-date-released: 2025-06-09
+date-released: 2025-09-06
 authors:
   - family-names: de Sousa
     given-names: Kauê
@@ -12,10 +12,56 @@ authors:
     given-names: Marie-Angélique
     orcid: https://orcid.org/0000-0002-8461-9745
     affiliation: "Bioversity International"
-repository-code: https://github.com/AgrDataSci/template-repo-data-analysis
+  - family-names: Cremaschi
+    given-names: Almendra
+    orcid: https://orcid.org/0000-0001-8932-5626
+    affiliation: "Bioversity International"
+  - family-names: Aglinglo
+    given-names: Lys Amavi
+    affiliation: "World Vegetable Center"
+  - family-names: Ayenan
+    given-names: Mathieu
+    affiliation: "World Vegetable Center"
+  - family-names: Boukar
+    given-names: Osmane
+    affiliation: "International Institute of Tropical Agriculture"
+  - family-names: Gandhi
+    given-names: Harish
+    affiliation: "International Maize and Wheat Improvement Center"
+  - family-names: Madriz
+    given-names: Brandon
+    affiliation: "MrBot"
+  - family-names: Manners
+    given-names: Rhys
+    affiliation: "International Institute of Tropical Agriculture"
+  - family-names: N'danikou
+    given-names: Sognigbé
+    affiliation: "World Vegetable Center"
+  - family-names: Nabateregga
+    given-names: Mabel
+    affiliation: "University of Inland Norway"
+  - family-names: Nadigatla
+    given-names: Ganga Rao V. P. R.
+    affiliation: "International Maize and Wheat Improvement Center; International Center for Biosaline Agriculture"
+  - family-names: Ojiewo
+    given-names: Christopher Ochieng
+    affiliation: "International Maize and Wheat Improvement Center"
+  - family-names: Ongom
+    given-names: Patrick Obia
+    affiliation: "International Institute of Tropical Agriculture"
+  - family-names: Solberg
+    given-names: Svein Øivind
+    affiliation: "University of Inland Norway"
+  - family-names: van Zonneveld
+    given-names: Maarten
+    affiliation: "World Vegetable Center"
+  - family-names: van Etten
+    given-names: Jacob
+    affiliation: "Bioversity International"
+repository-code: https://github.com/AgrDataSci/tricot-data
 license: CC-BY-4.0
 keywords:
-  - data-driven research
-  - FAIR principles
-  - data management
-  - open science
+  - citizen science
+  - participatory variety testing
+  - FAIR data
+  - digital innovation

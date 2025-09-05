@@ -1,7 +1,7 @@
 {
   "titles": [
     {
-      "title": "A FAIR and project-oriented template for open science data workflows"
+      "title": "The triadic comparison of technology options data from XX on-farm experimental trials in YY countries"
     }
   ],
   "publisher": "Zenodo",
@@ -12,7 +12,7 @@
   },
   "descriptions": [
     {
-      "description": "This is a generic template to allow scientists in using a well structured data workflow following the project-oriented approach and findable accessible interoperable and reusable (FAIR) principles for data and code publication in science. The project contains a example of data from the CIMMYT market intelligence research (Donovan et al 2025, https://doi.org/10.1017/S001447972500002X) with data description and an example of R script for analysis and documentation. Feel free to delete the example files once the project is adapted for your needs.",
+      "description": "The triadic comparison of technologies (tricot) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. ‘Triadic’ refers to the sets of three technology options that are compared by each participant. In the approach, participants are invited to test a anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. […] Between 2011 and 2025 the tricot approach was applied in XX countries in Central America, Sub-Saharan Africa and Asia with YY crops.",
       "descriptionType": "Abstract"
     }
   ],
@@ -28,16 +28,16 @@
   ],
   "subjects": [
     {
-      "subject": "data-driven research"
+      "subject": "citizen science"
     },
     {
-      "subject": "FAIR principles"
+      "subject": "participatory variety testing"
     },
     {
-      "subject": "data management"
+      "subject": "FAIR data"
     },
     {
-      "subject": "open science"
+      "subject": "digital innovation"
     }
   ],
   "creators": [
@@ -73,6 +73,247 @@
           "schemeUri": "https://orcid.org"
         }
       ]
+    },
+    {
+      "name": "Cremaschi, Almendra",
+      "nameType": "Personal",
+      "givenName": "Almendra",
+      "familyName": "Cremaschi",
+      "affiliation": [
+        "Bioversity International"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/0000-0001-8932-5626",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Aglinglo, Lys Amavi",
+      "nameType": "Personal",
+      "givenName": "Lys Amavi",
+      "familyName": "Aglinglo",
+      "affiliation": [
+        "World Vegetable Center"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Ayenan, Mathieu",
+      "nameType": "Personal",
+      "givenName": "Mathieu",
+      "familyName": "Ayenan",
+      "affiliation": [
+        "World Vegetable Center"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Boukar, Osmane",
+      "nameType": "Personal",
+      "givenName": "Osmane",
+      "familyName": "Boukar",
+      "affiliation": [
+        "International Institute of Tropical Agriculture"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Gandhi, Harish",
+      "nameType": "Personal",
+      "givenName": "Harish",
+      "familyName": "Gandhi",
+      "affiliation": [
+        "International Maize and Wheat Improvement Center"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Madriz, Brandon",
+      "nameType": "Personal",
+      "givenName": "Brandon",
+      "familyName": "Madriz",
+      "affiliation": [
+        "MrBot"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Manners, Rhys",
+      "nameType": "Personal",
+      "givenName": "Rhys",
+      "familyName": "Manners",
+      "affiliation": [
+        "International Institute of Tropical Agriculture"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "N'danikou, Sognigbé",
+      "nameType": "Personal",
+      "givenName": "Sognigbé",
+      "familyName": "N'danikou",
+      "affiliation": [
+        "World Vegetable Center"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Nabateregga, Mabel",
+      "nameType": "Personal",
+      "givenName": "Mabel",
+      "familyName": "Nabateregga",
+      "affiliation": [
+        "University of Inland Norway"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Nadigatla, Ganga Rao V. P. R.",
+      "nameType": "Personal",
+      "givenName": "Ganga Rao V. P. R.",
+      "familyName": "Nadigatla",
+      "affiliation": [
+        "International Maize and Wheat Improvement Center",
+        "International Center for Biosaline Agriculture"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Ojiewo, Christopher Ochieng",
+      "nameType": "Personal",
+      "givenName": "Christopher Ochieng",
+      "familyName": "Ojiewo",
+      "affiliation": [
+        "International Maize and Wheat Improvement Center"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Ongom, Patrick Obia",
+      "nameType": "Personal",
+      "givenName": "Patrick Obia",
+      "familyName": "Ongom",
+      "affiliation": [
+        "International Institute of Tropical Agriculture"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "Solberg, Svein Øivind",
+      "nameType": "Personal",
+      "givenName": "Svein Øivind",
+      "familyName": "Solberg",
+      "affiliation": [
+        "University of Inland Norway"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "van Zonneveld, Maarten",
+      "nameType": "Personal",
+      "givenName": "Maarten",
+      "familyName": "van Zonneveld",
+      "affiliation": [
+        "World Vegetable Center"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
+    },
+    {
+      "name": "van Etten, Jacob",
+      "nameType": "Personal",
+      "givenName": "Jacob",
+      "familyName": "van Etten",
+      "affiliation": [
+        "Bioversity International"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://orcid.org/NA",
+          "nameIdentifierScheme": "ORCID",
+          "schemeUri": "https://orcid.org"
+        }
+      ]
     }
   ],
   "dates": [
@@ -97,6 +338,12 @@
       "funderIdentifier": "https://ror.org/0456r8d26",
       "awardTitle": "1000FARMS",
       "awardNumber": "INV-031561"
+    },
+    {
+      "funderName": "Gates Foundation",
+      "funderIdentifier": "https://ror.org/0456r8d26",
+      "awardTitle": "AVISA",
+      "awardNumber": "INV-009649"
     }
   ]
 }
