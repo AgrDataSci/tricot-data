@@ -13,7 +13,7 @@ The triadic comparison of technologies (tricot) is a citizen science approach fo
 The map below shows the crops and trial sites that are currently available for public use. Each point represents a trial location, and the legend indicates the crop(s) associated with those sites. This visualization helps to quickly identify the regions and crops that are currently represented in the dataset.  The dataset is shared under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en), which allows others to use, share, and adapt the material, provided appropriate credit is given and any derivative works are distributed under the same license.
 
 
-![Trial map](trial-locations.png)
+![Trial map](docs/trial-locations.png)
 
 ## Data structure
 
