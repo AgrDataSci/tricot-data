@@ -1,13 +1,30 @@
+# This script will handle the WorldVeg data #####
+# first run: 5 of September 2025
+# updated: 5 of September 2025
+# K de Sousa
 library("ClimMobTools")
 library("sf")
 library("readxl")
 library("jsonlite")
 library("PlackettLuce")
 library("gosset")
+library("tidyverse")
 
 load('raw/trial-data.rda')
 
-geno = read_excel('raw/variety-metadata/avisa-crops-metadata/worldveg.xlsx')
+xy = read.csv("docs/trial-xy.csv") 
+
+# read file with genotype metadata
+geno = read_excel('raw/variety-metadata/worldveg.xlsx')
+geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
+
+license = "CC BY-SA 4.0"
+
+doi = "Pending"
+
+objective = paste("Strengthen seed systems of African vegetables and scale variety adoption so",
+                  "that farmers and urban consumers benefit from increased production and",
+                  "consumption of African vegetables, which are nutritious but currently underutilized.")
 
 # filter the worlveg projects
 keep = grep("@worldveg.org", projects$email)
@@ -30,6 +47,10 @@ projects = projects[keep, ]
 
 cmdata = cmdata[keep]
 
+cmdata
+
+k = 1
+
 for(k in seq_along(cmdata)) {
   
   x = cmdata[[k]]
@@ -38,9 +59,24 @@ for(k in seq_along(cmdata)) {
   
   rank = exportTricotRanks(x)
   
+  # remove ties 
+  # keep only block x traits with >1 distinct value
+  rank = 
+    rank %>%
+    group_by(block_id, collection_moment, trait) %>%
+    filter(n_distinct(value) > 1) %>%   
+    ungroup()
+  
   measu = exportMeasuredTraits(x)
   
-  plot = rbind(rank, measu)
+  # keep only block x traits with at least one entry (no NA)
+  measu = 
+    measu %>%
+    group_by(block_id, collection_moment, trait) %>%
+    filter(!all(is.na(value))) %>%   
+    ungroup()
+  
+  plot = as.data.frame(rbind(rank, measu))
   
   rownames(plot) = 1:nrow(plot)
   
@@ -48,9 +84,15 @@ for(k in seq_along(cmdata)) {
   
   variables = exportVariablesDescription(x, rank, measu, block)
   
+  # check the crop name
+  meta$crop_name = ifelse(meta$crop_name == "Amaranths", "Amaranth", meta$crop_name)
+  
+  meta$crop_name = tolower(meta$crop_name)
+  
   # clean variety names
   for(i in seq_along(geno$genotype_name)) {
-    plot$genotype_name = ifelse(geno$genotype_name[i] == plot$genotype_name, 
+    plot$genotype_name = ifelse(geno$genotype_name[i] == plot$genotype_name &
+                                  geno$crop_name[i] == meta$crop_name, 
                                 geno$final_genotype_name[i],
                                 plot$genotype_name)
   }
@@ -83,14 +125,23 @@ for(k in seq_along(cmdata)) {
   
   meta$data_producer_institute = "World Vegetable Center"
   
+  meta$license = license
+  
+  meta$doi = doi
+  
   meta$program = "World Vegetable Center"
   
-  meta$taxon = "Vigna unguiculata"
+  meta$taxon = ifelse(meta$crop_name == "amaranth", "Amaranthus spp.",
+                      ifelse(meta$crop_name == "okra", "Abelmoschus esculentus",
+                             ifelse(meta$crop_name == "jute mallow", "Corchorus spp."), 
+                             "Not provided"))
   
-  meta$crop_name = "cowpea"
+  meta$trial_objective = objective
   
   # PlackettLuce analysis
   rank$traitmoment = paste(rank$collection_moment, rank$trait, sep = " - ")
+  
+  rank$block_id = as.factor(rank$block_id)
   
   traits = unique(rank$traitmoment)
   
@@ -112,8 +163,6 @@ for(k in seq_along(cmdata)) {
     ties[ties == 0] = NA
     
     ties = apply(ties, 1, function(x) any(duplicated(na.omit(x))))
-    
-    print(sum(ties))
     
     R[[i]] = R[[i]][!ties, ]
     
@@ -154,11 +203,24 @@ for(k in seq_along(cmdata)) {
                    sep = "-")
   
   write_json(data_export,
-             path = paste0("/Users/kauedesousa/Library/Mobile Documents/com~apple~CloudDocs/Work/Rcode/tricot-data-v1/tests/",
-                           filename, 
-                           ".json"),
+             path = paste0("data/", filename, ".json"),
              pretty = TRUE,
              auto_unbox = TRUE)
   
+
+  # add coordinates to file to write the main map
+  coords = data.frame(block_id = block$block_id,
+                      crop_name = meta$crop_name,
+                      longitude = block$longitude,
+                      latitude = block$latitude)
+  
+
+  xy = rbind(xy, coords)  
+  
 }
+
+
+write.csv(xy, "docs/trial-xy.csv")
+
+
 
