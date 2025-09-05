@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset or software, please cite it as below."
-title: "The triadic comparison of technology options data from XX on-farm experimental trials in YY countries"
+title: "Global multi-crop agricultural trial data supported by citizen science"
 version: "v1"
 date-released: 2025-09-06
 authors:
@@ -126,7 +126,7 @@ authors:
 repository-code: https://github.com/AgrDataSci/tricot-data
 license: CC-BY-4.0
 keywords:
-  - citizen science
   - participatory variety testing
-  - FAIR data
   - digital innovation
+  - tricot approach
+  - FAIR data
