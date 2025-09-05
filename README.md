@@ -8,6 +8,12 @@ The triadic comparison of technologies (tricot) is a citizen science approach fo
 
 ---
 
+<p align="center">
+  <img src="docs/trial-locations.png" alt="Trial map" width="600"/>
+</p>
+
+
+
 ## Data structure
 
 ``` text
@@ -23,6 +29,10 @@ The triadic comparison of technologies (tricot) is a citizen science approach fo
 │   │   ├── license
 │   │   ├── trial id
 │   │   ├── trial name
+│   │   ├── trial type
+│   │   ├── trial experimental site
+│   │   ├── trial unit of analysis 
+│   │   ├── trial objective
 │   │   ├── trial description
 │   │   ├── trial country (ISO2)
 │   │   ├── date
@@ -39,7 +49,6 @@ The triadic comparison of technologies (tricot) is a citizen science approach fo
 │   │   ├── program (ADCIN, RTB, BOLDER)
 │   │   ├── crop name
 │   │   ├── taxon
-│   │   ├── trial objective
 │   │   ├── N participants
 │   │   ├── N men
 │   │   ├── N women

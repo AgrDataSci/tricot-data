@@ -22,9 +22,22 @@ license = "CC BY-SA 4.0"
 
 doi = "Pending"
 
-objective = paste("Strengthen seed systems of African vegetables and scale variety adoption so",
+experimental_site = "farm"
+
+trial_type = "on-farm"
+
+trial_objective = "variety introduction"
+
+unit_of_analysis = "genotype"
+
+trial_description = paste("Strengthen seed systems of African vegetables and scale variety adoption so",
                   "that farmers and urban consumers benefit from increased production and",
                   "consumption of African vegetables, which are nutritious but currently underutilized.")
+
+
+institute = "World Vegetable Center"
+
+program = "Traditional African Vegetables"
 
 # filter the worlveg projects
 keep = grep("@worldveg.org", projects$email)
@@ -58,6 +71,8 @@ for(k in seq_along(cmdata)) {
   meta = exportTrialMetadata(x)
   
   rank = exportTricotRanks(x)
+  
+  rank = rank[rank$trait != "yieldqualitative", ]
   
   # remove ties 
   # keep only block x traits with >1 distinct value
@@ -123,20 +138,28 @@ for(k in seq_along(cmdata)) {
   
   meta$variables = variables
   
-  meta$data_producer_institute = "World Vegetable Center"
+  meta$data_producer_institute = institute
   
   meta$license = license
   
   meta$doi = doi
   
-  meta$program = "World Vegetable Center"
+  meta$program = program
+  
+  meta$trial_experimental_site = experimental_site
+  
+  meta$trial_type = trial_type
+  
+  meta$trial_objective = trial_objective
+  
+  meta$trial_unit_of_analysis = unit_of_analysis
   
   meta$taxon = ifelse(meta$crop_name == "amaranth", "Amaranthus spp.",
                       ifelse(meta$crop_name == "okra", "Abelmoschus esculentus",
                              ifelse(meta$crop_name == "jute mallow", "Corchorus spp."), 
                              "Not provided"))
   
-  meta$trial_objective = objective
+  meta$trial_description = trial_description
   
   # PlackettLuce analysis
   rank$traitmoment = paste(rank$collection_moment, rank$trait, sep = " - ")
@@ -220,7 +243,7 @@ for(k in seq_along(cmdata)) {
 }
 
 
-write.csv(xy, "docs/trial-xy.csv")
+write.csv(xy, "docs/trial-xy.csv", row.names = FALSE)
 
 
 

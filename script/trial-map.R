@@ -1,6 +1,9 @@
 library("geodata")
 library("sf")
 
+xy = read.csv("docs/trial-xy.csv")
+
+xy = xy[!duplicated(xy$block_id),]
 
 adm = world(path = "docs")
 
@@ -12,7 +15,8 @@ coord = xy[c("longitude", "latitude","crop_name")]
 
 coord = na.omit(coord)
 
-ggplot() +
+trialmap =
+  ggplot() +
   geom_sf(adm$geometry, mapping = aes(), 
           colour = "#4d4d4d", 
           fill = "#f7fbff") +
@@ -21,12 +25,19 @@ ggplot() +
                                 colour = crop_name)) +
   theme_void() +
   scale_color_brewer(palette = "Set1") +
-  theme(legend.position = "bottom",
-        legend.direction = "horizontal",
+  theme(legend.position = c(0.05, 0.65),
         legend.text = element_text(size = 12),
-        panel.background = element_blank(),
+        legend.background = element_rect(fill = "white", color = "white"),
+        panel.background = element_rect(fill = "white"),
         plot.margin = unit(c(1,1,1,1), "mm"),
         legend.title = element_blank()) 
 
-write.csv()
+trialmap
+
+ggsave("docs/trial-locations.png",
+       plot = trialmap,
+       width = 36,
+       height = 18,
+       units = "cm",
+       dpi = 500)
 
