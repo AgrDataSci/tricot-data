@@ -79,8 +79,8 @@ datacite = list(
   language = get_meta("language"),
   rightsList = list(list(
     rights = "Creative Commons Attribution 4.0 International",
-    rightsUri = "https://creativecommons.org/licenses/by/4.0/",
-    rightsIdentifier = "cc-by-4.0",
+    rightsUri = "https://creativecommons.org/licenses/by-sa/4.0/",
+    rightsIdentifier = "cc-by-sa-4.0",
     rightsIdentifierScheme = "SPDX"
   )),
   subjects = lapply(strsplit(get_meta("subjects"), ";\\s*")[[1]], function(s) list(subject = s)),
