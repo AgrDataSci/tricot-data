@@ -15,7 +15,7 @@ load('raw/trial-data.rda')
 
 xy = read.csv("docs/trial-xy.csv") 
 
-available = read.csv("data/available-datasets.csv")
+available = read.csv("data/aa-available-datasets.csv")
 
 # read file with genotype metadata
 geno = read_excel('raw/variety-metadata/worldveg.xlsx')
@@ -293,7 +293,7 @@ write.csv(xy, file = "docs/trial-xy.csv", row.names = FALSE)
 # remove duplicated entries
 available = available[!duplicated(available$trial_id), ]
 
-write.csv(available, file = "data/available-datasets.csv", row.names = FALSE)
+write.csv(available, file = "data/aa-available-datasets.csv", row.names = FALSE)
 
 
 
