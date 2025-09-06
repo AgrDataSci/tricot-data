@@ -122,7 +122,7 @@ keep = !duplicated(questions$name)
 questions = questions[keep, ]
 
 # save it 
-dir.create("processing", showWarnings = FALSE)
+dir.create("raw", showWarnings = FALSE)
 
 # write.csv(dat, "processing/climmob-projects-registration-dates.csv", row.names = FALSE)
 
@@ -138,6 +138,6 @@ dir.create("processing", showWarnings = FALSE)
 #   
 # })
 
-save(projects, questions, cmdata, file = "processing/trial-data.rda")
+save(projects, cmdata, file = "raw/trial-data.rda")
 
 
