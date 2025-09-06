@@ -1,6 +1,7 @@
+# .............................................
 # This script will handle the WorldVeg data #####
-# first run: 5 of September 2025
-# updated: 5 of September 2025
+# first run: July 2025
+# updated: September 2025
 # K de Sousa
 library("ClimMobTools")
 library("sf")
