@@ -14,6 +14,8 @@ load('raw/trial-data.rda')
 
 xy = read.csv("docs/trial-xy.csv") 
 
+available = read.csv("data/available-datasets.csv")
+
 # read file with genotype metadata
 geno = read_excel('raw/variety-metadata/worldveg.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
@@ -62,82 +64,13 @@ cmdata = cmdata[keep]
 
 cmdata
 
-k = 5
-
-for(k in 1:3) {
+for(k in 2:3) {
   
   x = cmdata[[k]]
   
   meta = exportTrialMetadata(x)
   
-  rank = exportTricotRanks(x)
-  
-  rank = rank[rank$trait != "yieldqualitative", ]
-  
-  # remove ties 
-  # keep only block x traits with >1 distinct value
-  rank = 
-    rank %>%
-    group_by(block_id, collection_moment, trait) %>%
-    filter(n_distinct(value) > 1) %>%   
-    ungroup()
-  
-  measu = exportMeasuredTraits(x)
-  
-  # keep only block x traits with at least one entry (no NA)
-  measu = 
-    measu %>%
-    group_by(block_id, collection_moment, trait) %>%
-    filter(!all(is.na(value))) %>%   
-    ungroup()
-  
-  plot = as.data.frame(rbind(rank, measu))
-  
-  rownames(plot) = 1:nrow(plot)
-  
-  block = exportBlockData(x)
-  
-  variables = exportVariablesDescription(x, rank, measu, block)
-  
-  # check the crop name
-  meta$crop_name = ifelse(meta$crop_name == "Amaranths", "Amaranth", meta$crop_name)
-  
-  meta$crop_name = tolower(meta$crop_name)
-  
-  # clean variety names
-  for(i in seq_along(geno$genotype_name)) {
-    plot$genotype_name = ifelse(geno$genotype_name[i] == plot$genotype_name &
-                                  geno$crop_name[i] == meta$crop_name, 
-                                geno$final_genotype_name[i],
-                                plot$genotype_name)
-  }
-  
-  
-  genotypes = data.frame(genotype_name = unique(plot$genotype_name),
-                         role_in_trial = NA,
-                         year_release = NA,
-                         market_segment = NA,
-                         country_origin = NA, 
-                         remarks = NA)
-  
-  geno = geno[!duplicated(geno$final_genotype_name), ]
-  
-  for(i in seq_along(genotypes$genotype_name)) {
-    
-    index = grep(genotypes$genotype_name[i], geno$final_genotype_name)
-    
-    if(length(index) == 0) next
-    
-    genotypes[i, c(2, 4, 6)] = geno[index, c("entry_type", "target_trait", "remarks")]
-    
-  }
-  
-  genotypes[is.na(genotypes)] = "No information provided"
-  
-  meta$genotypes = genotypes  
-  
-  meta$variables = variables
-  
+  # add some metadata manually
   meta$data_producer_institute = institute
   
   meta$license = license
@@ -154,6 +87,10 @@ for(k in 1:3) {
   
   meta$trial_unit_of_analysis = unit_of_analysis
   
+  meta$crop_name = ifelse(meta$crop_name == "Amaranths", "Amaranth", meta$crop_name)
+  
+  meta$crop_name = tolower(meta$crop_name)
+  
   meta$taxon = ifelse(meta$crop_name == "amaranth", "Amaranthus spp.",
                       ifelse(meta$crop_name == "okra", "Abelmoschus esculentus",
                              ifelse(meta$crop_name == "jute mallow", "Corchorus spp."), 
@@ -161,6 +98,90 @@ for(k in 1:3) {
   
   meta$trial_description = trial_description
   
+  
+  # ....................................
+  # ....................................
+  # get ranking data 
+  rank = exportTricotRanks(x)
+  
+  rank = rank[rank$trait != "yieldqualitative", ]
+  
+  # remove ties 
+  # keep only block x traits with >1 distinct value
+  rank = 
+    rank %>%
+    group_by(block_id, collection_moment, trait) %>%
+    filter(n_distinct(value) > 1) %>%   
+    ungroup()
+  
+  # ....................................
+  # ....................................
+  # other non-tricot traits
+  measu = exportMeasuredTraits(x)
+  
+  # keep only block x traits with at least one entry (no NA)
+  measu = 
+    measu %>%
+    group_by(block_id, collection_moment, trait) %>%
+    filter(!all(is.na(value))) %>%   
+    ungroup()
+  
+  # combine tricot and non-tricot traits
+  plot = as.data.frame(rbind(rank, measu))
+  
+  rownames(plot) = 1:nrow(plot)
+  
+  # ....................................
+  # ....................................
+  # all available non-PII block data
+  block = exportBlockData(x)
+  
+  # ....................................
+  # ....................................
+  # descriptors for variables in both plot and block data 
+  variables = exportVariablesDescription(x, rank, measu, block)
+  
+  # ....................................
+  # ....................................
+  # clean genotype names
+  for(i in seq_along(geno$genotype_name)) {
+    plot$genotype_name = ifelse(geno$genotype_name[i] == plot$genotype_name &
+                                  geno$crop_name[i] == meta$crop_name, 
+                                geno$final_genotype_name[i],
+                                plot$genotype_name)
+  }
+  
+  
+  # new table using final genotype names to be added to the metadata
+  genotypes = data.frame(genotype_name = unique(plot$genotype_name),
+                         role_in_trial = NA,
+                         year_release = NA,
+                         market_segment = NA,
+                         country_origin = NA, 
+                         remarks = NA)
+  
+  geno = geno[!duplicated(geno$final_genotype_name), ]
+  
+  # get genotype information from the source table
+  for(i in seq_along(genotypes$genotype_name)) {
+    
+    index = grep(genotypes$genotype_name[i], geno$final_genotype_name)
+    
+    if(length(index) == 0) next
+    
+    genotypes[i, c(2, 4, 6)] = geno[index, c("entry_type", "target_trait", "remarks")]
+    
+  }
+  
+  genotypes[is.na(genotypes)] = "No information provided"
+  
+  # add both genotype and variable metadata to the main metadata list
+  meta$genotypes = genotypes  
+  
+  meta$variables = variables
+  
+  # ....................................
+  # ....................................
   # PlackettLuce analysis
   rank$traitmoment = paste(rank$collection_moment, rank$trait, sep = " - ")
   
@@ -215,6 +236,9 @@ for(k in 1:3) {
   
   rownames(mod) = 1:nrow(mod)
   
+  # ....................................
+  # ....................................
+  # prepare the data to export
   data_export = list(metadata = meta,
                      block_data = block,
                      plot_data = plot,
@@ -231,19 +255,44 @@ for(k in 1:3) {
              auto_unbox = TRUE)
   
 
+  # ....................................
+  # ....................................
+  # write up / update some summary tables to added to the README file
   # add coordinates to file to write the main map
   coords = data.frame(block_id = block$block_id,
                       crop_name = meta$crop_name,
                       longitude = block$longitude,
                       latitude = block$latitude)
   
-
   xy = rbind(xy, coords)  
+  
+  # summary table with available datasets
+  avail = data.frame(trial_id = meta$trial_id,
+                     crop_name = meta$crop_name,
+                     taxon = meta$taxon,
+                     data_producer_institute = meta$data_producer_institute,
+                     trial_country = meta$trial_country,
+                     start_date = meta$date$start,
+                     trial_type = meta$trial_type,
+                     n = sum(meta$n_men, meta$n_women),
+                     filename = paste0(filename, ".json"),
+                     check.names = FALSE)
+  
+  available = rbind(available, avail)
   
 }
 
+# remove duplicated entries
+xy = xy[!duplicated(xy$block_id),]
+# round up coordinates
+xy[c("longitude","latitude")] = lapply(xy[c("longitude","latitude")], function(x) round(x, 2))
+# overwrite the file
+write.csv(xy, file = "docs/trial-xy.csv", row.names = FALSE)
 
-write.csv(xy, "docs/trial-xy.csv", row.names = FALSE)
+# remove duplicated entries
+available = available[!duplicated(available$trial_id), ]
+
+write.csv(available, file = "data/available-datasets.csv", row.names = FALSE)
 
 
 

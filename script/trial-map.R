@@ -3,8 +3,6 @@ library("sf")
 
 xy = read.csv("docs/trial-xy.csv")
 
-xy = xy[!duplicated(xy$block_id),]
-
 adm = world(path = "docs")
 
 adm = st_as_sf(adm)
