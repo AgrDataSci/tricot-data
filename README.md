@@ -1,5 +1,5 @@
 <!-- badges: start -->
-[![License](https://img.shields.io/badge/license%20-%20CC%20BY%20SA%204.0%20-%20%233182bd)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) 
+[![License](https://img.shields.io/badge/license%20-%20CC%20BY%20SA%204.0%20-%20%233182bd)](https://creativecommons.org/licenses/by-sa/4.0/) 
 <!-- badges: end --> 
 
 # Global multi-crop agricultural trial data supported by citizen science
