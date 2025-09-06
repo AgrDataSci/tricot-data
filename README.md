@@ -4,13 +4,13 @@
 
 # Global multi-crop agricultural trial data supported by citizen science
 
-The [triadic comparison of technologies (tricot)](https://doi.org/10.1007/s13593-023-00937-1) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. ‘Triadic’ refers to the sets of three technology options that are compared by each participant. In the approach, participants are invited to test a anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. Between 2011 and 2025 the tricot approach was applied in more than 25 countries in across Africa, Asia, Europe and Latin America with more than 30 crops.
+The [triadic comparison of technologies (tricot)](https://doi.org/10.1007/s13593-023-00937-1) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. ‘Triadic’ refers to the sets of three technology options that are compared by each participant. In the approach, participants are invited to test a anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. Between 2011 and 2025 the tricot approach was applied in more than 25 countries across Africa, Asia, Europe and Latin America with more than 30 crops.
 
 ---
 
 ## Crops and sites currently covered by the dataset
 
-The map below shows the crops and trial sites that are currently available for public use. Each point represents a trial location, and the legend indicates the crop(s) associated with those sites. This visualization helps to quickly identify the regions and crops that are currently represented in the dataset.  The dataset is shared under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en), which allows others to use, share, and adapt the material, provided appropriate credit is given and any derivative works are distributed under the same license.
+The map below shows the crops and trial sites that are currently available for public use. Each point represents a trial location, and the legend indicates the crop(s) associated with those sites. This visualization helps to quickly identify the regions and crops that are currently represented in the dataset.
 
 
 ![Trial map](docs/trial-locations.png)
@@ -35,33 +35,40 @@ The hierarchical organization allows users to track data from trial design throu
 │   │   |   ├── software
 │   │   │   │   ├── package
 │   │   │   │   ├── package version
-│   │   ├── doi
+│   │   ├── identifier (doi)
 │   │   ├── license
-│   │   ├── trial id
-│   │   ├── trial name
-│   │   ├── trial type
-│   │   ├── trial experimental site
-│   │   ├── trial unit of analysis
-│   │   ├── trial objective
-│   │   ├── trial description
-│   │   ├── trial country (ISO2)
+│   │   ├── publication year
+│   │   ├── study
+│   │   │   │   ├── id
+│   │   │   │   ├── country (ISO2)
+│   │   │   │   ├── title
+│   │   │   │   ├── description
+│   │   │   │   ├── type
+│   │   │   │   ├── unit of analysis
+│   │   │   │   ├── objective
+│   │   │   │   ├── experimental site
 │   │   ├── date
 │   │   │   ├── date start (YYYY-MM-DD)
 │   │   │   ├── date end (YYYY-MM-DD)
-│   │   ├── bounding box
-│   │   │   ├── xmin (0.00)
-│   │   │   ├── xmax (0.00)
-│   │   │   ├── ymin (0.00)
-│   │   │   ├── ymax (0.00)
-│   │   ├── data producer name
-│   │   ├── data producer email
-│   │   ├── data producer institute
-│   │   ├── program (ADCIN, RTB, BOLDER)
-│   │   ├── crop name
-│   │   ├── taxon
-│   │   ├── N participants
-│   │   ├── N men
-│   │   ├── N women
+│   │   ├── geo location
+│   │   │   ├── bounding box
+│   │   │   │   ├── xmin (0.00)
+│   │   │   │   ├── xmax (0.00)
+│   │   │   │   ├── ymin (0.00)
+│   │   │   │   ├── ymax (0.00)
+│   │   ├── data producer 
+│   │   │   ├── name
+│   │   │   ├── identifier (ROR id)
+│   │   │   ├── principal investigator
+│   │   │   ├── email
+│   │   │   ├── program (ADCIN, RTB, BOLDER)
+│   │   ├── crop 
+│   │   │   ├── name
+│   │   │   ├── taxon
+│   │   ├── participants
+│   │   │   ├── total 
+│   │   │   ├── men
+│   │   │   ├── women
 │   │   ├── genotypes
 │   │   │   ├── genotype name
 │   │   │   ├── role in trial
@@ -108,8 +115,7 @@ The dataset is archived and made publicly available through [Zenodo](https://zen
 
 Users of this dataset are required to provide proper citation in any publications, presentations, or derivative works.
 
-> The dataset is shared under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). Proper attribution is required, and derivative data/products must credit the original authors and source.
-
+> The dataset is shared under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) which allows others to use, share, and adapt the material, provided appropriate credit is given and any derivative works are distributed under the same license.
 
 de Sousa, K., Laporte, M.-A., Abdulmalik, R. O., Abidin, E., Abolore, B., Achigan-Dako, E. G., Aglinglo, L. A., Aguilar, A., Angudubo, S., Arnaud, E., Assefa, T. M., Atieno, E., Ayenan, M., Barrios, M., Borman, G., Boukar, O., Brown, D., Carey, E., Chaves, N., Coulibaly, H., Cremaschi, A., Daudi, H., Dawud, M., Diarra, D. Y., Dolo, A., Edughaen, G., Gandhi, H., Gaya Mohammed, S., Gebrehawaryat Kidane, Y., Gomez Cerna, M., Gupta, A., Hernández, J. C., Houdegbe, A. C., Hugo Dorado-Betancourt, H., Iragaba, P., Kadege, E., Kalemera, S., Kasubiri, F., Kawuki, R., Lakew, B., Legba, E. C., Madriz, B., Madu, T. U., Malulu, D., Manners, R., Matumbo, Z., Mendes, T., Mengistu, D. K., Mlaki, A., Moyo, M., Mugo, J., N’Danikou, S., Nabateregga, M., Nadigatla, G. R. V. P., Nanyonjo, A. R., Nduwumuremyi, A., Nshimiyimana, J. C., Nyawade, S., Nyirahabimana, H., Ojiewo, C. O., Olaosebikan, O., Ongom, P. O., Onwuka, S., Ouedraogo, C. O., Rosas, J. C., Rutsaert, P., Schaap, M., Shango, A., Sharma, N., Sharma, K., Sidibe, A., Solberg, S. Ø., Ssali, R., Steinke, J., Suchini, J. G., Teeken, B., Tufan, H. A., Tuyishime, E., Ulzen, J., van Heerwaarden, J., van Zonneveld, M., & van Etten, J. (2025). **Global multi-crop agricultural trial data supported by citizen science** (Version 1) [Dataset]. Zenodo. DOI: _to be provided upon release_.
 
@@ -124,7 +130,7 @@ de Sousa, K., Laporte, M.-A., Abdulmalik, R. O., Abidin, E., Abolore, B., Achiga
   version      = {v1},
   type         = {dataset},
   rights       = {Creative Commons Attribution 4.0 International},
-  rights_url   = {https://creativecommons.org/licenses/by/4.0/},
+  rights_url   = {https://creativecommons.org/licenses/by-sa/4.0/},
   doi          = {10.5281/zenodo.XXXXX},
   url          = {https://doi.org/10.5281/zenodo.XXXXX}
 }
