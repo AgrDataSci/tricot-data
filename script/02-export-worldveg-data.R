@@ -21,8 +21,6 @@ available = read.csv("data/aa-available-datasets.csv")
 geno = read_excel('raw/variety-metadata/worldveg.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
 
-license = "CC BY-SA 4.0"
-
 doi = "Pending"
 
 experimental_site = "farm"
@@ -41,6 +39,8 @@ trial_description = paste("Strengthen seed systems of African vegetables and sca
 institute = "World Vegetable Center"
 
 program = "Traditional African Vegetables"
+
+ror_id = "https://ror.org/05dvmy761"
 
 # filter the worlveg projects
 keep = grep("@worldveg.org", projects$email)
@@ -72,33 +72,32 @@ for(k in 2:3) {
   meta = exportTrialMetadata(x)
   
   # add some metadata manually
-  meta$data_producer_institute = institute
+  meta$identifier = doi
   
-  meta$license = license
+  meta$data_producer$name = institute
   
-  meta$doi = doi
+  meta$data_producer$identifier = ror_id
   
-  meta$program = program
+  meta$data_producer$program = program
   
-  meta$trial_experimental_site = experimental_site
+  meta$study$experimental_site = experimental_site
   
-  meta$trial_type = trial_type
+  meta$study$type = trial_type
   
-  meta$trial_objective = trial_objective
+  meta$study$objective = trial_objective
   
-  meta$trial_unit_of_analysis = unit_of_analysis
+  meta$study$description = trial_description
   
-  meta$crop_name = ifelse(meta$crop_name == "Amaranths", "Amaranth", meta$crop_name)
+  meta$study$unit_of_analysis = unit_of_analysis
   
-  meta$crop_name = tolower(meta$crop_name)
+  meta$crop$name = ifelse(meta$crop$name == "Amaranths", "Amaranth", meta$crop$name)
   
-  meta$taxon = ifelse(meta$crop_name == "amaranth", "Amaranthus spp.",
-                      ifelse(meta$crop_name == "okra", "Abelmoschus esculentus",
-                             ifelse(meta$crop_name == "jute mallow", "Corchorus spp."), 
+  meta$crop$name = tolower(meta$crop$name)
+  
+  meta$crop$taxon = ifelse(meta$crop$name == "amaranth", "Amaranthus spp.",
+                      ifelse(meta$crop$name == "okra", "Abelmoschus esculentus",
+                             ifelse(meta$crop$name == "jute mallow", "Corchorus spp."), 
                              "Not provided"))
-  
-  meta$trial_description = trial_description
-  
   
   # ....................................
   # ....................................
@@ -147,7 +146,7 @@ for(k in 2:3) {
   # clean genotype names
   for(i in seq_along(geno$genotype_name)) {
     plot$genotype_name = ifelse(geno$genotype_name[i] == plot$genotype_name &
-                                  geno$crop_name[i] == meta$crop_name, 
+                                  geno$crop_name[i] == meta$crop$name, 
                                 geno$final_genotype_name[i],
                                 plot$genotype_name)
   }
@@ -155,7 +154,7 @@ for(k in 2:3) {
   
   # new table using final genotype names to be added to the metadata
   genotypes = data.frame(genotype_name = unique(plot$genotype_name),
-                         role_in_trial = NA,
+                         role = NA,
                          year_release = NA,
                          market_segment = NA,
                          country_origin = NA, 
@@ -213,7 +212,7 @@ for(k in 2:3) {
     
   }
   
-  ref = genotypes$genotype_name[grep("check", genotypes$role_in_trial)[1]]
+  ref = genotypes$genotype_name[grep("check", genotypes$role)[1]]
   
   mod = lapply(R, PlackettLuce)
   
@@ -227,7 +226,6 @@ for(k in 2:3) {
   
   mod = cbind(collection_moment = rep(traits, each = ncol(R[[i]])),
               mod)
-  
   
   mod$trait = gsub(".*- ", "", mod$collection_moment) 
   
@@ -245,8 +243,8 @@ for(k in 2:3) {
                      plot_data = plot,
                      rank_analysis = mod)
   
-  filename = paste(data_export$metadata$crop_name, 
-                   data_export$metadata$trial_id,
+  filename = paste(data_export$metadata$crop$name, 
+                   data_export$metadata$study$id,
                    data_export$metadata$changelog$version,
                    sep = "-")
   
@@ -261,21 +259,21 @@ for(k in 2:3) {
   # write up / update some summary tables to added to the README file
   # add coordinates to file to write the main map
   coords = data.frame(block_id = block$block_id,
-                      crop_name = meta$crop_name,
+                      crop_name = meta$crop$name,
                       longitude = block$longitude,
                       latitude = block$latitude)
   
   xy = rbind(xy, coords)  
   
   # summary table with available datasets
-  avail = data.frame(trial_id = meta$trial_id,
-                     crop_name = meta$crop_name,
-                     taxon = meta$taxon,
-                     data_producer_institute = meta$data_producer_institute,
-                     trial_country = meta$trial_country,
+  avail = data.frame(study_id = meta$study$id,
+                     crop_name = meta$crop$name,
+                     taxon = meta$crop$taxon,
+                     data_producer_institute = meta$data_producer$name,
+                     trial_country = meta$study$country,
                      start_date = meta$date$start,
-                     trial_type = meta$trial_type,
-                     n = sum(meta$n_men, meta$n_women),
+                     trial_type = meta$study$type,
+                     participants = meta$participants$total,
                      filename = paste0(filename, ".json"),
                      check.names = FALSE)
   

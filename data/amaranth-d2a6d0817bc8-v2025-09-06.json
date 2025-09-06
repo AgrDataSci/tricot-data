@@ -8,39 +8,51 @@
         "package_version": "1.7"
       }
     },
-    "doi": "Pending",
-    "license": "CC BY-SA 4.0",
-    "trial_id": "d2a6d0817bc8",
-    "trial_country": "TZ",
-    "trial_name": "Amaranth Mtwara and Lindi 2022",
-    "trial_type": "on-farm",
-    "trial_experimental_site": "farm",
-    "trial_unit_of_analysis": "genotype",
-    "trial_objective": "variety introduction",
-    "trial_description": "Strengthen seed systems of African vegetables and scale variety adoption so that farmers and urban consumers benefit from increased production and consumption of African vegetables, which are nutritious but currently underutilized.",
+    "identifier": "Pending",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "publication_year": "2025",
+    "study": {
+      "id": "d2a6d0817bc8",
+      "country": "TZ",
+      "title": "Amaranth Mtwara and Lindi 2022",
+      "description": "Strengthen seed systems of African vegetables and scale variety adoption so that farmers and urban consumers benefit from increased production and consumption of African vegetables, which are nutritious but currently underutilized.",
+      "type": "on-farm",
+      "unit_of_analysis": "genotype",
+      "objective": "variety introduction",
+      "experimental_site": "farm"
+    },
     "date": {
       "start": "2022-10-12",
       "end": "2023-02-16"
     },
-    "bounding_box": {
-      "xmin": 38.91,
-      "xmax": 40.18,
-      "ymin": -10.63,
-      "ymax": -8.8
+    "geoLocation": {
+      "boundingBox": {
+        "xmin": 38.91,
+        "xmax": 40.18,
+        "ymin": -10.63,
+        "ymax": -8.8
+      }
     },
-    "data_producer_name": "Abdul Shango",
-    "data_producer_email": "abdul.shango@worldveg.org",
-    "data_producer_institute": "World Vegetable Center",
-    "program": "Traditional African Vegetables",
-    "crop_name": "amaranth",
-    "taxon": "Amaranthus spp.",
-    "nparticipants": 300,
-    "n_men": 209,
-    "n_women": 91,
+    "data_producer": {
+      "name": "World Vegetable Center",
+      "identifier": "https://ror.org/05dvmy761",
+      "principal_investigator": "Abdul Shango",
+      "email": "abdul.shango@worldveg.org",
+      "program": "Traditional African Vegetables"
+    },
+    "crop": {
+      "name": "amaranth",
+      "taxon": "Amaranthus spp."
+    },
+    "participants": {
+      "total": 300,
+      "men": 209,
+      "women": 91
+    },
     "genotypes": [
       {
         "genotype_name": "Madiira 1",
-        "role_in_trial": "Historical check",
+        "role": "Historical check",
         "year_release": "No information provided",
         "market_segment": "Other",
         "country_origin": "No information provided",
@@ -48,7 +60,7 @@
       },
       {
         "genotype_name": "Nguruma",
-        "role_in_trial": "Historical check",
+        "role": "Historical check",
         "year_release": "No information provided",
         "market_segment": "Other",
         "country_origin": "No information provided",
@@ -56,7 +68,7 @@
       },
       {
         "genotype_name": "AC-NL",
-        "role_in_trial": "Genebank accession",
+        "role": "Genebank accession",
         "year_release": "No information provided",
         "market_segment": "Other",
         "country_origin": "No information provided",
@@ -64,7 +76,7 @@
       },
       {
         "genotype_name": "Madiira 2",
-        "role_in_trial": "Historical check",
+        "role": "Historical check",
         "year_release": "No information provided",
         "market_segment": "Other",
         "country_origin": "No information provided",
@@ -72,7 +84,7 @@
       },
       {
         "genotype_name": "Akeri",
-        "role_in_trial": "Genebank accession",
+        "role": "Genebank accession",
         "year_release": "No information provided",
         "market_segment": "Other",
         "country_origin": "No information provided",
@@ -80,7 +92,7 @@
       },
       {
         "genotype_name": "AVAM1941",
-        "role_in_trial": "Release candidate",
+        "role": "Release candidate",
         "year_release": "No information provided",
         "market_segment": "Other",
         "country_origin": "No information provided",
@@ -88,7 +100,7 @@
       },
       {
         "genotype_name": "Poli",
-        "role_in_trial": "Replacement candidate",
+        "role": "Replacement candidate",
         "year_release": "No information provided",
         "market_segment": "Other",
         "country_origin": "No information provided",
@@ -96,7 +108,7 @@
       },
       {
         "genotype_name": "AVAM1938",
-        "role_in_trial": "Release candidate",
+        "role": "Release candidate",
         "year_release": "No information provided",
         "market_segment": "Other",
         "country_origin": "No information provided",
@@ -104,7 +116,7 @@
       },
       {
         "genotype_name": "AVAM1939",
-        "role_in_trial": "Release candidate",
+        "role": "Release candidate",
         "year_release": "No information provided",
         "market_segment": "Other",
         "country_origin": "No information provided",
@@ -1184,8 +1196,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 10:19:09",
-      "longitude": 38.9932,
-      "latitude": -10.6225
+      "longitude": 39.0172,
+      "latitude": -10.626
     },
     {
       "block_id": "d2a6d0817bc8-2",
@@ -1269,8 +1281,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 10:34:17",
-      "longitude": 39.0071,
-      "latitude": -10.624
+      "longitude": 39.0069,
+      "latitude": -10.6151
     },
     {
       "block_id": "d2a6d0817bc8-3",
@@ -1341,8 +1353,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "C",
       "transplanting_survey_end": "2022-11-22 08:41:50",
-      "longitude": 39.0145,
-      "latitude": -10.6069
+      "longitude": 39.0322,
+      "latitude": -10.6127
     },
     {
       "block_id": "d2a6d0817bc8-4",
@@ -1426,8 +1438,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 09:48:32",
-      "longitude": 39.0123,
-      "latitude": -10.6132
+      "longitude": 39.0015,
+      "latitude": -10.6097
     },
     {
       "block_id": "d2a6d0817bc8-5",
@@ -1487,8 +1499,8 @@
       "nursery_plantingdate": "2022-10-20",
       "nursery_localvariety": "Amaranth",
       "nursery_survey_end": "2022-10-29 10:35:21",
-      "longitude": 39.0066,
-      "latitude": -10.607
+      "longitude": 39.0091,
+      "latitude": -10.6108
     },
     {
       "block_id": "d2a6d0817bc8-6",
@@ -1559,8 +1571,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-22 08:26:07",
-      "longitude": 39.0271,
-      "latitude": -10.5963
+      "longitude": 39.0285,
+      "latitude": -10.6058
     },
     {
       "block_id": "d2a6d0817bc8-7",
@@ -1631,8 +1643,8 @@
       "transplanting_diseasesany": "Yes",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-22 07:55:44",
-      "longitude": 39.02,
-      "latitude": -10.6124
+      "longitude": 39.0113,
+      "latitude": -10.5956
     },
     {
       "block_id": "d2a6d0817bc8-8",
@@ -1716,8 +1728,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "B",
       "firstharvest_survey_end": "2022-12-10 13:12:55",
-      "longitude": 39.0207,
-      "latitude": -10.5952
+      "longitude": 39.0398,
+      "latitude": -10.5945
     },
     {
       "block_id": "d2a6d0817bc8-9",
@@ -1777,8 +1789,8 @@
       "nursery_plantingdate": "2022-10-20",
       "nursery_localvariety": "Amaranth",
       "nursery_survey_end": "2022-10-29 10:29:20",
-      "longitude": 39.0067,
-      "latitude": -10.607
+      "longitude": 39.0031,
+      "latitude": -10.6036
     },
     {
       "block_id": "d2a6d0817bc8-10",
@@ -1862,8 +1874,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 12:30:21",
-      "longitude": 39.0045,
-      "latitude": -10.6079
+      "longitude": 38.9971,
+      "latitude": -10.6133
     },
     {
       "block_id": "d2a6d0817bc8-11",
@@ -1936,8 +1948,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-29 11:31:47",
-      "longitude": 39.0115,
-      "latitude": -10.6009
+      "longitude": 39.0008,
+      "latitude": -10.6088
     },
     {
       "block_id": "d2a6d0817bc8-12",
@@ -2021,8 +2033,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 10:44:58",
-      "longitude": 39.002,
-      "latitude": -10.6236
+      "longitude": 39.0091,
+      "latitude": -10.6276
     },
     {
       "block_id": "d2a6d0817bc8-13",
@@ -2093,8 +2105,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-29 11:31:13",
-      "longitude": 39.0349,
-      "latitude": -10.608
+      "longitude": 39.0229,
+      "latitude": -10.5887
     },
     {
       "block_id": "d2a6d0817bc8-14",
@@ -2178,8 +2190,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 12:37:18",
-      "longitude": 38.9878,
-      "latitude": -10.6156
+      "longitude": 38.9831,
+      "latitude": -10.6067
     },
     {
       "block_id": "d2a6d0817bc8-15",
@@ -2263,8 +2275,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 12:45:12",
-      "longitude": 39.0394,
-      "latitude": -10.5835
+      "longitude": 39.0343,
+      "latitude": -10.601
     },
     {
       "block_id": "d2a6d0817bc8-16",
@@ -2348,8 +2360,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 12:53:25",
-      "longitude": 38.9901,
-      "latitude": -10.6
+      "longitude": 38.9954,
+      "latitude": -10.5995
     },
     {
       "block_id": "d2a6d0817bc8-17",
@@ -2433,8 +2445,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 11:00:18",
-      "longitude": 39.0093,
-      "latitude": -10.6154
+      "longitude": 39.0104,
+      "latitude": -10.6177
     },
     {
       "block_id": "d2a6d0817bc8-18",
@@ -2518,8 +2530,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 13:03:17",
-      "longitude": 38.9988,
-      "latitude": -10.6057
+      "longitude": 38.9887,
+      "latitude": -10.6153
     },
     {
       "block_id": "d2a6d0817bc8-19",
@@ -2590,8 +2602,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-22 08:03:28",
-      "longitude": 39.0232,
-      "latitude": -10.5953
+      "longitude": 39.0223,
+      "latitude": -10.5999
     },
     {
       "block_id": "d2a6d0817bc8-20",
@@ -2675,8 +2687,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-03 08:48:32",
-      "longitude": 38.988,
-      "latitude": -10.6059
+      "longitude": 39.0012,
+      "latitude": -10.614
     },
     {
       "block_id": "d2a6d0817bc8-21",
@@ -2760,8 +2772,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "A; B; C",
       "firstharvest_survey_end": "2022-11-29 11:12:53",
-      "longitude": 39.0008,
-      "latitude": -10.6289
+      "longitude": 39.0057,
+      "latitude": -10.6334
     },
     {
       "block_id": "d2a6d0817bc8-22",
@@ -2845,8 +2857,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "B",
       "firstharvest_survey_end": "2022-11-29 11:42:48",
-      "longitude": 38.9958,
-      "latitude": -10.6198
+      "longitude": 39.0026,
+      "latitude": -10.6222
     },
     {
       "block_id": "d2a6d0817bc8-23",
@@ -2906,8 +2918,8 @@
       "nursery_plantingdate": "2022-11-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:01:57",
-      "longitude": 38.9377,
-      "latitude": -10.5501
+      "longitude": 38.9209,
+      "latitude": -10.5417
     },
     {
       "block_id": "d2a6d0817bc8-24",
@@ -2966,8 +2978,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:22:10",
-      "longitude": 38.9141,
-      "latitude": -10.5451
+      "longitude": 38.923,
+      "latitude": -10.5418
     },
     {
       "block_id": "d2a6d0817bc8-25",
@@ -3027,8 +3039,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:59:26",
-      "longitude": 38.9089,
-      "latitude": -10.5422
+      "longitude": 38.924,
+      "latitude": -10.5408
     },
     {
       "block_id": "d2a6d0817bc8-26",
@@ -3088,8 +3100,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:05:49",
-      "longitude": 38.9111,
-      "latitude": -10.5582
+      "longitude": 38.9048,
+      "latitude": -10.5463
     },
     {
       "block_id": "d2a6d0817bc8-27",
@@ -3149,8 +3161,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:07:13",
-      "longitude": 38.921,
-      "latitude": -10.5499
+      "longitude": 38.9047,
+      "latitude": -10.5414
     },
     {
       "block_id": "d2a6d0817bc8-28",
@@ -3210,8 +3222,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:31:57",
-      "longitude": 38.9287,
-      "latitude": -10.5463
+      "longitude": 38.9281,
+      "latitude": -10.5613
     },
     {
       "block_id": "d2a6d0817bc8-29",
@@ -3271,8 +3283,8 @@
       "nursery_plantingdate": "2022-10-24",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 12:23:51",
-      "longitude": 38.9184,
-      "latitude": -10.5439
+      "longitude": 38.9287,
+      "latitude": -10.5288
     },
     {
       "block_id": "d2a6d0817bc8-30",
@@ -3332,8 +3344,8 @@
       "nursery_plantingdate": "2022-10-24",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 12:47:17",
-      "longitude": 38.9271,
-      "latitude": -10.5284
+      "longitude": 38.9176,
+      "latitude": -10.5362
     },
     {
       "block_id": "d2a6d0817bc8-31",
@@ -3393,8 +3405,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:03:32",
-      "longitude": 38.9117,
-      "latitude": -10.5397
+      "longitude": 38.9262,
+      "latitude": -10.5435
     },
     {
       "block_id": "d2a6d0817bc8-32",
@@ -3454,8 +3466,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local Variety",
       "nursery_survey_end": "2022-11-03 07:04:14",
-      "longitude": 38.928,
-      "latitude": -10.5529
+      "longitude": 38.9354,
+      "latitude": -10.55
     },
     {
       "block_id": "d2a6d0817bc8-33",
@@ -3515,8 +3527,8 @@
       "nursery_plantingdate": "2022-10-24",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 13:02:09",
-      "longitude": 38.9154,
-      "latitude": -10.5382
+      "longitude": 38.9292,
+      "latitude": -10.5447
     },
     {
       "block_id": "d2a6d0817bc8-34",
@@ -3576,8 +3588,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:37:00",
-      "longitude": 38.9311,
-      "latitude": -10.5424
+      "longitude": 38.9298,
+      "latitude": -10.5496
     },
     {
       "block_id": "d2a6d0817bc8-35",
@@ -3637,8 +3649,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:30:45",
-      "longitude": 38.9366,
-      "latitude": -10.5524
+      "longitude": 38.9237,
+      "latitude": -10.5635
     },
     {
       "block_id": "d2a6d0817bc8-36",
@@ -3698,8 +3710,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:35:31",
-      "longitude": 38.93,
-      "latitude": -10.5516
+      "longitude": 38.9338,
+      "latitude": -10.5619
     },
     {
       "block_id": "d2a6d0817bc8-37",
@@ -3759,8 +3771,8 @@
       "nursery_plantingdate": "2022-10-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-08 19:54:38",
-      "longitude": 38.9257,
-      "latitude": -10.5583
+      "longitude": 38.9271,
+      "latitude": -10.5576
     },
     {
       "block_id": "d2a6d0817bc8-38",
@@ -3820,8 +3832,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:29:02",
-      "longitude": 38.9391,
-      "latitude": -10.5643
+      "longitude": 38.9275,
+      "latitude": -10.5567
     },
     {
       "block_id": "d2a6d0817bc8-39",
@@ -3881,8 +3893,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:24:12",
-      "longitude": 38.9389,
-      "latitude": -10.5457
+      "longitude": 38.9219,
+      "latitude": -10.5406
     },
     {
       "block_id": "d2a6d0817bc8-40",
@@ -3942,8 +3954,8 @@
       "nursery_plantingdate": "2022-10-23",
       "nursery_localvariety": "No local variet",
       "nursery_survey_end": "2022-10-31 11:47:54",
-      "longitude": 38.9391,
-      "latitude": -10.5741
+      "longitude": 38.945,
+      "latitude": -10.563
     },
     {
       "block_id": "d2a6d0817bc8-41",
@@ -4003,8 +4015,8 @@
       "nursery_plantingdate": "2022-10-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:42:15",
-      "longitude": 38.9356,
-      "latitude": -10.5742
+      "longitude": 38.9472,
+      "latitude": -10.5748
     },
     {
       "block_id": "d2a6d0817bc8-42",
@@ -4064,8 +4076,8 @@
       "nursery_plantingdate": "2022-10-22",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:14:27",
-      "longitude": 38.9095,
-      "latitude": -10.5453
+      "longitude": 38.9106,
+      "latitude": -10.5304
     },
     {
       "block_id": "d2a6d0817bc8-43",
@@ -4125,8 +4137,8 @@
       "nursery_plantingdate": "2022-10-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:39:48",
-      "longitude": 38.9439,
-      "latitude": -10.5648
+      "longitude": 38.938,
+      "latitude": -10.5788
     },
     {
       "block_id": "d2a6d0817bc8-44",
@@ -4186,8 +4198,8 @@
       "nursery_plantingdate": "2022-10-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:37:11",
-      "longitude": 38.9249,
-      "latitude": -10.5718
+      "longitude": 38.9455,
+      "latitude": -10.5716
     },
     {
       "block_id": "d2a6d0817bc8-45",
@@ -4247,8 +4259,8 @@
       "nursery_plantingdate": "2022-10-22",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:17:32",
-      "longitude": 38.9074,
-      "latitude": -10.5356
+      "longitude": 38.9143,
+      "latitude": -10.5522
     },
     {
       "block_id": "d2a6d0817bc8-46",
@@ -4308,8 +4320,8 @@
       "nursery_plantingdate": "2022-10-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:34:55",
-      "longitude": 38.9382,
-      "latitude": -10.5588
+      "longitude": 38.9368,
+      "latitude": -10.5754
     },
     {
       "block_id": "d2a6d0817bc8-47",
@@ -4369,8 +4381,8 @@
       "nursery_plantingdate": "2022-10-22",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:16:08",
-      "longitude": 38.9078,
-      "latitude": -10.53
+      "longitude": 38.9053,
+      "latitude": -10.5408
     },
     {
       "block_id": "d2a6d0817bc8-48",
@@ -4435,8 +4447,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 08:46:27",
-      "longitude": 39.7106,
-      "latitude": -10.3496
+      "longitude": 39.7037,
+      "latitude": -10.3622
     },
     {
       "block_id": "d2a6d0817bc8-49",
@@ -4501,8 +4513,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:24:58",
-      "longitude": 39.7053,
-      "latitude": -10.3535
+      "longitude": 39.7038,
+      "latitude": -10.3645
     },
     {
       "block_id": "d2a6d0817bc8-50",
@@ -4598,8 +4610,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 12:11:26",
-      "longitude": 39.6983,
-      "latitude": -10.3725
+      "longitude": 39.7111,
+      "latitude": -10.3597
     },
     {
       "block_id": "d2a6d0817bc8-51",
@@ -4663,8 +4675,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:20:32",
-      "longitude": 39.7033,
-      "latitude": -10.347
+      "longitude": 39.6942,
+      "latitude": -10.3505
     },
     {
       "block_id": "d2a6d0817bc8-52",
@@ -4728,8 +4740,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:25:51",
-      "longitude": 39.6988,
-      "latitude": -10.3647
+      "longitude": 39.6987,
+      "latitude": -10.3547
     },
     {
       "block_id": "d2a6d0817bc8-53",
@@ -4793,8 +4805,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 08:34:11",
-      "longitude": 39.7014,
-      "latitude": -10.3658
+      "longitude": 39.6899,
+      "latitude": -10.3622
     },
     {
       "block_id": "d2a6d0817bc8-54",
@@ -4896,8 +4908,8 @@
       "thirdharvest_diseasesany": "Not Applicable",
       "thirdharvest_whichlost": "None",
       "thirdharvest_survey_end": "2023-01-26 12:12:55",
-      "longitude": 39.7018,
-      "latitude": -10.3624
+      "longitude": 39.693,
+      "latitude": -10.3634
     },
     {
       "block_id": "d2a6d0817bc8-55",
@@ -4961,8 +4973,8 @@
       "nursery_plantingdate": "2022-10-19",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 15:49:57",
-      "longitude": 39.7162,
-      "latitude": -10.3597
+      "longitude": 39.72,
+      "latitude": -10.3721
     },
     {
       "block_id": "d2a6d0817bc8-56",
@@ -5027,8 +5039,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:26:41",
-      "longitude": 39.7067,
-      "latitude": -10.3473
+      "longitude": 39.6987,
+      "latitude": -10.349
     },
     {
       "block_id": "d2a6d0817bc8-57",
@@ -5093,8 +5105,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:27:21",
-      "longitude": 39.7044,
-      "latitude": -10.3487
+      "longitude": 39.7133,
+      "latitude": -10.3646
     },
     {
       "block_id": "d2a6d0817bc8-58",
@@ -5159,8 +5171,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 09:29:23",
-      "longitude": 39.6993,
-      "latitude": -10.3647
+      "longitude": 39.6976,
+      "latitude": -10.3519
     },
     {
       "block_id": "d2a6d0817bc8-59",
@@ -5256,8 +5268,8 @@
       "secondharvest_diseasesany": "No",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 12:14:16",
-      "longitude": 39.7121,
-      "latitude": -10.3636
+      "longitude": 39.7065,
+      "latitude": -10.3838
     },
     {
       "block_id": "d2a6d0817bc8-60",
@@ -5322,8 +5334,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 12:03:19",
-      "longitude": 39.7059,
-      "latitude": -10.3738
+      "longitude": 39.7206,
+      "latitude": -10.375
     },
     {
       "block_id": "d2a6d0817bc8-61",
@@ -5387,8 +5399,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 11:31:09",
-      "longitude": 39.7204,
-      "latitude": -10.3708
+      "longitude": 39.706,
+      "latitude": -10.3769
     },
     {
       "block_id": "d2a6d0817bc8-62",
@@ -5452,8 +5464,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 11:53:34",
-      "longitude": 39.722,
-      "latitude": -10.3695
+      "longitude": 39.7021,
+      "latitude": -10.3733
     },
     {
       "block_id": "d2a6d0817bc8-63",
@@ -5517,8 +5529,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 11:40:41",
-      "longitude": 39.7092,
-      "latitude": -10.3628
+      "longitude": 39.6992,
+      "latitude": -10.3581
     },
     {
       "block_id": "d2a6d0817bc8-64",
@@ -5612,8 +5624,8 @@
       "secondharvest_diseasesany": "No",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 12:15:47",
-      "longitude": 39.7134,
-      "latitude": -10.374
+      "longitude": 39.7046,
+      "latitude": -10.3634
     },
     {
       "block_id": "d2a6d0817bc8-65",
@@ -5709,8 +5721,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 12:16:31",
-      "longitude": 39.7065,
-      "latitude": -10.3656
+      "longitude": 39.7204,
+      "latitude": -10.3613
     },
     {
       "block_id": "d2a6d0817bc8-66",
@@ -5775,8 +5787,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 10:08:46",
-      "longitude": 39.7078,
-      "latitude": -10.3535
+      "longitude": 39.7036,
+      "latitude": -10.3578
     },
     {
       "block_id": "d2a6d0817bc8-67",
@@ -5842,8 +5854,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 10:12:18",
-      "longitude": 39.7121,
-      "latitude": -10.3563
+      "longitude": 39.6907,
+      "latitude": -10.3573
     },
     {
       "block_id": "d2a6d0817bc8-68",
@@ -5907,8 +5919,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 11:26:05",
-      "longitude": 39.6976,
-      "latitude": -10.3673
+      "longitude": 39.6964,
+      "latitude": -10.3713
     },
     {
       "block_id": "d2a6d0817bc8-69",
@@ -5973,8 +5985,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 12:31:53",
-      "longitude": 39.7022,
-      "latitude": -10.3699
+      "longitude": 39.72,
+      "latitude": -10.367
     },
     {
       "block_id": "d2a6d0817bc8-70",
@@ -6038,8 +6050,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 12:31:40",
-      "longitude": 39.7036,
-      "latitude": -10.3817
+      "longitude": 39.7076,
+      "latitude": -10.3804
     },
     {
       "block_id": "d2a6d0817bc8-71",
@@ -6141,8 +6153,8 @@
       "thirdharvest_diseasesany": "Not Applicable",
       "thirdharvest_whichlost": "None",
       "thirdharvest_survey_end": "2023-01-26 12:17:14",
-      "longitude": 39.7072,
-      "latitude": -10.3655
+      "longitude": 39.6987,
+      "latitude": -10.3687
     },
     {
       "block_id": "d2a6d0817bc8-72",
@@ -6206,8 +6218,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 09:10:59",
-      "longitude": 39.7085,
-      "latitude": -10.3703
+      "longitude": 39.7164,
+      "latitude": -10.3505
     },
     {
       "block_id": "d2a6d0817bc8-73",
@@ -6304,8 +6316,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 18:53:12",
-      "longitude": 39.7176,
-      "latitude": -10.3535
+      "longitude": 39.7078,
+      "latitude": -10.3664
     },
     {
       "block_id": "d2a6d0817bc8-74",
@@ -6406,8 +6418,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 19:10:54",
-      "longitude": 39.7083,
-      "latitude": -10.3523
+      "longitude": 39.7077,
+      "latitude": -10.3667
     },
     {
       "block_id": "d2a6d0817bc8-75",
@@ -6495,8 +6507,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-06 09:44:32",
-      "longitude": 40.179,
-      "latitude": -10.3057
+      "longitude": 40.1906,
+      "latitude": -10.288
     },
     {
       "block_id": "d2a6d0817bc8-76",
@@ -6559,8 +6571,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:43:02",
-      "longitude": 39.8505,
-      "latitude": -10.3745
+      "longitude": 39.8401,
+      "latitude": -10.3686
     },
     {
       "block_id": "d2a6d0817bc8-77",
@@ -6624,8 +6636,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:18:41",
-      "longitude": 39.7085,
-      "latitude": -10.3599
+      "longitude": 39.6929,
+      "latitude": -10.3624
     },
     {
       "block_id": "d2a6d0817bc8-78",
@@ -6687,8 +6699,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:19:04",
-      "longitude": 39.7073,
-      "latitude": -10.3659
+      "longitude": 39.7158,
+      "latitude": -10.3617
     },
     {
       "block_id": "d2a6d0817bc8-79",
@@ -6751,8 +6763,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:21:57",
-      "longitude": 39.7009,
-      "latitude": -10.3654
+      "longitude": 39.6994,
+      "latitude": -10.348
     },
     {
       "block_id": "d2a6d0817bc8-80",
@@ -6820,8 +6832,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:20:11",
-      "longitude": 39.7044,
-      "latitude": -10.3562
+      "longitude": 39.7007,
+      "latitude": -10.3579
     },
     {
       "block_id": "d2a6d0817bc8-81",
@@ -6914,8 +6926,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 18:56:53",
-      "longitude": 39.7157,
-      "latitude": -10.3512
+      "longitude": 39.712,
+      "latitude": -10.3496
     },
     {
       "block_id": "d2a6d0817bc8-82",
@@ -7007,8 +7019,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 19:07:15",
-      "longitude": 39.7019,
-      "latitude": -10.3639
+      "longitude": 39.7037,
+      "latitude": -10.3553
     },
     {
       "block_id": "d2a6d0817bc8-83",
@@ -7070,8 +7082,8 @@
       "nursery_plantingdate": "2022-10-16",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:23:03",
-      "longitude": 39.7147,
-      "latitude": -10.364
+      "longitude": 39.7017,
+      "latitude": -10.359
     },
     {
       "block_id": "d2a6d0817bc8-84",
@@ -7133,8 +7145,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:44:20",
-      "longitude": 39.8394,
-      "latitude": -10.3859
+      "longitude": 39.8501,
+      "latitude": -10.3671
     },
     {
       "block_id": "d2a6d0817bc8-85",
@@ -7196,8 +7208,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:23:26",
-      "longitude": 39.704,
-      "latitude": -10.349
+      "longitude": 39.711,
+      "latitude": -10.3672
     },
     {
       "block_id": "d2a6d0817bc8-86",
@@ -7259,8 +7271,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:45:19",
-      "longitude": 39.8425,
-      "latitude": -10.389
+      "longitude": 39.8477,
+      "latitude": -10.3727
     },
     {
       "block_id": "d2a6d0817bc8-87",
@@ -7323,8 +7335,8 @@
       "nursery_plantingdate": "2022-10-28",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:46:20",
-      "longitude": 39.8363,
-      "latitude": -10.3686
+      "longitude": 39.8335,
+      "latitude": -10.3765
     },
     {
       "block_id": "d2a6d0817bc8-88",
@@ -7387,8 +7399,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "Mchicha",
       "nursery_survey_end": "2022-10-24 15:12:28",
-      "longitude": 39.7212,
-      "latitude": -10.367
+      "longitude": 39.7015,
+      "latitude": -10.36
     },
     {
       "block_id": "d2a6d0817bc8-89",
@@ -7450,8 +7462,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:24:13",
-      "longitude": 39.7077,
-      "latitude": -10.361
+      "longitude": 39.7136,
+      "latitude": -10.3719
     },
     {
       "block_id": "d2a6d0817bc8-90",
@@ -7514,8 +7526,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:25:54",
-      "longitude": 39.7199,
-      "latitude": -10.3585
+      "longitude": 39.7189,
+      "latitude": -10.3609
     },
     {
       "block_id": "d2a6d0817bc8-91",
@@ -7577,8 +7589,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:26:36",
-      "longitude": 39.7112,
-      "latitude": -10.3779
+      "longitude": 39.7145,
+      "latitude": -10.3647
     },
     {
       "block_id": "d2a6d0817bc8-92",
@@ -7655,8 +7667,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 19:00:18",
-      "longitude": 39.7106,
-      "latitude": -10.3504
+      "longitude": 39.6916,
+      "latitude": -10.3591
     },
     {
       "block_id": "d2a6d0817bc8-93",
@@ -7719,8 +7731,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:27:02",
-      "longitude": 39.6994,
-      "latitude": -10.3705
+      "longitude": 39.7178,
+      "latitude": -10.359
     },
     {
       "block_id": "d2a6d0817bc8-94",
@@ -7781,8 +7793,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:27:29",
-      "longitude": 39.7092,
-      "latitude": -10.3678
+      "longitude": 39.7178,
+      "latitude": -10.3653
     },
     {
       "block_id": "d2a6d0817bc8-95",
@@ -7844,8 +7856,8 @@
       "nursery_plantingdate": "2022-10-24",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:27:53",
-      "longitude": 39.7174,
-      "latitude": -10.3545
+      "longitude": 39.7046,
+      "latitude": -10.3526
     },
     {
       "block_id": "d2a6d0817bc8-96",
@@ -7910,8 +7922,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:28:16",
-      "longitude": 39.6969,
-      "latitude": -10.3663
+      "longitude": 39.7204,
+      "latitude": -10.3628
     },
     {
       "block_id": "d2a6d0817bc8-97",
@@ -7972,8 +7984,8 @@
       "nursery_plantingdate": "2022-10-28",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:47:46",
-      "longitude": 39.846,
-      "latitude": -10.3706
+      "longitude": 39.8501,
+      "latitude": -10.385
     },
     {
       "block_id": "d2a6d0817bc8-98",
@@ -8079,8 +8091,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:39:11",
-      "longitude": 39.3269,
-      "latitude": -10.4577
+      "longitude": 39.3086,
+      "latitude": -10.4632
     },
     {
       "block_id": "d2a6d0817bc8-99",
@@ -8189,8 +8201,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:42:27",
-      "longitude": 39.3062,
-      "latitude": -10.453
+      "longitude": 39.3169,
+      "latitude": -10.4573
     },
     {
       "block_id": "d2a6d0817bc8-100",
@@ -8290,8 +8302,8 @@
       "thirdharvest_diseasesany": "No",
       "thirdharvest_whichlost": "None",
       "thirdharvest_survey_end": "2023-01-21 16:34:48",
-      "longitude": 39.325,
-      "latitude": -10.4557
+      "longitude": 39.3099,
+      "latitude": -10.4526
     },
     {
       "block_id": "d2a6d0817bc8-101",
@@ -8399,8 +8411,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:49:41",
-      "longitude": 39.3117,
-      "latitude": -10.4558
+      "longitude": 39.3148,
+      "latitude": -10.4687
     },
     {
       "block_id": "d2a6d0817bc8-102",
@@ -8506,8 +8518,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:54:18",
-      "longitude": 39.3068,
-      "latitude": -10.4463
+      "longitude": 39.3184,
+      "latitude": -10.4675
     },
     {
       "block_id": "d2a6d0817bc8-103",
@@ -8614,8 +8626,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 12:02:46",
-      "longitude": 39.3242,
-      "latitude": -10.456
+      "longitude": 39.3268,
+      "latitude": -10.4579
     },
     {
       "block_id": "d2a6d0817bc8-104",
@@ -8722,8 +8734,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:56:18",
-      "longitude": 39.3167,
-      "latitude": -10.459
+      "longitude": 39.3101,
+      "latitude": -10.4651
     },
     {
       "block_id": "d2a6d0817bc8-105",
@@ -8829,8 +8841,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:59:27",
-      "longitude": 39.3221,
-      "latitude": -10.4557
+      "longitude": 39.3098,
+      "latitude": -10.4523
     },
     {
       "block_id": "d2a6d0817bc8-106",
@@ -8928,8 +8940,8 @@
       "thirdharvest_diseasesany": "No",
       "thirdharvest_whichlost": "None",
       "thirdharvest_survey_end": "2023-01-23 13:56:12",
-      "longitude": 39.3008,
-      "latitude": -10.4748
+      "longitude": 39.2866,
+      "latitude": -10.4581
     },
     {
       "block_id": "d2a6d0817bc8-107",
@@ -9036,8 +9048,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:08:09",
-      "longitude": 39.3069,
-      "latitude": -10.466
+      "longitude": 39.3273,
+      "latitude": -10.4566
     },
     {
       "block_id": "d2a6d0817bc8-108",
@@ -9144,8 +9156,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:10:52",
-      "longitude": 39.3183,
-      "latitude": -10.4436
+      "longitude": 39.3066,
+      "latitude": -10.453
     },
     {
       "block_id": "d2a6d0817bc8-109",
@@ -9251,8 +9263,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:14:54",
-      "longitude": 39.3131,
-      "latitude": -10.4531
+      "longitude": 39.3168,
+      "latitude": -10.4523
     },
     {
       "block_id": "d2a6d0817bc8-110",
@@ -9348,8 +9360,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:17:54",
-      "longitude": 39.3109,
-      "latitude": -10.4426
+      "longitude": 39.3229,
+      "latitude": -10.4457
     },
     {
       "block_id": "d2a6d0817bc8-111",
@@ -9456,8 +9468,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:21:16",
-      "longitude": 39.3072,
-      "latitude": -10.4585
+      "longitude": 39.3137,
+      "latitude": -10.4526
     },
     {
       "block_id": "d2a6d0817bc8-112",
@@ -9564,8 +9576,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:24:33",
-      "longitude": 39.3259,
-      "latitude": -10.4494
+      "longitude": 39.316,
+      "latitude": -10.4669
     },
     {
       "block_id": "d2a6d0817bc8-113",
@@ -9672,8 +9684,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:27:15",
-      "longitude": 39.3045,
-      "latitude": -10.4609
+      "longitude": 39.3257,
+      "latitude": -10.4461
     },
     {
       "block_id": "d2a6d0817bc8-114",
@@ -9779,8 +9791,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:30:21",
-      "longitude": 39.3023,
-      "latitude": -10.4561
+      "longitude": 39.3261,
+      "latitude": -10.4539
     },
     {
       "block_id": "d2a6d0817bc8-115",
@@ -9882,8 +9894,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:34:01",
-      "longitude": 39.3224,
-      "latitude": -10.4453
+      "longitude": 39.313,
+      "latitude": -10.4503
     },
     {
       "block_id": "d2a6d0817bc8-116",
@@ -9990,8 +10002,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:38:31",
-      "longitude": 39.3221,
-      "latitude": -10.4609
+      "longitude": 39.3055,
+      "latitude": -10.4622
     },
     {
       "block_id": "d2a6d0817bc8-117",
@@ -10097,8 +10109,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:42:48",
-      "longitude": 39.3181,
-      "latitude": -10.4603
+      "longitude": 39.3064,
+      "latitude": -10.4567
     },
     {
       "block_id": "d2a6d0817bc8-118",
@@ -10205,8 +10217,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:45:49",
-      "longitude": 39.3048,
-      "latitude": -10.4546
+      "longitude": 39.3208,
+      "latitude": -10.4508
     },
     {
       "block_id": "d2a6d0817bc8-119",
@@ -10312,8 +10324,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:54:32",
-      "longitude": 39.3109,
-      "latitude": -10.4671
+      "longitude": 39.3085,
+      "latitude": -10.4498
     },
     {
       "block_id": "d2a6d0817bc8-120",
@@ -10421,7 +10433,7 @@
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 17:00:27",
       "longitude": 39.3148,
-      "latitude": -10.4591
+      "latitude": -10.4612
     },
     {
       "block_id": "d2a6d0817bc8-121",
@@ -10528,8 +10540,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:33:14",
-      "longitude": 39.3224,
-      "latitude": -10.4472
+      "longitude": 39.3092,
+      "latitude": -10.4623
     },
     {
       "block_id": "d2a6d0817bc8-122",
@@ -10635,8 +10647,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 10:45:51",
-      "longitude": 39.2869,
-      "latitude": -10.4608
+      "longitude": 39.3101,
+      "latitude": -10.4694
     },
     {
       "block_id": "d2a6d0817bc8-123",
@@ -10743,8 +10755,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 13:38:33",
-      "longitude": 39.2817,
-      "latitude": -10.3613
+      "longitude": 39.2718,
+      "latitude": -10.3629
     },
     {
       "block_id": "d2a6d0817bc8-124",
@@ -10852,8 +10864,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 14:11:24",
-      "longitude": 39.2806,
-      "latitude": -10.368
+      "longitude": 39.2861,
+      "latitude": -10.3607
     },
     {
       "block_id": "d2a6d0817bc8-125",
@@ -10960,8 +10972,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 20:20:28",
-      "longitude": 39.2783,
-      "latitude": -10.3521
+      "longitude": 39.2728,
+      "latitude": -10.3451
     },
     {
       "block_id": "d2a6d0817bc8-126",
@@ -11068,8 +11080,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 22:17:50",
-      "longitude": 39.2837,
-      "latitude": -10.37
+      "longitude": 39.2861,
+      "latitude": -10.3664
     },
     {
       "block_id": "d2a6d0817bc8-127",
@@ -11179,8 +11191,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:08:49",
-      "longitude": 39.2776,
-      "latitude": -10.3481
+      "longitude": 39.2745,
+      "latitude": -10.3693
     },
     {
       "block_id": "d2a6d0817bc8-128",
@@ -11288,8 +11300,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:10:07",
-      "longitude": 39.2662,
-      "latitude": -10.3545
+      "longitude": 39.2785,
+      "latitude": -10.3462
     },
     {
       "block_id": "d2a6d0817bc8-129",
@@ -11399,8 +11411,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-21 13:33:52",
-      "longitude": 39.2802,
-      "latitude": -10.354
+      "longitude": 39.2679,
+      "latitude": -10.3655
     },
     {
       "block_id": "d2a6d0817bc8-130",
@@ -11508,8 +11520,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 19:48:50",
-      "longitude": 39.2749,
-      "latitude": -10.3691
+      "longitude": 39.2896,
+      "latitude": -10.3534
     },
     {
       "block_id": "d2a6d0817bc8-131",
@@ -11619,8 +11631,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:34:08",
-      "longitude": 39.2796,
-      "latitude": -10.3667
+      "longitude": 39.2692,
+      "latitude": -10.3627
     },
     {
       "block_id": "d2a6d0817bc8-132",
@@ -11728,8 +11740,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-24 14:12:11",
-      "longitude": 39.2759,
-      "latitude": -10.3618
+      "longitude": 39.2812,
+      "latitude": -10.3672
     },
     {
       "block_id": "d2a6d0817bc8-133",
@@ -11843,8 +11855,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:13:01",
-      "longitude": 39.2793,
-      "latitude": -10.3701
+      "longitude": 39.2727,
+      "latitude": -10.3508
     },
     {
       "block_id": "d2a6d0817bc8-134",
@@ -11952,8 +11964,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:15:11",
-      "longitude": 39.2826,
-      "latitude": -10.3646
+      "longitude": 39.2877,
+      "latitude": -10.3632
     },
     {
       "block_id": "d2a6d0817bc8-135",
@@ -12061,8 +12073,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 18:51:59",
-      "longitude": 39.2721,
-      "latitude": -10.3678
+      "longitude": 39.2855,
+      "latitude": -10.3513
     },
     {
       "block_id": "d2a6d0817bc8-136",
@@ -12170,8 +12182,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 22:19:14",
-      "longitude": 39.28,
-      "latitude": -10.3518
+      "longitude": 39.2882,
+      "latitude": -10.3644
     },
     {
       "block_id": "d2a6d0817bc8-137",
@@ -12281,8 +12293,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:30:20",
-      "longitude": 39.2676,
-      "latitude": -10.3531
+      "longitude": 39.2644,
+      "latitude": -10.3588
     },
     {
       "block_id": "d2a6d0817bc8-138",
@@ -12391,8 +12403,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:16:21",
-      "longitude": 39.2788,
-      "latitude": -10.3599
+      "longitude": 39.2823,
+      "latitude": -10.3657
     },
     {
       "block_id": "d2a6d0817bc8-139",
@@ -12500,8 +12512,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:17:43",
-      "longitude": 39.2648,
-      "latitude": -10.3526
+      "longitude": 39.2813,
+      "latitude": -10.3606
     },
     {
       "block_id": "d2a6d0817bc8-140",
@@ -12610,8 +12622,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:18:18",
-      "longitude": 39.2752,
-      "latitude": -10.3554
+      "longitude": 39.2717,
+      "latitude": -10.3556
     },
     {
       "block_id": "d2a6d0817bc8-141",
@@ -12723,8 +12735,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:19:28",
-      "longitude": 39.2812,
-      "latitude": -10.3482
+      "longitude": 39.2804,
+      "latitude": -10.3679
     },
     {
       "block_id": "d2a6d0817bc8-142",
@@ -12831,8 +12843,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 13:47:49",
-      "longitude": 39.279,
-      "latitude": -10.3665
+      "longitude": 39.2741,
+      "latitude": -10.3473
     },
     {
       "block_id": "d2a6d0817bc8-143",
@@ -12940,8 +12952,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 22:21:10",
-      "longitude": 39.2769,
-      "latitude": -10.3591
+      "longitude": 39.2831,
+      "latitude": -10.3685
     },
     {
       "block_id": "d2a6d0817bc8-144",
@@ -13049,8 +13061,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:53:13",
-      "longitude": 39.2741,
-      "latitude": -10.3641
+      "longitude": 39.2807,
+      "latitude": -10.3446
     },
     {
       "block_id": "d2a6d0817bc8-145",
@@ -13160,8 +13172,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:20:58",
-      "longitude": 39.2742,
-      "latitude": -10.3568
+      "longitude": 39.2726,
+      "latitude": -10.3702
     },
     {
       "block_id": "d2a6d0817bc8-146",
@@ -13270,8 +13282,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:22:10",
-      "longitude": 39.2808,
-      "latitude": -10.3517
+      "longitude": 39.2677,
+      "latitude": -10.3516
     },
     {
       "block_id": "d2a6d0817bc8-147",
@@ -13378,8 +13390,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:43:56",
-      "longitude": 39.2775,
-      "latitude": -10.3515
+      "longitude": 39.2641,
+      "latitude": -10.3584
     },
     {
       "block_id": "d2a6d0817bc8-148",
@@ -13471,8 +13483,8 @@
       "secondharvest_diseasesany": "No",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2022-12-31 11:42:20",
-      "longitude": 39.3021,
-      "latitude": -10.3448
+      "longitude": 39.2996,
+      "latitude": -10.3416
     },
     {
       "block_id": "d2a6d0817bc8-149",
@@ -13563,8 +13575,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-05 08:50:34",
-      "longitude": 39.3026,
-      "latitude": -10.3335
+      "longitude": 39.3015,
+      "latitude": -10.3469
     },
     {
       "block_id": "d2a6d0817bc8-150",
@@ -13648,8 +13660,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-09 09:31:07",
-      "longitude": 39.3072,
-      "latitude": -10.3414
+      "longitude": 39.3073,
+      "latitude": -10.3434
     },
     {
       "block_id": "d2a6d0817bc8-151",
@@ -13733,8 +13745,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-09 15:58:33",
-      "longitude": 39.2984,
-      "latitude": -10.3213
+      "longitude": 39.2921,
+      "latitude": -10.3341
     },
     {
       "block_id": "d2a6d0817bc8-152",
@@ -13818,8 +13830,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-09 16:12:52",
-      "longitude": 39.2999,
-      "latitude": -10.3343
+      "longitude": 39.2886,
+      "latitude": -10.3308
     },
     {
       "block_id": "d2a6d0817bc8-153",
@@ -13902,8 +13914,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-12 11:54:58",
-      "longitude": 39.2917,
-      "latitude": -10.3259
+      "longitude": 39.313,
+      "latitude": -10.3373
     },
     {
       "block_id": "d2a6d0817bc8-154",
@@ -13987,8 +13999,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-12 11:57:42",
-      "longitude": 39.2881,
-      "latitude": -10.3353
+      "longitude": 39.2943,
+      "latitude": -10.3359
     },
     {
       "block_id": "d2a6d0817bc8-155",
@@ -14071,8 +14083,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-14 17:02:17",
-      "longitude": 39.2894,
-      "latitude": -10.328
+      "longitude": 39.2945,
+      "latitude": -10.34
     },
     {
       "block_id": "d2a6d0817bc8-156",
@@ -14155,8 +14167,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-19 18:37:28",
-      "longitude": 39.3025,
-      "latitude": -10.3209
+      "longitude": 39.2974,
+      "latitude": -10.3295
     },
     {
       "block_id": "d2a6d0817bc8-157",
@@ -14239,8 +14251,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-21 09:52:58",
-      "longitude": 39.3036,
-      "latitude": -10.3295
+      "longitude": 39.3045,
+      "latitude": -10.3444
     },
     {
       "block_id": "d2a6d0817bc8-158",
@@ -14324,8 +14336,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-21 15:14:33",
-      "longitude": 39.3095,
-      "latitude": -10.3368
+      "longitude": 39.3016,
+      "latitude": -10.3397
     },
     {
       "block_id": "d2a6d0817bc8-159",
@@ -14409,8 +14421,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-23 11:35:37",
-      "longitude": 39.2778,
-      "latitude": -10.354
+      "longitude": 39.2779,
+      "latitude": -10.351
     },
     {
       "block_id": "d2a6d0817bc8-160",
@@ -14481,7 +14493,7 @@
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-30 10:18:14",
       "longitude": 39.3007,
-      "latitude": -10.3229
+      "latitude": -10.3384
     },
     {
       "block_id": "d2a6d0817bc8-161",
@@ -14551,8 +14563,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 08:59:30",
-      "longitude": 39.2981,
-      "latitude": -10.3213
+      "longitude": 39.2901,
+      "latitude": -10.3336
     },
     {
       "block_id": "d2a6d0817bc8-162",
@@ -14622,8 +14634,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 09:02:25",
-      "longitude": 39.284,
-      "latitude": -10.3386
+      "longitude": 39.2823,
+      "latitude": -10.3242
     },
     {
       "block_id": "d2a6d0817bc8-163",
@@ -14693,8 +14705,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 09:05:03",
-      "longitude": 39.3008,
-      "latitude": -10.3213
+      "longitude": 39.287,
+      "latitude": -10.3339
     },
     {
       "block_id": "d2a6d0817bc8-164",
@@ -14764,8 +14776,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 09:07:14",
-      "longitude": 39.2957,
-      "latitude": -10.3204
+      "longitude": 39.3008,
+      "latitude": -10.3264
     },
     {
       "block_id": "d2a6d0817bc8-165",
@@ -14836,8 +14848,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 15:38:12",
-      "longitude": 39.3036,
-      "latitude": -10.3228
+      "longitude": 39.2878,
+      "latitude": -10.3292
     },
     {
       "block_id": "d2a6d0817bc8-166",
@@ -14908,8 +14920,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 15:40:53",
-      "longitude": 39.2965,
-      "latitude": -10.3348
+      "longitude": 39.299,
+      "latitude": -10.3199
     },
     {
       "block_id": "d2a6d0817bc8-167",
@@ -14979,8 +14991,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 15:42:51",
-      "longitude": 39.2931,
-      "latitude": -10.332
+      "longitude": 39.2816,
+      "latitude": -10.3329
     },
     {
       "block_id": "d2a6d0817bc8-168",
@@ -15049,8 +15061,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 18:03:38",
-      "longitude": 39.295,
-      "latitude": -10.3238
+      "longitude": 39.2995,
+      "latitude": -10.3443
     },
     {
       "block_id": "d2a6d0817bc8-169",
@@ -15120,8 +15132,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 18:02:02",
-      "longitude": 39.3068,
-      "latitude": -10.3388
+      "longitude": 39.2904,
+      "latitude": -10.3414
     },
     {
       "block_id": "d2a6d0817bc8-170",
@@ -15191,8 +15203,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 17:44:24",
-      "longitude": 39.3009,
-      "latitude": -10.3203
+      "longitude": 39.3015,
+      "latitude": -10.3464
     },
     {
       "block_id": "d2a6d0817bc8-171",
@@ -15263,8 +15275,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 17:42:24",
-      "longitude": 39.2989,
-      "latitude": -10.3322
+      "longitude": 39.3089,
+      "latitude": -10.3398
     },
     {
       "block_id": "d2a6d0817bc8-172",
@@ -15335,8 +15347,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 17:40:52",
-      "longitude": 39.3104,
-      "latitude": -10.3372
+      "longitude": 39.3066,
+      "latitude": -10.3242
     },
     {
       "block_id": "d2a6d0817bc8-173",
@@ -15443,8 +15455,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-13 07:16:39",
-      "longitude": 39.4294,
-      "latitude": -10.2832
+      "longitude": 39.4261,
+      "latitude": -10.2841
     },
     {
       "block_id": "d2a6d0817bc8-174",
@@ -15551,8 +15563,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-13 07:29:37",
-      "longitude": 39.4247,
-      "latitude": -10.2768
+      "longitude": 39.4226,
+      "latitude": -10.2668
     },
     {
       "block_id": "d2a6d0817bc8-175",
@@ -15659,8 +15671,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-13 07:36:16",
-      "longitude": 39.4448,
-      "latitude": -10.267
+      "longitude": 39.424,
+      "latitude": -10.2599
     },
     {
       "block_id": "d2a6d0817bc8-176",
@@ -15767,8 +15779,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:56:39",
-      "longitude": 39.4316,
-      "latitude": -10.2565
+      "longitude": 39.4388,
+      "latitude": -10.2507
     },
     {
       "block_id": "d2a6d0817bc8-177",
@@ -15875,8 +15887,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 16:47:44",
-      "longitude": 39.4347,
-      "latitude": -10.2424
+      "longitude": 39.4295,
+      "latitude": -10.2501
     },
     {
       "block_id": "d2a6d0817bc8-178",
@@ -15983,8 +15995,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-20 15:17:55",
-      "longitude": 39.4282,
-      "latitude": -10.2715
+      "longitude": 39.4193,
+      "latitude": -10.2595
     },
     {
       "block_id": "d2a6d0817bc8-179",
@@ -16091,8 +16103,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-14 07:34:20",
-      "longitude": 39.4286,
-      "latitude": -10.2594
+      "longitude": 39.4261,
+      "latitude": -10.239
     },
     {
       "block_id": "d2a6d0817bc8-180",
@@ -16199,8 +16211,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-14 07:57:33",
-      "longitude": 39.4337,
-      "latitude": -10.2394
+      "longitude": 39.4261,
+      "latitude": -10.2354
     },
     {
       "block_id": "d2a6d0817bc8-181",
@@ -16307,8 +16319,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-20 15:29:20",
-      "longitude": 39.4189,
-      "latitude": -10.2504
+      "longitude": 39.4119,
+      "latitude": -10.2532
     },
     {
       "block_id": "d2a6d0817bc8-182",
@@ -16415,8 +16427,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-13 07:57:53",
-      "longitude": 39.4344,
-      "latitude": -10.2927
+      "longitude": 39.4191,
+      "latitude": -10.2865
     },
     {
       "block_id": "d2a6d0817bc8-183",
@@ -16523,8 +16535,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-13 08:24:21",
-      "longitude": 39.4232,
-      "latitude": -10.2567
+      "longitude": 39.4177,
+      "latitude": -10.2541
     },
     {
       "block_id": "d2a6d0817bc8-184",
@@ -16631,8 +16643,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-20 15:41:53",
-      "longitude": 39.4177,
-      "latitude": -10.2569
+      "longitude": 39.4235,
+      "latitude": -10.2535
     },
     {
       "block_id": "d2a6d0817bc8-185",
@@ -16739,8 +16751,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-20 15:10:51",
-      "longitude": 39.4077,
-      "latitude": -10.2687
+      "longitude": 39.4291,
+      "latitude": -10.2623
     },
     {
       "block_id": "d2a6d0817bc8-186",
@@ -16846,8 +16858,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-20 14:43:46",
-      "longitude": 39.4098,
-      "latitude": -10.2667
+      "longitude": 39.4106,
+      "latitude": -10.2756
     },
     {
       "block_id": "d2a6d0817bc8-187",
@@ -16954,8 +16966,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-23 17:31:00",
-      "longitude": 39.4432,
-      "latitude": -10.2613
+      "longitude": 39.4321,
+      "latitude": -10.2477
     },
     {
       "block_id": "d2a6d0817bc8-188",
@@ -17062,8 +17074,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:46:10",
-      "longitude": 39.4342,
-      "latitude": -10.2537
+      "longitude": 39.4282,
+      "latitude": -10.2405
     },
     {
       "block_id": "d2a6d0817bc8-189",
@@ -17170,8 +17182,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:51:09",
-      "longitude": 39.4212,
-      "latitude": -10.2494
+      "longitude": 39.4323,
+      "latitude": -10.2454
     },
     {
       "block_id": "d2a6d0817bc8-190",
@@ -17277,8 +17289,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:40:34",
-      "longitude": 39.4222,
-      "latitude": -10.2443
+      "longitude": 39.4208,
+      "latitude": -10.2498
     },
     {
       "block_id": "d2a6d0817bc8-191",
@@ -17385,7 +17397,7 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-14 07:46:02",
-      "longitude": 39.4236,
+      "longitude": 39.43,
       "latitude": -10.2569
     },
     {
@@ -17493,8 +17505,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-13 08:29:11",
-      "longitude": 39.4369,
-      "latitude": -10.2648
+      "longitude": 39.4274,
+      "latitude": -10.2691
     },
     {
       "block_id": "d2a6d0817bc8-193",
@@ -17601,8 +17613,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-14 07:41:08",
-      "longitude": 39.4332,
-      "latitude": -10.2605
+      "longitude": 39.4156,
+      "latitude": -10.2503
     },
     {
       "block_id": "d2a6d0817bc8-194",
@@ -17709,8 +17721,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-14 06:47:25",
-      "longitude": 39.4338,
-      "latitude": -10.2389
+      "longitude": 39.4268,
+      "latitude": -10.2387
     },
     {
       "block_id": "d2a6d0817bc8-195",
@@ -17817,8 +17829,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-23 16:40:23",
-      "longitude": 39.4263,
-      "latitude": -10.2584
+      "longitude": 39.4202,
+      "latitude": -10.2416
     },
     {
       "block_id": "d2a6d0817bc8-196",
@@ -17925,8 +17937,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:21:51",
-      "longitude": 39.4327,
-      "latitude": -10.2693
+      "longitude": 39.439,
+      "latitude": -10.2707
     },
     {
       "block_id": "d2a6d0817bc8-197",
@@ -18033,8 +18045,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-14 07:51:55",
-      "longitude": 39.434,
-      "latitude": -10.2596
+      "longitude": 39.4248,
+      "latitude": -10.2599
     },
     {
       "block_id": "d2a6d0817bc8-198",
@@ -18140,8 +18152,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:25:45",
-      "longitude": 39.6608,
-      "latitude": -10.1252
+      "longitude": 39.6466,
+      "latitude": -10.1306
     },
     {
       "block_id": "d2a6d0817bc8-199",
@@ -18247,8 +18259,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:27:43",
-      "longitude": 39.6519,
-      "latitude": -10.1257
+      "longitude": 39.661,
+      "latitude": -10.1362
     },
     {
       "block_id": "d2a6d0817bc8-200",
@@ -18355,8 +18367,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:29:42",
-      "longitude": 39.6435,
-      "latitude": -10.1426
+      "longitude": 39.6571,
+      "latitude": -10.1397
     },
     {
       "block_id": "d2a6d0817bc8-201",
@@ -18463,8 +18475,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:31:36",
-      "longitude": 39.6404,
-      "latitude": -10.1309
+      "longitude": 39.6659,
+      "latitude": -10.1416
     },
     {
       "block_id": "d2a6d0817bc8-202",
@@ -18571,8 +18583,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:33:15",
-      "longitude": 39.6647,
-      "latitude": -10.1279
+      "longitude": 39.6558,
+      "latitude": -10.138
     },
     {
       "block_id": "d2a6d0817bc8-203",
@@ -18679,8 +18691,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:35:35",
-      "longitude": 39.6524,
-      "latitude": -10.1349
+      "longitude": 39.6579,
+      "latitude": -10.137
     },
     {
       "block_id": "d2a6d0817bc8-204",
@@ -18787,8 +18799,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:37:01",
-      "longitude": 39.6624,
-      "latitude": -10.1352
+      "longitude": 39.6598,
+      "latitude": -10.1378
     },
     {
       "block_id": "d2a6d0817bc8-205",
@@ -18895,8 +18907,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:38:47",
-      "longitude": 39.6497,
-      "latitude": -10.1425
+      "longitude": 39.6604,
+      "latitude": -10.1391
     },
     {
       "block_id": "d2a6d0817bc8-206",
@@ -19003,8 +19015,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-15 12:40:08",
-      "longitude": 39.6566,
-      "latitude": -10.1312
+      "longitude": 39.6583,
+      "latitude": -10.1384
     },
     {
       "block_id": "d2a6d0817bc8-207",
@@ -19111,8 +19123,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:41:32",
-      "longitude": 39.6519,
-      "latitude": -10.1417
+      "longitude": 39.6615,
+      "latitude": -10.1298
     },
     {
       "block_id": "d2a6d0817bc8-208",
@@ -19218,8 +19230,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:42:39",
-      "longitude": 39.6552,
-      "latitude": -10.1379
+      "longitude": 39.656,
+      "latitude": -10.1378
     },
     {
       "block_id": "d2a6d0817bc8-209",
@@ -19326,8 +19338,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:43:42",
-      "longitude": 39.6658,
-      "latitude": -10.1356
+      "longitude": 39.6484,
+      "latitude": -10.1241
     },
     {
       "block_id": "d2a6d0817bc8-210",
@@ -19434,8 +19446,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:44:55",
-      "longitude": 39.6618,
-      "latitude": -10.1249
+      "longitude": 39.652,
+      "latitude": -10.1403
     },
     {
       "block_id": "d2a6d0817bc8-211",
@@ -19542,8 +19554,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:46:03",
-      "longitude": 39.6456,
-      "latitude": -10.1442
+      "longitude": 39.6464,
+      "latitude": -10.1334
     },
     {
       "block_id": "d2a6d0817bc8-212",
@@ -19650,8 +19662,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:47:33",
-      "longitude": 39.6554,
-      "latitude": -10.1432
+      "longitude": 39.6485,
+      "latitude": -10.1351
     },
     {
       "block_id": "d2a6d0817bc8-213",
@@ -19757,8 +19769,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:48:38",
-      "longitude": 39.6513,
-      "latitude": -10.137
+      "longitude": 39.6481,
+      "latitude": -10.1323
     },
     {
       "block_id": "d2a6d0817bc8-214",
@@ -19865,8 +19877,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:49:58",
-      "longitude": 39.6554,
-      "latitude": -10.1357
+      "longitude": 39.6672,
+      "latitude": -10.1355
     },
     {
       "block_id": "d2a6d0817bc8-215",
@@ -19973,8 +19985,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:51:15",
-      "longitude": 39.6586,
-      "latitude": -10.1212
+      "longitude": 39.6436,
+      "latitude": -10.1316
     },
     {
       "block_id": "d2a6d0817bc8-216",
@@ -20080,8 +20092,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:52:26",
-      "longitude": 39.667,
-      "latitude": -10.1319
+      "longitude": 39.655,
+      "latitude": -10.122
     },
     {
       "block_id": "d2a6d0817bc8-217",
@@ -20187,8 +20199,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:53:36",
-      "longitude": 39.65,
-      "latitude": -10.146
+      "longitude": 39.652,
+      "latitude": -10.1232
     },
     {
       "block_id": "d2a6d0817bc8-218",
@@ -20295,8 +20307,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-15 12:54:54",
-      "longitude": 39.6649,
-      "latitude": -10.1372
+      "longitude": 39.6553,
+      "latitude": -10.1232
     },
     {
       "block_id": "d2a6d0817bc8-219",
@@ -20403,8 +20415,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:56:31",
-      "longitude": 39.6516,
-      "latitude": -10.1385
+      "longitude": 39.662,
+      "latitude": -10.138
     },
     {
       "block_id": "d2a6d0817bc8-220",
@@ -20510,8 +20522,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:57:56",
-      "longitude": 39.6594,
-      "latitude": -10.1354
+      "longitude": 39.6657,
+      "latitude": -10.1262
     },
     {
       "block_id": "d2a6d0817bc8-221",
@@ -20617,8 +20629,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-15 12:59:00",
-      "longitude": 39.6567,
-      "latitude": -10.1359
+      "longitude": 39.6503,
+      "latitude": -10.1408
     },
     {
       "block_id": "d2a6d0817bc8-222",
@@ -20724,8 +20736,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 13:00:07",
-      "longitude": 39.6586,
-      "latitude": -10.1405
+      "longitude": 39.6547,
+      "latitude": -10.14
     },
     {
       "block_id": "d2a6d0817bc8-223",
@@ -20832,8 +20844,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 13:01:09",
-      "longitude": 39.6491,
-      "latitude": -10.1312
+      "longitude": 39.6538,
+      "latitude": -10.1267
     },
     {
       "block_id": "d2a6d0817bc8-224",
@@ -20939,8 +20951,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 13:02:31",
-      "longitude": 39.6595,
-      "latitude": -10.141
+      "longitude": 39.6513,
+      "latitude": -10.1297
     },
     {
       "block_id": "d2a6d0817bc8-225",
@@ -21047,8 +21059,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 13:03:42",
-      "longitude": 39.6541,
-      "latitude": -10.1241
+      "longitude": 39.6493,
+      "latitude": -10.1218
     },
     {
       "block_id": "d2a6d0817bc8-226",
@@ -21155,8 +21167,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:32:09",
-      "longitude": 39.5758,
-      "latitude": -10.0795
+      "longitude": 39.5968,
+      "latitude": -10.0918
     },
     {
       "block_id": "d2a6d0817bc8-227",
@@ -21263,8 +21275,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:34:06",
-      "longitude": 39.5939,
-      "latitude": -10.0792
+      "longitude": 39.5788,
+      "latitude": -10.1005
     },
     {
       "block_id": "d2a6d0817bc8-228",
@@ -21370,8 +21382,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:35:55",
-      "longitude": 39.582,
-      "latitude": -10.0923
+      "longitude": 39.5946,
+      "latitude": -10.096
     },
     {
       "block_id": "d2a6d0817bc8-229",
@@ -21477,8 +21489,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:37:13",
-      "longitude": 39.5956,
-      "latitude": -10.0889
+      "longitude": 39.5802,
+      "latitude": -10.0986
     },
     {
       "block_id": "d2a6d0817bc8-230",
@@ -21583,8 +21595,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:38:32",
-      "longitude": 39.5889,
-      "latitude": -10.0811
+      "longitude": 39.5806,
+      "latitude": -10.0782
     },
     {
       "block_id": "d2a6d0817bc8-231",
@@ -21689,8 +21701,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:39:57",
-      "longitude": 39.5812,
-      "latitude": -10.0859
+      "longitude": 39.575,
+      "latitude": -10.0824
     },
     {
       "block_id": "d2a6d0817bc8-232",
@@ -21795,8 +21807,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:41:15",
-      "longitude": 39.5793,
-      "latitude": -10.1017
+      "longitude": 39.5719,
+      "latitude": -10.0856
     },
     {
       "block_id": "d2a6d0817bc8-233",
@@ -21902,8 +21914,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:42:27",
-      "longitude": 39.5859,
-      "latitude": -10.0866
+      "longitude": 39.5899,
+      "latitude": -10.0949
     },
     {
       "block_id": "d2a6d0817bc8-234",
@@ -22008,8 +22020,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:43:36",
-      "longitude": 39.5821,
-      "latitude": -10.09
+      "longitude": 39.5909,
+      "latitude": -10.0914
     },
     {
       "block_id": "d2a6d0817bc8-235",
@@ -22116,8 +22128,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:44:46",
-      "longitude": 39.5855,
-      "latitude": -10.0963
+      "longitude": 39.5856,
+      "latitude": -10.083
     },
     {
       "block_id": "d2a6d0817bc8-236",
@@ -22223,8 +22235,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:46:01",
-      "longitude": 39.5881,
-      "latitude": -10.0823
+      "longitude": 39.5937,
+      "latitude": -10.0933
     },
     {
       "block_id": "d2a6d0817bc8-237",
@@ -22329,8 +22341,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:47:15",
-      "longitude": 39.5732,
-      "latitude": -10.0833
+      "longitude": 39.5791,
+      "latitude": -10.094
     },
     {
       "block_id": "d2a6d0817bc8-238",
@@ -22436,8 +22448,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:48:41",
-      "longitude": 39.5983,
-      "latitude": -10.0916
+      "longitude": 39.59,
+      "latitude": -10.0844
     },
     {
       "block_id": "d2a6d0817bc8-239",
@@ -22542,8 +22554,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:50:19",
-      "longitude": 39.5741,
-      "latitude": -10.0947
+      "longitude": 39.5739,
+      "latitude": -10.0944
     },
     {
       "block_id": "d2a6d0817bc8-240",
@@ -22649,8 +22661,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:51:42",
-      "longitude": 39.5824,
-      "latitude": -10.0959
+      "longitude": 39.5874,
+      "latitude": -10.09
     },
     {
       "block_id": "d2a6d0817bc8-241",
@@ -22757,8 +22769,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:52:39",
-      "longitude": 39.5837,
-      "latitude": -10.096
+      "longitude": 39.5934,
+      "latitude": -10.0992
     },
     {
       "block_id": "d2a6d0817bc8-242",
@@ -22865,8 +22877,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:53:46",
-      "longitude": 39.5967,
-      "latitude": -10.0942
+      "longitude": 39.5848,
+      "latitude": -10.0877
     },
     {
       "block_id": "d2a6d0817bc8-243",
@@ -22971,8 +22983,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:54:46",
-      "longitude": 39.5866,
-      "latitude": -10.0999
+      "longitude": 39.5872,
+      "latitude": -10.0877
     },
     {
       "block_id": "d2a6d0817bc8-244",
@@ -23078,8 +23090,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:56:07",
-      "longitude": 39.59,
-      "latitude": -10.0821
+      "longitude": 39.5975,
+      "latitude": -10.091
     },
     {
       "block_id": "d2a6d0817bc8-245",
@@ -23186,8 +23198,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:57:17",
-      "longitude": 39.5812,
-      "latitude": -10.0941
+      "longitude": 39.5782,
+      "latitude": -10.0908
     },
     {
       "block_id": "d2a6d0817bc8-246",
@@ -23292,8 +23304,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:58:31",
-      "longitude": 39.5882,
-      "latitude": -10.0835
+      "longitude": 39.5849,
+      "latitude": -10.0869
     },
     {
       "block_id": "d2a6d0817bc8-247",
@@ -23399,8 +23411,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:59:38",
-      "longitude": 39.5776,
-      "latitude": -10.1017
+      "longitude": 39.5814,
+      "latitude": -10.1038
     },
     {
       "block_id": "d2a6d0817bc8-248",
@@ -23507,8 +23519,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 13:00:35",
-      "longitude": 39.585,
-      "latitude": -10.1016
+      "longitude": 39.573,
+      "latitude": -10.0855
     },
     {
       "block_id": "d2a6d0817bc8-249",
@@ -23613,8 +23625,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 13:01:33",
-      "longitude": 39.5774,
-      "latitude": -10.0974
+      "longitude": 39.5836,
+      "latitude": -10.0852
     },
     {
       "block_id": "d2a6d0817bc8-250",
@@ -23720,8 +23732,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 13:02:59",
-      "longitude": 39.5824,
-      "latitude": -10.0834
+      "longitude": 39.591,
+      "latitude": -10.0854
     },
     {
       "block_id": "d2a6d0817bc8-251",
@@ -23828,8 +23840,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 17:54:13",
-      "longitude": 39.3101,
-      "latitude": -9.0853
+      "longitude": 39.3322,
+      "latitude": -9.0717
     },
     {
       "block_id": "d2a6d0817bc8-252",
@@ -23936,8 +23948,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 20:44:41",
-      "longitude": 39.3217,
-      "latitude": -9.0918
+      "longitude": 39.3205,
+      "latitude": -9.08
     },
     {
       "block_id": "d2a6d0817bc8-253",
@@ -24044,8 +24056,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 17:39:45",
-      "longitude": 39.3063,
-      "latitude": -9.0795
+      "longitude": 39.332,
+      "latitude": -9.0877
     },
     {
       "block_id": "d2a6d0817bc8-254",
@@ -24152,8 +24164,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:01:45",
-      "longitude": 39.3209,
-      "latitude": -9.0679
+      "longitude": 39.3143,
+      "latitude": -9.0807
     },
     {
       "block_id": "d2a6d0817bc8-255",
@@ -24260,8 +24272,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:22:47",
-      "longitude": 39.3116,
-      "latitude": -9.0773
+      "longitude": 39.3187,
+      "latitude": -9.0886
     },
     {
       "block_id": "d2a6d0817bc8-256",
@@ -24368,8 +24380,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-09 14:35:18",
-      "longitude": 39.3164,
-      "latitude": -9.0836
+      "longitude": 39.3199,
+      "latitude": -9.0683
     },
     {
       "block_id": "d2a6d0817bc8-257",
@@ -24475,8 +24487,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:08:58",
-      "longitude": 39.3088,
-      "latitude": -9.0744
+      "longitude": 39.3206,
+      "latitude": -9.0854
     },
     {
       "block_id": "d2a6d0817bc8-258",
@@ -24583,8 +24595,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:33:44",
-      "longitude": 39.3166,
-      "latitude": -9.0784
+      "longitude": 39.3224,
+      "latitude": -9.0766
     },
     {
       "block_id": "d2a6d0817bc8-259",
@@ -24691,8 +24703,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:43:55",
-      "longitude": 39.3299,
-      "latitude": -9.0825
+      "longitude": 39.3201,
+      "latitude": -9.0788
     },
     {
       "block_id": "d2a6d0817bc8-260",
@@ -24798,8 +24810,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-12 07:49:51",
-      "longitude": 39.3508,
-      "latitude": -8.7944
+      "longitude": 39.3592,
+      "latitude": -8.8078
     },
     {
       "block_id": "d2a6d0817bc8-261",
@@ -24906,8 +24918,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-12 07:58:46",
-      "longitude": 39.3375,
-      "latitude": -8.7992
+      "longitude": 39.345,
+      "latitude": -8.8079
     },
     {
       "block_id": "d2a6d0817bc8-262",
@@ -25014,8 +25026,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-12 08:06:13",
-      "longitude": 39.356,
-      "latitude": -8.7926
+      "longitude": 39.3398,
+      "latitude": -8.8036
     },
     {
       "block_id": "d2a6d0817bc8-263",
@@ -25121,8 +25133,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-12 08:12:56",
-      "longitude": 39.3567,
-      "latitude": -8.7877
+      "longitude": 39.3423,
+      "latitude": -8.7918
     },
     {
       "block_id": "d2a6d0817bc8-264",
@@ -25229,8 +25241,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:08:49",
-      "longitude": 39.3168,
-      "latitude": -9.0647
+      "longitude": 39.3145,
+      "latitude": -9.0648
     },
     {
       "block_id": "d2a6d0817bc8-265",
@@ -25337,8 +25349,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:15:34",
-      "longitude": 39.3068,
-      "latitude": -9.0626
+      "longitude": 39.3092,
+      "latitude": -9.0585
     },
     {
       "block_id": "d2a6d0817bc8-266",
@@ -25445,8 +25457,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:22:23",
-      "longitude": 39.3092,
-      "latitude": -9.0553
+      "longitude": 39.325,
+      "latitude": -9.0547
     },
     {
       "block_id": "d2a6d0817bc8-267",
@@ -25553,8 +25565,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:28:57",
-      "longitude": 39.3208,
-      "latitude": -9.0641
+      "longitude": 39.3171,
+      "latitude": -9.0509
     },
     {
       "block_id": "d2a6d0817bc8-268",
@@ -25661,8 +25673,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:54:24",
-      "longitude": 39.3139,
-      "latitude": -9.0528
+      "longitude": 39.3189,
+      "latitude": -9.0455
     },
     {
       "block_id": "d2a6d0817bc8-269",
@@ -25768,8 +25780,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:02:07",
-      "longitude": 39.3141,
-      "latitude": -9.0377
+      "longitude": 39.3274,
+      "latitude": -9.0436
     },
     {
       "block_id": "d2a6d0817bc8-270",
@@ -25876,8 +25888,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-09 14:27:03",
-      "longitude": 39.315,
-      "latitude": -9.0521
+      "longitude": 39.3167,
+      "latitude": -9.0697
     },
     {
       "block_id": "d2a6d0817bc8-271",
@@ -25984,8 +25996,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:08:33",
-      "longitude": 39.3234,
-      "latitude": -9.0521
+      "longitude": 39.313,
+      "latitude": -9.0625
     },
     {
       "block_id": "d2a6d0817bc8-272",
@@ -26092,8 +26104,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:14:56",
-      "longitude": 39.3075,
-      "latitude": -9.0401
+      "longitude": 39.3282,
+      "latitude": -9.0536
     },
     {
       "block_id": "d2a6d0817bc8-273",
@@ -26199,8 +26211,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:23:57",
-      "longitude": 39.3104,
-      "latitude": -9.0498
+      "longitude": 39.3138,
+      "latitude": -9.0628
     },
     {
       "block_id": "d2a6d0817bc8-274",
@@ -26307,8 +26319,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:29:05",
-      "longitude": 39.322,
-      "latitude": -9.0589
+      "longitude": 39.3135,
+      "latitude": -9.0437
     },
     {
       "block_id": "d2a6d0817bc8-275",
@@ -26414,8 +26426,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:35:04",
-      "longitude": 39.3297,
-      "latitude": -9.0535
+      "longitude": 39.3232,
+      "latitude": -9.0416
     },
     {
       "block_id": "d2a6d0817bc8-276",
@@ -26524,8 +26536,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-20 07:21:42",
-      "longitude": 39.3257,
-      "latitude": -9.0511
+      "longitude": 39.3237,
+      "latitude": -9.0717
     },
     {
       "block_id": "d2a6d0817bc8-277",
@@ -26634,8 +26646,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-25 21:59:55",
-      "longitude": 39.3214,
-      "latitude": -9.0737
+      "longitude": 39.327,
+      "latitude": -9.0851
     },
     {
       "block_id": "d2a6d0817bc8-278",
@@ -26744,8 +26756,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-25 22:09:44",
-      "longitude": 39.3071,
-      "latitude": -9.0858
+      "longitude": 39.3132,
+      "latitude": -9.0953
     },
     {
       "block_id": "d2a6d0817bc8-279",
@@ -26854,8 +26866,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-25 22:15:52",
-      "longitude": 39.3193,
-      "latitude": -9.0962
+      "longitude": 39.3171,
+      "latitude": -9.0899
     },
     {
       "block_id": "d2a6d0817bc8-280",
@@ -26964,8 +26976,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:31:44",
-      "longitude": 39.3218,
-      "latitude": -9.049
+      "longitude": 39.3185,
+      "latitude": -9.0536
     },
     {
       "block_id": "d2a6d0817bc8-281",
@@ -27074,8 +27086,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:37:51",
-      "longitude": 39.3107,
-      "latitude": -9.0914
+      "longitude": 39.3223,
+      "latitude": -9.0969
     },
     {
       "block_id": "d2a6d0817bc8-282",
@@ -27184,8 +27196,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:43:09",
-      "longitude": 39.3146,
-      "latitude": -9.0806
+      "longitude": 39.3309,
+      "latitude": -9.0928
     },
     {
       "block_id": "d2a6d0817bc8-283",
@@ -27294,8 +27306,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:49:51",
-      "longitude": 39.3328,
-      "latitude": -9.0804
+      "longitude": 39.3185,
+      "latitude": -9.0812
     },
     {
       "block_id": "d2a6d0817bc8-284",
@@ -27404,8 +27416,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:59:01",
-      "longitude": 39.3251,
-      "latitude": -9.073
+      "longitude": 39.3163,
+      "latitude": -9.0924
     },
     {
       "block_id": "d2a6d0817bc8-285",
@@ -27514,8 +27526,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:03:52",
-      "longitude": 39.3237,
-      "latitude": -9.0541
+      "longitude": 39.3249,
+      "latitude": -9.0646
     },
     {
       "block_id": "d2a6d0817bc8-286",
@@ -27624,8 +27636,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:07:29",
-      "longitude": 39.3195,
-      "latitude": -9.0506
+      "longitude": 39.3087,
+      "latitude": -9.0661
     },
     {
       "block_id": "d2a6d0817bc8-287",
@@ -27734,8 +27746,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:11:14",
-      "longitude": 39.3079,
-      "latitude": -9.0607
+      "longitude": 39.3291,
+      "latitude": -9.0692
     },
     {
       "block_id": "d2a6d0817bc8-288",
@@ -27844,8 +27856,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:16:05",
-      "longitude": 39.3226,
-      "latitude": -9.0612
+      "longitude": 39.3125,
+      "latitude": -9.0711
     },
     {
       "block_id": "d2a6d0817bc8-289",
@@ -27954,8 +27966,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:21:05",
-      "longitude": 39.3258,
-      "latitude": -9.0638
+      "longitude": 39.322,
+      "latitude": -9.0504
     },
     {
       "block_id": "d2a6d0817bc8-290",
@@ -28058,8 +28070,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:30:55",
-      "longitude": 39.3297,
-      "latitude": -9.0527
+      "longitude": 39.3084,
+      "latitude": -9.0576
     },
     {
       "block_id": "d2a6d0817bc8-291",
@@ -28168,8 +28180,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:00:54",
-      "longitude": 39.3238,
-      "latitude": -9.0649
+      "longitude": 39.3128,
+      "latitude": -9.066
     },
     {
       "block_id": "d2a6d0817bc8-292",
@@ -28278,8 +28290,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:05:28",
-      "longitude": 39.3284,
-      "latitude": -9.0577
+      "longitude": 39.3289,
+      "latitude": -9.0681
     },
     {
       "block_id": "d2a6d0817bc8-293",
@@ -28387,8 +28399,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:08:43",
-      "longitude": 39.3239,
-      "latitude": -9.0656
+      "longitude": 39.3083,
+      "latitude": -9.0627
     },
     {
       "block_id": "d2a6d0817bc8-294",
@@ -28497,8 +28509,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:12:26",
-      "longitude": 39.3147,
-      "latitude": -9.0698
+      "longitude": 39.3151,
+      "latitude": -9.0509
     },
     {
       "block_id": "d2a6d0817bc8-295",
@@ -28607,8 +28619,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:15:47",
-      "longitude": 39.329,
-      "latitude": -9.0602
+      "longitude": 39.3278,
+      "latitude": -9.0637
     },
     {
       "block_id": "d2a6d0817bc8-296",
@@ -28718,7 +28730,7 @@
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:19:28",
       "longitude": 39.3045,
-      "latitude": -9.0607
+      "latitude": -9.0612
     },
     {
       "block_id": "d2a6d0817bc8-297",
@@ -28827,8 +28839,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:24:16",
-      "longitude": 39.3115,
-      "latitude": -9.0699
+      "longitude": 39.3062,
+      "latitude": -9.0627
     },
     {
       "block_id": "d2a6d0817bc8-298",
@@ -28930,8 +28942,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:29:34",
-      "longitude": 39.3279,
-      "latitude": -9.0684
+      "longitude": 39.329,
+      "latitude": -9.0698
     },
     {
       "block_id": "d2a6d0817bc8-299",
@@ -29040,8 +29052,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:39:25",
-      "longitude": 39.3316,
-      "latitude": -9.0609
+      "longitude": 39.3146,
+      "latitude": -9.0519
     },
     {
       "block_id": "d2a6d0817bc8-300",
@@ -29150,8 +29162,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:42:26",
-      "longitude": 39.3136,
-      "latitude": -9.0646
+      "longitude": 39.3213,
+      "latitude": -9.0525
     }
   ],
   "plot_data": [
