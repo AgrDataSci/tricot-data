@@ -39,14 +39,14 @@ The hierarchical organization allows users to track data from trial design throu
 │   │   ├── license
 │   │   ├── publication year
 │   │   ├── study
-│   │   │   │   ├── id
-│   │   │   │   ├── country (ISO2)
-│   │   │   │   ├── title
-│   │   │   │   ├── description
-│   │   │   │   ├── type
-│   │   │   │   ├── unit of analysis
-│   │   │   │   ├── objective
-│   │   │   │   ├── experimental site
+│   │   │   ├── id
+│   │   │   ├── country (ISO2)
+│   │   │   ├── title
+│   │   │   ├── description
+│   │   │   ├── type
+│   │   │   ├── unit of analysis
+│   │   │   ├── objective
+│   │   │   ├── experimental site
 │   │   ├── date
 │   │   │   ├── date start (YYYY-MM-DD)
 │   │   │   ├── date end (YYYY-MM-DD)
