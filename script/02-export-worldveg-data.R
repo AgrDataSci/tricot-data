@@ -270,9 +270,9 @@ for(k in 2:3) {
                      crop_name = meta$crop$name,
                      taxon = meta$crop$taxon,
                      data_producer_institute = meta$data_producer$name,
-                     trial_country = meta$study$country,
+                     country = meta$study$country,
                      start_date = meta$date$start,
-                     trial_type = meta$study$type,
+                     type = meta$study$type,
                      participants = meta$participants$total,
                      filename = paste0(filename, ".json"),
                      check.names = FALSE)
@@ -289,7 +289,7 @@ xy[c("longitude","latitude")] = lapply(xy[c("longitude","latitude")], function(x
 write.csv(xy, file = "docs/trial-xy.csv", row.names = FALSE)
 
 # remove duplicated entries
-available = available[!duplicated(available$trial_id), ]
+available = available[!duplicated(available$study_id), ]
 
 write.csv(available, file = "data/aa-available-datasets.csv", row.names = FALSE)
 
