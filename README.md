@@ -27,86 +27,85 @@ The dataset follows a structured format designed to ensure consistency and inter
 The hierarchical organization allows users to track data from trial design through analysis while maintaining links between metadata, blocks, and plots.  
 
 ``` text
-├── Tricot data 
-│   ├── metadata
-│   │   ├── changelog
-│   │   │   ├── version
-│   │   │   ├── notes
-│   │   |   ├── software
-│   │   │   │   ├── package
-│   │   │   │   ├── package version
-│   │   ├── identifier (doi)
-│   │   ├── license
-│   │   ├── publication year
-│   │   ├── study
-│   │   │   ├── id
-│   │   │   ├── country (ISO2)
-│   │   │   ├── title
-│   │   │   ├── description
-│   │   │   ├── type
-│   │   │   ├── unit of analysis
-│   │   │   ├── objective
-│   │   │   ├── experimental site
-│   │   ├── date
-│   │   │   ├── date start (YYYY-MM-DD)
-│   │   │   ├── date end (YYYY-MM-DD)
-│   │   ├── geo location
-│   │   │   ├── bounding box
-│   │   │   │   ├── xmin (0.00)
-│   │   │   │   ├── xmax (0.00)
-│   │   │   │   ├── ymin (0.00)
-│   │   │   │   ├── ymax (0.00)
-│   │   ├── data producer 
-│   │   │   ├── name
-│   │   │   ├── identifier (ROR id)
-│   │   │   ├── principal investigator
-│   │   │   ├── email
-│   │   │   ├── program (ADCIN, RTB, BOLDER)
-│   │   ├── crop 
-│   │   │   ├── name
-│   │   │   ├── taxon
-│   │   ├── participants
-│   │   │   ├── total 
-│   │   │   ├── men
-│   │   │   ├── women
-│   │   ├── genotypes
-│   │   │   ├── genotype name
-│   │   │   ├── role in trial
-│   │   │   ├── year release
-│   │   │   ├── market segment
-│   │   │   ├── country of origin
-│   │   │   ├── remarks
-│   │   ├── variables
-│   │   │   ├── variable name
-│   │   │   ├── description
-│   │   │   ├── ontology id
-│   │   │   ├── value type
-│   │   │   ├── unit
-│   │   │   ├── controlled vocabulary
-│   ├── block data
-│   │   ├── block id
-│   │   ├── longitude
-│   │   ├── latitude
-│   │   ├── planting date
-│   │   ├── gender
-│   │   ├── age
-│   │   ├── ...
-│   │   ├── any other data
-│   ├── plot data
-│   │   ├── block id
+├── metadata
+│   ├── changelog
+│   │   ├── version
+│   │   ├── notes
+│   │   ├── software
+│   │   │   ├── package
+│   │   │   ├── package version
+│   ├── identifier (doi)
+│   ├── license
+│   ├── publication year
+│   ├── study
+│   │   ├── id
+│   │   ├── country (ISO2)
+│   │   ├── title
+│   │   ├── description
+│   │   ├── type
+│   │   ├── unit of analysis
+│   │   ├── objective
+│   │   ├── experimental site
+│   ├── date
+│   │   ├── date start (YYYY-MM-DD)
+│   │   ├── date end (YYYY-MM-DD)
+│   ├── geo location
+│   │   ├── bounding box
+│   │   │   ├── xmin (0.00)
+│   │   │   ├── xmax (0.00)
+│   │   │   ├── ymin (0.00)
+│   │   │   ├── ymax (0.00)
+│   ├── data producer 
+│   │   ├── name
+│   │   ├── identifier (ROR id)
+│   │   ├── principal investigator
+│   │   ├── email
+│   │   ├── program (ADCIN, RTB, BOLDER)
+│   ├── crop 
+│   │   ├── name
+│   │   ├── taxon
+│   ├── participants
+│   │   ├── total 
+│   │   ├── men
+│   │   ├── women
+│   ├── genotypes
 │   │   ├── genotype name
-│   │   ├── trait
-│   │   ├── collection moment 
-│   │   ├── value
-│   │   ├── value type (rank, numeric, text, date)
-│   ├── rank analysis
-│   │   ├── collection moment
-│   │   ├── trait
-│   │   ├── genotype name
-│   │   ├── estimate
-│   │   ├── se
-│   │   ├── casi se
-│   │   ├── casi var
+│   │   ├── role in trial
+│   │   ├── year release
+│   │   ├── market segment
+│   │   ├── country of origin
+│   │   ├── remarks
+│   ├── variables
+│   │   ├── variable name
+│   │   ├── description
+│   │   ├── ontology id
+│   │   ├── value type
+│   │   ├── unit
+│   │   ├── controlled vocabulary
+├── block data
+│   ├── block id
+│   ├── longitude
+│   ├── latitude
+│   ├── planting date
+│   ├── gender
+│   ├── age
+│   ├── ...
+│   ├── any other data
+├── plot data
+│   ├── block id
+│   ├── genotype name
+│   ├── trait
+│   ├── collection moment 
+│   ├── value
+│   ├── value type (rank, numeric, text, date)
+├── rank analysis
+│   ├── collection moment
+│   ├── trait
+│   ├── genotype name
+│   ├── estimate
+│   ├── se
+│   ├── casi se
+│   ├── casi var
 ```
 
 ## Citation
