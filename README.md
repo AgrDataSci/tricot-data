@@ -47,8 +47,8 @@ The hierarchical organization allows users to track data from trial design throu
 │   │   ├── objective
 │   │   ├── experimental site
 │   ├── date
-│   │   ├── date start (YYYY-MM-DD)
-│   │   ├── date end (YYYY-MM-DD)
+│   │   ├── start (YYYY-MM-DD)
+│   │   ├── end (YYYY-MM-DD)
 │   ├── geo location
 │   │   ├── bounding box
 │   │   │   ├── xmin (0.00)
@@ -70,7 +70,7 @@ The hierarchical organization allows users to track data from trial design throu
 │   │   ├── women
 │   ├── genotypes
 │   │   ├── genotype name
-│   │   ├── role in trial
+│   │   ├── role
 │   │   ├── year release
 │   │   ├── market segment
 │   │   ├── country of origin
