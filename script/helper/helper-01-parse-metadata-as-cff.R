@@ -35,6 +35,7 @@ for (i in seq_len(nrow(authors))) {
     paste0("    affiliation: ", affil_string)
   )
   
+  
   if(is.na(row$orcid)) author_block = author_block[-3]
   
   
