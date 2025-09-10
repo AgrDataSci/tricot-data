@@ -38,6 +38,10 @@ trial_description = paste("Strengthen seed systems of African vegetables and sca
 
 institute = "World Vegetable Center"
 
+pi = "Sognigbé N'Danikou"
+
+pi_email = "sognigbe.ndanikou@worldveg.org"
+
 program = "Traditional African Vegetables"
 
 ror_id = "https://ror.org/05dvmy761"
@@ -65,7 +69,7 @@ cmdata = cmdata[keep]
 
 cmdata
 
-for(k in 2:3) {
+for(k in seq_along(cmdata)) {
   
   x = cmdata[[k]]
   
@@ -80,6 +84,10 @@ for(k in 2:3) {
   
   meta$data_producer$program = program
   
+  meta$data_producer$principal_investigator = pi
+  
+  meta$data_producer$email = pi_email
+  
   meta$study$experimental_site = experimental_site
   
   meta$study$type = trial_type
@@ -92,12 +100,14 @@ for(k in 2:3) {
   
   meta$crop$name = ifelse(meta$crop$name == "Amaranths", "Amaranth", meta$crop$name)
   
+  meta$crop$name = gsub(" ", "", meta$crop$name)
+  
   meta$crop$name = tolower(meta$crop$name)
   
   meta$crop$taxon = ifelse(meta$crop$name == "amaranth", "Amaranthus spp.",
-                      ifelse(meta$crop$name == "okra", "Abelmoschus esculentus",
-                             ifelse(meta$crop$name == "jute mallow", "Corchorus spp."), 
-                             "Not provided"))
+                      ifelse(meta$crop$name == "okra", "Abelmoschus spp.",
+                             ifelse(meta$crop$name == "jutemallow", "Corchorus spp.", 
+                             "Not provided")))
   
   # ....................................
   # ....................................
@@ -131,6 +141,8 @@ for(k in 2:3) {
   
   rownames(plot) = 1:nrow(plot)
   
+  unique(plot$trait)
+  
   # ....................................
   # ....................................
   # all available non-PII block data
@@ -140,6 +152,20 @@ for(k in 2:3) {
   # ....................................
   # descriptors for variables in both plot and block data 
   variables = exportVariablesDescription(x, rank, measu, block)
+  
+  # until data backward merging is not implemented we need to remove the 
+  # 'fr' string from some trials 
+  # the variable descriptions will still be in french but this will 
+  # make easier to merge with other datasets
+  variables$variable_name = sub("fr$", "", variables$variable_name)
+  
+  rank$trait = sub("fr$", "", rank$trait)
+  
+  measu$trait = sub("fr$", "", measu$trait)
+  
+  plot$trait =  sub("fr$", "", plot$trait)
+  
+  names(block) = sub("fr$", "", names(block))
   
   # ....................................
   # ....................................
@@ -183,6 +209,8 @@ for(k in 2:3) {
   # ....................................
   # ....................................
   # PlackettLuce analysis
+  rank = plot[plot$value_type == "rank", ]
+  
   rank$traitmoment = paste(rank$collection_moment, rank$trait, sep = " - ")
   
   rank$block_id = as.factor(rank$block_id)
@@ -213,6 +241,8 @@ for(k in 2:3) {
   }
   
   ref = genotypes$genotype_name[grep("check", genotypes$role)[1]]
+  
+  if (is.na(ref)) ref = 1
   
   mod = lapply(R, PlackettLuce)
   
@@ -245,7 +275,7 @@ for(k in 2:3) {
   
   filename = paste(data_export$metadata$crop$name, 
                    data_export$metadata$study$id,
-                   data_export$metadata$changelog$version,
+                   #data_export$metadata$changelog$version,
                    sep = "-")
   
   write_json(data_export,
