@@ -1,0 +1,492 @@
+{
+  "title": "Global multi-crop agricultural trial data supported by citizen science",
+  "upload_type": "dataset",
+  "publication_type": "dataset",
+  "description": "",
+  "creators": [
+    {
+      "name": "de Sousa, Kau\u00ea",
+      "affiliation": "Bioversity International; University of Inland Norway",
+      "orcid": "https://orcid.org/0000-0002-7571-7845"
+    },
+    {
+      "name": "Laporte, Marie-Ang\u00e9lique",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0002-8461-9745"
+    },
+    {
+      "name": "Abate, Legesse",
+      "affiliation": "Stichting Wageningen Research"
+    },
+    {
+      "name": "Abdulmalik, Rekiya O.",
+      "affiliation": "Ahmadu Bello University"
+    },
+    {
+      "name": "Abidin, Erna",
+      "affiliation": "Reputed Agriculture 4 Development Stichting and Foundation"
+    },
+    {
+      "name": "Abolore, Bello",
+      "affiliation": "International Institute of Tropical Agriculture"
+    },
+    {
+      "name": "Achigan-Dako, Enoch G.",
+      "affiliation": "University of Abomey-Calavi",
+      "orcid": "https://orcid.org/0000-0002-5493-0516"
+    },
+    {
+      "name": "Aglinglo, Lys Amavi",
+      "affiliation": "World Vegetable Center",
+      "orcid": "https://orcid.org/0009-0005-1515-4699"
+    },
+    {
+      "name": "Aguilar, Amilcar",
+      "affiliation": "Centro Agr\u00f3mico Tropical de Investigaci\u00f3n y Ense\u00f1anza",
+      "orcid": "https://orcid.org/0000-0002-5177-6963"
+    },
+    {
+      "name": "Angudubo, Stephen",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0009-0002-4699-9094"
+    },
+    {
+      "name": "Arnaud, Elizabeth",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0002-6020-5919"
+    },
+    {
+      "name": "Assefa, Teshale M.",
+      "affiliation": "International Center for Tropical Agriculture",
+      "orcid": "https://orcid.org/0000-0003-4574-7186"
+    },
+    {
+      "name": "Atieno, Elly",
+      "affiliation": "International Potato Center",
+      "orcid": "https://orcid.org/0000-0002-4354-1785"
+    },
+    {
+      "name": "Ayenan, Mathieu",
+      "affiliation": "World Vegetable Center",
+      "orcid": "https://orcid.org/0000-0001-5774-9029"
+    },
+    {
+      "name": "Barrios, Mirna",
+      "affiliation": "Centro Agr\u00f3mico Tropical de Investigaci\u00f3n y Ense\u00f1anza"
+    },
+    {
+      "name": "Borman, Gareth",
+      "affiliation": "Wageningen University and Research",
+      "orcid": "https://orcid.org/0000-0001-7018-2266"
+    },
+    {
+      "name": "Boukar, Ousmane",
+      "affiliation": "International Institute of Tropical Agriculture"
+    },
+    {
+      "name": "Brown, David",
+      "affiliation": "Cornell University",
+      "orcid": "https://orcid.org/0000-0003-2859-1618"
+    },
+    {
+      "name": "Carey, Edward",
+      "affiliation": "Reputed Agriculture 4 Development Stichting and Foundation"
+    },
+    {
+      "name": "Chaves, N\u00e9stor",
+      "affiliation": "Universidad de Costa Rica",
+      "orcid": "https://orcid.org/0000-0001-8465-8130"
+    },
+    {
+      "name": "Chase, Rachel",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0002-5859-6455"
+    },
+    {
+      "name": "Coulibaly, Harouna",
+      "affiliation": "Institut d'Economie Rurale"
+    },
+    {
+      "name": "Cremaschi, Almendra",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0001-8932-5626"
+    },
+    {
+      "name": "Das, Roma Rani",
+      "affiliation": "International Maize and Wheat Improvement Center"
+    },
+    {
+      "name": "Daudi, Happy",
+      "affiliation": "International Maize and Wheat Improvement Center; Tanzania Agricultural Research Institute",
+      "orcid": "https://orcid.org/0000-0001-5107-6564"
+    },
+    {
+      "name": "Dawud, Maryam",
+      "affiliation": "Lake Chad Research Institute",
+      "orcid": "https://orcid.org/0000-0002-0601-8522"
+    },
+    {
+      "name": "Diarra, Danfing dit Youssouf",
+      "affiliation": "Institut d'Economie Rurale",
+      "orcid": "https://orcid.org/0009-0006-0868-6571"
+    },
+    {
+      "name": "Dolo, Aminata",
+      "affiliation": "Institut d'Economie Rurale"
+    },
+    {
+      "name": "Edughaen, Gospel",
+      "affiliation": "International Institute of Tropical Agriculture"
+    },
+    {
+      "name": "Ellison, James",
+      "affiliation": "One Acre Fund"
+    },
+    {
+      "name": "Fadda, Carlo",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0003-3075-6207"
+    },
+    {
+      "name": "Gandhi, Harish",
+      "affiliation": "International Maize and Wheat Improvement Center",
+      "orcid": "https://orcid.org/0000-0002-1304-8877"
+    },
+    {
+      "name": "Gaya Mohammed, Sanusi",
+      "affiliation": "Bayero University"
+    },
+    {
+      "name": "Gebrehawaryat Kidane, Yosef",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0002-6876-7158"
+    },
+    {
+      "name": "Gomez Cerna, Marvin",
+      "affiliation": "Fundaci\u00f3n para la Investigaci\u00f3n Participativa con Agricultores de Honduras"
+    },
+    {
+      "name": "Gupta, Arnab",
+      "affiliation": "Wageningen University and Research",
+      "orcid": "https://orcid.org/0000-0002-5672-5735"
+    },
+    {
+      "name": "Hassena Beko, Mohammed",
+      "affiliation": "Stichting Wageningen Research"
+    },
+    {
+      "name": "Hern\u00e1ndez, Juan Carlos",
+      "affiliation": "Instituto Nacional de Innovaci\u00f3n y Transferencia en Tecnolog\u00eda Agropecuaria",
+      "orcid": "https://orcid.org/0000-0002-1915-3213"
+    },
+    {
+      "name": "Houdegbe, Aristide Carlos",
+      "affiliation": "University of Abomey-Calavi",
+      "orcid": "https://orcid.org/0000-0003-3774-5658"
+    },
+    {
+      "name": "Dorado-Betancourt, Hugo",
+      "affiliation": "Wageningen University and Research; Bioversity International",
+      "orcid": "https://orcid.org/0000-0002-0103-7505"
+    },
+    {
+      "name": "Iragaba, Paula",
+      "affiliation": "National Crop Resources Research Institute",
+      "orcid": "https://orcid.org/0000-0003-3076-7299"
+    },
+    {
+      "name": "J\u00f8rgensen, Marit",
+      "affiliation": "Norwegian Institute of Bioeconomy Research",
+      "orcid": "https://orcid.org/0000-0002-6104-124X"
+    },
+    {
+      "name": "Kadege, Edith",
+      "affiliation": "Tanzania Agricultural Research Institute"
+    },
+    {
+      "name": "Kalemera, Sylvia",
+      "affiliation": "International Center for Tropical Agriculture",
+      "orcid": "https://orcid.org/0009-0007-7709-8113"
+    },
+    {
+      "name": "Kasubiri, Fadhili",
+      "affiliation": "International Center for Tropical Agriculture"
+    },
+    {
+      "name": "Kawuki, Robert",
+      "affiliation": "National Crop Resources Research Institute; World Coffee Research",
+      "orcid": "https://orcid.org/0000-0002-5153-9191"
+    },
+    {
+      "name": "Kilango, Michael",
+      "affiliation": "Tanzania Agricultural Research Institute"
+    },
+    {
+      "name": "Kileo, Aishi",
+      "affiliation": "Tanzania Agricultural Research Institute",
+      "orcid": "https://orcid.org/0009-0004-5010-3355"
+    },
+    {
+      "name": "Lakew, Basazen",
+      "affiliation": "Ethiopian Biodiversity Institute",
+      "orcid": "https://orcid.org/0000-0001-6353-960X"
+    },
+    {
+      "name": "Lawan Umar, Muhammad",
+      "affiliation": "Institute for Agricultural Research"
+    },
+    {
+      "name": "Legba, Eric C.",
+      "affiliation": "World Vegetable Center",
+      "orcid": "https://orcid.org/0009-0008-8284-0463"
+    },
+    {
+      "name": "Madriz, Brandon",
+      "affiliation": "MrBot Software Solutions"
+    },
+    {
+      "name": "Madu, Tessy Ugo",
+      "affiliation": "National Root Crops Research Institute",
+      "orcid": "https://orcid.org/0000-0002-0098-3567"
+    },
+    {
+      "name": "Malulu, Dickson",
+      "affiliation": "Tanzania Agricultural Research Institute",
+      "orcid": "https://orcid.org/0009-0005-5327-6769"
+    },
+    {
+      "name": "Manners, Rhys",
+      "affiliation": "International Institute of Tropical Agriculture",
+      "orcid": "https://orcid.org/0000-0003-0213-5462"
+    },
+    {
+      "name": "Matumbo, Zamira",
+      "affiliation": "Tanzania Agricultural Research Institute",
+      "orcid": "https://orcid.org/0009-0005-4091-782X"
+    },
+    {
+      "name": "Mbiu, Julius",
+      "affiliation": "Tanzania Agricultural Research Institute"
+    },
+    {
+      "name": "Mendes, Thiago",
+      "affiliation": "International Potato Center",
+      "orcid": "https://orcid.org/0000-0003-3695-7827"
+    },
+    {
+      "name": "Mengistu, Dejene K.",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0002-5771-6048"
+    },
+    {
+      "name": "Mlaki, Anna",
+      "affiliation": "World Vegetable Center"
+    },
+    {
+      "name": "Mousavi, Hesam",
+      "affiliation": "University of Inland Norway",
+      "orcid": "https://orcid.org/0000-0003-2615-756X"
+    },
+    {
+      "name": "Moyo, Mukani",
+      "affiliation": "International Potato Center",
+      "orcid": "https://orcid.org/0000-0001-5658-2669"
+    },
+    {
+      "name": "Mulatu, Kalkidan Ayele",
+      "affiliation": "International Center for Tropical Agriculture"
+    },
+    {
+      "name": "Mugo, James",
+      "affiliation": "International Potato Center",
+      "orcid": "https://orcid.org/0000-0002-1653-2947"
+    },
+    {
+      "name": "N'Danikou, Sognigb\u00e9",
+      "affiliation": "World Vegetable Center",
+      "orcid": "https://orcid.org/0000-0002-4163-8567"
+    },
+    {
+      "name": "Nabateregga, Mabel",
+      "affiliation": "University of Inland Norway",
+      "orcid": "https://orcid.org/0000-0002-6731-152X"
+    },
+    {
+      "name": "Nadigatla, Ganga Rao V. P. R.",
+      "affiliation": "International Maize and Wheat Improvement Center; International Center for Biosaline Agriculture"
+    },
+    {
+      "name": "Nanyonjo, An Ritah",
+      "affiliation": "National Crop Resources Research Institute",
+      "orcid": "https://orcid.org/0000-0003-1713-4390"
+    },
+    {
+      "name": "Nduwumuremyi, Athanase",
+      "affiliation": "Rwanda Agriculture and Animal Resources Development Board"
+    },
+    {
+      "name": "Neby, Magne",
+      "affiliation": "University of Inland Norway",
+      "orcid": "https://orcid.org/0000-0003-2098-7650"
+    },
+    {
+      "name": "Notembaert, An",
+      "affiliation": "International Center for Tropical Agriculture",
+      "orcid": "https://orcid.org/0000-0002-6266-2240"
+    },
+    {
+      "name": "Nshimiyimana, Jean Claude",
+      "affiliation": "International Potato Center"
+    },
+    {
+      "name": "Nyawade, Shadrack",
+      "affiliation": "International Potato Center",
+      "orcid": "https://orcid.org/0000-0003-4113-3400"
+    },
+    {
+      "name": "Nyirahabimana, Hyacinthe",
+      "affiliation": "Wageningen University and Research"
+    },
+    {
+      "name": "Ojiewo, Christopher Ochieng",
+      "affiliation": "International Maize and Wheat Improvement Center",
+      "orcid": "https://orcid.org/0000-0002-2885-9381"
+    },
+    {
+      "name": "Olaosebikan, Olamide",
+      "affiliation": "International Institute of Tropical Agriculture",
+      "orcid": "https://orcid.org/0000-0003-1470-1150"
+    },
+    {
+      "name": "Ongom, Patrick Obia",
+      "affiliation": "International Institute of Tropical Agriculture",
+      "orcid": "https://orcid.org/0000-0002-5303-3602"
+    },
+    {
+      "name": "Onwuka, Samuel",
+      "affiliation": "National Root Crops Research Institute"
+    },
+    {
+      "name": "Oteng-Fripong, Richard",
+      "affiliation": "Savanna Agricultural Research Institute",
+      "orcid": "https://orcid.org/000-0001-6083-1461"
+    },
+    {
+      "name": "Ouedraogo, Colette Ouidyam",
+      "affiliation": "World Vegetable Center",
+      "orcid": "https://orcid.org/0000-0002-1997-3684"
+    },
+    {
+      "name": "Rathore, Abhishek",
+      "affiliation": "International Maize and Wheat Improvement Center",
+      "orcid": "https://orcid.org/0000-0001-6887-4095"
+    },
+    {
+      "name": "Rosas, Juan Carlos",
+      "affiliation": "Zamorano University",
+      "orcid": "https://orcid.org/0000-0002-1915-3213"
+    },
+    {
+      "name": "Rukundo, Placide",
+      "affiliation": "International Potato Center"
+    },
+    {
+      "name": "Rutsaert, Pieter",
+      "affiliation": "International Maize and Wheat Improvement Center",
+      "orcid": "https://orcid.org/0000-0001-9691-6088"
+    },
+    {
+      "name": "Schaap, Mirjam",
+      "affiliation": "Wageningen University and Research",
+      "orcid": "https://orcid.org/0009-0008-3407-9112"
+    },
+    {
+      "name": "Shango, Abdul",
+      "affiliation": "World Vegetable Center",
+      "orcid": "https://orcid.org/0000-0002-0233-8385"
+    },
+    {
+      "name": "Sharma, Neeraj",
+      "affiliation": "Tuberosum Technologies Inc."
+    },
+    {
+      "name": "Sharma, Kalpana",
+      "affiliation": "International Potato Center",
+      "orcid": "https://orcid.org/0000-0002-4104-8671"
+    },
+    {
+      "name": "Sidibe, Amadou",
+      "affiliation": "Institut d'Economie Rurale"
+    },
+    {
+      "name": "Solberg, Svein \u00d8ivind",
+      "affiliation": "University of Inland Norway",
+      "orcid": "https://orcid.org/0000-0002-4491-4483"
+    },
+    {
+      "name": "Ssali, Reuben",
+      "affiliation": "International Potato Center",
+      "orcid": "https://orcid.org/0000-0002-8143-6564"
+    },
+    {
+      "name": "Steinke, Jonathan",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0001-5742-702X"
+    },
+    {
+      "name": "Suchini, Jose Gabriel",
+      "affiliation": "Centro Agr\u00f3mico Tropical de Investigaci\u00f3n y Ense\u00f1anza"
+    },
+    {
+      "name": "Teeken, B\u00e9la",
+      "affiliation": "International Institute of Tropical Agriculture",
+      "orcid": "https://orcid.org/0000-0002-3150-1532"
+    },
+    {
+      "name": "Tengey, Theophilus Kwabla",
+      "affiliation": "Savanna Agricultural Research Institute"
+    },
+    {
+      "name": "Tufan, Hale Ann",
+      "affiliation": "Cornell University",
+      "orcid": "https://orcid.org/0000-0002-5323-4244"
+    },
+    {
+      "name": "Tuyishime, Elys\u00e9",
+      "affiliation": "One Acre Fund"
+    },
+    {
+      "name": "Ulzen, Jacob",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0001-7378-1002"
+    },
+    {
+      "name": "van Heerwaarden, Joost",
+      "affiliation": "Wageningen University and Research",
+      "orcid": "https://orcid.org/0000-0002-4959-3914"
+    },
+    {
+      "name": "van Zonneveld, Maarten",
+      "affiliation": "World Vegetable Center",
+      "orcid": "https://orcid.org/0000-0002-7875-4756"
+    },
+    {
+      "name": "Yeye, Mary",
+      "affiliation": "Institute for Agricultural Research"
+    },
+    {
+      "name": "van Etten, Jacob",
+      "affiliation": "Bioversity International",
+      "orcid": "https://orcid.org/0000-0001-7554-2558"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "participatory variety testing",
+    "digital innovation",
+    "tricot approach",
+    "FAIR data"
+  ],
+  "version": "v0.1",
+  "related_identifiers": []
+}
