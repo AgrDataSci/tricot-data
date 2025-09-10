@@ -1,6 +1,7 @@
 # Load required package
 library("readxl")
 
+
 # Read metadata and authors from Excel
 file = "metadata/project-metadata.xlsx"
 metadata = read_excel(file, sheet = "metadata")
