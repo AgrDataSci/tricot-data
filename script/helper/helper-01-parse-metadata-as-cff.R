@@ -28,8 +28,8 @@ for (i in seq_len(nrow(authors))) {
   affil_string = paste(affiliations, collapse = "; ")
   
   author_block = c(
-    paste0("  - family-names: ", row$family_name),
-    paste0("    given-names: ", row$given_name),
+    paste0("  - family-names: ", '"', row$family_name, '"'),
+    paste0("    given-names: ", '"', row$given_name, '"'),
     paste0("    orcid: https://orcid.org/", row$orcid),
     paste0("    affiliation: \"", affil_string, "\"")
   )
