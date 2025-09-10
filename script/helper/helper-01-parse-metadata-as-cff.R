@@ -25,14 +25,14 @@ cff = c("cff-version: 1.2.0",
 # Process authors
 for (i in seq_len(nrow(authors))) {
   row = authors[i, ]
-  affiliations = unname(na.omit(unlist(row[ , grepl("^affiliation_", names(row))])))
+  affiliations = unname(na.omit(unlist(row[ , grepl("^affiliation_", names(row))])))[1]
   affil_string = paste(affiliations, collapse = "; ")
   
   author_block = c(
-    paste0("  - family-names: ", '"', row$family_name, '"'),
-    paste0("    given-names: ", '"', row$given_name, '"'),
+    paste0("  - family-names: ", row$family_name),
+    paste0("    given-names: ", row$given_name),
     paste0("    orcid: https://orcid.org/", row$orcid),
-    paste0("    affiliation: \"", affil_string, "\"")
+    paste0("    affiliation: ", affil_string)
   )
   
   if(is.na(row$orcid)) author_block = author_block[-3]
