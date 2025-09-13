@@ -111,26 +111,24 @@ The hierarchical organization allows users to track data from trial design throu
 
 ## Citation
 
-The dataset is archived and made publicly available through [Zenodo](https://zenodo.org/).  
+The dataset is archived and made publicly available through [Zenodo](https://doi.org/10.5281/zenodo.17112492).  
 
 Users of this dataset are required to provide proper citation in any publications, presentations, or derivative works.
 
 > The dataset is shared under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) which allows others to use, share, and adapt the material, provided appropriate credit is given and any derivative works are distributed under the same license.
 
-de Sousa, K., Laporte, M.-A., Abdulmalik, R. O., Abidin, E., Abolore, B., Achigan-Dako, E. G., Aglinglo, L. A., Aguilar, A., Angudubo, S., Arnaud, E., Assefa, T. M., Atieno, E., Ayenan, M., Barrios, M., Borman, G., Boukar, O., Brown, D., Carey, E., Chaves, N., Coulibaly, H., Cremaschi, A., Daudi, H., Dawud, M., Diarra, D. Y., Dolo, A., Edughaen, G., Gandhi, H., Gaya Mohammed, S., Gebrehawaryat Kidane, Y., Gomez Cerna, M., Gupta, A., Hernández, J. C., Houdegbe, A. C., Hugo Dorado-Betancourt, H., Iragaba, P., Kadege, E., Kalemera, S., Kasubiri, F., Kawuki, R., Lakew, B., Legba, E. C., Madriz, B., Madu, T. U., Malulu, D., Manners, R., Matumbo, Z., Mendes, T., Mengistu, D. K., Mlaki, A., Moyo, M., Mugo, J., N’Danikou, S., Nabateregga, M., Nadigatla, G. R. V. P., Nanyonjo, A. R., Nduwumuremyi, A., Nshimiyimana, J. C., Nyawade, S., Nyirahabimana, H., Ojiewo, C. O., Olaosebikan, O., Ongom, P. O., Onwuka, S., Ouedraogo, C. O., Rosas, J. C., Rutsaert, P., Schaap, M., Shango, A., Sharma, N., Sharma, K., Sidibe, A., Solberg, S. Ø., Ssali, R., Steinke, J., Suchini, J. G., Teeken, B., Tufan, H. A., Tuyishime, E., Ulzen, J., van Heerwaarden, J., van Zonneveld, M., & van Etten, J. (2025). **Global multi-crop agricultural trial data supported by citizen science** (Version 1) [Dataset]. Zenodo. DOI: _to be provided upon release_.
+de Sousa, K., Laporte, M.-A., Abate, L., Abdulmalik, R. O., Abidin, E., Abolore, B., Achigan-Dako, E. G., Aglinglo, L. A., Aguilar, A., Angudubo, S., Arnaud, E., Assefa, T. M., Atieno, E., Ayenan, M., Barrios, M., Borman, G., Boukar, O., Brown, D., Carey, E., Chaves, N., … van Etten, J. (2025). Global multi-crop agricultural trial data supported by citizen science [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.17112492
 
 
 ### BibTeX (dataset)
 
-```@dataset{desousa_2025_global_multicrop_tricot,
+```@dataset{desousa_tricot_2025,
+  author       = {de Sousa, Kauê and Laporte, Marie-Angélique and Abate, Legesse and Abdulmalik, Rekiya O. and Abidin, Erna and Abolore, Bello and Achigan-Dako, Enoch G. and Aglinglo, Lys Amavi and Aguilar, Amilcar and Angudubo, Stephen and Arnaud, Elizabeth and Assefa, Teshale M. and Atieno, Elly and Ayenan, Mathieu and Barrios, Mirna and Borman, Gareth and Boukar, Ousmane and Brown, David and Carey, Edward and Chaves, Néstor and Chase, Rachel and … and van Etten, Jacob},
   title        = {Global multi-crop agricultural trial data supported by citizen science},
-  author       = {de Sousa, Kau\ê and Laporte, Marie-Ang\'elique and Abdulmalik, Rekiya O. and Abidin, Erna and Abolore, Bello and Achigan-Dako, Enoch G. and Aglinglo, Lys Amavi and Aguilar, Amilcar and Angudubo, Stephen and Arnaud, Elizabeth and Assefa, Teshale M. and Atieno, Elly and Ayenan, Mathieu and Barrios, Mirna and Borman, Gareth and Boukar, Ousmane and Brown, David and Carey, Edward and Chaves, N\'estor and Coulibaly, Harouna and Cremaschi, Almendra and Daudi, Happy and Dawud, Maryam and Diarra, Danfing dit Youssouf and Dolo, Aminata and Edughaen, Gospel and Gandhi, Harish and Gaya Mohammed, Sanusi and Gebrehawaryat Kidane, Yosef and Gomez Cerna, Marvin and Gupta, Arnab and Hern\'andez, Juan Carlos and Houdegbe, Aristide Carlos and Hugo Dorado-Betancourt, Hugo and Iragaba, Paula and Kadege, Edith and Kalemera, Sylvia and Kasubiri, Fadhili and Kawuki, Robert and Lakew, Basazen and Legba, Eric C. and Madriz, Brandon and Madu, Tessy Ugo and Malulu, Dickson and Manners, Rhys and Matumbo, Zamira and Mendes, Thiago and Mengistu, Dejene K. and Mlaki, Anna and Moyo, Mukani and Mugo, James and N'Danikou, Sognigb\'e and Nabateregga, Mabel and Nadigatla, Ganga Rao V. P. R. and Nanyonjo, An Ritah and Nduwumuremyi, Athanase and Nshimiyimana, Jean Claude and Nyawade, Shadrack and Nyirahabimana, Hyacinthe and Ojiewo, Christopher Ochieng and Olaosebikan, Olamide and Ongom, Patrick Obia and Onwuka, Samuel and Ouedraogo, Colette Ouidyam and Rosas, Juan Carlos and Rutsaert, Pieter and Schaap, Mirjam and Shango, Abdul and Sharma, Neeraj and Sharma, Kalpana and Sidibe, Amadou and Solberg, Svein {\O}ivind and Ssali, Reuben and Steinke, Jonathan and Suchini, Jose Gabriel and Teeken, B\'ela and Tufan, Hale Ann and Tuyishime, Elys\'e and Ulzen, Jacob and van Heerwaarden, Joost and van Zonneveld, Maarten and van Etten, Jacob},
   year         = {2025},
   publisher    = {Zenodo},
-  version      = {v1},
-  type         = {dataset},
-  rights       = {Creative Commons Attribution 4.0 International},
-  rights_url   = {https://creativecommons.org/licenses/by-sa/4.0/},
-  doi          = {10.5281/zenodo.XXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXX}
+  doi          = {10.5281/zenodo.17112492},
+  url          = {https://doi.org/10.5281/zenodo.17112492},
+  note         = {Dataset}
 }
+
