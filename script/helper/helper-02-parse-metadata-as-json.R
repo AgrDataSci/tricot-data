@@ -131,3 +131,4 @@ write(toJSON(datacite, pretty = TRUE, auto_unbox = TRUE), ".zenodo.json")
 # 
 # v = json_validator(schema, engine = "ajv")
 # v(json, verbose = TRUE)
+
