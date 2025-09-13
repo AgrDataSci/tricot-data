@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset or software, please cite it as below."
 title: "Global multi-crop agricultural trial data supported by citizen science"
-version: "v0.1"
+version: "v0.2"
 date-released: 2025-09-10
 authors:
   - family-names: de Sousa
@@ -321,7 +321,7 @@ authors:
     affiliation: World Vegetable Center
   - family-names: Sharma
     given-names: Neeraj
-    affiliation: Tuberosum Technologies Inc.
+    affiliation: Tuberosum Technologies Inc
   - family-names: Sharma
     given-names: Kalpana
     orcid: https://orcid.org/0000-0002-4104-8671
@@ -380,7 +380,8 @@ authors:
 repository-code: https://github.com/AgrDataSci/tricot-data
 license: CC-BY-SA-4.0
 keywords:
-  - participatory variety testing
+  - agriculture
   - digital innovation
-  - tricot approach
   - FAIR data
+  - partnerships for the goals
+  - tricot approach
