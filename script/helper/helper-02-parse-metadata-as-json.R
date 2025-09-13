@@ -2,7 +2,6 @@
 library("readxl")
 library("jsonlite")
 
-
 # Path to your Excel file
 file = "metadata/project-metadata.xlsx"
 
@@ -14,7 +13,6 @@ communities = read_excel(file, sheet = "communities")
 dates = read_excel(file, sheet = "dates")
 
 keep = grep("1", authors$checked_dataset)
-
 authors = authors[keep, ]
 
 # Check required fields in metadata
@@ -28,12 +26,12 @@ if (length(missing_fields) > 0) {
 
 # Check ORCID format
 if ("orcid" %in% names(authors)) {
-  orcid_invalid = authors[!grepl("^\\d{4}-\\d{4}-\\d{4}-\\d{4}$", authors$orcid), ]
+  orcid_invalid = authors[!is.na(authors$orcid) & !grepl("^\\d{4}-\\d{4}-\\d{4}-\\d{4}$", authors$orcid), ]
   if (nrow(orcid_invalid) > 0) {
-    cat("Invalid ORCID(s):\n")
+    cat("Warning: Some ORCIDs are invalid. They will be omitted from JSON:\n")
     print(orcid_invalid[, c("given_name", "family_name", "orcid")])
   } else {
-    cat("All ORCIDs are valid.\n")
+    cat("All ORCIDs are valid (or empty).\n")
   }
 }
 
@@ -87,19 +85,28 @@ datacite = list(
   subjects = lapply(strsplit(get_meta("subjects"), ";\\s*")[[1]], function(s) list(subject = s)),
   creators = lapply(seq_len(nrow(authors)), function(i) {
     row = authors[i, ]
-    affils = unname(na.omit(unlist(row[ , grepl("^affiliation_", names(row))])))
-    list(
+    affils = unname(na.omit(unlist(row[, grepl("^affiliation_", names(row))])))
+    
+    # Base creator
+    creator = list(
       name = paste(row$family_name, row$given_name, sep = ", "),
       nameType = "Personal",
       givenName = row$given_name,
       familyName = row$family_name,
-      affiliation = as.list(affils),
-      nameIdentifiers = list(list(
+      affiliation = as.list(affils)
+    )
+    
+    # Add ORCID only if present and valid
+    if (!is.null(row$orcid) && !is.na(row$orcid) &&
+        grepl("^\\d{4}-\\d{4}-\\d{4}-\\d{4}$", row$orcid)) {
+      creator$nameIdentifiers = list(list(
         nameIdentifier = paste0("https://orcid.org/", row$orcid),
         nameIdentifierScheme = "ORCID",
         schemeUri = "https://orcid.org"
       ))
-    )
+    }
+    
+    return(creator)
   })
 )
 
@@ -125,4 +132,4 @@ if (!is.null(funders)) {
 }
 
 # Write to JSON
-write(toJSON(datacite, pretty = TRUE, auto_unbox = TRUE), "metadata/project-metadata.json")
+write(toJSON(datacite, pretty = TRUE, auto_unbox = TRUE), ".zenodo.json")
