@@ -31,10 +31,12 @@ trialmap =
   ggplot() +
   geom_sf(adm$geometry, mapping = aes(), 
           colour = "#4d4d4d", 
-          fill = "#f7fbff") +         # draw world map
+          fill = "grey97") +         # draw world map
   geom_jitter(data = coord, aes(x = longitude,
                                 y = latitude, 
-                                colour = crop_name)) + # add trial points
+                                colour = crop_name,
+                                shape = crop_name),
+              size = 0.5) + # add trial points
   theme_void() + 
   scale_color_brewer(palette = "Set1") + # set color palette
   theme(legend.position = c(0.05, 0.65),
@@ -43,9 +45,6 @@ trialmap =
         panel.background = element_rect(fill = "white"),
         plot.margin = unit(c(1,1,1,1), "mm"),
         legend.title = element_blank()) 
-
-# display map
-trialmap
 
 # save map to file as png
 ggsave("docs/trial-locations.png",
