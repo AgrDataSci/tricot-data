@@ -1,6 +1,6 @@
 <!-- badges: start -->
 [![License](https://img.shields.io/badge/license%20-%20CC%20BY%20SA%204.0%20-%20%233182bd)](https://creativecommons.org/licenses/by-sa/4.0/) 
-
+[![Static Badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17112492-blue)](https://doi.org/10.5281/zenodo.17112492)
 <!-- badges: end --> 
 
 # Global multi-crop agricultural trial data supported by citizen science
