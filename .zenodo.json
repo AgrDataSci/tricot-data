@@ -16,7 +16,7 @@
       "descriptionType": "Abstract"
     }
   ],
-  "version": "v0.2",
+  "version": "v0.4",
   "language": "eng",
   "rightsList": [
     {
@@ -784,12 +784,30 @@
       ]
     },
     {
+      "name": "Mawia, Harriet",
+      "nameType": "Personal",
+      "givenName": "Harriet",
+      "familyName": "Mawia",
+      "affiliation": [
+        "International Maize and Wheat Improvement Center"
+      ]
+    },
+    {
       "name": "Mbiu, Julius",
       "nameType": "Personal",
       "givenName": "Julius",
       "familyName": "Mbiu",
       "affiliation": [
         "Tanzania Agricultural Research Institute"
+      ]
+    },
+    {
+      "name": "Mbugua, Mercy",
+      "nameType": "Personal",
+      "givenName": "Mercy",
+      "familyName": "Mbugua",
+      "affiliation": [
+        "International Maize and Wheat Improvement Center"
       ]
     },
     {
@@ -1386,16 +1404,6 @@
           "schemeUri": "https://orcid.org"
         }
       ]
-    }
-  ],
-  "dates": [
-    {
-      "date": "2025-04-14",
-      "dateType": "Accepted"
-    },
-    {
-      "date": "2025-04-14",
-      "dateType": "Submitted"
     }
   ],
   "fundingReferences": [
