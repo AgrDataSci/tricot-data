@@ -27,23 +27,30 @@ coord = xy[c("longitude", "latitude","crop_name")]
 coord = na.omit(coord)
 
 # create map of trial locations
+library(ggplot2)
+
 trialmap =
   ggplot() +
-  geom_sf(adm$geometry, mapping = aes(), 
-          colour = "#4d4d4d", 
-          fill = "grey97") +         # draw world map
-  geom_jitter(data = coord, aes(x = longitude,
-                                y = latitude, 
-                                colour = crop_name),
-              size = 0.5) + # add trial points
-  theme_void() + 
-  scale_color_brewer(palette = "Set1") + # set color palette
+  geom_sf(data = adm, aes(geometry = geometry),
+          colour = "#4d4d4d", fill = "grey97") +
+  geom_jitter(data = coord,
+              aes(x = longitude,
+                  y = latitude,
+                  shape = crop_name,
+                  fill  = crop_name),   # fill depends on crop
+              size = 2,
+              colour = "black") +     # border always black
+  theme_void() +
+  scale_shape_manual(values = rep(21:25, length.out = length(unique(coord$crop_name)))) +
+  scale_fill_brewer(palette = "Set3") +  # nice qualitative palette
   theme(legend.position = c(0.05, 0.65),
         legend.text = element_text(size = 12),
         legend.background = element_rect(fill = "white", color = "white"),
         panel.background = element_rect(fill = "white"),
         plot.margin = unit(c(1,1,1,1), "mm"),
-        legend.title = element_blank()) 
+        legend.title = element_blank())
+
+
 
 # save map to file as png
 ggsave("docs/trial-locations.png",
