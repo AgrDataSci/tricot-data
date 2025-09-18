@@ -18,7 +18,7 @@ xy = read.csv("docs/trial-xy.csv")
 available = read.csv("data/aa-available-datasets.csv")
 
 # read file with genotype metadata
-geno = read_excel('raw/variety-metadata/potato-nigeria.xlsx')
+geno = read_excel('metadata/trials-metadata/potato-nigeria/genotype-metadata.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
 
 doi = "https://doi.org/10.5281/zenodo.17112492"
@@ -31,10 +31,11 @@ trial_objective = "variety introduction"
 
 unit_of_analysis = "genotype"
 
-trial_description = paste("Published by Sharma et al 2025 (https://doi.org/10.1016/j.jafr.2025.102135)",
+trial_description = paste("Published by Sharma et al 2025",  
+                          "https://doi.org/10.1016/j.jafr.2025.102135",
                           "This study evaluated whether a participatory, digitally enabled", 
                           "approach to variety selection", 
-                          "better reflects farmer needs and improves uptake.")
+                          "better reflects farmer needs and improves uptake of potato in Nigeria")
 
 
 institute = "International Potato Center"
@@ -45,7 +46,7 @@ pi_email = "kalpana.sharma@cgiar.org"
 
 program = "RTB Breeding"
 
-ror_id = "pending"
+ror_id = "https://ror.org/05asvgp75"
 
 crop_name = "potato"
 
@@ -100,8 +101,6 @@ for(k in seq_along(cmdata)) {
   
   if (nrow(rank) == 0) next
   
-  rank = rank[rank$trait != "yieldqualitative", ]
-  
   # remove ties 
   # keep only block x traits with >1 distinct value
   rank = 
@@ -153,9 +152,10 @@ for(k in seq_along(cmdata)) {
   # new table using final genotype names to be added to the metadata
   genotypes = data.frame(genotype_name = unique(plot$genotype_name),
                          role = NA,
-                         year_release = NA,
-                         market_segment = NA,
-                         country_origin = NA, 
+                         release_year = NA,
+                         crossing_year = NA,
+                         target_trait = NA,
+                         origin = NA, 
                          remarks = NA)
   
   geno = geno[!duplicated(geno$final_genotype_name), ]
@@ -167,7 +167,8 @@ for(k in seq_along(cmdata)) {
     
     if(length(index) == 0) next
     
-    genotypes[i, c(2, 4, 6)] = geno[index, c("entry_type", "target_trait", "remarks")]
+    genotypes[i, 2:7] = geno[index, c("entry_type", "release_year", "crossing_year",
+                                      "target_trait", "origin", "remarks")]
     
   }
   

@@ -1,5 +1,5 @@
 # .............................................
-# This script will handle the One Acre Fund data #####
+# This script will handle the TARI groundnut data #####
 # first run: July 2025
 # updated: September 2025
 # K de Sousa
@@ -18,7 +18,7 @@ xy = read.csv("docs/trial-xy.csv")
 available = read.csv("data/aa-available-datasets.csv")
 
 # read file with genotype metadata
-geno = read_excel('raw/variety-metadata/one-acre-fund-rwanda.xlsx')
+geno = read_excel('raw/variety-metadata/ethiopiagrass.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
 
 doi = "https://doi.org/10.5281/zenodo.17112492"
@@ -27,101 +27,63 @@ experimental_site = "farm"
 
 trial_type = "on-farm"
 
-trial_objective = "seed systems trial"
+trial_objective = "variety introduction"
 
-unit_of_analysis = "genotype"
+unit_of_analysis = "genotype mix"
 
-trial_description = paste("On-farm trials implemented under the scope of", 
-                          "1000FARMS project to introduce new", 
-                          "varieties in the Rwanda seed systems.")
+trial_description = paste("EthiopiaGrass focuses on novel integrated grassland crop",
+                          "systems to improve feed provision for livestock and production",
+                          "of food crops, while improving soil quality")
 
 
-institute = "One Acre Fund"
+institute = "Norwegian Institute of Bioeconomy Research"
 
-pi = "Elysé Tuyishime"
+pi = "Marit Jørgensen"
 
-pi_email = "elyse.tuyishime@oneacrefund.org"
+pi_email = "marit.jorgensen@nibio.no"
 
-program = "One Acre Fund"
+program = "Division of food production and society"
 
-ror_id = "pending"
+ror_id = "https://ror.org/04aah1z61"
+
+crop_name = "forages"
+
+crop_taxon = "Plantae"
 
 # filter the worlveg projects
-keep = grep("Elyse Tuyishime|Elyse TUYISHIME|Elysé Tuyishime", projects$coordinator)
+keep = grep("An Notenbaert", projects$coordinator)
 
 projects = projects[keep, ]
 
 cmdata = cmdata[keep]
 
+keep = grep("1000FARMS", projects$server)
+
+cmdata = cmdata[keep]
+
 cmdata
 
-# first fix technology names
-techs = lapply(cmdata, function(x) {
-  data.frame(desc = x$project$project_abstract,
-             id = x$project$project_id)
-})
-
-techs = do.call(rbind, techs)
-
-techs$crop_name = ""
-
-techs$crop_name[grepl("Soybean", techs$desc)] = "soybean"
-techs$crop_name[grepl("IP", techs$desc)] = "potato"
-techs$crop_name[grepl("maize", techs$desc)] = "maize"
-techs$crop_name[grepl("Sorghum", techs$desc)] = "sorghum"
-techs$crop_name[grepl("wheat", techs$desc)] = "wheat"
-techs$crop_name[grepl("cover crops", techs$desc)] = "forages"
-techs$crop_name[grepl("Climbing beans |Bush beans ", techs$desc)] = "common bean"
-
-techs$taxon = ifelse(techs$crop_name == "maize", "Zea maiz", 
-                     ifelse(techs$crop_name == "common bean", "Phaseolus vulgaris",
-                            ifelse(techs$crop_name == "potato", "Solanum tuberosum",
-                                   ifelse(techs$crop_name == "forages", "Plantae",
-                                          ifelse(techs$crop_name == "wheat", "Triticum spp.",
-                                                 ifelse(techs$crop_name == "sorghum", "Sorghum",
-                                                        ifelse(techs$crop_name == "soybean", 
-                                                               "Soybean", "")))))))
-
-
 # # check for genotype names
-# x = do.call("rbind", lapply(cmdata, function(x){
-#   z = do.call("rbind", x$combination$elements)
-#   z$id = x$project$project_id
-#   z
-# }))
+x = do.call("rbind", lapply(cmdata, function(x){do.call("rbind", x$combination$elements)}))
+x$id = paste0(x$technology_name, x$alias_name)
+x = x[!duplicated(x$id), ]
+
+# x$alias_name %in% geno$genotype_name
 # 
-# x = merge(x, techs, by = "id", all.x = TRUE)
-# 
-# x$id = paste(x$crop_name, x$alias_name, sep = ";")
-# x = x[!duplicated(x$id), ]
-# 
-# unique(x$crop_name)
-# 
-# # here we need to combine with crop name
-# paste(x$crop_name, x$alias_name) %in% paste(geno$crop_name, geno$genotype_name)
-# 
-# paste(geno$crop_name, geno$genotype_name) %in% paste(x$crop_name, x$alias_name)
+# geno$genotype_name %in% x$alias_name
 # 
 # # reconstruct the table as some varieties don't match
-# geno2 = unique(c(paste(geno$crop_name, geno$genotype_name, sep = ";"),
-#                  paste(x$crop_name, x$alias_name, sep = ";")))
+# geno2 = unique(c(geno$genotype_name,
+#                  x$alias_name))
 # 
-# geno$genotype_name = paste(geno$crop_name, geno$genotype_name, sep = ";")
 # 
 # geno2 = data.frame(genotype_name = geno2)
 # 
-# names_order = names(geno)
-# 
 # geno = merge(geno2, geno, by = "genotype_name", all.x = TRUE)
 # 
-# geno = geno[names_order]
-# 
-# geno$crop_name = do.call("rbind", strsplit(geno$genotype_name, ";"))[,1]
-# 
-# geno$genotype_name = do.call("rbind", strsplit(geno$genotype_name, ";"))[,2]
-# 
 # # write the merged dataset to fix it manually
-# write.csv(geno, "raw/variety-metadata/one-acre-fund.csv", row.names = FALSE, na = "")
+# write.csv(geno, "raw/variety-metadata/cowpea-nigeria.csv", row.names = FALSE)
+
 
 cmdata
 
@@ -148,20 +110,20 @@ for(k in seq_along(cmdata)) {
   
   meta$study$type = trial_type
   
-  meta$study$objective = x$project$project_abstract
+  meta$study$objective = trial_objective
   
   meta$study$description = trial_description
   
   meta$study$unit_of_analysis = unit_of_analysis
   
-  meta$crop$name = techs$crop_name[grep(x$project$project_id, techs$id)]
+  meta$crop$name = crop_name
   
-  meta$crop$taxon = techs$taxon[grep(x$project$project_id, techs$id)]
+  meta$crop$taxon = crop_taxon
   
   # ....................................
   # ....................................
   # get ranking data 
-  rank = exportTricotRanks(x, nmin = 0.30)
+  rank = exportTricotRanks(x, nmin = 0.2)
   
   if (nrow(rank) == 0) next
   
@@ -284,15 +246,12 @@ for(k in seq_along(cmdata)) {
   mod = lapply(R, PlackettLuce)
   
   mod = lapply(mod, function(x) {
-    x = try(qvcalc(x, ref = ref)$qvframe, silent = TRUE)
-    if(class(x) == "try-error"){
-      x = data.frame(estimate = coef(mod[[5]]))
-    }
+    x = qvcalc(x, ref = ref)$qvframe
     x = cbind(genotype_name = rownames(x), x)
     x
   })
   
-  mod = rowbind(mod)
+  mod = do.call("rbind", mod)
   
   mod = cbind(collection_moment = rep(traits, each = ncol(R[[i]])),
               mod)
