@@ -18,7 +18,7 @@ xy = read.csv("docs/trial-xy.csv")
 available = read.csv("data/aa-available-datasets.csv")
 
 # read file with genotype metadata
-geno = read_excel('raw/variety-metadata/cowpea-nigeria.xlsx')
+geno = read_excel('metadata/trials-metadata/cowpea-iita/genotype-metadata.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
 
 doi = "https://doi.org/10.5281/zenodo.17112492"
@@ -44,7 +44,7 @@ pi_email = "o.boukar@cgiar.org"
 
 program = "Africa Dryland Crops Improvement Network (ADCIN)"
 
-ror_id = "pending"
+ror_id = "https://ror.org/0556kt608"
 
 crop_name = "cowpea"
 
@@ -180,9 +180,10 @@ for(k in seq_along(cmdata)) {
   # new table using final genotype names to be added to the metadata
   genotypes = data.frame(genotype_name = unique(plot$genotype_name),
                          role = NA,
-                         year_release = NA,
-                         market_segment = NA,
-                         country_origin = NA, 
+                         release_year = NA,
+                         crossing_year = NA,
+                         target_trait = NA,
+                         origin = NA, 
                          remarks = NA)
   
   geno = geno[!duplicated(geno$final_genotype_name), ]
@@ -194,11 +195,13 @@ for(k in seq_along(cmdata)) {
     
     if(length(index) == 0) next
     
-    genotypes[i, c(2, 4, 6)] = geno[index, c("entry_type", "target_trait", "remarks")]
+    genotypes[i, 2:7] = geno[index, c("entry_type", "release_year", "crossing_year",
+                                      "target_trait", "origin", "remarks")]
     
   }
   
   genotypes[is.na(genotypes)] = "No information provided"
+  
   
   # add both genotype and variable metadata to the main metadata list
   meta$genotypes = genotypes  

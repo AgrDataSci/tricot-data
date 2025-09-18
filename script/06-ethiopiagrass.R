@@ -18,7 +18,7 @@ xy = read.csv("docs/trial-xy.csv")
 available = read.csv("data/aa-available-datasets.csv")
 
 # read file with genotype metadata
-geno = read_excel('raw/variety-metadata/ethiopiagrass.xlsx')
+geno = read_excel('metadata/trials-metadata/ethiopiagrass/genotype-metadata.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
 
 doi = "https://doi.org/10.5281/zenodo.17112492"
@@ -63,10 +63,10 @@ cmdata = cmdata[keep]
 
 cmdata
 
-# # check for genotype names
-x = do.call("rbind", lapply(cmdata, function(x){do.call("rbind", x$combination$elements)}))
-x$id = paste0(x$technology_name, x$alias_name)
-x = x[!duplicated(x$id), ]
+# # # check for genotype names
+# x = do.call("rbind", lapply(cmdata, function(x){do.call("rbind", x$combination$elements)}))
+# x$id = paste0(x$technology_name, x$alias_name)
+# x = x[!duplicated(x$id), ]
 
 # x$alias_name %in% geno$genotype_name
 # 
@@ -126,8 +126,6 @@ for(k in seq_along(cmdata)) {
   rank = exportTricotRanks(x, nmin = 0.2)
   
   if (nrow(rank) == 0) next
-  
-  rank = rank[rank$trait != "yieldqualitative", ]
   
   # remove ties 
   # keep only block x traits with >1 distinct value

@@ -183,9 +183,10 @@ for(k in seq_along(cmdata)) {
   # new table using final genotype names to be added to the metadata
   genotypes = data.frame(genotype_name = unique(plot$genotype_name),
                          role = NA,
-                         year_release = NA,
-                         market_segment = NA,
-                         country_origin = NA, 
+                         release_year = NA,
+                         crossing_year = NA,
+                         target_trait = NA,
+                         origin = NA, 
                          remarks = NA)
   
   geno = geno[!duplicated(geno$final_genotype_name), ]
@@ -197,11 +198,13 @@ for(k in seq_along(cmdata)) {
     
     if(length(index) == 0) next
     
-    genotypes[i, c(2, 4, 6)] = geno[index, c("entry_type", "target_trait", "remarks")]
+    genotypes[i, 2:7] = geno[index, c("entry_type", "release_year", "crossing_year",
+                                      "target_trait", "origin", "remarks")]
     
   }
   
   genotypes[is.na(genotypes)] = "No information provided"
+  
   
   # add both genotype and variable metadata to the main metadata list
   meta$genotypes = genotypes  

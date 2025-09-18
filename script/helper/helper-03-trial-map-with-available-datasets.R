@@ -7,7 +7,7 @@
 # load required packages
 library("geodata")
 library("sf")
-
+library("ggplot2")
 # read trial coordinates from csv file
 xy = read.csv("docs/trial-xy.csv")
 
