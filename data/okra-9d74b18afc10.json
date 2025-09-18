@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-09-13",
+      "version": "v2025-09-18",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -22,7 +22,7 @@
       "experimental_site": "farm"
     },
     "date": {
-      "start": "2022-12-12",
+      "start": "2022-09-17",
       "end": "2023-05-24"
     },
     "geoLocation": {
@@ -49,61 +49,88 @@
       "men": 508,
       "women": 167
     },
+    "funder": [
+      {
+        "funderName": "Norwegian Agency for Development Cooperation",
+        "funderIdentifier": "https://ror.org/04zbn7k04",
+        "awardTitle": "Biodiversity for Opportunities, Livelihoods and Development (BOLD)",
+        "awardNumber": "CONT-1522"
+      },
+      {
+        "funderName": "Federal Ministry for Economic Cooperation and Development (BMZ)",
+        "funderIdentifier": "https://ror.org/00e0ttj68",
+        "awardTitle": "Choose, Grow, Thrive: Using citizen science in expanding West Africa's food basket with African vegetables to tackle malnutrition (BMZ-CGT)",
+        "awardNumber": "81260859"
+      },
+      {
+        "funderName": "Swiss Agency for Development and Cooperation (SDC)",
+        "funderIdentifier": "https://ror.org/02e5d6q93",
+        "awardTitle": "Consumption of Resilient Orphan Crops and Products for Healthier Diets (CROPS4HD) project",
+        "awardNumber": "CROPS4HD 65213"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "Konni",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Commercial check",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "No information provided",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "AVOK1501",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Replacement candidate",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "No information provided",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "VI033783",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "TZSMN86",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "Sassilon",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "Batoumambe",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "C101",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       }
     ],
@@ -892,8 +919,8 @@
       "vegetative_plotsize": "20/20",
       "vegetative_plantdensity": "Bonne",
       "vegetative_survey_end": "2023-05-06 16:48:45",
-      "longitude": -6.0136,
-      "latitude": 11.3645
+      "longitude": -6.0039,
+      "latitude": 11.3658
     },
     {
       "block_id": "9d74b18afc10-2",
@@ -952,8 +979,8 @@
       "vegetative_plotsize": "15/15",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:10:31",
-      "longitude": -5.9982,
-      "latitude": 11.3606
+      "longitude": -5.997,
+      "latitude": 11.3615
     },
     {
       "block_id": "9d74b18afc10-3",
@@ -1011,8 +1038,8 @@
       "vegetative_plotsize": "15m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:19:36",
-      "longitude": -6.0093,
-      "latitude": 11.3727
+      "longitude": -6.0046,
+      "latitude": 11.3632
     },
     {
       "block_id": "9d74b18afc10-4",
@@ -1071,8 +1098,8 @@
       "vegetative_plotsize": "15m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:21:45",
-      "longitude": -6.0097,
-      "latitude": 11.3569
+      "longitude": -6.013,
+      "latitude": 11.3591
     },
     {
       "block_id": "9d74b18afc10-5",
@@ -1130,8 +1157,8 @@
       "vegetative_plotsize": "15m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:23:57",
-      "longitude": -6.0116,
-      "latitude": 11.3741
+      "longitude": -6.0101,
+      "latitude": 11.3664
     },
     {
       "block_id": "9d74b18afc10-6",
@@ -1190,8 +1217,8 @@
       "vegetative_plotsize": "15m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:25:21",
-      "longitude": -6.0153,
-      "latitude": 11.364
+      "longitude": -6.0002,
+      "latitude": 11.3692
     },
     {
       "block_id": "9d74b18afc10-7",
@@ -1249,8 +1276,8 @@
       "vegetative_plotsize": "10m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:27:03",
-      "longitude": -5.9991,
-      "latitude": 11.3644
+      "longitude": -5.9973,
+      "latitude": 11.361
     },
     {
       "block_id": "9d74b18afc10-8",
@@ -1308,8 +1335,8 @@
       "vegetative_plotsize": "15m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:28:30",
-      "longitude": -5.9933,
-      "latitude": 11.3694
+      "longitude": -6.0079,
+      "latitude": 11.3631
     },
     {
       "block_id": "9d74b18afc10-9",
@@ -1368,8 +1395,8 @@
       "vegetative_plotsize": "15m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:30:02",
-      "longitude": -6.0035,
-      "latitude": 11.3685
+      "longitude": -5.993,
+      "latitude": 11.3758
     },
     {
       "block_id": "9d74b18afc10-10",
@@ -1418,8 +1445,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes",
       "socioeconomic_hhassets": "Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-05-11 19:25:04",
-      "longitude": -6.0044,
-      "latitude": 11.3797
+      "longitude": -6.0154,
+      "latitude": 11.3769
     },
     {
       "block_id": "9d74b18afc10-11",
@@ -1478,8 +1505,8 @@
       "vegetative_plotsize": "15/20",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 16:53:21",
-      "longitude": -5.998,
-      "latitude": 11.3738
+      "longitude": -5.9992,
+      "latitude": 11.379
     },
     {
       "block_id": "9d74b18afc10-12",
@@ -1528,8 +1555,8 @@
       "socioeconomic_membershipwhere": "Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Vélo; Table Et Chaises0; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-05-11 22:55:32",
-      "longitude": -5.9909,
-      "latitude": 11.3703
+      "longitude": -5.9957,
+      "latitude": 11.3779
     },
     {
       "block_id": "9d74b18afc10-13",
@@ -1586,8 +1613,8 @@
       "vegetative_plotsize": "20/20",
       "vegetative_plantdensity": "Moyenne",
       "vegetative_survey_end": "2023-05-06 16:55:18",
-      "longitude": -6.0129,
-      "latitude": 11.3679
+      "longitude": -5.9924,
+      "latitude": 11.3674
     },
     {
       "block_id": "9d74b18afc10-14",
@@ -1645,8 +1672,8 @@
       "vegetative_plotsize": "20/20",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 16:57:00",
-      "longitude": -6.0173,
-      "latitude": 11.367
+      "longitude": -6.0077,
+      "latitude": 11.3701
     },
     {
       "block_id": "9d74b18afc10-15",
@@ -1704,8 +1731,8 @@
       "vegetative_plotsize": "20/20",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 16:59:21",
-      "longitude": -6.0124,
-      "latitude": 11.3769
+      "longitude": -6.0017,
+      "latitude": 11.3744
     },
     {
       "block_id": "9d74b18afc10-16",
@@ -1764,8 +1791,8 @@
       "vegetative_plotsize": "20/20",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:02:17",
-      "longitude": -5.9976,
-      "latitude": 11.3626
+      "longitude": -5.9963,
+      "latitude": 11.377
     },
     {
       "block_id": "9d74b18afc10-17",
@@ -1825,8 +1852,8 @@
       "vegetative_plotsize": "20/20",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:04:19",
-      "longitude": -6.0139,
-      "latitude": 11.3776
+      "longitude": -6.0165,
+      "latitude": 11.378
     },
     {
       "block_id": "9d74b18afc10-18",
@@ -1884,8 +1911,8 @@
       "vegetative_plotsize": "15/20",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:06:03",
-      "longitude": -6.006,
-      "latitude": 11.3618
+      "longitude": -6.0082,
+      "latitude": 11.3827
     },
     {
       "block_id": "9d74b18afc10-19",
@@ -1944,8 +1971,8 @@
       "vegetative_plotsize": "20/20",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:07:47",
-      "longitude": -6.0129,
-      "latitude": 11.3808
+      "longitude": -5.9993,
+      "latitude": 11.3595
     },
     {
       "block_id": "9d74b18afc10-20",
@@ -1994,8 +2021,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Vélo; Table Et Chaises0; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-05-14 11:51:14",
-      "longitude": -5.9929,
-      "latitude": 11.3716
+      "longitude": -6.011,
+      "latitude": 11.3662
     },
     {
       "block_id": "9d74b18afc10-21",
@@ -2054,8 +2081,8 @@
       "vegetative_plotsize": "15m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:13:14",
-      "longitude": -6.0181,
-      "latitude": 11.3652
+      "longitude": -5.9995,
+      "latitude": 11.3697
     },
     {
       "block_id": "9d74b18afc10-22",
@@ -2113,8 +2140,8 @@
       "vegetative_plotsize": "15m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:14:57",
-      "longitude": -6.0041,
-      "latitude": 11.3661
+      "longitude": -6.0057,
+      "latitude": 11.3757
     },
     {
       "block_id": "9d74b18afc10-23",
@@ -2173,8 +2200,8 @@
       "vegetative_plotsize": "15m2",
       "vegetative_plantdensity": "Élevé",
       "vegetative_survey_end": "2023-05-06 17:16:56",
-      "longitude": -6.0161,
-      "latitude": 11.3742
+      "longitude": -6.012,
+      "latitude": 11.3799
     },
     {
       "block_id": "9d74b18afc10-24",
@@ -2223,8 +2250,8 @@
       "socioeconomic_membershipwhere": "Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-05-14 12:40:58",
-      "longitude": -5.9949,
-      "latitude": 11.3618
+      "longitude": -6.0081,
+      "latitude": 11.382
     },
     {
       "block_id": "9d74b18afc10-25",
@@ -2273,8 +2300,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-05-14 12:55:45",
-      "longitude": -6.0125,
-      "latitude": 11.3713
+      "longitude": -6.0168,
+      "latitude": 11.3781
     },
     {
       "block_id": "9d74b18afc10-26",
@@ -2323,8 +2350,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Groupe De Producteurs; Association",
       "socioeconomic_hhassets": "Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-05-14 13:01:36",
-      "longitude": -6.0078,
-      "latitude": 11.3686
+      "longitude": -6.0113,
+      "latitude": 11.3734
     },
     {
       "block_id": "9d74b18afc10-27",
@@ -2389,8 +2416,8 @@
       "vegetative_plotsize": "5",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:39:25",
-      "longitude": -5.9986,
-      "latitude": 11.366
+      "longitude": -5.9937,
+      "latitude": 11.367
     },
     {
       "block_id": "9d74b18afc10-29",
@@ -2449,8 +2476,8 @@
       "vegetative_plotsize": "6",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:39:30",
-      "longitude": -6.0172,
-      "latitude": 11.3725
+      "longitude": -6.0111,
+      "latitude": 11.3668
     },
     {
       "block_id": "9d74b18afc10-30",
@@ -2509,8 +2536,8 @@
       "vegetative_plotsize": "5",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:39:42",
-      "longitude": -6.0094,
-      "latitude": 11.3637
+      "longitude": -6.0156,
+      "latitude": 11.3598
     },
     {
       "block_id": "9d74b18afc10-31",
@@ -2569,8 +2596,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:39:48",
-      "longitude": -6.0191,
-      "latitude": 11.366
+      "longitude": -5.9988,
+      "latitude": 11.3623
     },
     {
       "block_id": "9d74b18afc10-32",
@@ -2629,8 +2656,8 @@
       "vegetative_plotsize": "5",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:40:02",
-      "longitude": -6.0153,
-      "latitude": 11.3608
+      "longitude": -5.9911,
+      "latitude": 11.3703
     },
     {
       "block_id": "9d74b18afc10-33",
@@ -2689,8 +2716,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:41:30",
-      "longitude": -6.0167,
-      "latitude": 11.3761
+      "longitude": -6.0021,
+      "latitude": 11.3572
     },
     {
       "block_id": "9d74b18afc10-34",
@@ -2748,8 +2775,8 @@
       "vegetative_plotsize": "12",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:40:47",
-      "longitude": -6.0056,
-      "latitude": 11.3743
+      "longitude": -6.0036,
+      "latitude": 11.3737
     },
     {
       "block_id": "9d74b18afc10-35",
@@ -2807,8 +2834,8 @@
       "vegetative_plotsize": "5",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:41:42",
-      "longitude": -5.9965,
-      "latitude": 11.3773
+      "longitude": -6.0107,
+      "latitude": 11.3809
     },
     {
       "block_id": "9d74b18afc10-36",
@@ -2866,8 +2893,8 @@
       "vegetative_plotsize": "5",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:40:08",
-      "longitude": -6.0097,
-      "latitude": 11.3806
+      "longitude": -6.0048,
+      "latitude": 11.3839
     },
     {
       "block_id": "9d74b18afc10-37",
@@ -2926,8 +2953,8 @@
       "vegetative_plotsize": "8",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:42:05",
-      "longitude": -6.0095,
-      "latitude": 11.3593
+      "longitude": -6.0084,
+      "latitude": 11.3626
     },
     {
       "block_id": "9d74b18afc10-38",
@@ -2986,8 +3013,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:42:45",
-      "longitude": -5.9981,
-      "latitude": 11.3762
+      "longitude": -6.0135,
+      "latitude": 11.3771
     },
     {
       "block_id": "9d74b18afc10-39",
@@ -3046,8 +3073,8 @@
       "vegetative_plotsize": "12",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:41:05",
-      "longitude": -6.0105,
-      "latitude": 11.3626
+      "longitude": -6.01,
+      "latitude": 11.3707
     },
     {
       "block_id": "9d74b18afc10-40",
@@ -3105,8 +3132,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:42:27",
-      "longitude": -6.0116,
-      "latitude": 11.3609
+      "longitude": -5.9971,
+      "latitude": 11.363
     },
     {
       "block_id": "9d74b18afc10-41",
@@ -3165,8 +3192,8 @@
       "vegetative_plotsize": "15",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:40:15",
-      "longitude": -6.008,
-      "latitude": 11.3795
+      "longitude": -5.9977,
+      "latitude": 11.3613
     },
     {
       "block_id": "9d74b18afc10-42",
@@ -3224,8 +3251,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "10",
       "vegetative_survey_end": "2023-05-17 08:42:21",
-      "longitude": -6.012,
-      "latitude": 11.3693
+      "longitude": -6.0087,
+      "latitude": 11.38
     },
     {
       "block_id": "9d74b18afc10-43",
@@ -3284,8 +3311,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:40:56",
-      "longitude": -6.0044,
-      "latitude": 11.3752
+      "longitude": -5.9938,
+      "latitude": 11.3758
     },
     {
       "block_id": "9d74b18afc10-44",
@@ -3344,8 +3371,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:42:13",
-      "longitude": -6.0099,
-      "latitude": 11.3588
+      "longitude": -6.011,
+      "latitude": 11.362
     },
     {
       "block_id": "9d74b18afc10-45",
@@ -3403,8 +3430,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:40:23",
-      "longitude": -5.9988,
-      "latitude": 11.3721
+      "longitude": -6.0161,
+      "latitude": 11.3655
     },
     {
       "block_id": "9d74b18afc10-46",
@@ -3463,8 +3490,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "14",
       "vegetative_survey_end": "2023-05-17 08:41:15",
-      "longitude": -6.0053,
-      "latitude": 11.374
+      "longitude": -6.0187,
+      "latitude": 11.3715
     },
     {
       "block_id": "9d74b18afc10-47",
@@ -3523,8 +3550,8 @@
       "vegetative_plotsize": "15",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:41:57",
-      "longitude": -6.0028,
-      "latitude": 11.3668
+      "longitude": -6.0005,
+      "latitude": 11.359
     },
     {
       "block_id": "9d74b18afc10-48",
@@ -3583,8 +3610,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:40:32",
-      "longitude": -6.0111,
-      "latitude": 11.3782
+      "longitude": -5.9946,
+      "latitude": 11.3662
     },
     {
       "block_id": "9d74b18afc10-49",
@@ -3643,8 +3670,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:41:23",
-      "longitude": -6.0063,
-      "latitude": 11.3731
+      "longitude": -6.0067,
+      "latitude": 11.3583
     },
     {
       "block_id": "9d74b18afc10-50",
@@ -3703,8 +3730,8 @@
       "vegetative_plotsize": "15",
       "vegetative_plantdensity": "14",
       "vegetative_survey_end": "2023-05-17 08:40:40",
-      "longitude": -6.0082,
-      "latitude": 11.3826
+      "longitude": -5.9982,
+      "latitude": 11.3699
     },
     {
       "block_id": "9d74b18afc10-51",
@@ -3763,8 +3790,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "20",
       "vegetative_survey_end": "2023-05-17 08:41:36",
-      "longitude": -6.0173,
-      "latitude": 11.3752
+      "longitude": -6.012,
+      "latitude": 11.3639
     },
     {
       "block_id": "9d74b18afc10-52",
@@ -3823,8 +3850,8 @@
       "vegetative_plotsize": "15",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-05-17 08:39:56",
-      "longitude": -5.995,
-      "latitude": 11.3781
+      "longitude": -6.0102,
+      "latitude": 11.3766
     },
     {
       "block_id": "9d74b18afc10-53",
@@ -3896,8 +3923,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-03-29 21:26:42",
-      "longitude": -5.83,
-      "latitude": 11.3541
+      "longitude": -5.8336,
+      "latitude": 11.3631
     },
     {
       "block_id": "9d74b18afc10-56",
@@ -3957,8 +3984,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-03-23 19:26:13",
-      "longitude": -5.8282,
-      "latitude": 11.3557
+      "longitude": -5.8227,
+      "latitude": 11.3669
     },
     {
       "block_id": "9d74b18afc10-57",
@@ -4018,8 +4045,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-03-23 19:29:41",
-      "longitude": -5.8224,
-      "latitude": 11.3753
+      "longitude": -5.8221,
+      "latitude": 11.3717
     },
     {
       "block_id": "9d74b18afc10-58",
@@ -4078,8 +4105,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-03-23 19:33:39",
-      "longitude": -5.8211,
-      "latitude": 11.3673
+      "longitude": -5.8241,
+      "latitude": 11.3664
     },
     {
       "block_id": "9d74b18afc10-59",
@@ -4139,8 +4166,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-03-24 10:45:19",
-      "longitude": -5.8361,
-      "latitude": 11.3612
+      "longitude": -5.8454,
+      "latitude": 11.3703
     },
     {
       "block_id": "9d74b18afc10-60",
@@ -4200,8 +4227,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-03-29 21:27:03",
-      "longitude": -5.8229,
-      "latitude": 11.3654
+      "longitude": -5.8436,
+      "latitude": 11.3636
     },
     {
       "block_id": "9d74b18afc10-61",
@@ -4261,8 +4288,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-03-29 21:38:05",
-      "longitude": -5.8322,
-      "latitude": 11.3783
+      "longitude": -5.8465,
+      "latitude": 11.3674
     },
     {
       "block_id": "9d74b18afc10-62",
@@ -4322,8 +4349,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 19:31:18",
-      "longitude": -5.8202,
-      "latitude": 11.3668
+      "longitude": -5.8265,
+      "latitude": 11.3756
     },
     {
       "block_id": "9d74b18afc10-63",
@@ -4383,8 +4410,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 19:33:24",
-      "longitude": -5.8434,
-      "latitude": 11.3729
+      "longitude": -5.822,
+      "latitude": 11.3778
     },
     {
       "block_id": "9d74b18afc10-64",
@@ -4444,8 +4471,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 19:36:04",
-      "longitude": -5.8324,
-      "latitude": 11.381
+      "longitude": -5.8253,
+      "latitude": 11.3758
     },
     {
       "block_id": "9d74b18afc10-65",
@@ -4505,8 +4532,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 19:40:47",
-      "longitude": -5.8424,
-      "latitude": 11.3645
+      "longitude": -5.8296,
+      "latitude": 11.3718
     },
     {
       "block_id": "9d74b18afc10-66",
@@ -4566,8 +4593,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 19:43:16",
-      "longitude": -5.8225,
-      "latitude": 11.3787
+      "longitude": -5.8175,
+      "latitude": 11.3653
     },
     {
       "block_id": "9d74b18afc10-67",
@@ -4626,8 +4653,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 19:50:23",
-      "longitude": -5.818,
-      "latitude": 11.3682
+      "longitude": -5.8388,
+      "latitude": 11.3597
     },
     {
       "block_id": "9d74b18afc10-68",
@@ -4687,8 +4714,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 19:56:59",
-      "longitude": -5.8335,
-      "latitude": 11.3725
+      "longitude": -5.823,
+      "latitude": 11.374
     },
     {
       "block_id": "9d74b18afc10-69",
@@ -4748,8 +4775,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 20:20:33",
-      "longitude": -5.8243,
-      "latitude": 11.3759
+      "longitude": -5.8441,
+      "latitude": 11.3633
     },
     {
       "block_id": "9d74b18afc10-70",
@@ -4809,8 +4836,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 20:27:50",
-      "longitude": -5.8265,
-      "latitude": 11.3802
+      "longitude": -5.8375,
+      "latitude": 11.3788
     },
     {
       "block_id": "9d74b18afc10-71",
@@ -4870,8 +4897,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 22:13:49",
-      "longitude": -5.8368,
-      "latitude": 11.3599
+      "longitude": -5.8367,
+      "latitude": 11.3788
     },
     {
       "block_id": "9d74b18afc10-72",
@@ -4931,8 +4958,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-01 20:23:25",
-      "longitude": -5.8284,
-      "latitude": 11.3744
+      "longitude": -5.8315,
+      "latitude": 11.3715
     },
     {
       "block_id": "9d74b18afc10-73",
@@ -4992,8 +5019,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-06 20:16:32",
-      "longitude": -5.824,
-      "latitude": 11.3727
+      "longitude": -5.826,
+      "latitude": 11.3745
     },
     {
       "block_id": "9d74b18afc10-74",
@@ -5052,8 +5079,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-06 20:19:23",
-      "longitude": -5.822,
-      "latitude": 11.3676
+      "longitude": -5.8375,
+      "latitude": 11.3632
     },
     {
       "block_id": "9d74b18afc10-75",
@@ -5112,8 +5139,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-06 20:21:52",
-      "longitude": -5.8423,
-      "latitude": 11.3723
+      "longitude": -5.8206,
+      "latitude": 11.3636
     },
     {
       "block_id": "9d74b18afc10-76",
@@ -5162,8 +5189,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2022-12-12 20:13:32",
-      "longitude": -5.8362,
-      "latitude": 11.3675
+      "longitude": -5.8428,
+      "latitude": 11.3674
     },
     {
       "block_id": "9d74b18afc10-77",
@@ -5213,8 +5240,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2022-12-12 20:14:34",
-      "longitude": -5.8239,
-      "latitude": 11.3664
+      "longitude": -5.8218,
+      "latitude": 11.3723
     },
     {
       "block_id": "9d74b18afc10-78",
@@ -5264,8 +5291,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2022-12-12 20:15:56",
-      "longitude": -5.8314,
-      "latitude": 11.3805
+      "longitude": -5.8319,
+      "latitude": 11.361
     },
     {
       "block_id": "9d74b18afc10-79",
@@ -5325,8 +5352,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-08 17:33:51",
-      "longitude": -5.8252,
-      "latitude": 11.3747
+      "longitude": -5.8244,
+      "latitude": 11.3672
     },
     {
       "block_id": "9d74b18afc10-80",
@@ -5386,8 +5413,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-08 18:16:33",
-      "longitude": -5.8321,
-      "latitude": 11.3547
+      "longitude": -5.8395,
+      "latitude": 11.3586
     },
     {
       "block_id": "9d74b18afc10-81",
@@ -5446,8 +5473,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "5",
       "vegetative_survey_end": "2023-04-08 18:19:32",
-      "longitude": -5.8351,
-      "latitude": 11.3695
+      "longitude": -5.8315,
+      "latitude": 11.3698
     },
     {
       "block_id": "9d74b18afc10-82",
@@ -5658,8 +5685,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-01-16 20:51:15",
-      "longitude": -5.7137,
-      "latitude": 11.3553
+      "longitude": -5.7059,
+      "latitude": 11.359
     },
     {
       "block_id": "9d74b18afc10-110",
@@ -5708,8 +5735,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-01-16 20:39:02",
-      "longitude": -5.707,
-      "latitude": 11.3588
+      "longitude": -5.7119,
+      "latitude": 11.3647
     },
     {
       "block_id": "9d74b18afc10-111",
@@ -5764,8 +5791,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Groupe De Producteurs",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Vélo; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-01-09 11:27:57",
-      "longitude": -5.7058,
-      "latitude": 11.3736
+      "longitude": -5.7226,
+      "latitude": 11.3531
     },
     {
       "block_id": "9d74b18afc10-113",
@@ -5814,8 +5841,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-01-16 20:45:36",
-      "longitude": -5.7012,
-      "latitude": 11.3657
+      "longitude": -5.7118,
+      "latitude": 11.3654
     },
     {
       "block_id": "9d74b18afc10-114",
@@ -5870,8 +5897,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-01-09 11:34:48",
-      "longitude": -5.7199,
-      "latitude": 11.3655
+      "longitude": -5.712,
+      "latitude": 11.358
     },
     {
       "block_id": "9d74b18afc10-116",
@@ -5920,8 +5947,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-01-16 20:58:00",
-      "longitude": -5.7154,
-      "latitude": 11.352
+      "longitude": -5.7026,
+      "latitude": 11.3672
     },
     {
       "block_id": "9d74b18afc10-117",
@@ -5970,8 +5997,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-01-09 11:40:34",
-      "longitude": -5.7072,
-      "latitude": 11.3701
+      "longitude": -5.7164,
+      "latitude": 11.3562
     },
     {
       "block_id": "9d74b18afc10-118",
@@ -6032,8 +6059,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-01-09 11:45:34",
-      "longitude": -5.7105,
-      "latitude": 11.3597
+      "longitude": -5.7037,
+      "latitude": 11.36
     },
     {
       "block_id": "9d74b18afc10-121",
@@ -6082,8 +6109,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-01-09 11:50:18",
-      "longitude": -5.7074,
-      "latitude": 11.3504
+      "longitude": -5.7103,
+      "latitude": 11.3707
     },
     {
       "block_id": "9d74b18afc10-122",
@@ -6132,8 +6159,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Table Et ChaisesTable Et Chaises",
       "socioeconomic_survey_end": "2023-01-16 20:29:49",
-      "longitude": -5.7225,
-      "latitude": 11.3614
+      "longitude": -5.7189,
+      "latitude": 11.3634
     },
     {
       "block_id": "9d74b18afc10-123",
@@ -6182,8 +6209,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et ChaisesLit; Table Et Chaises0; Vélo",
       "socioeconomic_survey_end": "2023-01-09 11:54:46",
-      "longitude": -5.7089,
-      "latitude": 11.3602
+      "longitude": -5.7034,
+      "latitude": 11.3708
     },
     {
       "block_id": "9d74b18afc10-124",
@@ -6250,8 +6277,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-01-09 11:59:00",
-      "longitude": -5.7129,
-      "latitude": 11.3663
+      "longitude": -5.7197,
+      "latitude": 11.3514
     },
     {
       "block_id": "9d74b18afc10-128",
@@ -6336,8 +6363,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-01-09 12:02:34",
-      "longitude": -5.7182,
-      "latitude": 11.3681
+      "longitude": -5.7035,
+      "latitude": 11.3573
     },
     {
       "block_id": "9d74b18afc10-135",
@@ -6408,8 +6435,8 @@
       "vegetative_plotsize": "3m",
       "vegetative_plantdensity": "60x80",
       "vegetative_survey_end": "2023-01-30 10:30:27",
-      "longitude": -7.4888,
-      "latitude": 11.4137
+      "longitude": -7.511,
+      "latitude": 11.4233
     },
     {
       "block_id": "9d74b18afc10-138",
@@ -6469,8 +6496,8 @@
       "vegetative_plotsize": "3m",
       "vegetative_plantdensity": "60x80",
       "vegetative_survey_end": "2023-01-30 10:44:34",
-      "longitude": -7.4922,
-      "latitude": 11.412
+      "longitude": -7.5017,
+      "latitude": 11.4199
     },
     {
       "block_id": "9d74b18afc10-139",
@@ -6674,8 +6701,8 @@
       "vegetative_plotsize": "015",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 15:21:16",
-      "longitude": -7.4899,
-      "latitude": 11.4102
+      "longitude": -7.4856,
+      "latitude": 11.4128
     },
     {
       "block_id": "9d74b18afc10-164",
@@ -6735,8 +6762,8 @@
       "vegetative_plotsize": "O10",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-14 15:15:18",
-      "longitude": -7.4891,
-      "latitude": 11.4319
+      "longitude": -7.4859,
+      "latitude": 11.4252
     },
     {
       "block_id": "9d74b18afc10-165",
@@ -6796,8 +6823,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-19 23:41:15",
-      "longitude": -7.4857,
-      "latitude": 11.4046
+      "longitude": -7.4948,
+      "latitude": 11.4017
     },
     {
       "block_id": "9d74b18afc10-166",
@@ -6858,8 +6885,8 @@
       "vegetative_plotsize": "020",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-27 23:25:32",
-      "longitude": -7.4874,
-      "latitude": 11.4127
+      "longitude": -7.492,
+      "latitude": 11.4215
     },
     {
       "block_id": "9d74b18afc10-167",
@@ -6923,8 +6950,8 @@
       "vegetative_plotsize": "50",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-20 00:44:36",
-      "longitude": -7.4964,
-      "latitude": 11.4238
+      "longitude": -7.4913,
+      "latitude": 11.4008
     },
     {
       "block_id": "9d74b18afc10-168",
@@ -6984,8 +7011,8 @@
       "vegetative_plotsize": "15",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-20 00:42:24",
-      "longitude": -7.5005,
-      "latitude": 11.4222
+      "longitude": -7.493,
+      "latitude": 11.4288
     },
     {
       "block_id": "9d74b18afc10-169",
@@ -7045,8 +7072,8 @@
       "vegetative_plotsize": "075",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-25 15:42:48",
-      "longitude": -7.5009,
-      "latitude": 11.4249
+      "longitude": -7.4856,
+      "latitude": 11.4206
     },
     {
       "block_id": "9d74b18afc10-170",
@@ -7096,8 +7123,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises0; Table Et Chaises",
       "socioeconomic_survey_end": "2023-02-22 09:56:50",
-      "longitude": -7.5095,
-      "latitude": 11.3734
+      "longitude": -7.4972,
+      "latitude": 11.3666
     },
     {
       "block_id": "9d74b18afc10-171",
@@ -7157,8 +7184,8 @@
       "vegetative_plotsize": "05",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-21 13:21:03",
-      "longitude": -7.4945,
-      "latitude": 11.4241
+      "longitude": -7.5012,
+      "latitude": 11.4201
     },
     {
       "block_id": "9d74b18afc10-172",
@@ -7219,8 +7246,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 12:24:36",
-      "longitude": -7.4937,
-      "latitude": 11.4181
+      "longitude": -7.4914,
+      "latitude": 11.4257
     },
     {
       "block_id": "9d74b18afc10-173",
@@ -7281,8 +7308,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 15:03:50",
-      "longitude": -7.4813,
-      "latitude": 11.4202
+      "longitude": -7.4891,
+      "latitude": 11.4084
     },
     {
       "block_id": "9d74b18afc10-174",
@@ -7342,8 +7369,8 @@
       "vegetative_plotsize": "015",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 15:29:46",
-      "longitude": -7.4963,
-      "latitude": 11.4216
+      "longitude": -7.4966,
+      "latitude": 11.4046
     },
     {
       "block_id": "9d74b18afc10-175",
@@ -7404,8 +7431,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-17 14:12:14",
-      "longitude": -7.4874,
-      "latitude": 11.4029
+      "longitude": -7.4904,
+      "latitude": 11.4089
     },
     {
       "block_id": "9d74b18afc10-176",
@@ -7466,8 +7493,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 15:14:04",
-      "longitude": -7.4847,
-      "latitude": 11.4243
+      "longitude": -7.4928,
+      "latitude": 11.4221
     },
     {
       "block_id": "9d74b18afc10-177",
@@ -7527,8 +7554,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 13:16:34",
-      "longitude": -7.5003,
-      "latitude": 11.4155
+      "longitude": -7.4924,
+      "latitude": 11.4084
     },
     {
       "block_id": "9d74b18afc10-178",
@@ -7590,8 +7617,8 @@
       "vegetative_plotsize": "020",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-27 23:36:59",
-      "longitude": -7.498,
-      "latitude": 11.4048
+      "longitude": -7.4923,
+      "latitude": 11.414
     },
     {
       "block_id": "9d74b18afc10-179",
@@ -7653,8 +7680,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 13:02:03",
-      "longitude": -7.4979,
-      "latitude": 11.4047
+      "longitude": -7.5031,
+      "latitude": 11.4131
     },
     {
       "block_id": "9d74b18afc10-180",
@@ -7714,8 +7741,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 12:48:54",
-      "longitude": -7.4888,
-      "latitude": 11.4163
+      "longitude": -7.4926,
+      "latitude": 11.4063
     },
     {
       "block_id": "9d74b18afc10-181",
@@ -7775,8 +7802,8 @@
       "vegetative_plotsize": "075",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-21 13:05:12",
-      "longitude": -7.4932,
-      "latitude": 11.4094
+      "longitude": -7.4861,
+      "latitude": 11.4039
     },
     {
       "block_id": "9d74b18afc10-182",
@@ -7825,8 +7852,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises0; Table Et Chaises",
       "socioeconomic_survey_end": "2023-02-25 13:56:48",
-      "longitude": -7.5032,
-      "latitude": 11.4048
+      "longitude": -7.485,
+      "latitude": 11.425
     },
     {
       "block_id": "9d74b18afc10-183",
@@ -7886,8 +7913,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 13:50:25",
-      "longitude": -7.4957,
-      "latitude": 11.4093
+      "longitude": -7.5027,
+      "latitude": 11.4232
     },
     {
       "block_id": "9d74b18afc10-184",
@@ -7947,8 +7974,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 13:57:36",
-      "longitude": -7.4947,
-      "latitude": 11.4118
+      "longitude": -7.4923,
+      "latitude": 11.4268
     },
     {
       "block_id": "9d74b18afc10-185",
@@ -8010,8 +8037,8 @@
       "vegetative_plotsize": "010",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-17 14:20:00",
-      "longitude": -7.4937,
-      "latitude": 11.4061
+      "longitude": -7.49,
+      "latitude": 11.4268
     },
     {
       "block_id": "9d74b18afc10-186",
@@ -8072,8 +8099,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-25 15:28:57",
-      "longitude": -7.4827,
-      "latitude": 11.4292
+      "longitude": -7.4884,
+      "latitude": 11.4251
     },
     {
       "block_id": "9d74b18afc10-187",
@@ -8134,8 +8161,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-17 14:33:21",
-      "longitude": -7.5041,
-      "latitude": 11.4239
+      "longitude": -7.4855,
+      "latitude": 11.4177
     },
     {
       "block_id": "9d74b18afc10-188",
@@ -8197,8 +8224,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 13:27:19",
-      "longitude": -7.4813,
-      "latitude": 11.4082
+      "longitude": -7.484,
+      "latitude": 11.4134
     },
     {
       "block_id": "9d74b18afc10-189",
@@ -8260,8 +8287,8 @@
       "vegetative_plotsize": "025",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-03-16 13:39:59",
-      "longitude": -7.5037,
-      "latitude": 11.417
+      "longitude": -7.5059,
+      "latitude": 11.413
     },
     {
       "block_id": "9d74b18afc10-190",
@@ -8323,8 +8350,8 @@
       "socioeconomic_membershipwherefr_oth": "Crouper",
       "socioeconomic_hhassets": "Matelas; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-04-29 13:24:30",
-      "longitude": -7.4919,
-      "latitude": 11.4506
+      "longitude": -7.4978,
+      "latitude": 11.4499
     },
     {
       "block_id": "9d74b18afc10-191",
@@ -8341,8 +8368,8 @@
       "vegetative_plotsize": "4/2",
       "vegetative_plantdensity": "Combo",
       "vegetative_survey_end": "2023-04-29 13:23:58",
-      "longitude": -7.4872,
-      "latitude": 11.4433
+      "longitude": -7.4988,
+      "latitude": 11.441
     },
     {
       "block_id": "9d74b18afc10-192",
@@ -8360,8 +8387,8 @@
       "vegetative_plotsize": "3/2",
       "vegetative_plantdensity": "Salade",
       "vegetative_survey_end": "2023-04-29 13:24:40",
-      "longitude": -7.4908,
-      "latitude": 11.4331
+      "longitude": -7.4913,
+      "latitude": 11.4405
     },
     {
       "block_id": "9d74b18afc10-193",
@@ -8384,7 +8411,7 @@
       "vegetative_plotsize": "2",
       "vegetative_plantdensity": "Oignon",
       "vegetative_survey_end": "2023-04-29 20:01:44",
-      "longitude": -7.4984,
+      "longitude": -7.4938,
       "latitude": 11.4416
     },
     {
@@ -8468,8 +8495,8 @@
       "vegetative_plotsize": "5/15",
       "vegetative_plantdensity": "Conconbrou",
       "vegetative_survey_end": "2023-04-29 13:24:51",
-      "longitude": -7.5006,
-      "latitude": 11.428
+      "longitude": -7.4989,
+      "latitude": 11.4341
     },
     {
       "block_id": "9d74b18afc10-198",
@@ -8542,8 +8569,8 @@
       "vegetative_plotsize": "5/2",
       "vegetative_plantdensity": "Okra",
       "vegetative_survey_end": "2023-04-29 13:25:08",
-      "longitude": -7.4993,
-      "latitude": 11.4341
+      "longitude": -7.5033,
+      "latitude": 11.431
     },
     {
       "block_id": "9d74b18afc10-199",
@@ -8572,8 +8599,8 @@
       "vegetative_plotsize": "5/2",
       "vegetative_plantdensity": "Okra",
       "vegetative_survey_end": "2023-04-29 20:00:45",
-      "longitude": -7.4906,
-      "latitude": 11.4469
+      "longitude": -7.494,
+      "latitude": 11.4488
     },
     {
       "block_id": "9d74b18afc10-202",
@@ -8596,8 +8623,8 @@
       "vegetative_plotsize": "5/2",
       "vegetative_plantdensity": "Okra",
       "vegetative_survey_end": "2023-04-29 13:26:12",
-      "longitude": -7.4948,
-      "latitude": 11.436
+      "longitude": -7.4958,
+      "latitude": 11.4257
     },
     {
       "block_id": "9d74b18afc10-204",
@@ -8669,8 +8696,8 @@
       "vegetative_plotsize": "5/2",
       "vegetative_plantdensity": "Okra",
       "vegetative_survey_end": "2023-04-29 13:26:44",
-      "longitude": -7.4899,
-      "latitude": 11.4513
+      "longitude": -7.5019,
+      "latitude": 11.4269
     },
     {
       "block_id": "9d74b18afc10-205",
@@ -8731,8 +8758,8 @@
       "socioeconomic_membershipwherefr_oth": "Association",
       "socioeconomic_hhassets": "Vélo; Matelas; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-04-29 13:26:54",
-      "longitude": -7.5034,
-      "latitude": 11.4399
+      "longitude": -7.5005,
+      "latitude": 11.4278
     },
     {
       "block_id": "9d74b18afc10-206",
@@ -8749,8 +8776,8 @@
       "vegetative_plotsize": "5/2",
       "vegetative_plantdensity": "Okra",
       "vegetative_survey_end": "2023-04-29 14:07:57",
-      "longitude": -7.5036,
-      "latitude": 11.4448
+      "longitude": -7.4879,
+      "latitude": 11.4463
     },
     {
       "block_id": "9d74b18afc10-207",
@@ -8828,8 +8855,8 @@
       "vegetative_plotsize": "5/2",
       "vegetative_plantdensity": "Okra",
       "vegetative_survey_end": "2023-04-29 20:01:16",
-      "longitude": -7.5034,
-      "latitude": 11.4457
+      "longitude": -7.5021,
+      "latitude": 11.4437
     },
     {
       "block_id": "9d74b18afc10-209",
@@ -8907,8 +8934,8 @@
       "vegetative_plotsize": "5/2",
       "vegetative_plantdensity": "12",
       "vegetative_survey_end": "2023-04-29 20:01:26",
-      "longitude": -7.5062,
-      "latitude": 11.4446
+      "longitude": -7.5006,
+      "latitude": 11.4356
     },
     {
       "block_id": "9d74b18afc10-211",
@@ -8970,8 +8997,8 @@
       "socioeconomic_membershipwherefr_oth": "Crouper de femme",
       "socioeconomic_hhassets": "Matelas; Vélo; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-04-29 20:01:56",
-      "longitude": -7.4952,
-      "latitude": 11.4288
+      "longitude": -7.4843,
+      "latitude": 11.4467
     },
     {
       "block_id": "9d74b18afc10-212",
@@ -9056,8 +9083,8 @@
       "vegetative_plotsize": "5/2",
       "vegetative_plantdensity": "18",
       "vegetative_survey_end": "2023-04-29 20:02:05",
-      "longitude": -7.4896,
-      "latitude": 11.4325
+      "longitude": -7.4836,
+      "latitude": 11.4402
     },
     {
       "block_id": "9d74b18afc10-215",
@@ -9128,8 +9155,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:09:14",
-      "longitude": -7.5117,
-      "latitude": 11.4377
+      "longitude": -7.4945,
+      "latitude": 11.4455
     },
     {
       "block_id": "9d74b18afc10-218",
@@ -9186,8 +9213,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-25 12:08:04",
-      "longitude": -7.4943,
-      "latitude": 11.4433
+      "longitude": -7.4927,
+      "latitude": 11.4394
     },
     {
       "block_id": "9d74b18afc10-219",
@@ -9244,8 +9271,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-25 12:09:47",
-      "longitude": -7.5135,
-      "latitude": 11.435
+      "longitude": -7.5106,
+      "latitude": 11.442
     },
     {
       "block_id": "9d74b18afc10-220",
@@ -9308,8 +9335,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:13:45",
-      "longitude": -7.5009,
-      "latitude": 11.4434
+      "longitude": -7.5069,
+      "latitude": 11.4221
     },
     {
       "block_id": "9d74b18afc10-222",
@@ -9367,8 +9394,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:22:08",
-      "longitude": -7.4907,
-      "latitude": 11.4354
+      "longitude": -7.4915,
+      "latitude": 11.424
     },
     {
       "block_id": "9d74b18afc10-223",
@@ -9432,8 +9459,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-25 12:16:52",
-      "longitude": -7.5102,
-      "latitude": 11.4228
+      "longitude": -7.5086,
+      "latitude": 11.4343
     },
     {
       "block_id": "9d74b18afc10-225",
@@ -9491,8 +9518,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:36:17",
-      "longitude": -7.4879,
-      "latitude": 11.4285
+      "longitude": -7.5008,
+      "latitude": 11.4283
     },
     {
       "block_id": "9d74b18afc10-226",
@@ -9552,8 +9579,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:11:00",
-      "longitude": -7.4891,
-      "latitude": 11.4334
+      "longitude": -7.4999,
+      "latitude": 11.4219
     },
     {
       "block_id": "9d74b18afc10-227",
@@ -9610,8 +9637,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:27:40",
-      "longitude": -7.5016,
-      "latitude": 11.4285
+      "longitude": -7.5116,
+      "latitude": 11.4359
     },
     {
       "block_id": "9d74b18afc10-228",
@@ -9628,8 +9655,8 @@
       "vegetative_plotsize": "O",
       "vegetative_plantdensity": "O",
       "vegetative_survey_end": "2023-02-24 22:24:45",
-      "longitude": -7.4994,
-      "latitude": 11.4471
+      "longitude": -7.4965,
+      "latitude": 11.4333
     },
     {
       "block_id": "9d74b18afc10-229",
@@ -9686,8 +9713,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:29:28",
-      "longitude": -7.5046,
-      "latitude": 11.4405
+      "longitude": -7.5127,
+      "latitude": 11.4363
     },
     {
       "block_id": "9d74b18afc10-230",
@@ -9745,8 +9772,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:26:24",
-      "longitude": -7.5087,
-      "latitude": 11.4331
+      "longitude": -7.4996,
+      "latitude": 11.4424
     },
     {
       "block_id": "9d74b18afc10-231",
@@ -9802,8 +9829,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:23:36",
-      "longitude": -7.5131,
-      "latitude": 11.439
+      "longitude": -7.516,
+      "latitude": 11.4338
     },
     {
       "block_id": "9d74b18afc10-232",
@@ -9861,8 +9888,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:35:13",
-      "longitude": -7.5088,
-      "latitude": 11.4284
+      "longitude": -7.495,
+      "latitude": 11.4387
     },
     {
       "block_id": "9d74b18afc10-233",
@@ -9919,8 +9946,8 @@
       "vegetative_plotsize": "O",
       "vegetative_plantdensity": "O",
       "vegetative_survey_end": "2023-02-24 22:18:50",
-      "longitude": -7.4905,
-      "latitude": 11.4267
+      "longitude": -7.5069,
+      "latitude": 11.4303
     },
     {
       "block_id": "9d74b18afc10-234",
@@ -9978,8 +10005,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:16:41",
-      "longitude": -7.4959,
-      "latitude": 11.437
+      "longitude": -7.5116,
+      "latitude": 11.4404
     },
     {
       "block_id": "9d74b18afc10-235",
@@ -10043,8 +10070,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:12:29",
-      "longitude": -7.489,
-      "latitude": 11.4299
+      "longitude": -7.5132,
+      "latitude": 11.4376
     },
     {
       "block_id": "9d74b18afc10-237",
@@ -10102,8 +10129,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:02:12",
-      "longitude": -7.4986,
-      "latitude": 11.441
+      "longitude": -7.5136,
+      "latitude": 11.4273
     },
     {
       "block_id": "9d74b18afc10-238",
@@ -10161,8 +10188,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-25 11:46:58",
-      "longitude": -7.4944,
-      "latitude": 11.4428
+      "longitude": -7.5074,
+      "latitude": 11.4329
     },
     {
       "block_id": "9d74b18afc10-239",
@@ -10226,8 +10253,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:03:59",
-      "longitude": -7.4909,
-      "latitude": 11.4368
+      "longitude": -7.5018,
+      "latitude": 11.4348
     },
     {
       "block_id": "9d74b18afc10-241",
@@ -10285,8 +10312,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:15:50",
-      "longitude": -7.4985,
-      "latitude": 11.4431
+      "longitude": -7.493,
+      "latitude": 11.4406
     },
     {
       "block_id": "9d74b18afc10-242",
@@ -10343,8 +10370,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-24 22:17:50",
-      "longitude": -7.4987,
-      "latitude": 11.4417
+      "longitude": -7.5098,
+      "latitude": 11.4419
     },
     {
       "block_id": "9d74b18afc10-243",
@@ -10401,8 +10428,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-25 11:45:27",
-      "longitude": -7.4998,
-      "latitude": 11.4233
+      "longitude": -7.4904,
+      "latitude": 11.4359
     },
     {
       "block_id": "9d74b18afc10-244",
@@ -10474,8 +10501,8 @@
       "vegetative_plotsize": "Moyen",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 11:02:13",
-      "longitude": -7.4897,
-      "latitude": 11.454
+      "longitude": -7.4918,
+      "latitude": 11.4454
     },
     {
       "block_id": "9d74b18afc10-245",
@@ -10553,8 +10580,8 @@
       "vegetative_plotsize": "50",
       "vegetative_plantdensity": "00",
       "vegetative_survey_end": "2023-02-22 06:05:00",
-      "longitude": -7.5568,
-      "latitude": 11.3862
+      "longitude": -7.5545,
+      "latitude": 11.3767
     },
     {
       "block_id": "9d74b18afc10-249",
@@ -10627,8 +10654,8 @@
       "vegetative_plotsize": "Moyen",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 11:22:16",
-      "longitude": -7.5581,
-      "latitude": 11.3755
+      "longitude": -7.5499,
+      "latitude": 11.3683
     },
     {
       "block_id": "9d74b18afc10-250",
@@ -10706,8 +10733,8 @@
       "vegetative_plotsize": "Moyen",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 14:23:49",
-      "longitude": -7.4929,
-      "latitude": 11.4451
+      "longitude": -7.498,
+      "latitude": 11.4366
     },
     {
       "block_id": "9d74b18afc10-252",
@@ -10781,8 +10808,8 @@
       "vegetative_plotsize": "Moyen",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 14:49:06",
-      "longitude": -7.4925,
-      "latitude": 11.4521
+      "longitude": -7.5074,
+      "latitude": 11.4334
     },
     {
       "block_id": "9d74b18afc10-253",
@@ -10928,8 +10955,8 @@
       "vegetative_plotsize": "Moyen",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 11:42:30",
-      "longitude": -7.5728,
-      "latitude": 11.3176
+      "longitude": -7.566,
+      "latitude": 11.3223
     },
     {
       "block_id": "9d74b18afc10-266",
@@ -11003,8 +11030,8 @@
       "vegetative_plotsize": "Moyen",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 11:54:37",
-      "longitude": -7.5709,
-      "latitude": 11.3413
+      "longitude": -7.5656,
+      "latitude": 11.3317
     },
     {
       "block_id": "9d74b18afc10-267",
@@ -11078,8 +11105,8 @@
       "vegetative_plotsize": "Moyen",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 11:58:37",
-      "longitude": -7.5854,
-      "latitude": 11.3195
+      "longitude": -7.5741,
+      "latitude": 11.3263
     },
     {
       "block_id": "9d74b18afc10-268",
@@ -11153,8 +11180,8 @@
       "vegetative_plotsize": "Moyen",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 12:30:17",
-      "longitude": -7.5792,
-      "latitude": 11.34
+      "longitude": -7.5731,
+      "latitude": 11.3266
     },
     {
       "block_id": "9d74b18afc10-269",
@@ -11226,8 +11253,8 @@
       "vegetative_plotsize": ".moyenne",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 12:40:50",
-      "longitude": -7.5656,
-      "latitude": 11.3188
+      "longitude": -7.5748,
+      "latitude": 11.3421
     },
     {
       "block_id": "9d74b18afc10-270",
@@ -11300,8 +11327,8 @@
       "vegetative_plotsize": "Moyen",
       "vegetative_plantdensity": "Faible",
       "vegetative_survey_end": "2023-02-20 12:50:07",
-      "longitude": -7.5676,
-      "latitude": 11.3091
+      "longitude": -7.5574,
+      "latitude": 11.3047
     },
     {
       "block_id": "9d74b18afc10-271",
@@ -11684,8 +11711,8 @@
       "vegetative_plotsize": "5",
       "vegetative_plantdensity": "00",
       "vegetative_survey_end": "2023-02-11 13:26:25",
-      "longitude": -7.4964,
-      "latitude": 11.4174
+      "longitude": -7.4839,
+      "latitude": 11.4096
     },
     {
       "block_id": "9d74b18afc10-326",
@@ -11744,8 +11771,8 @@
       "vegetative_plotsize": "40",
       "vegetative_plantdensity": "00",
       "vegetative_survey_end": "2023-02-22 06:29:37",
-      "longitude": -7.4253,
-      "latitude": 11.3588
+      "longitude": -7.4389,
+      "latitude": 11.354
     },
     {
       "block_id": "9d74b18afc10-327",
@@ -11803,8 +11830,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "00",
       "vegetative_survey_end": "2023-02-22 06:31:56",
-      "longitude": -7.437,
-      "latitude": 11.3541
+      "longitude": -7.445,
+      "latitude": 11.3567
     },
     {
       "block_id": "9d74b18afc10-328",
@@ -11874,8 +11901,8 @@
       "vegetative_plotsize": "40",
       "vegetative_plantdensity": "00",
       "vegetative_survey_end": "2023-02-22 06:33:45",
-      "longitude": -7.4995,
-      "latitude": 11.4199
+      "longitude": -7.4898,
+      "latitude": 11.4052
     },
     {
       "block_id": "9d74b18afc10-331",
@@ -11934,8 +11961,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-02-09 23:34:03",
-      "longitude": -7.4877,
-      "latitude": 11.4349
+      "longitude": -7.497,
+      "latitude": 11.4217
     },
     {
       "block_id": "9d74b18afc10-332",
@@ -12013,8 +12040,8 @@
       "vegetative_plotsize": "50",
       "vegetative_plantdensity": "00",
       "vegetative_survey_end": "2023-02-22 06:36:10",
-      "longitude": -7.4817,
-      "latitude": 11.4118
+      "longitude": -7.4914,
+      "latitude": 11.4253
     },
     {
       "block_id": "9d74b18afc10-336",
@@ -12109,8 +12136,8 @@
       "vegetative_plotsize": "50",
       "vegetative_plantdensity": "00",
       "vegetative_survey_end": "2023-02-22 06:41:36",
-      "longitude": -7.4188,
-      "latitude": 11.3874
+      "longitude": -7.4376,
+      "latitude": 11.383
     },
     {
       "block_id": "9d74b18afc10-343",
@@ -12170,8 +12197,8 @@
       "vegetative_plotsize": "50",
       "vegetative_plantdensity": "00",
       "vegetative_survey_end": "2023-02-22 06:43:42",
-      "longitude": -7.437,
-      "latitude": 11.3511
+      "longitude": -7.4361,
+      "latitude": 11.3544
     },
     {
       "block_id": "9d74b18afc10-344",
@@ -12248,8 +12275,8 @@
       "vegetative_plotsize": "50",
       "vegetative_plantdensity": "00",
       "vegetative_survey_end": "2023-02-22 06:49:58",
-      "longitude": -7.432,
-      "latitude": 11.3641
+      "longitude": -7.4348,
+      "latitude": 11.3473
     },
     {
       "block_id": "9d74b18afc10-348",
@@ -12317,8 +12344,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-02-22 06:56:10",
-      "longitude": -7.4414,
-      "latitude": 11.3753
+      "longitude": -7.4282,
+      "latitude": 11.3877
     },
     {
       "block_id": "9d74b18afc10-352",
@@ -12377,8 +12404,8 @@
       "vegetative_plotsize": "50",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-03-03 21:25:22",
-      "longitude": -7.4865,
-      "latitude": 11.4266
+      "longitude": -7.4774,
+      "latitude": 11.4432
     },
     {
       "block_id": "9d74b18afc10-353",
@@ -12437,8 +12464,8 @@
       "vegetative_plotsize": "50",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-03-03 21:30:38",
-      "longitude": -7.4742,
-      "latitude": 11.439
+      "longitude": -7.4776,
+      "latitude": 11.4413
     },
     {
       "block_id": "9d74b18afc10-354",
@@ -12497,8 +12524,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-03-03 21:36:07",
-      "longitude": -7.487,
-      "latitude": 11.4396
+      "longitude": -7.4787,
+      "latitude": 11.4427
     },
     {
       "block_id": "9d74b18afc10-355",
@@ -12565,8 +12592,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Vélo",
       "socioeconomic_survey_end": "2023-01-16 16:00:13",
-      "longitude": -7.4139,
-      "latitude": 11.3761
+      "longitude": -7.4232,
+      "latitude": 11.3897
     },
     {
       "block_id": "9d74b18afc10-359",
@@ -12640,8 +12667,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Vélo; Table Et Chaises; Matelas; Lit",
       "socioeconomic_survey_end": "2023-01-16 16:04:41",
-      "longitude": -7.437,
-      "latitude": 11.3821
+      "longitude": -7.4337,
+      "latitude": 11.3658
     },
     {
       "block_id": "9d74b18afc10-364",
@@ -12714,8 +12741,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-01-16 16:09:20",
-      "longitude": -7.4191,
-      "latitude": 11.3681
+      "longitude": -7.4135,
+      "latitude": 11.3789
     },
     {
       "block_id": "9d74b18afc10-369",
@@ -12770,8 +12797,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-01-16 16:32:24",
-      "longitude": -7.4268,
-      "latitude": 11.3889
+      "longitude": -7.4203,
+      "latitude": 11.3801
     },
     {
       "block_id": "9d74b18afc10-371",
@@ -12820,8 +12847,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Matelas; Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-01-16 16:35:56",
-      "longitude": -7.4198,
-      "latitude": 11.3798
+      "longitude": -7.417,
+      "latitude": 11.3837
     },
     {
       "block_id": "9d74b18afc10-372",
@@ -12876,8 +12903,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Vélo",
       "socioeconomic_survey_end": "2023-01-16 16:41:34",
-      "longitude": -7.4202,
-      "latitude": 11.3683
+      "longitude": -7.4303,
+      "latitude": 11.384
     },
     {
       "block_id": "9d74b18afc10-374",
@@ -12926,8 +12953,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Vélo",
       "socioeconomic_survey_end": "2023-01-16 16:44:21",
-      "longitude": -7.4259,
-      "latitude": 11.3827
+      "longitude": -7.4306,
+      "latitude": 11.3832
     },
     {
       "block_id": "9d74b18afc10-375",
@@ -12995,8 +13022,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Lit; Table Et Chaises; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-02-10 22:20:07",
-      "longitude": -7.4318,
-      "latitude": 11.3674
+      "longitude": -7.4272,
+      "latitude": 11.3872
     },
     {
       "block_id": "9d74b18afc10-379",
@@ -13057,8 +13084,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-02-10 22:23:46",
-      "longitude": -7.4271,
-      "latitude": 11.3741
+      "longitude": -7.4342,
+      "latitude": 11.3661
     },
     {
       "block_id": "9d74b18afc10-382",
@@ -13117,8 +13144,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-03-03 22:20:14",
-      "longitude": -7.4887,
-      "latitude": 11.4342
+      "longitude": -7.4728,
+      "latitude": 11.4263
     },
     {
       "block_id": "9d74b18afc10-383",
@@ -13178,8 +13205,8 @@
       "vegetative_plotsize": "Néant",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-03-03 22:25:07",
-      "longitude": -7.4845,
-      "latitude": 11.4246
+      "longitude": -7.4898,
+      "latitude": 11.4312
     },
     {
       "block_id": "9d74b18afc10-384",
@@ -13238,8 +13265,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-03-03 22:30:34",
-      "longitude": -7.4734,
-      "latitude": 11.4221
+      "longitude": -7.4903,
+      "latitude": 11.4255
     },
     {
       "block_id": "9d74b18afc10-385",
@@ -13317,8 +13344,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-03-03 23:16:17",
-      "longitude": -7.491,
-      "latitude": 11.4192
+      "longitude": -7.4867,
+      "latitude": 11.4217
     },
     {
       "block_id": "9d74b18afc10-389",
@@ -13380,8 +13407,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-02-11 21:22:59",
-      "longitude": -7.4242,
-      "latitude": 11.3719
+      "longitude": -7.4265,
+      "latitude": 11.3711
     },
     {
       "block_id": "9d74b18afc10-392",
@@ -13440,8 +13467,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-03-03 23:21:16",
-      "longitude": -7.4707,
-      "latitude": 11.4276
+      "longitude": -7.4904,
+      "latitude": 11.4181
     },
     {
       "block_id": "9d74b18afc10-393",
@@ -13491,8 +13518,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises0",
       "socioeconomic_survey_end": "2023-03-23 22:15:48",
-      "longitude": -7.427,
-      "latitude": 11.3819
+      "longitude": -7.4296,
+      "latitude": 11.3812
     },
     {
       "block_id": "9d74b18afc10-394",
@@ -13551,8 +13578,8 @@
       "vegetative_plotsize": "30",
       "vegetative_plantdensity": "Néant",
       "vegetative_survey_end": "2023-03-03 23:25:44",
-      "longitude": -7.4853,
-      "latitude": 11.4382
+      "longitude": -7.473,
+      "latitude": 11.4242
     },
     {
       "block_id": "9d74b18afc10-395",
@@ -13674,8 +13701,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises0; Vélo; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-03-26 00:28:48",
-      "longitude": -7.4403,
-      "latitude": 11.379
+      "longitude": -7.437,
+      "latitude": 11.367
     },
     {
       "block_id": "9d74b18afc10-408",
@@ -13725,8 +13752,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises0",
       "socioeconomic_survey_end": "2023-03-26 12:16:15",
-      "longitude": -7.4353,
-      "latitude": 11.3831
+      "longitude": -7.4351,
+      "latitude": 11.3659
     },
     {
       "block_id": "9d74b18afc10-409",
@@ -13800,8 +13827,8 @@
       "socioeconomic_membershipwhere": "Association",
       "socioeconomic_hhassets": "Table Et Chaises0",
       "socioeconomic_survey_end": "2023-03-26 12:26:11",
-      "longitude": -7.4251,
-      "latitude": 11.3641
+      "longitude": -7.4265,
+      "latitude": 11.3686
     },
     {
       "block_id": "9d74b18afc10-414",
@@ -13857,8 +13884,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes",
       "socioeconomic_hhassets": "Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-05-14 22:33:08",
-      "longitude": -7.4385,
-      "latitude": 11.3591
+      "longitude": -7.4491,
+      "latitude": 11.3539
     },
     {
       "block_id": "9d74b18afc10-416",
@@ -13908,8 +13935,8 @@
       "socioeconomic_membershipwhere": "Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises0; Vélo",
       "socioeconomic_survey_end": "2023-03-26 12:33:29",
-      "longitude": -7.4316,
-      "latitude": 11.3501
+      "longitude": -7.4373,
+      "latitude": 11.3694
     },
     {
       "block_id": "9d74b18afc10-417",
@@ -13965,8 +13992,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises0; Vélo; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-05-14 22:39:24",
-      "longitude": -7.4392,
-      "latitude": 11.3701
+      "longitude": -7.4327,
+      "latitude": 11.3694
     },
     {
       "block_id": "9d74b18afc10-419",
@@ -14069,8 +14096,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises0; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-05-14 22:48:24",
-      "longitude": -7.4446,
-      "latitude": 11.3552
+      "longitude": -7.4461,
+      "latitude": 11.3653
     },
     {
       "block_id": "9d74b18afc10-429",
@@ -14126,8 +14153,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes",
       "socioeconomic_hhassets": "Vélo; Table Et Chaises0; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-05-14 22:53:36",
-      "longitude": -7.4452,
-      "latitude": 11.3652
+      "longitude": -7.4433,
+      "latitude": 11.3673
     },
     {
       "block_id": "9d74b18afc10-431",
@@ -14197,8 +14224,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-11 19:40:17",
-      "longitude": -7.594,
-      "latitude": 11.365
+      "longitude": -7.5805,
+      "latitude": 11.3739
     },
     {
       "block_id": "9d74b18afc10-434",
@@ -14263,8 +14290,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-30 16:37:30",
-      "longitude": -7.6118,
-      "latitude": 11.3637
+      "longitude": -7.611,
+      "latitude": 11.3612
     },
     {
       "block_id": "9d74b18afc10-436",
@@ -14323,8 +14350,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-11 16:00:29",
-      "longitude": -7.5944,
-      "latitude": 11.3589
+      "longitude": -7.5793,
+      "latitude": 11.3516
     },
     {
       "block_id": "9d74b18afc10-437",
@@ -14395,8 +14422,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-30 16:40:21",
-      "longitude": -7.6072,
-      "latitude": 11.3692
+      "longitude": -7.6135,
+      "latitude": 11.3551
     },
     {
       "block_id": "9d74b18afc10-440",
@@ -14455,8 +14482,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-24 08:03:15",
-      "longitude": -7.4852,
-      "latitude": 11.4384
+      "longitude": -7.488,
+      "latitude": 11.4405
     },
     {
       "block_id": "9d74b18afc10-441",
@@ -14516,8 +14543,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-11 19:43:55",
-      "longitude": -7.482,
-      "latitude": 11.433
+      "longitude": -7.4882,
+      "latitude": 11.4446
     },
     {
       "block_id": "9d74b18afc10-442",
@@ -14575,8 +14602,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-11 16:04:14",
-      "longitude": -7.581,
-      "latitude": 11.3543
+      "longitude": -7.5931,
+      "latitude": 11.3638
     },
     {
       "block_id": "9d74b18afc10-443",
@@ -14647,8 +14674,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-24 08:07:15",
-      "longitude": -7.4741,
-      "latitude": 11.4228
+      "longitude": -7.4805,
+      "latitude": 11.4432
     },
     {
       "block_id": "9d74b18afc10-446",
@@ -14707,8 +14734,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-11 16:07:29",
-      "longitude": -7.5786,
-      "latitude": 11.3682
+      "longitude": -7.5817,
+      "latitude": 11.3684
     },
     {
       "block_id": "9d74b18afc10-447",
@@ -14768,8 +14795,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-06 12:00:43",
-      "longitude": -7.4717,
-      "latitude": 11.4302
+      "longitude": -7.4753,
+      "latitude": 11.4231
     },
     {
       "block_id": "9d74b18afc10-448",
@@ -14846,8 +14873,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-07 18:56:36",
-      "longitude": -7.4811,
-      "latitude": 11.444
+      "longitude": -7.4957,
+      "latitude": 11.4336
     },
     {
       "block_id": "9d74b18afc10-452",
@@ -14918,8 +14945,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-24 08:10:34",
-      "longitude": -7.4514,
-      "latitude": 11.4316
+      "longitude": -7.4424,
+      "latitude": 11.4399
     },
     {
       "block_id": "9d74b18afc10-455",
@@ -14978,8 +15005,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-04-05 07:52:15",
-      "longitude": -7.4587,
-      "latitude": 11.4407
+      "longitude": -7.4458,
+      "latitude": 11.4372
     },
     {
       "block_id": "9d74b18afc10-456",
@@ -15045,8 +15072,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-30 16:53:48",
-      "longitude": -7.5863,
-      "latitude": 11.3698
+      "longitude": -7.5933,
+      "latitude": 11.3609
     },
     {
       "block_id": "9d74b18afc10-458",
@@ -15111,8 +15138,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "30",
       "vegetative_survey_end": "2023-03-09 18:54:52",
-      "longitude": -7.4763,
-      "latitude": 11.428
+      "longitude": -7.4707,
+      "latitude": 11.4307
     },
     {
       "block_id": "9d74b18afc10-460",
@@ -15333,8 +15360,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-27 12:41:26",
-      "longitude": -7.7775,
-      "latitude": 11.8359
+      "longitude": -7.7771,
+      "latitude": 11.8315
     },
     {
       "block_id": "9d74b18afc10-488",
@@ -15394,8 +15421,8 @@
       "vegetative_plotsize": "90",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 13:10:00",
-      "longitude": -7.7867,
-      "latitude": 11.8255
+      "longitude": -7.7849,
+      "latitude": 11.8274
     },
     {
       "block_id": "9d74b18afc10-489",
@@ -15455,8 +15482,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-27 18:23:13",
-      "longitude": -7.7917,
-      "latitude": 11.8364
+      "longitude": -7.78,
+      "latitude": 11.837
     },
     {
       "block_id": "9d74b18afc10-490",
@@ -15516,8 +15543,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-27 18:33:54",
-      "longitude": -7.7988,
-      "latitude": 11.8255
+      "longitude": -7.7829,
+      "latitude": 11.8322
     },
     {
       "block_id": "9d74b18afc10-491",
@@ -15577,8 +15604,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-27 18:40:55",
-      "longitude": -7.7956,
-      "latitude": 11.8248
+      "longitude": -7.7998,
+      "latitude": 11.8258
     },
     {
       "block_id": "9d74b18afc10-492",
@@ -15639,8 +15666,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 12:31:09",
-      "longitude": -7.8031,
-      "latitude": 11.8346
+      "longitude": -7.792,
+      "latitude": 11.8485
     },
     {
       "block_id": "9d74b18afc10-493",
@@ -15699,8 +15726,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 09:24:46",
-      "longitude": -7.7866,
-      "latitude": 11.8443
+      "longitude": -7.7793,
+      "latitude": 11.8398
     },
     {
       "block_id": "9d74b18afc10-494",
@@ -15760,8 +15787,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 09:35:11",
-      "longitude": -7.8015,
-      "latitude": 11.8304
+      "longitude": -7.777,
+      "latitude": 11.8322
     },
     {
       "block_id": "9d74b18afc10-495",
@@ -15820,8 +15847,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 09:41:45",
-      "longitude": -7.7966,
-      "latitude": 11.8317
+      "longitude": -7.7822,
+      "latitude": 11.8336
     },
     {
       "block_id": "9d74b18afc10-496",
@@ -15881,8 +15908,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-02-28 09:52:03",
-      "longitude": -7.7841,
-      "latitude": 11.8323
+      "longitude": -7.7871,
+      "latitude": 11.8258
     },
     {
       "block_id": "9d74b18afc10-497",
@@ -15941,8 +15968,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 10:00:16",
-      "longitude": -7.7861,
-      "latitude": 11.8354
+      "longitude": -7.7841,
+      "latitude": 11.8383
     },
     {
       "block_id": "9d74b18afc10-498",
@@ -16002,8 +16029,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 10:12:00",
-      "longitude": -7.7888,
-      "latitude": 11.8384
+      "longitude": -7.7998,
+      "latitude": 11.8314
     },
     {
       "block_id": "9d74b18afc10-499",
@@ -16062,8 +16089,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 10:21:23",
-      "longitude": -7.7823,
-      "latitude": 11.8334
+      "longitude": -7.7745,
+      "latitude": 11.8369
     },
     {
       "block_id": "9d74b18afc10-500",
@@ -16122,8 +16149,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 10:32:00",
-      "longitude": -7.7892,
-      "latitude": 11.8245
+      "longitude": -7.7831,
+      "latitude": 11.8344
     },
     {
       "block_id": "9d74b18afc10-501",
@@ -16182,8 +16209,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 10:39:23",
-      "longitude": -7.7859,
-      "latitude": 11.8374
+      "longitude": -7.7853,
+      "latitude": 11.8289
     },
     {
       "block_id": "9d74b18afc10-502",
@@ -16243,8 +16270,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 10:46:23",
-      "longitude": -7.7925,
-      "latitude": 11.832
+      "longitude": -7.796,
+      "latitude": 11.8297
     },
     {
       "block_id": "9d74b18afc10-503",
@@ -16304,8 +16331,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 10:55:34",
-      "longitude": -7.7983,
-      "latitude": 11.8397
+      "longitude": -7.7913,
+      "latitude": 11.8403
     },
     {
       "block_id": "9d74b18afc10-504",
@@ -16365,8 +16392,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 11:10:50",
-      "longitude": -7.787,
-      "latitude": 11.8462
+      "longitude": -7.7964,
+      "latitude": 11.8306
     },
     {
       "block_id": "9d74b18afc10-505",
@@ -16426,8 +16453,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-02-28 11:21:52",
-      "longitude": -7.7811,
-      "latitude": 11.8378
+      "longitude": -7.7882,
+      "latitude": 11.8219
     },
     {
       "block_id": "9d74b18afc10-506",
@@ -16486,8 +16513,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 11:28:46",
-      "longitude": -7.7918,
-      "latitude": 11.827
+      "longitude": -7.7863,
+      "latitude": 11.8454
     },
     {
       "block_id": "9d74b18afc10-507",
@@ -16547,8 +16574,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 11:40:06",
-      "longitude": -7.7896,
-      "latitude": 11.8272
+      "longitude": -7.7963,
+      "latitude": 11.8344
     },
     {
       "block_id": "9d74b18afc10-508",
@@ -16607,8 +16634,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 11:47:34",
-      "longitude": -7.7862,
-      "latitude": 11.8263
+      "longitude": -7.7877,
+      "latitude": 11.8275
     },
     {
       "block_id": "9d74b18afc10-509",
@@ -16668,8 +16695,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 13:25:52",
-      "longitude": -7.7898,
-      "latitude": 11.835
+      "longitude": -7.7989,
+      "latitude": 11.8349
     },
     {
       "block_id": "9d74b18afc10-510",
@@ -16729,8 +16756,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 13:17:18",
-      "longitude": -7.7814,
-      "latitude": 11.8228
+      "longitude": -7.7852,
+      "latitude": 11.813
     },
     {
       "block_id": "9d74b18afc10-511",
@@ -16789,8 +16816,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 12:33:38",
-      "longitude": -7.794,
-      "latitude": 11.8262
+      "longitude": -7.7894,
+      "latitude": 11.8475
     },
     {
       "block_id": "9d74b18afc10-512",
@@ -16850,8 +16877,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 12:35:54",
-      "longitude": -7.7903,
-      "latitude": 11.8253
+      "longitude": -7.7891,
+      "latitude": 11.8451
     },
     {
       "block_id": "9d74b18afc10-513",
@@ -16911,8 +16938,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "0",
       "vegetative_survey_end": "2023-02-28 12:43:59",
-      "longitude": -7.7864,
-      "latitude": 11.8261
+      "longitude": -7.7988,
+      "latitude": 11.8278
     },
     {
       "block_id": "9d74b18afc10-514",
@@ -16972,8 +16999,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:28:50",
-      "longitude": -7.734,
-      "latitude": 12.6362
+      "longitude": -7.7247,
+      "latitude": 12.6349
     },
     {
       "block_id": "9d74b18afc10-515",
@@ -17032,8 +17059,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 21:04:09",
-      "longitude": -7.729,
-      "latitude": 12.6327
+      "longitude": -7.7145,
+      "latitude": 12.6308
     },
     {
       "block_id": "9d74b18afc10-516",
@@ -17093,8 +17120,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:23:37",
-      "longitude": -7.7155,
-      "latitude": 12.6445
+      "longitude": -7.7304,
+      "latitude": 12.6502
     },
     {
       "block_id": "9d74b18afc10-517",
@@ -17154,8 +17181,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:26:15",
-      "longitude": -7.7138,
-      "latitude": 12.6384
+      "longitude": -7.7227,
+      "latitude": 12.6551
     },
     {
       "block_id": "9d74b18afc10-518",
@@ -17215,8 +17242,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:59:19",
-      "longitude": -7.7157,
-      "latitude": 12.6321
+      "longitude": -7.713,
+      "latitude": 12.638
     },
     {
       "block_id": "9d74b18afc10-519",
@@ -17276,8 +17303,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:32:56",
-      "longitude": -7.7238,
-      "latitude": 12.6532
+      "longitude": -7.7178,
+      "latitude": 12.6331
     },
     {
       "block_id": "9d74b18afc10-520",
@@ -17337,8 +17364,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:16:18",
-      "longitude": -7.7299,
-      "latitude": 12.6668
+      "longitude": -7.7234,
+      "latitude": 12.65
     },
     {
       "block_id": "9d74b18afc10-521",
@@ -17398,8 +17425,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:36:14",
-      "longitude": -7.7265,
-      "latitude": 12.6421
+      "longitude": -7.7135,
+      "latitude": 12.6341
     },
     {
       "block_id": "9d74b18afc10-522",
@@ -17459,8 +17486,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 21:06:22",
-      "longitude": -7.7142,
-      "latitude": 12.6441
+      "longitude": -7.7249,
+      "latitude": 12.6447
     },
     {
       "block_id": "9d74b18afc10-523",
@@ -17521,8 +17548,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:30:39",
-      "longitude": -7.7261,
-      "latitude": 12.6485
+      "longitude": -7.7288,
+      "latitude": 12.6338
     },
     {
       "block_id": "9d74b18afc10-524",
@@ -17581,8 +17608,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:37:12",
-      "longitude": -7.7169,
-      "latitude": 12.6651
+      "longitude": -7.7312,
+      "latitude": 12.6708
     },
     {
       "block_id": "9d74b18afc10-525",
@@ -17642,8 +17669,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:37:36",
-      "longitude": -7.7115,
-      "latitude": 12.6393
+      "longitude": -7.7198,
+      "latitude": 12.6362
     },
     {
       "block_id": "9d74b18afc10-526",
@@ -17703,8 +17730,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:22:04",
-      "longitude": -7.7317,
-      "latitude": 12.6536
+      "longitude": -7.727,
+      "latitude": 12.6559
     },
     {
       "block_id": "9d74b18afc10-527",
@@ -17764,8 +17791,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 21:09:37",
-      "longitude": -7.7189,
-      "latitude": 12.6412
+      "longitude": -7.723,
+      "latitude": 12.653
     },
     {
       "block_id": "9d74b18afc10-528",
@@ -17825,8 +17852,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:19:39",
-      "longitude": -7.7336,
-      "latitude": 12.6541
+      "longitude": -7.7426,
+      "latitude": 12.6473
     },
     {
       "block_id": "9d74b18afc10-529",
@@ -17886,8 +17913,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:33:23",
-      "longitude": -7.7185,
-      "latitude": 12.6424
+      "longitude": -7.7366,
+      "latitude": 12.6441
     },
     {
       "block_id": "9d74b18afc10-530",
@@ -17947,8 +17974,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:31:18",
-      "longitude": -7.7429,
-      "latitude": 12.6483
+      "longitude": -7.7285,
+      "latitude": 12.6625
     },
     {
       "block_id": "9d74b18afc10-531",
@@ -18008,8 +18035,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:20:24",
-      "longitude": -7.7152,
-      "latitude": 12.6494
+      "longitude": -7.7252,
+      "latitude": 12.6416
     },
     {
       "block_id": "9d74b18afc10-532",
@@ -18069,8 +18096,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:13:00",
-      "longitude": -7.7288,
-      "latitude": 12.6528
+      "longitude": -7.7291,
+      "latitude": 12.6496
     },
     {
       "block_id": "9d74b18afc10-533",
@@ -18130,8 +18157,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:08:57",
-      "longitude": -7.7211,
-      "latitude": 12.6454
+      "longitude": -7.728,
+      "latitude": 12.641
     },
     {
       "block_id": "9d74b18afc10-534",
@@ -18191,8 +18218,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:06:57",
-      "longitude": -7.7201,
-      "latitude": 12.6302
+      "longitude": -7.7355,
+      "latitude": 12.6411
     },
     {
       "block_id": "9d74b18afc10-535",
@@ -18251,8 +18278,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:42:51",
-      "longitude": -7.7331,
-      "latitude": 12.6495
+      "longitude": -7.7161,
+      "latitude": 12.6361
     },
     {
       "block_id": "9d74b18afc10-536",
@@ -18311,8 +18338,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:03:56",
-      "longitude": -7.7266,
-      "latitude": 12.648
+      "longitude": -7.7143,
+      "latitude": 12.6412
     },
     {
       "block_id": "9d74b18afc10-537",
@@ -18372,8 +18399,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "50",
       "vegetative_survey_end": "2023-04-28 10:00:42",
-      "longitude": -7.7284,
-      "latitude": 12.6464
+      "longitude": -7.7153,
+      "latitude": 12.6332
     },
     {
       "block_id": "9d74b18afc10-538",
@@ -18433,8 +18460,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:56:43",
-      "longitude": -7.7235,
-      "latitude": 12.6525
+      "longitude": -7.7297,
+      "latitude": 12.6359
     },
     {
       "block_id": "9d74b18afc10-539",
@@ -18494,8 +18521,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:49:40",
-      "longitude": -7.7192,
-      "latitude": 12.6304
+      "longitude": -7.7279,
+      "latitude": 12.635
     },
     {
       "block_id": "9d74b18afc10-540",
@@ -18554,8 +18581,8 @@
       "vegetative_plotsize": "100",
       "vegetative_plantdensity": "100",
       "vegetative_survey_end": "2023-04-15 20:25:16",
-      "longitude": -7.7182,
-      "latitude": 12.6568
+      "longitude": -7.7312,
+      "latitude": 12.6694
     },
     {
       "block_id": "9d74b18afc10-541",
@@ -18951,8 +18978,8 @@
       "vegetative_plotsize": "6m2",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 06:14:35",
-      "longitude": -8.4244,
-      "latitude": 12.4207
+      "longitude": -8.406,
+      "latitude": 12.4262
     },
     {
       "block_id": "9d74b18afc10-598",
@@ -19012,8 +19039,8 @@
       "vegetative_plotsize": "8m2",
       "vegetative_plantdensity": "20cm",
       "vegetative_survey_end": "2023-05-22 06:17:21",
-      "longitude": -8.4157,
-      "latitude": 12.3395
+      "longitude": -8.4081,
+      "latitude": 12.3223
     },
     {
       "block_id": "9d74b18afc10-599",
@@ -19073,8 +19100,8 @@
       "vegetative_plotsize": "8m2",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 06:27:07",
-      "longitude": -8.4086,
-      "latitude": 12.3466
+      "longitude": -8.402,
+      "latitude": 12.3398
     },
     {
       "block_id": "9d74b18afc10-600",
@@ -19133,8 +19160,8 @@
       "vegetative_plotsize": "8",
       "vegetative_plantdensity": "40",
       "vegetative_survey_end": "2023-05-22 08:08:55",
-      "longitude": -8.3981,
-      "latitude": 12.3293
+      "longitude": -8.4008,
+      "latitude": 12.3239
     },
     {
       "block_id": "9d74b18afc10-601",
@@ -19193,8 +19220,8 @@
       "vegetative_plotsize": "8m2",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 08:11:48",
-      "longitude": -8.3811,
-      "latitude": 12.3533
+      "longitude": -8.3952,
+      "latitude": 12.357
     },
     {
       "block_id": "9d74b18afc10-602",
@@ -19253,8 +19280,8 @@
       "vegetative_plotsize": "10m2",
       "vegetative_plantdensity": "30cm",
       "vegetative_survey_end": "2023-05-24 08:52:50",
-      "longitude": -8.4102,
-      "latitude": 12.4161
+      "longitude": -8.4135,
+      "latitude": 12.4243
     },
     {
       "block_id": "9d74b18afc10-603",
@@ -19313,8 +19340,8 @@
       "vegetative_plotsize": "10m",
       "vegetative_plantdensity": "30cm",
       "vegetative_survey_end": "2023-05-24 08:45:56",
-      "longitude": -8.3794,
-      "latitude": 12.4139
+      "longitude": -8.3832,
+      "latitude": 12.3938
     },
     {
       "block_id": "9d74b18afc10-604",
@@ -19373,8 +19400,8 @@
       "vegetative_plotsize": "10m2",
       "vegetative_plantdensity": "30cm",
       "vegetative_survey_end": "2023-05-24 08:39:08",
-      "longitude": -8.326,
-      "latitude": 12.3763
+      "longitude": -8.3308,
+      "latitude": 12.3697
     },
     {
       "block_id": "9d74b18afc10-605",
@@ -19434,8 +19461,8 @@
       "vegetative_plotsize": "10m2",
       "vegetative_plantdensity": "30cm",
       "vegetative_survey_end": "2023-05-24 08:31:45",
-      "longitude": -8.3407,
-      "latitude": 12.3639
+      "longitude": -8.3411,
+      "latitude": 12.3722
     },
     {
       "block_id": "9d74b18afc10-606",
@@ -19494,8 +19521,8 @@
       "vegetative_plotsize": "10m2",
       "vegetative_plantdensity": "30cm",
       "vegetative_survey_end": "2023-05-24 08:24:58",
-      "longitude": -8.3251,
-      "latitude": 12.37
+      "longitude": -8.333,
+      "latitude": 12.3845
     },
     {
       "block_id": "9d74b18afc10-607",
@@ -19556,7 +19583,7 @@
       "vegetative_plantdensity": "30cm",
       "vegetative_survey_end": "2023-05-24 08:17:34",
       "longitude": -8.374,
-      "latitude": 12.3914
+      "latitude": 12.3911
     },
     {
       "block_id": "9d74b18afc10-608",
@@ -19605,8 +19632,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et ChaisesLit; Table Et Chaises0; Table Et ChaisesTable Et Chaises; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-02-23 10:04:50",
-      "longitude": -8.2522,
-      "latitude": 12.3989
+      "longitude": -8.2435,
+      "latitude": 12.3964
     },
     {
       "block_id": "9d74b18afc10-609",
@@ -19665,8 +19692,8 @@
       "vegetative_plotsize": "8m2",
       "vegetative_plantdensity": "30cm",
       "vegetative_survey_end": "2023-05-24 08:06:55",
-      "longitude": -8.3819,
-      "latitude": 12.4161
+      "longitude": -8.3877,
+      "latitude": 12.3915
     },
     {
       "block_id": "9d74b18afc10-610",
@@ -19726,8 +19753,8 @@
       "vegetative_plotsize": "10",
       "vegetative_plantdensity": "30cm2",
       "vegetative_survey_end": "2023-05-24 07:51:49",
-      "longitude": -8.3796,
-      "latitude": 12.3892
+      "longitude": -8.3879,
+      "latitude": 12.3975
     },
     {
       "block_id": "9d74b18afc10-611",
@@ -19786,8 +19813,8 @@
       "vegetative_plotsize": "8m2",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 09:45:08",
-      "longitude": -8.4043,
-      "latitude": 12.4216
+      "longitude": -8.4092,
+      "latitude": 12.4236
     },
     {
       "block_id": "9d74b18afc10-612",
@@ -19846,8 +19873,8 @@
       "vegetative_plotsize": "400",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 09:35:19",
-      "longitude": -8.3818,
-      "latitude": 12.3926
+      "longitude": -8.3646,
+      "latitude": 12.4015
     },
     {
       "block_id": "9d74b18afc10-613",
@@ -19906,8 +19933,8 @@
       "vegetative_plotsize": "400m2",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 09:27:18",
-      "longitude": -8.3302,
-      "latitude": 12.3785
+      "longitude": -8.3414,
+      "latitude": 12.3652
     },
     {
       "block_id": "9d74b18afc10-614",
@@ -19966,8 +19993,8 @@
       "vegetative_plotsize": "400m2",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 09:17:47",
-      "longitude": -8.3355,
-      "latitude": 12.3607
+      "longitude": -8.3374,
+      "latitude": 12.38
     },
     {
       "block_id": "9d74b18afc10-615",
@@ -20026,8 +20053,8 @@
       "vegetative_plotsize": "400m2",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 09:07:11",
-      "longitude": -8.3354,
-      "latitude": 12.3835
+      "longitude": -8.3351,
+      "latitude": 12.3722
     },
     {
       "block_id": "9d74b18afc10-616",
@@ -20086,8 +20113,8 @@
       "vegetative_plotsize": "40",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 08:42:35",
-      "longitude": -8.3351,
-      "latitude": 12.3616
+      "longitude": -8.3316,
+      "latitude": 12.3722
     },
     {
       "block_id": "9d74b18afc10-617",
@@ -20146,8 +20173,8 @@
       "vegetative_plotsize": "8m2",
       "vegetative_plantdensity": "46",
       "vegetative_survey_end": "2023-05-22 08:32:48",
-      "longitude": -8.3463,
-      "latitude": 12.3732
+      "longitude": -8.3286,
+      "latitude": 12.3788
     },
     {
       "block_id": "9d74b18afc10-618",
@@ -20210,8 +20237,8 @@
       "vegetative_plotsize": "8m2",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 08:25:17",
-      "longitude": -8.3243,
-      "latitude": 12.3782
+      "longitude": -8.3264,
+      "latitude": 12.3829
     },
     {
       "block_id": "9d74b18afc10-619",
@@ -20270,8 +20297,8 @@
       "vegetative_plotsize": "8m2",
       "vegetative_plantdensity": "40cm",
       "vegetative_survey_end": "2023-05-22 07:53:04",
-      "longitude": -8.3233,
-      "latitude": 12.3723
+      "longitude": -8.3361,
+      "latitude": 12.3665
     },
     {
       "block_id": "9d74b18afc10-620",
@@ -20343,8 +20370,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:42:14",
-      "longitude": -7.9656,
-      "latitude": 12.3948
+      "longitude": -7.9549,
+      "latitude": 12.3984
     },
     {
       "block_id": "9d74b18afc10-623",
@@ -20404,8 +20431,8 @@
       "vegetative_plotsize": "20m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 17:38:35",
-      "longitude": -7.9544,
-      "latitude": 12.3828
+      "longitude": -7.9579,
+      "latitude": 12.3821
     },
     {
       "block_id": "9d74b18afc10-624",
@@ -20465,8 +20492,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:15:49",
-      "longitude": -7.9663,
-      "latitude": 12.3866
+      "longitude": -7.9612,
+      "latitude": 12.3931
     },
     {
       "block_id": "9d74b18afc10-625",
@@ -20526,8 +20553,8 @@
       "vegetative_plotsize": "0",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 17:26:39",
-      "longitude": -7.9567,
-      "latitude": 12.3958
+      "longitude": -7.9496,
+      "latitude": 12.378
     },
     {
       "block_id": "9d74b18afc10-626",
@@ -20586,8 +20613,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:04:20",
-      "longitude": -7.9637,
-      "latitude": 12.3781
+      "longitude": -7.9628,
+      "latitude": 12.3983
     },
     {
       "block_id": "9d74b18afc10-627",
@@ -20646,8 +20673,8 @@
       "vegetative_plotsize": "10m²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:09:23",
-      "longitude": -7.9583,
-      "latitude": 12.3837
+      "longitude": -7.9688,
+      "latitude": 12.3893
     },
     {
       "block_id": "9d74b18afc10-628",
@@ -20706,8 +20733,8 @@
       "vegetative_plotsize": "20m ²",
       "vegetative_plantdensity": "80*40",
       "vegetative_survey_end": "2023-02-16 17:07:23",
-      "longitude": -7.9698,
-      "latitude": 12.3891
+      "longitude": -7.9607,
+      "latitude": 12.3946
     },
     {
       "block_id": "9d74b18afc10-629",
@@ -20768,7 +20795,7 @@
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 10:33:25",
       "longitude": -7.9716,
-      "latitude": 12.3981
+      "latitude": 12.3949
     },
     {
       "block_id": "9d74b18afc10-630",
@@ -20828,8 +20855,8 @@
       "vegetative_plotsize": "30m²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 10:50:36",
-      "longitude": -7.9621,
-      "latitude": 12.3813
+      "longitude": -7.9611,
+      "latitude": 12.3948
     },
     {
       "block_id": "9d74b18afc10-631",
@@ -20890,7 +20917,7 @@
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 16:50:35",
       "longitude": -7.9692,
-      "latitude": 12.3926
+      "latitude": 12.3793
     },
     {
       "block_id": "9d74b18afc10-632",
@@ -20950,8 +20977,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 13:06:07",
-      "longitude": -7.9616,
-      "latitude": 12.3761
+      "longitude": -7.9596,
+      "latitude": 12.3965
     },
     {
       "block_id": "9d74b18afc10-633",
@@ -21011,8 +21038,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:58:25",
-      "longitude": -7.9577,
-      "latitude": 12.3745
+      "longitude": -7.9508,
+      "latitude": 12.3816
     },
     {
       "block_id": "9d74b18afc10-634",
@@ -21071,8 +21098,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 10:38:08",
-      "longitude": -7.9698,
-      "latitude": 12.383
+      "longitude": -7.9551,
+      "latitude": 12.3986
     },
     {
       "block_id": "9d74b18afc10-635",
@@ -21131,8 +21158,8 @@
       "vegetative_plotsize": "20m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 11:48:43",
-      "longitude": -7.9654,
-      "latitude": 12.3958
+      "longitude": -7.9693,
+      "latitude": 12.3877
     },
     {
       "block_id": "9d74b18afc10-636",
@@ -21191,8 +21218,8 @@
       "vegetative_plotsize": "20m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:35:39",
-      "longitude": -7.9598,
-      "latitude": 12.3794
+      "longitude": -7.9645,
+      "latitude": 12.3799
     },
     {
       "block_id": "9d74b18afc10-637",
@@ -21251,8 +21278,8 @@
       "vegetative_plotsize": "20m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 11:58:16",
-      "longitude": -7.9543,
-      "latitude": 12.391
+      "longitude": -7.9557,
+      "latitude": 12.3867
     },
     {
       "block_id": "9d74b18afc10-638",
@@ -21311,8 +21338,8 @@
       "vegetative_plotsize": "20m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 11:30:55",
-      "longitude": -7.9566,
-      "latitude": 12.3994
+      "longitude": -7.9617,
+      "latitude": 12.3733
     },
     {
       "block_id": "9d74b18afc10-639",
@@ -21372,8 +21399,8 @@
       "vegetative_plotsize": "20m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:47:47",
-      "longitude": -7.9491,
-      "latitude": 12.3845
+      "longitude": -7.9587,
+      "latitude": 12.3854
     },
     {
       "block_id": "9d74b18afc10-640",
@@ -21432,8 +21459,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:51:25",
-      "longitude": -7.9579,
-      "latitude": 12.3731
+      "longitude": -7.9633,
+      "latitude": 12.3733
     },
     {
       "block_id": "9d74b18afc10-641",
@@ -21493,8 +21520,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 17:04:22",
-      "longitude": -7.953,
-      "latitude": 12.3794
+      "longitude": -7.9712,
+      "latitude": 12.3848
     },
     {
       "block_id": "9d74b18afc10-642",
@@ -21555,8 +21582,8 @@
       "vegetative_plotsize": "20m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 11:24:47",
-      "longitude": -7.9553,
-      "latitude": 12.3948
+      "longitude": -7.9643,
+      "latitude": 12.3756
     },
     {
       "block_id": "9d74b18afc10-643",
@@ -21616,8 +21643,8 @@
       "vegetative_plotsize": "20m²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 11:00:32",
-      "longitude": -7.9541,
-      "latitude": 12.382
+      "longitude": -7.9613,
+      "latitude": 12.3759
     },
     {
       "block_id": "9d74b18afc10-644",
@@ -21679,8 +21706,8 @@
       "vegetative_plotsize": "20m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:23:11",
-      "longitude": -7.9493,
-      "latitude": 12.3809
+      "longitude": -7.9547,
+      "latitude": 12.3755
     },
     {
       "block_id": "9d74b18afc10-645",
@@ -21740,8 +21767,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 11:44:25",
-      "longitude": -7.9697,
-      "latitude": 12.3939
+      "longitude": -7.9544,
+      "latitude": 12.3854
     },
     {
       "block_id": "9d74b18afc10-646",
@@ -21801,8 +21828,8 @@
       "vegetative_plotsize": "10m ²",
       "vegetative_plantdensity": "80*50",
       "vegetative_survey_end": "2023-02-16 12:55:05",
-      "longitude": -7.9642,
-      "latitude": 12.3786
+      "longitude": -7.9542,
+      "latitude": 12.3912
     },
     {
       "block_id": "9d74b18afc10-647",
@@ -21861,8 +21888,8 @@
       "vegetative_plotsize": "400m2",
       "vegetative_plantdensity": "20cm",
       "vegetative_survey_end": "2023-03-16 08:55:41",
-      "longitude": -8.2869,
-      "latitude": 12.3725
+      "longitude": -8.2902,
+      "latitude": 12.3837
     },
     {
       "block_id": "9d74b18afc10-648",
@@ -21922,8 +21949,8 @@
       "vegetative_plotsize": "50",
       "vegetative_plantdensity": "20cm",
       "vegetative_survey_end": "2023-03-16 17:00:43",
-      "longitude": -8.3591,
-      "latitude": 12.3576
+      "longitude": -8.3423,
+      "latitude": 12.3497
     },
     {
       "block_id": "9d74b18afc10-649",
@@ -64647,8 +64674,8 @@
       "collection_moment": "vegetative",
       "trait": "germination",
       "genotype_name": "AVOK1501",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.031,
+      "SE": 0.221,
       "quasiSE": 0.1519,
       "quasiVar": 0.0231
     },
@@ -64656,8 +64683,8 @@
       "collection_moment": "vegetative",
       "trait": "germination",
       "genotype_name": "Batoumambe",
-      "estimate": 0.0658,
-      "SE": 0.213,
+      "estimate": 0.0348,
+      "SE": 0.2208,
       "quasiSE": 0.1545,
       "quasiVar": 0.0239
     },
@@ -64665,8 +64692,8 @@
       "collection_moment": "vegetative",
       "trait": "germination",
       "genotype_name": "C101",
-      "estimate": 0.2385,
-      "SE": 0.2113,
+      "estimate": 0.2075,
+      "SE": 0.2181,
       "quasiSE": 0.1501,
       "quasiVar": 0.0225
     },
@@ -64674,8 +64701,8 @@
       "collection_moment": "vegetative",
       "trait": "germination",
       "genotype_name": "Konni",
-      "estimate": 0.031,
-      "SE": 0.221,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.154,
       "quasiVar": 0.0237
     },
@@ -64683,8 +64710,8 @@
       "collection_moment": "vegetative",
       "trait": "germination",
       "genotype_name": "Sassilon",
-      "estimate": 0.1645,
-      "SE": 0.2135,
+      "estimate": 0.1335,
+      "SE": 0.2164,
       "quasiSE": 0.1499,
       "quasiVar": 0.0225
     },
@@ -64692,8 +64719,8 @@
       "collection_moment": "vegetative",
       "trait": "germination",
       "genotype_name": "TZSMN86",
-      "estimate": 0.1329,
-      "SE": 0.2167,
+      "estimate": 0.1019,
+      "SE": 0.2238,
       "quasiSE": 0.1556,
       "quasiVar": 0.0242
     },
@@ -64701,8 +64728,8 @@
       "collection_moment": "vegetative",
       "trait": "germination",
       "genotype_name": "VI033783",
-      "estimate": 0.0944,
-      "SE": 0.2184,
+      "estimate": 0.0635,
+      "SE": 0.2017,
       "quasiSE": 0.1542,
       "quasiVar": 0.0238
     },
@@ -64710,8 +64737,8 @@
       "collection_moment": "vegetative",
       "trait": "vigor",
       "genotype_name": "AVOK1501",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.068,
+      "SE": 0.2175,
       "quasiSE": 0.1531,
       "quasiVar": 0.0235
     },
@@ -64719,8 +64746,8 @@
       "collection_moment": "vegetative",
       "trait": "vigor",
       "genotype_name": "Batoumambe",
-      "estimate": 0.0865,
-      "SE": 0.215,
+      "estimate": 0.0185,
+      "SE": 0.2181,
       "quasiSE": 0.1537,
       "quasiVar": 0.0236
     },
@@ -64728,8 +64755,8 @@
       "collection_moment": "vegetative",
       "trait": "vigor",
       "genotype_name": "C101",
-      "estimate": 0.1413,
-      "SE": 0.2115,
+      "estimate": 0.0732,
+      "SE": 0.2154,
       "quasiSE": 0.1497,
       "quasiVar": 0.0224
     },
@@ -64737,8 +64764,8 @@
       "collection_moment": "vegetative",
       "trait": "vigor",
       "genotype_name": "Konni",
-      "estimate": 0.068,
-      "SE": 0.2175,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.151,
       "quasiVar": 0.0228
     },
@@ -64746,8 +64773,8 @@
       "collection_moment": "vegetative",
       "trait": "vigor",
       "genotype_name": "Sassilon",
-      "estimate": 0.1823,
-      "SE": 0.2134,
+      "estimate": 0.1142,
+      "SE": 0.2145,
       "quasiSE": 0.1501,
       "quasiVar": 0.0225
     },
@@ -64755,8 +64782,8 @@
       "collection_moment": "vegetative",
       "trait": "vigor",
       "genotype_name": "TZSMN86",
-      "estimate": -0.1013,
-      "SE": 0.2187,
+      "estimate": -0.1693,
+      "SE": 0.2223,
       "quasiSE": 0.1558,
       "quasiVar": 0.0243
     },
@@ -64764,8 +64791,8 @@
       "collection_moment": "vegetative",
       "trait": "vigor",
       "genotype_name": "VI033783",
-      "estimate": 0.0738,
-      "SE": 0.222,
+      "estimate": 0.0058,
+      "SE": 0.2026,
       "quasiSE": 0.1562,
       "quasiVar": 0.0244
     },
@@ -64773,8 +64800,8 @@
       "collection_moment": "vegetative",
       "trait": "plantsurvival",
       "genotype_name": "AVOK1501",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1068,
+      "SE": 0.2392,
       "quasiSE": 0.1624,
       "quasiVar": 0.0264
     },
@@ -64782,8 +64809,8 @@
       "collection_moment": "vegetative",
       "trait": "plantsurvival",
       "genotype_name": "Batoumambe",
-      "estimate": 0.2666,
-      "SE": 0.2214,
+      "estimate": 0.1598,
+      "SE": 0.2367,
       "quasiSE": 0.1604,
       "quasiVar": 0.0257
     },
@@ -64791,8 +64818,8 @@
       "collection_moment": "vegetative",
       "trait": "plantsurvival",
       "genotype_name": "C101",
-      "estimate": 0.1706,
-      "SE": 0.2326,
+      "estimate": 0.0639,
+      "SE": 0.2401,
       "quasiSE": 0.1663,
       "quasiVar": 0.0276
     },
@@ -64800,8 +64827,8 @@
       "collection_moment": "vegetative",
       "trait": "plantsurvival",
       "genotype_name": "Konni",
-      "estimate": 0.1068,
-      "SE": 0.2392,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1681,
       "quasiVar": 0.0283
     },
@@ -64809,8 +64836,8 @@
       "collection_moment": "vegetative",
       "trait": "plantsurvival",
       "genotype_name": "Sassilon",
-      "estimate": 0.209,
-      "SE": 0.2285,
+      "estimate": 0.1022,
+      "SE": 0.2303,
       "quasiSE": 0.1623,
       "quasiVar": 0.0263
     },
@@ -64818,8 +64845,8 @@
       "collection_moment": "vegetative",
       "trait": "plantsurvival",
       "genotype_name": "TZSMN86",
-      "estimate": -0.055,
-      "SE": 0.2281,
+      "estimate": -0.1618,
+      "SE": 0.2413,
       "quasiSE": 0.1614,
       "quasiVar": 0.0261
     },
@@ -64827,8 +64854,8 @@
       "collection_moment": "vegetative",
       "trait": "plantsurvival",
       "genotype_name": "VI033783",
-      "estimate": 0.216,
-      "SE": 0.2353,
+      "estimate": 0.1092,
+      "SE": 0.2177,
       "quasiSE": 0.165,
       "quasiVar": 0.0272
     },
@@ -64836,8 +64863,8 @@
       "collection_moment": "vegetative",
       "trait": "diseasesresistance",
       "genotype_name": "AVOK1501",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1495,
+      "SE": 0.2529,
       "quasiSE": 0.175,
       "quasiVar": 0.0306
     },
@@ -64845,8 +64872,8 @@
       "collection_moment": "vegetative",
       "trait": "diseasesresistance",
       "genotype_name": "Batoumambe",
-      "estimate": -0.156,
-      "SE": 0.2412,
+      "estimate": -0.3055,
+      "SE": 0.2568,
       "quasiSE": 0.1754,
       "quasiVar": 0.0308
     },
@@ -64854,8 +64881,8 @@
       "collection_moment": "vegetative",
       "trait": "diseasesresistance",
       "genotype_name": "C101",
-      "estimate": 0.2526,
-      "SE": 0.2448,
+      "estimate": 0.1031,
+      "SE": 0.2517,
       "quasiSE": 0.169,
       "quasiVar": 0.0286
     },
@@ -64863,8 +64890,8 @@
       "collection_moment": "vegetative",
       "trait": "diseasesresistance",
       "genotype_name": "Konni",
-      "estimate": 0.1495,
-      "SE": 0.2529,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1792,
       "quasiVar": 0.0321
     },
@@ -64872,8 +64899,8 @@
       "collection_moment": "vegetative",
       "trait": "diseasesresistance",
       "genotype_name": "Sassilon",
-      "estimate": -0.0316,
-      "SE": 0.2421,
+      "estimate": -0.1811,
+      "SE": 0.2492,
       "quasiSE": 0.1691,
       "quasiVar": 0.0286
     },
@@ -64881,8 +64908,8 @@
       "collection_moment": "vegetative",
       "trait": "diseasesresistance",
       "genotype_name": "TZSMN86",
-      "estimate": 0.0823,
-      "SE": 0.2367,
+      "estimate": -0.0672,
+      "SE": 0.2496,
       "quasiSE": 0.1618,
       "quasiVar": 0.0262
     },
@@ -64890,8 +64917,8 @@
       "collection_moment": "vegetative",
       "trait": "diseasesresistance",
       "genotype_name": "VI033783",
-      "estimate": -0.0047,
-      "SE": 0.2519,
+      "estimate": -0.1542,
+      "SE": 0.2248,
       "quasiSE": 0.1728,
       "quasiVar": 0.0298
     },
@@ -64899,8 +64926,8 @@
       "collection_moment": "vegetative",
       "trait": "pestresistance",
       "genotype_name": "AVOK1501",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1005,
+      "SE": 0.2506,
       "quasiSE": 0.1681,
       "quasiVar": 0.0283
     },
@@ -64908,8 +64935,8 @@
       "collection_moment": "vegetative",
       "trait": "pestresistance",
       "genotype_name": "Batoumambe",
-      "estimate": -0.1524,
-      "SE": 0.241,
+      "estimate": -0.2529,
+      "SE": 0.2573,
       "quasiSE": 0.1769,
       "quasiVar": 0.0313
     },
@@ -64917,8 +64944,8 @@
       "collection_moment": "vegetative",
       "trait": "pestresistance",
       "genotype_name": "C101",
-      "estimate": -0.1369,
-      "SE": 0.2408,
+      "estimate": -0.2374,
+      "SE": 0.2582,
       "quasiSE": 0.1753,
       "quasiVar": 0.0307
     },
@@ -64926,8 +64953,8 @@
       "collection_moment": "vegetative",
       "trait": "pestresistance",
       "genotype_name": "Konni",
-      "estimate": 0.1005,
-      "SE": 0.2506,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1813,
       "quasiVar": 0.0329
     },
@@ -64935,8 +64962,8 @@
       "collection_moment": "vegetative",
       "trait": "pestresistance",
       "genotype_name": "Sassilon",
-      "estimate": 0.4455,
-      "SE": 0.2384,
+      "estimate": 0.3451,
+      "SE": 0.2511,
       "quasiSE": 0.1706,
       "quasiVar": 0.0291
     },
@@ -64944,8 +64971,8 @@
       "collection_moment": "vegetative",
       "trait": "pestresistance",
       "genotype_name": "TZSMN86",
-      "estimate": 0.203,
-      "SE": 0.2366,
+      "estimate": 0.1026,
+      "SE": 0.2533,
       "quasiSE": 0.1652,
       "quasiVar": 0.0273
     },
@@ -64953,8 +64980,8 @@
       "collection_moment": "vegetative",
       "trait": "pestresistance",
       "genotype_name": "VI033783",
-      "estimate": 0.3733,
-      "SE": 0.2459,
+      "estimate": 0.2729,
+      "SE": 0.2298,
       "quasiSE": 0.1762,
       "quasiVar": 0.0311
     },
@@ -64962,8 +64989,8 @@
       "collection_moment": "vegetative",
       "trait": "droughttolerance",
       "genotype_name": "AVOK1501",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.0072,
+      "SE": 0.2903,
       "quasiSE": 0.195,
       "quasiVar": 0.038
     },
@@ -64971,8 +64998,8 @@
       "collection_moment": "vegetative",
       "trait": "droughttolerance",
       "genotype_name": "Batoumambe",
-      "estimate": -0.0679,
-      "SE": 0.2741,
+      "estimate": -0.0751,
+      "SE": 0.2993,
       "quasiSE": 0.2034,
       "quasiVar": 0.0414
     },
@@ -64980,8 +65007,8 @@
       "collection_moment": "vegetative",
       "trait": "droughttolerance",
       "genotype_name": "C101",
-      "estimate": 0,
-      "SE": 0.2826,
+      "estimate": -0.0072,
+      "SE": 0.2997,
       "quasiSE": 0.2022,
       "quasiVar": 0.0409
     },
@@ -64989,8 +65016,8 @@
       "collection_moment": "vegetative",
       "trait": "droughttolerance",
       "genotype_name": "Konni",
-      "estimate": 0.0072,
-      "SE": 0.2903,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.2105,
       "quasiVar": 0.0443
     },
@@ -64998,8 +65025,8 @@
       "collection_moment": "vegetative",
       "trait": "droughttolerance",
       "genotype_name": "Sassilon",
-      "estimate": 0.0531,
-      "SE": 0.2686,
+      "estimate": 0.0459,
+      "SE": 0.2889,
       "quasiSE": 0.1894,
       "quasiVar": 0.0359
     },
@@ -65007,8 +65034,8 @@
       "collection_moment": "vegetative",
       "trait": "droughttolerance",
       "genotype_name": "TZSMN86",
-      "estimate": 0.1942,
-      "SE": 0.2707,
+      "estimate": 0.1869,
+      "SE": 0.2957,
       "quasiSE": 0.1918,
       "quasiVar": 0.0368
     },
@@ -65016,8 +65043,8 @@
       "collection_moment": "vegetative",
       "trait": "droughttolerance",
       "genotype_name": "VI033783",
-      "estimate": 0.2741,
-      "SE": 0.2781,
+      "estimate": 0.2669,
+      "SE": 0.2511,
       "quasiSE": 0.1863,
       "quasiVar": 0.0347
     }

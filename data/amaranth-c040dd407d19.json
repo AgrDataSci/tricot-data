@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-09-13",
+      "version": "v2025-09-18",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -22,7 +22,7 @@
       "experimental_site": "farm"
     },
     "date": {
-      "start": "2023-07-05",
+      "start": "2023-06-06",
       "end": "2023-12-22"
     },
     "geoLocation": {
@@ -49,69 +49,97 @@
       "men": 162,
       "women": 43
     },
+    "funder": [
+      {
+        "funderName": "Norwegian Agency for Development Cooperation",
+        "funderIdentifier": "https://ror.org/04zbn7k04",
+        "awardTitle": "Biodiversity for Opportunities, Livelihoods and Development (BOLD)",
+        "awardNumber": "CONT-1522"
+      },
+      {
+        "funderName": "Federal Ministry for Economic Cooperation and Development (BMZ)",
+        "funderIdentifier": "https://ror.org/00e0ttj68",
+        "awardTitle": "Choose, Grow, Thrive: Using citizen science in expanding West Africa's food basket with African vegetables to tackle malnutrition (BMZ-CGT)",
+        "awardNumber": "81260859"
+      },
+      {
+        "funderName": "Swiss Agency for Development and Cooperation (SDC)",
+        "funderIdentifier": "https://ror.org/02e5d6q93",
+        "awardTitle": "Consumption of Resilient Orphan Crops and Products for Healthier Diets (CROPS4HD) project",
+        "awardNumber": "CROPS4HD 65213"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "Poli",
         "role": "Replacement candidate",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "No information provided",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "IP-5-Sel",
         "role": "Release candidate",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "AC-NL",
         "role": "Genebank accession",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "WorldVeg",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "Madiira 1",
         "role": "Historical check",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "No information provided",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "A2002",
         "role": "Release candidate",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "Madiira 2",
         "role": "Historical check",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "No information provided",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "Akeri",
         "role": "Genebank accession",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "WorldVeg",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "Nguruma",
         "role": "Historical check",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "No information provided",
         "remarks": "Yield & Pest/Disease tolerance"
       }
     ],
@@ -1023,8 +1051,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-11-14 14:20:20",
-      "longitude": -7.8643,
-      "latitude": 12.4535
+      "longitude": -7.8757,
+      "latitude": 12.4601
     },
     {
       "block_id": "c040dd407d19-3",
@@ -1124,8 +1152,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2023-11-06 13:44:47",
-      "longitude": -7.8795,
-      "latitude": 12.4739
+      "longitude": -7.8689,
+      "latitude": 12.4777
     },
     {
       "block_id": "c040dd407d19-4",
@@ -1245,8 +1273,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2023-11-06 11:26:08",
-      "longitude": -7.8688,
-      "latitude": 12.4819
+      "longitude": -7.8694,
+      "latitude": 12.4896
     },
     {
       "block_id": "c040dd407d19-9",
@@ -1345,8 +1373,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-11-06 17:01:12",
-      "longitude": -7.8796,
-      "latitude": 12.4799
+      "longitude": -7.8633,
+      "latitude": 12.4778
     },
     {
       "block_id": "c040dd407d19-12",
@@ -1446,8 +1474,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2023-11-13 17:16:39",
-      "longitude": -7.8785,
-      "latitude": 12.4802
+      "longitude": -7.8646,
+      "latitude": 12.4734
     },
     {
       "block_id": "c040dd407d19-13",
@@ -1544,8 +1572,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-11-02 17:37:49",
-      "longitude": -7.8518,
-      "latitude": 12.4764
+      "longitude": -7.8405,
+      "latitude": 12.4937
     },
     {
       "block_id": "c040dd407d19-16",
@@ -1613,8 +1641,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A; B; C",
       "premirercolte_survey_end": "2023-11-17 12:16:18",
-      "longitude": -7.8258,
-      "latitude": 12.4636
+      "longitude": -7.8332,
+      "latitude": 12.473
     },
     {
       "block_id": "c040dd407d19-17",
@@ -1696,8 +1724,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-11-02 14:16:10",
-      "longitude": -7.8413,
-      "latitude": 12.482
+      "longitude": -7.838,
+      "latitude": 12.4864
     },
     {
       "block_id": "c040dd407d19-18",
@@ -1789,8 +1817,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-11-17 10:57:47",
-      "longitude": -7.8258,
-      "latitude": 12.4819
+      "longitude": -7.8439,
+      "latitude": 12.4896
     },
     {
       "block_id": "c040dd407d19-20",
@@ -1879,8 +1907,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-11-02 16:06:20",
-      "longitude": -7.8312,
-      "latitude": 12.4821
+      "longitude": -7.8511,
+      "latitude": 12.4935
     },
     {
       "block_id": "c040dd407d19-21",
@@ -1987,8 +2015,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-11-02 15:52:43",
-      "longitude": -7.8469,
-      "latitude": 12.4933
+      "longitude": -7.839,
+      "latitude": 12.4807
     },
     {
       "block_id": "c040dd407d19-25",
@@ -2087,8 +2115,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 11:06:24",
-      "longitude": -7.7606,
-      "latitude": 12.6101
+      "longitude": -7.7646,
+      "latitude": 12.6301
     },
     {
       "block_id": "c040dd407d19-27",
@@ -2184,8 +2212,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 11:08:54",
-      "longitude": -7.7437,
-      "latitude": 12.7278
+      "longitude": -7.751,
+      "latitude": 12.7449
     },
     {
       "block_id": "c040dd407d19-28",
@@ -2281,8 +2309,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 11:13:20",
-      "longitude": -7.7533,
-      "latitude": 12.7287
+      "longitude": -7.7527,
+      "latitude": 12.7229
     },
     {
       "block_id": "c040dd407d19-29",
@@ -2378,8 +2406,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 14:39:42",
-      "longitude": -7.7643,
-      "latitude": 12.7321
+      "longitude": -7.7602,
+      "latitude": 12.7348
     },
     {
       "block_id": "c040dd407d19-30",
@@ -2471,8 +2499,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 14:47:39",
-      "longitude": -7.7594,
-      "latitude": 12.7276
+      "longitude": -7.7435,
+      "latitude": 12.7216
     },
     {
       "block_id": "c040dd407d19-31",
@@ -2568,8 +2596,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 14:55:28",
-      "longitude": -7.7405,
-      "latitude": 12.7366
+      "longitude": -7.7417,
+      "latitude": 12.7247
     },
     {
       "block_id": "c040dd407d19-32",
@@ -2670,8 +2698,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 15:01:42",
-      "longitude": -7.7553,
-      "latitude": 12.7415
+      "longitude": -7.744,
+      "latitude": 12.7209
     },
     {
       "block_id": "c040dd407d19-33",
@@ -2772,8 +2800,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C; B",
       "quatrimercolte_survey_end": "2023-11-27 15:04:24",
-      "longitude": -7.757,
-      "latitude": 12.7394
+      "longitude": -7.7549,
+      "latitude": 12.7231
     },
     {
       "block_id": "c040dd407d19-34",
@@ -2868,8 +2896,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 15:06:13",
-      "longitude": -7.748,
-      "latitude": 12.7247
+      "longitude": -7.7451,
+      "latitude": 12.7412
     },
     {
       "block_id": "c040dd407d19-35",
@@ -2953,8 +2981,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 15:07:46",
-      "longitude": -7.7576,
-      "latitude": 12.7243
+      "longitude": -7.7379,
+      "latitude": 12.7312
     },
     {
       "block_id": "c040dd407d19-36",
@@ -3055,8 +3083,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 15:09:19",
-      "longitude": -7.7515,
-      "latitude": 12.7328
+      "longitude": -7.754,
+      "latitude": 12.7174
     },
     {
       "block_id": "c040dd407d19-37",
@@ -3157,8 +3185,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 15:10:55",
-      "longitude": -7.7453,
-      "latitude": 12.7412
+      "longitude": -7.7485,
+      "latitude": 12.7355
     },
     {
       "block_id": "c040dd407d19-38",
@@ -3259,8 +3287,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 15:12:27",
-      "longitude": -7.7646,
-      "latitude": 12.7339
+      "longitude": -7.7477,
+      "latitude": 12.7245
     },
     {
       "block_id": "c040dd407d19-39",
@@ -3361,8 +3389,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 15:14:05",
-      "longitude": -7.7461,
-      "latitude": 12.7424
+      "longitude": -7.7654,
+      "latitude": 12.7313
     },
     {
       "block_id": "c040dd407d19-40",
@@ -3463,8 +3491,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 15:16:02",
-      "longitude": -7.739,
-      "latitude": 12.7324
+      "longitude": -7.7617,
+      "latitude": 12.7308
     },
     {
       "block_id": "c040dd407d19-41",
@@ -3556,8 +3584,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:11:55",
-      "longitude": -7.7622,
-      "latitude": 12.7393
+      "longitude": -7.7488,
+      "latitude": 12.7181
     },
     {
       "block_id": "c040dd407d19-42",
@@ -3652,8 +3680,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:14:16",
-      "longitude": -7.7508,
-      "latitude": 12.7232
+      "longitude": -7.7499,
+      "latitude": 12.7243
     },
     {
       "block_id": "c040dd407d19-43",
@@ -3748,8 +3776,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:15:53",
-      "longitude": -7.7419,
-      "latitude": 12.7342
+      "longitude": -7.7554,
+      "latitude": 12.7288
     },
     {
       "block_id": "c040dd407d19-44",
@@ -3844,8 +3872,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:18:24",
-      "longitude": -7.76,
-      "latitude": 12.73
+      "longitude": -7.7448,
+      "latitude": 12.7341
     },
     {
       "block_id": "c040dd407d19-45",
@@ -3941,8 +3969,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:21:39",
-      "longitude": -7.7554,
-      "latitude": 12.7388
+      "longitude": -7.7427,
+      "latitude": 12.7287
     },
     {
       "block_id": "c040dd407d19-46",
@@ -4037,8 +4065,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:22:59",
-      "longitude": -7.754,
-      "latitude": 12.7307
+      "longitude": -7.7487,
+      "latitude": 12.7322
     },
     {
       "block_id": "c040dd407d19-47",
@@ -4133,8 +4161,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:24:31",
-      "longitude": -7.7633,
-      "latitude": 12.7276
+      "longitude": -7.7591,
+      "latitude": 12.7356
     },
     {
       "block_id": "c040dd407d19-48",
@@ -4217,8 +4245,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:25:51",
-      "longitude": -7.7494,
-      "latitude": 12.724
+      "longitude": -7.7404,
+      "latitude": 12.7233
     },
     {
       "block_id": "c040dd407d19-49",
@@ -4314,8 +4342,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:27:01",
-      "longitude": -7.7457,
-      "latitude": 12.7263
+      "longitude": -7.7512,
+      "latitude": 12.7414
     },
     {
       "block_id": "c040dd407d19-50",
@@ -4410,8 +4438,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-11-27 18:28:11",
-      "longitude": -7.7404,
-      "latitude": 12.7315
+      "longitude": -7.7513,
+      "latitude": 12.7189
     },
     {
       "block_id": "c040dd407d19-51",
@@ -4499,8 +4527,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-11-03 12:27:58",
-      "longitude": -7.7192,
-      "latitude": 12.6994
+      "longitude": -7.7067,
+      "latitude": 12.713
     },
     {
       "block_id": "c040dd407d19-52",
@@ -4592,8 +4620,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-10-16 08:21:13",
-      "longitude": -7.7011,
-      "latitude": 12.7051
+      "longitude": -7.7177,
+      "latitude": 12.7201
     },
     {
       "block_id": "c040dd407d19-53",
@@ -4683,8 +4711,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-11-04 17:23:32",
-      "longitude": -7.7044,
-      "latitude": 12.6914
+      "longitude": -7.6989,
+      "latitude": 12.7113
     },
     {
       "block_id": "c040dd407d19-54",
@@ -4773,8 +4801,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-08 18:08:51",
-      "longitude": -7.9232,
-      "latitude": 12.5747
+      "longitude": -7.9431,
+      "latitude": 12.5871
     },
     {
       "block_id": "c040dd407d19-55",
@@ -4868,8 +4896,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-11-08 18:17:47",
-      "longitude": -7.7131,
-      "latitude": 12.7432
+      "longitude": -7.6959,
+      "latitude": 12.7291
     },
     {
       "block_id": "c040dd407d19-56",
@@ -4953,8 +4981,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2023-12-03 18:30:54",
-      "longitude": -7.6967,
-      "latitude": 12.7149
+      "longitude": -7.6973,
+      "latitude": 12.7077
     },
     {
       "block_id": "c040dd407d19-57",
@@ -5046,8 +5074,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2023-10-30 12:15:15",
-      "longitude": -7.7111,
-      "latitude": 12.7028
+      "longitude": -7.7246,
+      "latitude": 12.7095
     },
     {
       "block_id": "c040dd407d19-58",
@@ -5142,8 +5170,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-08 18:52:56",
-      "longitude": -7.6897,
-      "latitude": 12.711
+      "longitude": -7.7094,
+      "latitude": 12.7027
     },
     {
       "block_id": "c040dd407d19-59",
@@ -5229,8 +5257,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-11-03 12:21:41",
-      "longitude": -7.7068,
-      "latitude": 12.7039
+      "longitude": -7.6924,
+      "latitude": 12.7136
     },
     {
       "block_id": "c040dd407d19-60",
@@ -5321,8 +5349,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-10-16 08:12:51",
-      "longitude": -7.7178,
-      "latitude": 12.7059
+      "longitude": -7.7017,
+      "latitude": 12.7036
     },
     {
       "block_id": "c040dd407d19-61",
@@ -5412,8 +5440,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2023-11-04 17:11:39",
-      "longitude": -7.7078,
-      "latitude": 12.6967
+      "longitude": -7.6922,
+      "latitude": 12.6973
     },
     {
       "block_id": "c040dd407d19-62",
@@ -5497,8 +5525,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2023-11-27 16:32:27",
-      "longitude": -7.7012,
-      "latitude": 12.7184
+      "longitude": -7.6993,
+      "latitude": 12.7059
     },
     {
       "block_id": "c040dd407d19-63",
@@ -5581,8 +5609,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-12-03 18:31:19",
-      "longitude": -7.7119,
-      "latitude": 12.7079
+      "longitude": -7.6901,
+      "latitude": 12.7018
     },
     {
       "block_id": "c040dd407d19-64",
@@ -5675,8 +5703,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-08 19:11:53",
-      "longitude": -7.9286,
-      "latitude": 12.5682
+      "longitude": -7.943,
+      "latitude": 12.5869
     },
     {
       "block_id": "c040dd407d19-65",
@@ -5767,8 +5795,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-11-27 16:23:02",
-      "longitude": -7.7008,
-      "latitude": 12.7181
+      "longitude": -7.6899,
+      "latitude": 12.7097
     },
     {
       "block_id": "c040dd407d19-66",
@@ -5860,8 +5888,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-08 19:00:47",
-      "longitude": -7.7041,
-      "latitude": 12.7142
+      "longitude": -7.69,
+      "latitude": 12.6999
     },
     {
       "block_id": "c040dd407d19-67",
@@ -5951,8 +5979,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2023-10-17 09:26:29",
-      "longitude": -7.713,
-      "latitude": 12.6989
+      "longitude": -7.721,
+      "latitude": 12.7122
     },
     {
       "block_id": "c040dd407d19-68",
@@ -6041,8 +6069,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-03 12:46:28",
-      "longitude": -7.7031,
-      "latitude": 12.7107
+      "longitude": -7.7021,
+      "latitude": 12.7091
     },
     {
       "block_id": "c040dd407d19-69",
@@ -6134,8 +6162,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-08 19:41:49",
-      "longitude": -7.7078,
-      "latitude": 12.7098
+      "longitude": -7.7065,
+      "latitude": 12.7138
     },
     {
       "block_id": "c040dd407d19-70",
@@ -6226,8 +6254,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-08 19:34:29",
-      "longitude": -7.7114,
-      "latitude": 12.6984
+      "longitude": -7.7018,
+      "latitude": 12.6995
     },
     {
       "block_id": "c040dd407d19-71",
@@ -6321,8 +6349,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-11-08 16:05:11",
-      "longitude": -7.7139,
-      "latitude": 12.712
+      "longitude": -7.7143,
+      "latitude": 12.716
     },
     {
       "block_id": "c040dd407d19-72",
@@ -6413,8 +6441,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-11-08 19:51:17",
-      "longitude": -7.7165,
-      "latitude": 12.7077
+      "longitude": -7.723,
+      "latitude": 12.7064
     },
     {
       "block_id": "c040dd407d19-73",
@@ -6508,8 +6536,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-11-04 17:29:41",
-      "longitude": -7.7108,
-      "latitude": 12.7168
+      "longitude": -7.7157,
+      "latitude": 12.6939
     },
     {
       "block_id": "c040dd407d19-75",
@@ -6596,8 +6624,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-08 19:58:41",
-      "longitude": -7.7105,
-      "latitude": 12.6982
+      "longitude": -7.7048,
+      "latitude": 12.6965
     },
     {
       "block_id": "c040dd407d19-76",
@@ -6696,8 +6724,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-09-24 20:21:28",
-      "longitude": -8.0817,
-      "latitude": 12.5204
+      "longitude": -8.0778,
+      "latitude": 12.5301
     },
     {
       "block_id": "c040dd407d19-80",
@@ -6758,7 +6786,7 @@
       "transplantation_plantdensity": "10/5",
       "transplantation_survey_end": "2023-12-16 15:58:15",
       "longitude": -8.0755,
-      "latitude": 12.5306
+      "latitude": 12.5243
     },
     {
       "block_id": "c040dd407d19-81",
@@ -6837,8 +6865,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-12-19 20:06:46",
-      "longitude": -8.0847,
-      "latitude": 12.5154
+      "longitude": -8.0833,
+      "latitude": 12.5163
     },
     {
       "block_id": "c040dd407d19-83",
@@ -6895,8 +6923,8 @@
       "transplantation_plotsize": "Xxxx",
       "transplantation_plantdensity": "Xxx",
       "transplantation_survey_end": "2023-12-17 09:26:37",
-      "longitude": -8.0847,
-      "latitude": 12.4969
+      "longitude": -8.0811,
+      "latitude": 12.5075
     },
     {
       "block_id": "c040dd407d19-84",
@@ -6971,8 +6999,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2023-12-22 21:09:24",
-      "longitude": -8.0749,
-      "latitude": 12.5046
+      "longitude": -8.091,
+      "latitude": 12.5003
     },
     {
       "block_id": "c040dd407d19-85",
@@ -7045,8 +7073,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2023-12-17 09:02:03",
-      "longitude": -8.0913,
-      "latitude": 12.4889
+      "longitude": -8.0931,
+      "latitude": 12.4898
     },
     {
       "block_id": "c040dd407d19-88",
@@ -7130,8 +7158,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-19 20:13:36",
-      "longitude": -8.0919,
-      "latitude": 12.4891
+      "longitude": -8.0948,
+      "latitude": 12.5098
     },
     {
       "block_id": "c040dd407d19-89",
@@ -7234,8 +7262,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-19 20:40:10",
-      "longitude": -8.0674,
-      "latitude": 12.5184
+      "longitude": -8.076,
+      "latitude": 12.5161
     },
     {
       "block_id": "c040dd407d19-94",
@@ -7315,8 +7343,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-09-23 20:41:41",
-      "longitude": -8.0864,
-      "latitude": 12.4968
+      "longitude": -8.0839,
+      "latitude": 12.4972
     },
     {
       "block_id": "c040dd407d19-95",
@@ -7395,8 +7423,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-12-22 20:58:10",
-      "longitude": -8.0606,
-      "latitude": 12.5099
+      "longitude": -8.0828,
+      "latitude": 12.5137
     },
     {
       "block_id": "c040dd407d19-97",
@@ -7481,8 +7509,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-09-24 20:12:38",
-      "longitude": -8.0732,
-      "latitude": 12.5451
+      "longitude": -8.0762,
+      "latitude": 12.5533
     },
     {
       "block_id": "c040dd407d19-98",
@@ -7548,8 +7576,8 @@
       "transplantation_plotsize": "100%",
       "transplantation_plantdensity": "10/5",
       "transplantation_survey_end": "2023-12-17 12:23:28",
-      "longitude": -8.084,
-      "latitude": 12.5218
+      "longitude": -8.0749,
+      "latitude": 12.5216
     },
     {
       "block_id": "c040dd407d19-100",
@@ -7627,8 +7655,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-10-10 11:23:46",
-      "longitude": -7.4452,
-      "latitude": 13.5566
+      "longitude": -7.4384,
+      "latitude": 13.54
     },
     {
       "block_id": "c040dd407d19-102",
@@ -7674,8 +7702,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-09-04 17:26:11",
-      "longitude": -7.5675,
-      "latitude": 12.8692
+      "longitude": -7.5557,
+      "latitude": 12.8655
     },
     {
       "block_id": "c040dd407d19-103",
@@ -7723,8 +7751,8 @@
       "socioeconomic_membershipwhere": "Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-09-04 17:31:24",
-      "longitude": -7.5811,
-      "latitude": 12.8499
+      "longitude": -7.5664,
+      "latitude": 12.8604
     },
     {
       "block_id": "c040dd407d19-104",
@@ -7772,8 +7800,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-09-04 17:35:25",
-      "longitude": -7.5657,
-      "latitude": 12.8567
+      "longitude": -7.5628,
+      "latitude": 12.85
     },
     {
       "block_id": "c040dd407d19-105",
@@ -7821,8 +7849,8 @@
       "socioeconomic_membershipwhere": "Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-09-04 17:17:44",
-      "longitude": -7.5695,
-      "latitude": 12.8502
+      "longitude": -7.563,
+      "latitude": 12.8516
     },
     {
       "block_id": "c040dd407d19-106",
@@ -7869,8 +7897,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Tapis; Matelas; Vélo; Table Et Chaises0; Table Et ChaisesCuisinière à Essence; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-09-07 12:43:14",
-      "longitude": -7.5743,
-      "latitude": 12.8455
+      "longitude": -7.5753,
+      "latitude": 12.8559
     },
     {
       "block_id": "c040dd407d19-107",
@@ -7917,8 +7945,8 @@
       "socioeconomic_membershipwhere": "Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Tapis; Vélo; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-09-07 12:49:30",
-      "longitude": -7.5798,
-      "latitude": 12.8498
+      "longitude": -7.5724,
+      "latitude": 12.8453
     },
     {
       "block_id": "c040dd407d19-108",
@@ -7965,8 +7993,8 @@
       "socioeconomic_membershipwhere": "Association",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Matelas; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesCuisinière à Essence; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-09-07 13:12:01",
-      "longitude": -7.5726,
-      "latitude": 12.841
+      "longitude": -7.5612,
+      "latitude": 12.8388
     },
     {
       "block_id": "c040dd407d19-109",
@@ -8014,8 +8042,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-14 11:18:29",
-      "longitude": -7.4263,
-      "latitude": 13.5623
+      "longitude": -7.4204,
+      "latitude": 13.5446
     },
     {
       "block_id": "c040dd407d19-110",
@@ -8063,8 +8091,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-07-17 11:06:12",
-      "longitude": -7.5722,
-      "latitude": 12.8417
+      "longitude": -7.5737,
+      "latitude": 12.8423
     },
     {
       "block_id": "c040dd407d19-111",
@@ -8112,8 +8140,8 @@
       "socioeconomic_membershipwhere": "Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-07-08 15:18:26",
-      "longitude": -7.5957,
-      "latitude": 12.8543
+      "longitude": -7.6104,
+      "latitude": 12.8672
     },
     {
       "block_id": "c040dd407d19-112",
@@ -8161,8 +8189,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-17 11:05:37",
-      "longitude": -7.5618,
-      "latitude": 12.8607
+      "longitude": -7.5666,
+      "latitude": 12.8575
     },
     {
       "block_id": "c040dd407d19-113",
@@ -8210,8 +8238,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association; Groupe De Producteurs",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Tapis; Lit; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-06 22:22:33",
-      "longitude": -7.5624,
-      "latitude": 12.8466
+      "longitude": -7.5614,
+      "latitude": 12.8438
     },
     {
       "block_id": "c040dd407d19-114",
@@ -8260,8 +8288,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Matelas; Table Et Chaises; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-06 22:27:27",
-      "longitude": -7.573,
-      "latitude": 12.8442
+      "longitude": -7.5811,
+      "latitude": 12.8566
     },
     {
       "block_id": "c040dd407d19-115",
@@ -8333,8 +8361,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-10-10 11:27:04",
-      "longitude": -7.5819,
-      "latitude": 12.8427
+      "longitude": -7.5616,
+      "latitude": 12.8526
     },
     {
       "block_id": "c040dd407d19-116",
@@ -8384,8 +8412,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Matelas; Table Et Chaises; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-17 11:05:22",
-      "longitude": -7.5751,
-      "latitude": 12.8419
+      "longitude": -7.5718,
+      "latitude": 12.8401
     },
     {
       "block_id": "c040dd407d19-117",
@@ -8433,8 +8461,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Tapis; Vélo; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-17 11:05:09",
-      "longitude": -7.5749,
-      "latitude": 12.8523
+      "longitude": -7.5635,
+      "latitude": 12.8524
     },
     {
       "block_id": "c040dd407d19-118",
@@ -8482,8 +8510,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-06 22:42:03",
-      "longitude": -7.5687,
-      "latitude": 12.8372
+      "longitude": -7.56,
+      "latitude": 12.8466
     },
     {
       "block_id": "c040dd407d19-119",
@@ -8532,8 +8560,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Tapis; Table Et Chaises0; Vélo; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-07-17 11:03:11",
-      "longitude": -7.5697,
-      "latitude": 12.8595
+      "longitude": -7.5584,
+      "latitude": 12.8541
     },
     {
       "block_id": "c040dd407d19-120",
@@ -8580,8 +8608,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Table Et Chaises0; Table Et ChaisesTable Et Chaises; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-06 22:50:52",
-      "longitude": -7.5715,
-      "latitude": 12.8606
+      "longitude": -7.5631,
+      "latitude": 12.8472
     },
     {
       "block_id": "c040dd407d19-121",
@@ -8631,8 +8659,8 @@
       "socioeconomic_membershipwhere": "Association; Groupe De Producteurs",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence; Table Et ChaisesCuisinière à Gaz; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-07-06 23:34:52",
-      "longitude": -7.5577,
-      "latitude": 12.8529
+      "longitude": -7.5702,
+      "latitude": 12.8633
     },
     {
       "block_id": "c040dd407d19-122",
@@ -8679,8 +8707,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-06 23:39:25",
-      "longitude": -7.583,
-      "latitude": 12.8537
+      "longitude": -7.5788,
+      "latitude": 12.8476
     },
     {
       "block_id": "c040dd407d19-123",
@@ -8732,8 +8760,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Tapis; Vélo; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-17 11:04:04",
-      "longitude": -7.5696,
-      "latitude": 12.838
+      "longitude": -7.5591,
+      "latitude": 12.8495
     },
     {
       "block_id": "c040dd407d19-124",
@@ -8804,8 +8832,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-10-10 11:32:49",
-      "longitude": -7.5699,
-      "latitude": 12.8546
+      "longitude": -7.5737,
+      "latitude": 12.8575
     },
     {
       "block_id": "c040dd407d19-125",
@@ -8857,8 +8885,8 @@
       "socioeconomic_membershipwhere": "Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Tapis; Lit; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-07-06 23:56:02",
-      "longitude": -7.5702,
-      "latitude": 12.8373
+      "longitude": -7.5734,
+      "latitude": 12.8616
     },
     {
       "block_id": "c040dd407d19-126",
@@ -8906,8 +8934,8 @@
       "socioeconomic_membershipwhere": "Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-08-25 10:25:36",
-      "longitude": -7.9535,
-      "latitude": 12.3867
+      "longitude": -7.9731,
+      "latitude": 12.3787
     },
     {
       "block_id": "c040dd407d19-127",
@@ -8955,8 +8983,8 @@
       "socioeconomic_membershipwhere": "Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-08-25 10:49:48",
-      "longitude": -7.9668,
-      "latitude": 12.3904
+      "longitude": -7.9684,
+      "latitude": 12.3895
     },
     {
       "block_id": "c040dd407d19-128",
@@ -9003,8 +9031,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-08-25 09:52:47",
-      "longitude": -7.97,
-      "latitude": 12.3934
+      "longitude": -7.9784,
+      "latitude": 12.3804
     },
     {
       "block_id": "c040dd407d19-129",
@@ -9052,8 +9080,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-08-25 09:56:37",
-      "longitude": -7.9559,
-      "latitude": 12.3904
+      "longitude": -7.9773,
+      "latitude": 12.3876
     },
     {
       "block_id": "c040dd407d19-130",
@@ -9116,8 +9144,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-08-25 10:06:22",
-      "longitude": -7.9598,
-      "latitude": 12.3824
+      "longitude": -7.9693,
+      "latitude": 12.3859
     },
     {
       "block_id": "c040dd407d19-134",
@@ -9190,8 +9218,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-08-25 10:57:54",
-      "longitude": -7.9658,
-      "latitude": 12.3971
+      "longitude": -7.966,
+      "latitude": 12.385
     },
     {
       "block_id": "c040dd407d19-140",
@@ -9239,8 +9267,8 @@
       "socioeconomic_membershipwhere": "Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Vélo; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-08-25 10:32:59",
-      "longitude": -7.9687,
-      "latitude": 12.3779
+      "longitude": -7.9681,
+      "latitude": 12.3863
     },
     {
       "block_id": "c040dd407d19-141",
@@ -9288,8 +9316,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Tapis; Lit; Matelas; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-08-25 09:48:49",
-      "longitude": -7.9622,
-      "latitude": 12.3775
+      "longitude": -7.9706,
+      "latitude": 12.393
     },
     {
       "block_id": "c040dd407d19-142",
@@ -9337,8 +9365,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association",
       "socioeconomic_hhassets": "Matelas; Table Et Chaises; Lit; Vélo",
       "socioeconomic_survey_end": "2023-08-21 17:14:36",
-      "longitude": -7.9649,
-      "latitude": 12.3745
+      "longitude": -7.9614,
+      "latitude": 12.3984
     },
     {
       "block_id": "c040dd407d19-143",
@@ -9386,8 +9414,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-08-21 17:19:45",
-      "longitude": -7.9553,
-      "latitude": 12.3797
+      "longitude": -7.9627,
+      "latitude": 12.3778
     },
     {
       "block_id": "c040dd407d19-144",
@@ -9435,8 +9463,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Matelas; Tapis; Table Et Chaises; Vélo; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-08-21 16:47:25",
-      "longitude": -7.9672,
-      "latitude": 12.376
+      "longitude": -7.9636,
+      "latitude": 12.3849
     },
     {
       "block_id": "c040dd407d19-145",
@@ -9484,7 +9512,7 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-08-21 17:06:46",
-      "longitude": -7.952,
+      "longitude": -7.9681,
       "latitude": 12.3962
     },
     {
@@ -9533,8 +9561,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-08-21 16:53:29",
-      "longitude": -7.958,
-      "latitude": 12.3889
+      "longitude": -7.9778,
+      "latitude": 12.3879
     },
     {
       "block_id": "c040dd407d19-147",
@@ -9582,8 +9610,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Réfrigérateur; Table Et Chaises0; Table Et ChaisesTable Et Chaises",
       "socioeconomic_survey_end": "2023-08-25 10:11:36",
-      "longitude": -7.9791,
-      "latitude": 12.3846
+      "longitude": -7.9703,
+      "latitude": 12.3779
     },
     {
       "block_id": "c040dd407d19-148",
@@ -9631,8 +9659,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0",
       "socioeconomic_survey_end": "2023-08-25 10:00:47",
-      "longitude": -7.9588,
-      "latitude": 12.3971
+      "longitude": -7.9673,
+      "latitude": 12.4008
     },
     {
       "block_id": "c040dd407d19-149",
@@ -9680,8 +9708,8 @@
       "socioeconomic_membershipwhere": "Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et Chaises0; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-08-25 10:42:08",
-      "longitude": -7.9793,
-      "latitude": 12.3903
+      "longitude": -7.9679,
+      "latitude": 12.3824
     },
     {
       "block_id": "c040dd407d19-150",
@@ -9729,8 +9757,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Vélo",
       "socioeconomic_survey_end": "2023-08-25 10:19:24",
-      "longitude": -7.9581,
-      "latitude": 12.3875
+      "longitude": -7.964,
+      "latitude": 12.3893
     },
     {
       "block_id": "c040dd407d19-151",
@@ -9815,8 +9843,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 16:20:39",
-      "longitude": -8.3934,
-      "latitude": 12.3982
+      "longitude": -8.3897,
+      "latitude": 12.418
     },
     {
       "block_id": "c040dd407d19-152",
@@ -9901,8 +9929,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 16:12:19",
-      "longitude": -8.3869,
-      "latitude": 12.4008
+      "longitude": -8.3934,
+      "latitude": 12.4032
     },
     {
       "block_id": "c040dd407d19-153",
@@ -9987,8 +10015,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 17:34:41",
-      "longitude": -8.3857,
-      "latitude": 12.4035
+      "longitude": -8.3751,
+      "latitude": 12.4172
     },
     {
       "block_id": "c040dd407d19-154",
@@ -10072,8 +10100,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 17:13:02",
-      "longitude": -8.3945,
-      "latitude": 12.4151
+      "longitude": -8.3969,
+      "latitude": 12.4111
     },
     {
       "block_id": "c040dd407d19-155",
@@ -10162,8 +10190,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-28 21:31:51",
-      "longitude": -8.2924,
-      "latitude": 12.3247
+      "longitude": -8.2739,
+      "latitude": 12.3057
     },
     {
       "block_id": "c040dd407d19-157",
@@ -10248,8 +10276,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-20 16:19:56",
-      "longitude": -8.338,
-      "latitude": 12.344
+      "longitude": -8.3304,
+      "latitude": 12.327
     },
     {
       "block_id": "c040dd407d19-158",
@@ -10332,8 +10360,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-20 16:18:19",
-      "longitude": -8.3206,
-      "latitude": 12.3291
+      "longitude": -8.3253,
+      "latitude": 12.3394
     },
     {
       "block_id": "c040dd407d19-159",
@@ -10416,8 +10444,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-20 16:25:42",
-      "longitude": -8.3374,
-      "latitude": 12.3355
+      "longitude": -8.3354,
+      "latitude": 12.3479
     },
     {
       "block_id": "c040dd407d19-160",
@@ -10500,8 +10528,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-20 16:31:14",
-      "longitude": -8.3265,
-      "latitude": 12.3495
+      "longitude": -8.3343,
+      "latitude": 12.3378
     },
     {
       "block_id": "c040dd407d19-161",
@@ -10585,8 +10613,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-20 16:38:24",
-      "longitude": -8.3274,
-      "latitude": 12.3395
+      "longitude": -8.341,
+      "latitude": 12.3405
     },
     {
       "block_id": "c040dd407d19-162",
@@ -10670,8 +10698,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-20 16:44:31",
-      "longitude": -8.3354,
-      "latitude": 12.3246
+      "longitude": -8.324,
+      "latitude": 12.343
     },
     {
       "block_id": "c040dd407d19-163",
@@ -10755,8 +10783,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-20 18:45:02",
-      "longitude": -8.4154,
-      "latitude": 12.4329
+      "longitude": -8.413,
+      "latitude": 12.4238
     },
     {
       "block_id": "c040dd407d19-164",
@@ -10841,8 +10869,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 16:39:01",
-      "longitude": -8.3739,
-      "latitude": 12.4067
+      "longitude": -8.394,
+      "latitude": 12.4084
     },
     {
       "block_id": "c040dd407d19-165",
@@ -10926,8 +10954,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 16:06:02",
-      "longitude": -8.3906,
-      "latitude": 12.4153
+      "longitude": -8.3847,
+      "latitude": 12.4212
     },
     {
       "block_id": "c040dd407d19-166",
@@ -11010,8 +11038,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 17:53:40",
-      "longitude": -8.3803,
-      "latitude": 12.4042
+      "longitude": -8.3868,
+      "latitude": 12.4229
     },
     {
       "block_id": "c040dd407d19-167",
@@ -11094,8 +11122,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 18:07:35",
-      "longitude": -8.3717,
-      "latitude": 12.414
+      "longitude": -8.3907,
+      "latitude": 12.4138
     },
     {
       "block_id": "c040dd407d19-168",
@@ -11178,8 +11206,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 18:15:33",
-      "longitude": -8.3889,
-      "latitude": 12.4115
+      "longitude": -8.382,
+      "latitude": 12.4148
     },
     {
       "block_id": "c040dd407d19-169",
@@ -11262,8 +11290,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-20 18:23:10",
-      "longitude": -8.3943,
-      "latitude": 12.4147
+      "longitude": -8.3774,
+      "latitude": 12.4196
     },
     {
       "block_id": "c040dd407d19-170",
@@ -11346,8 +11374,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-28 22:09:26",
-      "longitude": -8.2765,
-      "latitude": 12.3182
+      "longitude": -8.2868,
+      "latitude": 12.3246
     },
     {
       "block_id": "c040dd407d19-171",
@@ -11417,8 +11445,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2023-11-28 21:58:41",
-      "longitude": -8.2739,
-      "latitude": 12.3135
+      "longitude": -8.292,
+      "latitude": 12.3133
     },
     {
       "block_id": "c040dd407d19-172",
@@ -11502,8 +11530,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-28 22:02:45",
-      "longitude": -8.2803,
-      "latitude": 12.3168
+      "longitude": -8.2919,
+      "latitude": 12.3106
     },
     {
       "block_id": "c040dd407d19-173",
@@ -11586,8 +11614,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-28 21:45:49",
-      "longitude": -8.2704,
-      "latitude": 12.3076
+      "longitude": -8.282,
+      "latitude": 12.3032
     },
     {
       "block_id": "c040dd407d19-174",
@@ -11671,8 +11699,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-28 21:39:07",
-      "longitude": -8.2864,
-      "latitude": 12.3059
+      "longitude": -8.2924,
+      "latitude": 12.3139
     },
     {
       "block_id": "c040dd407d19-175",
@@ -11755,8 +11783,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-11-28 21:18:37",
-      "longitude": -8.2752,
-      "latitude": 12.3123
+      "longitude": -8.2807,
+      "latitude": 12.3275
     },
     {
       "block_id": "c040dd407d19-176",
@@ -11840,8 +11868,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-13 21:11:27",
-      "longitude": -7.8691,
-      "latitude": 13.2215
+      "longitude": -7.8592,
+      "latitude": 13.2254
     },
     {
       "block_id": "c040dd407d19-177",
@@ -11925,8 +11953,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-13 21:14:13",
-      "longitude": -7.8547,
-      "latitude": 13.2185
+      "longitude": -7.8693,
+      "latitude": 13.2375
     },
     {
       "block_id": "c040dd407d19-178",
@@ -12011,8 +12039,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-13 21:31:05",
-      "longitude": -7.8681,
-      "latitude": 13.2352
+      "longitude": -7.8611,
+      "latitude": 13.236
     },
     {
       "block_id": "c040dd407d19-179",
@@ -12097,8 +12125,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-13 21:32:40",
-      "longitude": -7.8721,
-      "latitude": 13.2179
+      "longitude": -7.8632,
+      "latitude": 13.2111
     },
     {
       "block_id": "c040dd407d19-180",
@@ -12184,7 +12212,7 @@
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-12-13 21:34:20",
       "longitude": -7.8627,
-      "latitude": 13.2345
+      "latitude": 13.2176
     },
     {
       "block_id": "c040dd407d19-181",
@@ -12268,8 +12296,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-12-13 21:35:43",
-      "longitude": -7.8607,
-      "latitude": 13.2259
+      "longitude": -7.8752,
+      "latitude": 13.2206
     },
     {
       "block_id": "c040dd407d19-182",
@@ -12353,8 +12381,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-12-13 21:37:17",
-      "longitude": -7.8712,
-      "latitude": 13.2236
+      "longitude": -7.8609,
+      "latitude": 13.2232
     },
     {
       "block_id": "c040dd407d19-183",
@@ -12438,8 +12466,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-12-13 21:39:07",
-      "longitude": -7.8618,
-      "latitude": 13.2292
+      "longitude": -7.8648,
+      "latitude": 13.2215
     },
     {
       "block_id": "c040dd407d19-184",
@@ -12524,8 +12552,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "C; B",
       "quatrimercolte_survey_end": "2023-12-13 21:40:39",
-      "longitude": -7.8723,
-      "latitude": 13.2283
+      "longitude": -7.8564,
+      "latitude": 13.216
     },
     {
       "block_id": "c040dd407d19-185",
@@ -12609,8 +12637,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-13 21:42:12",
-      "longitude": -7.8617,
-      "latitude": 13.2233
+      "longitude": -7.8677,
+      "latitude": 13.2196
     },
     {
       "block_id": "c040dd407d19-186",
@@ -12721,8 +12749,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-12-13 21:45:30",
-      "longitude": -7.8563,
-      "latitude": 13.2209
+      "longitude": -7.8643,
+      "latitude": 13.2331
     },
     {
       "block_id": "c040dd407d19-188",
@@ -12801,8 +12829,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "C; A",
       "quatrimercolte_survey_end": "2023-12-13 21:47:38",
-      "longitude": -7.859,
-      "latitude": 13.2179
+      "longitude": -7.8734,
+      "latitude": 13.2302
     },
     {
       "block_id": "c040dd407d19-189",
@@ -12887,8 +12915,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-13 21:56:06",
-      "longitude": -7.8773,
-      "latitude": 13.2219
+      "longitude": -7.8549,
+      "latitude": 13.2319
     },
     {
       "block_id": "c040dd407d19-190",
@@ -12973,8 +13001,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-13 21:57:31",
-      "longitude": -7.8671,
-      "latitude": 13.2382
+      "longitude": -7.8528,
+      "latitude": 13.2239
     },
     {
       "block_id": "c040dd407d19-191",
@@ -13060,8 +13088,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "C; B",
       "quatrimercolte_survey_end": "2023-12-13 21:59:09",
-      "longitude": -7.8585,
-      "latitude": 13.2328
+      "longitude": -7.8618,
+      "latitude": 13.2165
     },
     {
       "block_id": "c040dd407d19-192",
@@ -13146,8 +13174,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2023-12-13 22:00:46",
-      "longitude": -7.8577,
-      "latitude": 13.2246
+      "longitude": -7.8789,
+      "latitude": 13.2249
     },
     {
       "block_id": "c040dd407d19-193",
@@ -13232,8 +13260,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "C; B",
       "quatrimercolte_survey_end": "2023-12-13 22:02:41",
-      "longitude": -7.8606,
-      "latitude": 13.218
+      "longitude": -7.8683,
+      "latitude": 13.2156
     },
     {
       "block_id": "c040dd407d19-194",
@@ -13318,8 +13346,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C; B",
       "quatrimercolte_survey_end": "2023-12-13 22:06:21",
-      "longitude": -7.857,
-      "latitude": 13.2149
+      "longitude": -7.8732,
+      "latitude": 13.2209
     },
     {
       "block_id": "c040dd407d19-195",
@@ -13404,8 +13432,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "C; A",
       "quatrimercolte_survey_end": "2023-12-13 22:08:02",
-      "longitude": -7.864,
-      "latitude": 13.2178
+      "longitude": -7.855,
+      "latitude": 13.2295
     },
     {
       "block_id": "c040dd407d19-196",
@@ -13490,8 +13518,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C; B",
       "quatrimercolte_survey_end": "2023-12-13 22:09:50",
-      "longitude": -7.8631,
-      "latitude": 13.2154
+      "longitude": -7.8566,
+      "latitude": 13.2282
     },
     {
       "block_id": "c040dd407d19-197",
@@ -13570,8 +13598,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-12-13 22:11:31",
-      "longitude": -7.8591,
-      "latitude": 13.236
+      "longitude": -7.8656,
+      "latitude": 13.2127
     },
     {
       "block_id": "c040dd407d19-198",
@@ -13656,8 +13684,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2023-12-13 22:13:21",
-      "longitude": -7.8659,
-      "latitude": 13.216
+      "longitude": -7.8687,
+      "latitude": 13.2333
     },
     {
       "block_id": "c040dd407d19-199",
@@ -13742,8 +13770,8 @@
       "quatrimercolte_item_C_vs_local": "Pire",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2023-12-13 22:14:49",
-      "longitude": -7.8609,
-      "latitude": 13.2354
+      "longitude": -7.8623,
+      "latitude": 13.2204
     },
     {
       "block_id": "c040dd407d19-200",
@@ -13829,8 +13857,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2023-12-13 22:17:11",
-      "longitude": -7.8707,
-      "latitude": 13.2183
+      "longitude": -7.8555,
+      "latitude": 13.2215
     },
     {
       "block_id": "c040dd407d19-201",
@@ -13910,8 +13938,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2023-10-13 16:11:58",
-      "longitude": -7.9372,
-      "latitude": 13.092
+      "longitude": -7.9275,
+      "latitude": 13.0998
     },
     {
       "block_id": "c040dd407d19-202",
@@ -13958,8 +13986,8 @@
       "socioeconomic_membershipwhere": "Association; Groupe De Jeunes; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et ChaisesLit; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-07-19 10:31:25",
-      "longitude": -7.9488,
-      "latitude": 13.1
+      "longitude": -7.9475,
+      "latitude": 13.0971
     },
     {
       "block_id": "c040dd407d19-203",
@@ -14006,8 +14034,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Vélo",
       "socioeconomic_survey_end": "2023-10-11 21:34:01",
-      "longitude": -7.8362,
-      "latitude": 13.2146
+      "longitude": -7.8525,
+      "latitude": 13.2112
     },
     {
       "block_id": "c040dd407d19-204",
@@ -14069,8 +14097,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A",
       "premirercolte_survey_end": "2023-10-11 21:34:12",
-      "longitude": -7.915,
-      "latitude": 13.1074
+      "longitude": -7.9155,
+      "latitude": 13.0875
     },
     {
       "block_id": "c040dd407d19-205",
@@ -14132,8 +14160,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2023-09-01 17:38:20",
-      "longitude": -7.92,
-      "latitude": 13.0947
+      "longitude": -7.918,
+      "latitude": 13.0959
     },
     {
       "block_id": "c040dd407d19-206",
@@ -14181,8 +14209,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et ChaisesTapis; Table Et Chaises0; Vélo",
       "socioeconomic_survey_end": "2023-10-11 21:57:30",
-      "longitude": -7.8385,
-      "latitude": 13.2223
+      "longitude": -7.8517,
+      "latitude": 13.222
     },
     {
       "block_id": "c040dd407d19-207",
@@ -14265,8 +14293,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-12-10 23:28:48",
-      "longitude": -7.9489,
-      "latitude": 13.0758
+      "longitude": -7.9544,
+      "latitude": 13.0756
     },
     {
       "block_id": "c040dd407d19-208",
@@ -14314,8 +14342,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-08-21 19:29:43",
-      "longitude": -7.9405,
-      "latitude": 13.0849
+      "longitude": -7.9584,
+      "latitude": 13.095
     },
     {
       "block_id": "c040dd407d19-209",
@@ -14372,8 +14400,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Vélo; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2023-10-11 22:03:12",
-      "longitude": -7.841,
-      "latitude": 13.228
+      "longitude": -7.853,
+      "latitude": 13.2136
     },
     {
       "block_id": "c040dd407d19-212",
@@ -14420,8 +14448,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et ChaisesLit; Vélo",
       "socioeconomic_survey_end": "2023-08-22 09:20:42",
-      "longitude": -7.9305,
-      "latitude": 13.0986
+      "longitude": -7.9079,
+      "latitude": 13.0952
     },
     {
       "block_id": "c040dd407d19-213",
@@ -14504,8 +14532,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-12-19 09:44:47",
-      "longitude": -7.9365,
-      "latitude": 13.0958
+      "longitude": -7.927,
+      "latitude": 13.0933
     },
     {
       "block_id": "c040dd407d19-214",
@@ -14621,8 +14649,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-12-10 23:23:31",
-      "longitude": -7.9546,
-      "latitude": 13.0667
+      "longitude": -7.9614,
+      "latitude": 13.0629
     },
     {
       "block_id": "c040dd407d19-217",
@@ -14705,8 +14733,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2023-12-10 23:18:06",
-      "longitude": -7.9545,
-      "latitude": 13.0654
+      "longitude": -7.9553,
+      "latitude": 13.068
     },
     {
       "block_id": "c040dd407d19-218",
@@ -14752,8 +14780,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association; Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-07-19 11:53:59",
-      "longitude": -7.9593,
-      "latitude": 13.0938
+      "longitude": -7.9421,
+      "latitude": 13.0933
     },
     {
       "block_id": "c040dd407d19-219",
@@ -14798,8 +14826,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Table Et Chaises0; Vélo; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-07-09 12:53:28",
-      "longitude": -7.9442,
-      "latitude": 13.0898
+      "longitude": -7.9427,
+      "latitude": 13.1085
     },
     {
       "block_id": "c040dd407d19-220",
@@ -14846,8 +14874,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Vélo; Table Et ChaisesLit; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-08-28 11:51:57",
-      "longitude": -7.9421,
-      "latitude": 13.0885
+      "longitude": -7.9469,
+      "latitude": 13.0876
     },
     {
       "block_id": "c040dd407d19-221",
@@ -14928,8 +14956,8 @@
       "quatrimercolte_item_C_vs_local": "Meilleur",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2023-12-10 23:40:05",
-      "longitude": -7.9455,
-      "latitude": 13.1019
+      "longitude": -7.9318,
+      "latitude": 13.1044
     },
     {
       "block_id": "c040dd407d19-222",
@@ -15016,8 +15044,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Vélo; Table Et ChaisesLit; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-08-28 12:00:53",
-      "longitude": -7.9119,
-      "latitude": 13.096
+      "longitude": -7.9245,
+      "latitude": 13.108
     },
     {
       "block_id": "c040dd407d19-226",
@@ -15065,8 +15093,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-07-04 13:50:11",
-      "longitude": -7.9931,
-      "latitude": 13.0013
+      "longitude": -7.9796,
+      "latitude": 13.0162
     },
     {
       "block_id": "c040dd407d19-227",
@@ -15141,8 +15169,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-10-05 14:10:56",
-      "longitude": -7.9839,
-      "latitude": 13.0203
+      "longitude": -7.9909,
+      "latitude": 13.0084
     },
     {
       "block_id": "c040dd407d19-228",
@@ -15217,8 +15245,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A",
       "troisimercolte_survey_end": "2023-11-26 12:58:35",
-      "longitude": -7.9896,
-      "latitude": 13.021
+      "longitude": -7.9772,
+      "latitude": 13.0269
     },
     {
       "block_id": "c040dd407d19-229",
@@ -15293,8 +15321,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "B",
       "troisimercolte_survey_end": "2023-11-26 13:13:27",
-      "longitude": -7.9901,
-      "latitude": 13.0218
+      "longitude": -7.9943,
+      "latitude": 13.0254
     },
     {
       "block_id": "c040dd407d19-230",
@@ -15343,8 +15371,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Crédit/épargne; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-07-10 12:08:26",
-      "longitude": -7.9901,
-      "latitude": 13.0306
+      "longitude": -7.9801,
+      "latitude": 13.0131
     },
     {
       "block_id": "c040dd407d19-231",
@@ -15418,8 +15446,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; C",
       "troisimercolte_survey_end": "2023-10-29 20:05:14",
-      "longitude": -7.999,
-      "latitude": 13.0163
+      "longitude": -7.9972,
+      "latitude": 13.0142
     },
     {
       "block_id": "c040dd407d19-232",
@@ -15494,8 +15522,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B",
       "troisimercolte_survey_end": "2023-11-28 02:16:26",
-      "longitude": -7.9831,
-      "latitude": 13.0192
+      "longitude": -7.9899,
+      "latitude": 13.0236
     },
     {
       "block_id": "c040dd407d19-233",
@@ -15543,8 +15571,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-07-04 17:27:25",
-      "longitude": -7.9845,
-      "latitude": 13.0173
+      "longitude": -7.9892,
+      "latitude": 13.0032
     },
     {
       "block_id": "c040dd407d19-234",
@@ -15619,8 +15647,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-10-07 19:34:21",
-      "longitude": -7.9923,
-      "latitude": 13.0131
+      "longitude": -7.9854,
+      "latitude": 13.0077
     },
     {
       "block_id": "c040dd407d19-235",
@@ -15694,8 +15722,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-10-29 20:06:21",
-      "longitude": -7.9409,
-      "latitude": 13.0761
+      "longitude": -7.9557,
+      "latitude": 13.0843
     },
     {
       "block_id": "c040dd407d19-236",
@@ -15768,8 +15796,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-11-28 02:09:06",
-      "longitude": -7.9503,
-      "latitude": 13.0785
+      "longitude": -7.9589,
+      "latitude": 13.0823
     },
     {
       "block_id": "c040dd407d19-237",
@@ -15843,8 +15871,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-10-07 08:31:55",
-      "longitude": -7.9482,
-      "latitude": 13.0666
+      "longitude": -7.9533,
+      "latitude": 13.0683
     },
     {
       "block_id": "c040dd407d19-238",
@@ -15893,8 +15921,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-07-05 16:36:05",
-      "longitude": -7.9497,
-      "latitude": 13.0681
+      "longitude": -7.9615,
+      "latitude": 13.0852
     },
     {
       "block_id": "c040dd407d19-239",
@@ -15968,8 +15996,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2023-10-06 17:56:09",
-      "longitude": -7.9585,
-      "latitude": 13.0816
+      "longitude": -7.947,
+      "latitude": 13.0801
     },
     {
       "block_id": "c040dd407d19-240",
@@ -16038,8 +16066,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2023-11-28 03:01:32",
-      "longitude": -7.9539,
-      "latitude": 13.0607
+      "longitude": -7.955,
+      "latitude": 13.0595
     },
     {
       "block_id": "c040dd407d19-241",
@@ -16113,8 +16141,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B",
       "troisimercolte_survey_end": "2023-11-28 02:39:24",
-      "longitude": -7.9391,
-      "latitude": 13.0648
+      "longitude": -7.93,
+      "latitude": 13.0606
     },
     {
       "block_id": "c040dd407d19-242",
@@ -16174,8 +16202,8 @@
       "transplantation_plotsize": "10",
       "transplantation_plantdensity": "15x20",
       "transplantation_survey_end": "2023-09-16 21:40:41",
-      "longitude": -7.9393,
-      "latitude": 13.0512
+      "longitude": -7.9382,
+      "latitude": 13.0617
     },
     {
       "block_id": "c040dd407d19-243",
@@ -16250,8 +16278,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "B; C",
       "troisimercolte_survey_end": "2023-11-28 02:50:08",
-      "longitude": -7.9579,
-      "latitude": 13.0538
+      "longitude": -7.9516,
+      "latitude": 13.0784
     },
     {
       "block_id": "c040dd407d19-244",
@@ -16326,8 +16354,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; C",
       "troisimercolte_survey_end": "2023-10-29 20:07:06",
-      "longitude": -7.8543,
-      "latitude": 13.0314
+      "longitude": -7.8607,
+      "latitude": 13.0313
     },
     {
       "block_id": "c040dd407d19-245",
@@ -16401,8 +16429,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; C",
       "troisimercolte_survey_end": "2023-10-29 20:01:23",
-      "longitude": -7.8778,
-      "latitude": 13.0386
+      "longitude": -7.8747,
+      "latitude": 13.0284
     },
     {
       "block_id": "c040dd407d19-246",
@@ -16476,8 +16504,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "B; C",
       "troisimercolte_survey_end": "2023-10-08 17:29:35",
-      "longitude": -7.8575,
-      "latitude": 13.0374
+      "longitude": -7.8563,
+      "latitude": 13.0456
     },
     {
       "block_id": "c040dd407d19-247",
@@ -16525,8 +16553,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Crédit/épargne; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Vélo; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-07-06 10:56:21",
-      "longitude": -7.8629,
-      "latitude": 13.0322
+      "longitude": -7.8715,
+      "latitude": 13.0406
     },
     {
       "block_id": "c040dd407d19-248",
@@ -16599,8 +16627,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; C",
       "troisimercolte_survey_end": "2023-10-08 17:53:13",
-      "longitude": -7.8644,
-      "latitude": 13.0421
+      "longitude": -7.8542,
+      "latitude": 13.0321
     },
     {
       "block_id": "c040dd407d19-249",
@@ -16659,8 +16687,8 @@
       "transplantation_plotsize": "10",
       "transplantation_plantdensity": "15x20",
       "transplantation_survey_end": "2023-09-16 21:55:45",
-      "longitude": -7.8541,
-      "latitude": 13.028
+      "longitude": -7.8555,
+      "latitude": 13.0342
     },
     {
       "block_id": "c040dd407d19-250",
@@ -16710,8 +16738,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-07-07 22:46:31",
-      "longitude": -7.8746,
-      "latitude": 13.0393
+      "longitude": -7.849,
+      "latitude": 13.0343
     }
   ],
   "plot_data": [

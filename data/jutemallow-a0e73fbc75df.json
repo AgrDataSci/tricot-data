@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-09-13",
+      "version": "v2025-09-18",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -22,7 +22,7 @@
       "experimental_site": "farm"
     },
     "date": {
-      "start": "2023-12-29",
+      "start": "2023-12-25",
       "end": "2024-08-18"
     },
     "geoLocation": {
@@ -49,53 +49,79 @@
       "men": 173,
       "women": 20
     },
+    "funder": [
+      {
+        "funderName": "Norwegian Agency for Development Cooperation",
+        "funderIdentifier": "https://ror.org/04zbn7k04",
+        "awardTitle": "Biodiversity for Opportunities, Livelihoods and Development (BOLD)",
+        "awardNumber": "CONT-1522"
+      },
+      {
+        "funderName": "Federal Ministry for Economic Cooperation and Development (BMZ)",
+        "funderIdentifier": "https://ror.org/00e0ttj68",
+        "awardTitle": "Choose, Grow, Thrive: Using citizen science in expanding West Africa's food basket with African vegetables to tackle malnutrition (BMZ-CGT)",
+        "awardNumber": "81260859"
+      },
+      {
+        "funderName": "Swiss Agency for Development and Cooperation (SDC)",
+        "funderIdentifier": "https://ror.org/02e5d6q93",
+        "awardTitle": "Consumption of Resilient Orphan Crops and Products for Healthier Diets (CROPS4HD) project",
+        "awardNumber": "CROPS4HD 65213"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "IP2",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "Line H",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "SUDAN 4",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "Big leaves",
         "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "No information provided",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "Bafia",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "AZIGA",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       }
     ],
@@ -1001,8 +1027,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-07-01 06:35:13",
-      "longitude": -7.8413,
-      "latitude": 12.6588
+      "longitude": -7.8408,
+      "latitude": 12.6723
     },
     {
       "block_id": "a0e73fbc75df-2",
@@ -1104,8 +1130,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-05-13 17:27:31",
-      "longitude": -7.8453,
-      "latitude": 12.6655
+      "longitude": -7.8442,
+      "latitude": 12.6538
     },
     {
       "block_id": "a0e73fbc75df-3",
@@ -1169,8 +1195,8 @@
       "socioeconomic_membershipwherefr_oth": "R A S",
       "socioeconomic_hhassets": "Matelas; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-01-19 09:47:18",
-      "longitude": -7.8524,
-      "latitude": 12.6726
+      "longitude": -7.8351,
+      "latitude": 12.6649
     },
     {
       "block_id": "a0e73fbc75df-4",
@@ -1272,8 +1298,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-06-07 11:02:29",
-      "longitude": -7.8376,
-      "latitude": 12.6729
+      "longitude": -7.8456,
+      "latitude": 12.6616
     },
     {
       "block_id": "a0e73fbc75df-5",
@@ -1373,8 +1399,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-06-04 17:17:01",
-      "longitude": -7.8493,
-      "latitude": 12.6755
+      "longitude": -7.8425,
+      "latitude": 12.6648
     },
     {
       "block_id": "a0e73fbc75df-6",
@@ -1438,8 +1464,8 @@
       "socioeconomic_membershipwherefr_oth": "R A S",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-01-20 10:24:36",
-      "longitude": -7.8331,
-      "latitude": 12.6595
+      "longitude": -7.8342,
+      "latitude": 12.669
     },
     {
       "block_id": "a0e73fbc75df-7",
@@ -1540,8 +1566,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-05-13 20:06:15",
-      "longitude": -7.8392,
-      "latitude": 12.6732
+      "longitude": -7.8503,
+      "latitude": 12.6759
     },
     {
       "block_id": "a0e73fbc75df-8",
@@ -1643,8 +1669,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-05-25 19:04:45",
-      "longitude": -7.8404,
-      "latitude": 12.6785
+      "longitude": -7.8382,
+      "latitude": 12.6729
     },
     {
       "block_id": "a0e73fbc75df-9",
@@ -1706,8 +1732,8 @@
       "socioeconomic_membershipwherefr_oth": "R A S",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-01-15 13:42:38",
-      "longitude": -7.8302,
-      "latitude": 12.6663
+      "longitude": -7.8343,
+      "latitude": 12.6561
     },
     {
       "block_id": "a0e73fbc75df-10",
@@ -1808,8 +1834,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-06-02 20:00:20",
-      "longitude": -7.8493,
-      "latitude": 12.6526
+      "longitude": -7.8467,
+      "latitude": 12.6709
     },
     {
       "block_id": "a0e73fbc75df-11",
@@ -1905,8 +1931,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-06-06 18:30:03",
-      "longitude": -7.8569,
-      "latitude": 12.659
+      "longitude": -7.8369,
+      "latitude": 12.6694
     },
     {
       "block_id": "a0e73fbc75df-12",
@@ -2003,8 +2029,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B; C; A",
       "quatrimercolte_survey_end": "2024-06-02 18:52:10",
-      "longitude": -7.8392,
-      "latitude": 12.6617
+      "longitude": -7.8398,
+      "latitude": 12.6628
     },
     {
       "block_id": "a0e73fbc75df-13",
@@ -2071,8 +2097,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A",
       "troisimercolte_survey_end": "2024-05-13 20:46:13",
-      "longitude": -7.859,
-      "latitude": 12.6634
+      "longitude": -7.8473,
+      "latitude": 12.6621
     },
     {
       "block_id": "a0e73fbc75df-14",
@@ -2136,8 +2162,8 @@
       "socioeconomic_membershipwherefr_oth": "R A S",
       "socioeconomic_hhassets": "Matelas; Lit; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-01-15 11:47:06",
-      "longitude": -7.8554,
-      "latitude": 12.6702
+      "longitude": -7.8358,
+      "latitude": 12.6562
     },
     {
       "block_id": "a0e73fbc75df-15",
@@ -2239,8 +2265,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-05-13 18:10:36",
-      "longitude": -7.8434,
-      "latitude": 12.6708
+      "longitude": -7.8508,
+      "latitude": 12.6567
     },
     {
       "block_id": "a0e73fbc75df-16",
@@ -2331,8 +2357,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-25 19:27:47",
-      "longitude": -7.8444,
-      "latitude": 12.6557
+      "longitude": -7.8381,
+      "latitude": 12.6785
     },
     {
       "block_id": "a0e73fbc75df-17",
@@ -2421,8 +2447,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A",
       "troisimercolte_survey_end": "2024-05-09 19:29:38",
-      "longitude": -7.844,
-      "latitude": 12.6728
+      "longitude": -7.8448,
+      "latitude": 12.6665
     },
     {
       "block_id": "a0e73fbc75df-18",
@@ -2522,8 +2548,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2024-05-13 18:17:23",
-      "longitude": -7.8386,
-      "latitude": 12.6685
+      "longitude": -7.8474,
+      "latitude": 12.6649
     },
     {
       "block_id": "a0e73fbc75df-19",
@@ -2620,8 +2646,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-05-16 17:17:58",
-      "longitude": -7.8402,
-      "latitude": 12.6749
+      "longitude": -7.8499,
+      "latitude": 12.6779
     },
     {
       "block_id": "a0e73fbc75df-20",
@@ -2684,7 +2710,7 @@
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-01-16 08:58:47",
       "longitude": -7.8389,
-      "latitude": 12.6743
+      "latitude": 12.6763
     },
     {
       "block_id": "a0e73fbc75df-21",
@@ -2774,8 +2800,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-07 20:47:36",
-      "longitude": -7.765,
-      "latitude": 12.7322
+      "longitude": -7.7472,
+      "latitude": 12.7402
     },
     {
       "block_id": "a0e73fbc75df-22",
@@ -2866,8 +2892,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-03 18:21:13",
-      "longitude": -7.7394,
-      "latitude": 12.7365
+      "longitude": -7.7438,
+      "latitude": 12.7352
     },
     {
       "block_id": "a0e73fbc75df-23",
@@ -2957,8 +2983,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-03 18:18:26",
-      "longitude": -7.7408,
-      "latitude": 12.7215
+      "longitude": -7.7592,
+      "latitude": 12.7251
     },
     {
       "block_id": "a0e73fbc75df-24",
@@ -3048,8 +3074,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-08 18:07:38",
-      "longitude": -7.7463,
-      "latitude": 12.7358
+      "longitude": -7.742,
+      "latitude": 12.7206
     },
     {
       "block_id": "a0e73fbc75df-25",
@@ -3140,8 +3166,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-08 17:54:09",
-      "longitude": -7.7606,
-      "latitude": 12.7323
+      "longitude": -7.7492,
+      "latitude": 12.7343
     },
     {
       "block_id": "a0e73fbc75df-26",
@@ -3232,8 +3258,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-07 18:40:25",
-      "longitude": -7.7629,
-      "latitude": 12.7297
+      "longitude": -7.7585,
+      "latitude": 12.7255
     },
     {
       "block_id": "a0e73fbc75df-27",
@@ -3324,8 +3350,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-03 17:15:40",
-      "longitude": -7.7421,
-      "latitude": 12.7197
+      "longitude": -7.7442,
+      "latitude": 12.7325
     },
     {
       "block_id": "a0e73fbc75df-28",
@@ -3411,8 +3437,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-03 16:37:39",
-      "longitude": -7.7599,
-      "latitude": 12.7309
+      "longitude": -7.7648,
+      "latitude": 12.7278
     },
     {
       "block_id": "a0e73fbc75df-29",
@@ -3503,8 +3529,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-07 21:11:33",
-      "longitude": -7.7482,
-      "latitude": 12.7172
+      "longitude": -7.7402,
+      "latitude": 12.7251
     },
     {
       "block_id": "a0e73fbc75df-30",
@@ -3595,8 +3621,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-07 18:37:23",
-      "longitude": -7.7394,
-      "latitude": 12.7268
+      "longitude": -7.7531,
+      "latitude": 12.7262
     },
     {
       "block_id": "a0e73fbc75df-31",
@@ -3687,8 +3713,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-08 17:57:19",
-      "longitude": -7.7401,
-      "latitude": 12.7385
+      "longitude": -7.7455,
+      "latitude": 12.7414
     },
     {
       "block_id": "a0e73fbc75df-32",
@@ -3778,8 +3804,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-03 17:36:04",
-      "longitude": -7.7555,
-      "latitude": 12.7367
+      "longitude": -7.7423,
+      "latitude": 12.7312
     },
     {
       "block_id": "a0e73fbc75df-33",
@@ -3870,8 +3896,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-07 19:30:10",
-      "longitude": -7.756,
-      "latitude": 12.718
+      "longitude": -7.7486,
+      "latitude": 12.7395
     },
     {
       "block_id": "a0e73fbc75df-34",
@@ -3962,8 +3988,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-07 19:26:12",
-      "longitude": -7.7571,
-      "latitude": 12.7411
+      "longitude": -7.7494,
+      "latitude": 12.7435
     },
     {
       "block_id": "a0e73fbc75df-35",
@@ -4053,8 +4079,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-08 17:59:39",
-      "longitude": -7.7504,
-      "latitude": 12.7155
+      "longitude": -7.7478,
+      "latitude": 12.7176
     },
     {
       "block_id": "a0e73fbc75df-36",
@@ -4144,8 +4170,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-03 18:24:00",
-      "longitude": -7.7614,
-      "latitude": 12.7348
+      "longitude": -7.7548,
+      "latitude": 12.717
     },
     {
       "block_id": "a0e73fbc75df-37",
@@ -4236,8 +4262,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-08 18:02:18",
-      "longitude": -7.7478,
-      "latitude": 12.7296
+      "longitude": -7.7415,
+      "latitude": 12.7335
     },
     {
       "block_id": "a0e73fbc75df-38",
@@ -4328,8 +4354,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-07 18:26:12",
-      "longitude": -7.7593,
-      "latitude": 12.7203
+      "longitude": -7.753,
+      "latitude": 12.7178
     },
     {
       "block_id": "a0e73fbc75df-39",
@@ -4420,8 +4446,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-03 19:00:54",
-      "longitude": -7.7623,
-      "latitude": 12.7262
+      "longitude": -7.7575,
+      "latitude": 12.724
     },
     {
       "block_id": "a0e73fbc75df-40",
@@ -4512,8 +4538,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-07 18:20:38",
-      "longitude": -7.7409,
-      "latitude": 12.7362
+      "longitude": -7.7437,
+      "latitude": 12.7222
     },
     {
       "block_id": "a0e73fbc75df-41",
@@ -4579,8 +4605,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-05-27 12:41:04",
-      "longitude": -7.8081,
-      "latitude": 12.6221
+      "longitude": -7.8179,
+      "latitude": 12.6261
     },
     {
       "block_id": "a0e73fbc75df-42",
@@ -4630,8 +4656,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne; Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Matelas; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Essence; Cuisinière à Gaz; Vélo; Table Et ChaisesLit",
       "socioeconomic_survey_end": "2024-02-08 11:55:50",
-      "longitude": -7.8052,
-      "latitude": 12.6336
+      "longitude": -7.8165,
+      "latitude": 12.6371
     },
     {
       "block_id": "a0e73fbc75df-43",
@@ -4681,8 +4707,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Crédit/épargne; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Matelas; Tapis; Cuisinière à Gaz; Réfrigérateur; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-02-08 11:55:58",
-      "longitude": -7.8353,
-      "latitude": 12.64
+      "longitude": -7.8384,
+      "latitude": 12.6342
     },
     {
       "block_id": "a0e73fbc75df-44",
@@ -4732,8 +4758,8 @@
       "socioeconomic_membershipwhere": "Groupe De Femmes; Groupe De Crédit/épargne; Groupe De Producteurs; Association; Groupe De Jeunes",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Tapis; Lit; Cuisinière à Gaz; Réfrigérateur; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Essence; Table Et ChaisesCuisinière à Gaz",
       "socioeconomic_survey_end": "2024-02-08 11:56:05",
-      "longitude": -7.8338,
-      "latitude": 12.6481
+      "longitude": -7.8347,
+      "latitude": 12.6387
     },
     {
       "block_id": "a0e73fbc75df-45",
@@ -4800,8 +4826,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A; C; B",
       "premirercolte_survey_end": "2024-06-15 08:17:37",
-      "longitude": -7.8393,
-      "latitude": 12.6496
+      "longitude": -7.8303,
+      "latitude": 12.6336
     },
     {
       "block_id": "a0e73fbc75df-46",
@@ -4878,8 +4904,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-06-14 11:49:12",
-      "longitude": -7.8097,
-      "latitude": 12.6221
+      "longitude": -7.8124,
+      "latitude": 12.6293
     },
     {
       "block_id": "a0e73fbc75df-47",
@@ -4956,8 +4982,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-14 11:29:18",
-      "longitude": -7.8072,
-      "latitude": 12.6165
+      "longitude": -7.821,
+      "latitude": 12.6327
     },
     {
       "block_id": "a0e73fbc75df-48",
@@ -5027,8 +5053,8 @@
       "deuximercolte_anyloss": "Oui",
       "deuximercolte_whichlost": "A; C",
       "deuximercolte_survey_end": "2024-06-14 11:44:03",
-      "longitude": -7.8072,
-      "latitude": 12.619
+      "longitude": -7.8149,
+      "latitude": 12.622
     },
     {
       "block_id": "a0e73fbc75df-49",
@@ -5104,8 +5130,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-14 11:56:35",
-      "longitude": -7.8127,
-      "latitude": 12.6191
+      "longitude": -7.8174,
+      "latitude": 12.6304
     },
     {
       "block_id": "a0e73fbc75df-50",
@@ -5123,8 +5149,8 @@
       "transplantation_plotsize": "5x2",
       "transplantation_plantdensity": "20x15",
       "transplantation_survey_end": "2024-04-24 12:22:39",
-      "longitude": -7.8218,
-      "latitude": 12.6245
+      "longitude": -7.8228,
+      "latitude": 12.6335
     },
     {
       "block_id": "a0e73fbc75df-51",
@@ -5191,8 +5217,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A",
       "premirercolte_survey_end": "2024-05-20 12:05:43",
-      "longitude": -7.8446,
-      "latitude": 12.6494
+      "longitude": -7.8485,
+      "latitude": 12.6573
     },
     {
       "block_id": "a0e73fbc75df-52",
@@ -5268,8 +5294,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C",
       "troisimercolte_survey_end": "2024-06-14 12:13:12",
-      "longitude": -7.8502,
-      "latitude": 12.6375
+      "longitude": -7.8431,
+      "latitude": 12.6416
     },
     {
       "block_id": "a0e73fbc75df-53",
@@ -5340,8 +5366,8 @@
       "deuximercolte_anyloss": "Oui",
       "deuximercolte_whichlost": "A; B; C",
       "deuximercolte_survey_end": "2024-06-15 07:35:36",
-      "longitude": -7.8408,
-      "latitude": 12.6597
+      "longitude": -7.8358,
+      "latitude": 12.64
     },
     {
       "block_id": "a0e73fbc75df-54",
@@ -5418,8 +5444,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "B",
       "troisimercolte_survey_end": "2024-06-15 07:46:11",
-      "longitude": -7.84,
-      "latitude": 12.654
+      "longitude": -7.8344,
+      "latitude": 12.6552
     },
     {
       "block_id": "a0e73fbc75df-55",
@@ -5494,8 +5520,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-15 07:52:36",
-      "longitude": -7.8338,
-      "latitude": 12.6529
+      "longitude": -7.8511,
+      "latitude": 12.656
     },
     {
       "block_id": "a0e73fbc75df-56",
@@ -5571,8 +5597,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-15 07:58:50",
-      "longitude": -7.8345,
-      "latitude": 12.6359
+      "longitude": -7.8437,
+      "latitude": 12.6362
     },
     {
       "block_id": "a0e73fbc75df-57",
@@ -5642,8 +5668,8 @@
       "deuximercolte_anyloss": "Oui",
       "deuximercolte_whichlost": "A; B; C",
       "deuximercolte_survey_end": "2024-06-15 08:01:47",
-      "longitude": -7.8438,
-      "latitude": 12.6531
+      "longitude": -7.8434,
+      "latitude": 12.6571
     },
     {
       "block_id": "a0e73fbc75df-58",
@@ -5718,8 +5744,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-06-15 08:06:17",
-      "longitude": -7.8416,
-      "latitude": 12.659
+      "longitude": -7.8496,
+      "latitude": 12.6472
     },
     {
       "block_id": "a0e73fbc75df-59",
@@ -5791,8 +5817,8 @@
       "deuximercolte_anyloss": "Oui",
       "deuximercolte_whichlost": "A; C; B",
       "deuximercolte_survey_end": "2024-06-15 08:09:03",
-      "longitude": -7.8538,
-      "latitude": 12.653
+      "longitude": -7.8457,
+      "latitude": 12.6354
     },
     {
       "block_id": "a0e73fbc75df-60",
@@ -5868,8 +5894,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C",
       "troisimercolte_survey_end": "2024-06-15 08:15:55",
-      "longitude": -7.8445,
-      "latitude": 12.6471
+      "longitude": -7.8473,
+      "latitude": 12.6494
     },
     {
       "block_id": "a0e73fbc75df-61",
@@ -5944,8 +5970,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "B",
       "troisimercolte_survey_end": "2024-06-21 11:04:22",
-      "longitude": -7.9361,
-      "latitude": 13.0808
+      "longitude": -7.9616,
+      "latitude": 13.0734
     },
     {
       "block_id": "a0e73fbc75df-62",
@@ -6020,8 +6046,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "B",
       "troisimercolte_survey_end": "2024-06-21 11:12:29",
-      "longitude": -7.9512,
-      "latitude": 13.0883
+      "longitude": -7.9615,
+      "latitude": 13.0791
     },
     {
       "block_id": "a0e73fbc75df-63",
@@ -6091,8 +6117,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-06-09 00:52:17",
-      "longitude": -7.956,
-      "latitude": 13.0799
+      "longitude": -7.95,
+      "latitude": 13.0656
     },
     {
       "block_id": "a0e73fbc75df-64",
@@ -6167,8 +6193,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-21 11:27:38",
-      "longitude": -8.0858,
-      "latitude": 12.5473
+      "longitude": -8.0779,
+      "latitude": 12.5379
     },
     {
       "block_id": "a0e73fbc75df-65",
@@ -6233,8 +6259,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C; A",
       "troisimercolte_survey_end": "2024-06-21 11:39:47",
-      "longitude": -7.9408,
-      "latitude": 13.0691
+      "longitude": -7.9539,
+      "latitude": 13.0801
     },
     {
       "block_id": "a0e73fbc75df-66",
@@ -6309,8 +6335,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C; A",
       "troisimercolte_survey_end": "2024-06-21 11:42:19",
-      "longitude": -7.957,
-      "latitude": 13.066
+      "longitude": -7.9441,
+      "latitude": 13.0792
     },
     {
       "block_id": "a0e73fbc75df-67",
@@ -6386,8 +6412,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-06-09 14:46:04",
-      "longitude": -8.0696,
-      "latitude": 12.5497
+      "longitude": -8.0665,
+      "latitude": 12.5546
     },
     {
       "block_id": "a0e73fbc75df-68",
@@ -6451,8 +6477,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C; A",
       "troisimercolte_survey_end": "2024-06-21 11:53:41",
-      "longitude": -7.943,
-      "latitude": 13.0876
+      "longitude": -7.9502,
+      "latitude": 13.0816
     },
     {
       "block_id": "a0e73fbc75df-69",
@@ -6528,8 +6554,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-21 12:18:03",
-      "longitude": -7.9511,
-      "latitude": 13.0651
+      "longitude": -7.9472,
+      "latitude": 13.0813
     },
     {
       "block_id": "a0e73fbc75df-70",
@@ -6605,8 +6631,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C",
       "troisimercolte_survey_end": "2024-06-21 12:24:38",
-      "longitude": -7.9471,
-      "latitude": 13.0656
+      "longitude": -7.9448,
+      "latitude": 13.0749
     },
     {
       "block_id": "a0e73fbc75df-71",
@@ -6682,8 +6708,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; C",
       "troisimercolte_survey_end": "2024-06-21 12:32:32",
-      "longitude": -7.9406,
-      "latitude": 13.0866
+      "longitude": -7.9423,
+      "latitude": 13.072
     },
     {
       "block_id": "a0e73fbc75df-72",
@@ -6758,8 +6784,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-21 12:39:35",
-      "longitude": -7.9405,
-      "latitude": 13.0825
+      "longitude": -7.9448,
+      "latitude": 13.0833
     },
     {
       "block_id": "a0e73fbc75df-73",
@@ -6835,8 +6861,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-04-25 11:19:25",
-      "longitude": -7.9573,
-      "latitude": 13.0754
+      "longitude": -7.9577,
+      "latitude": 13.0801
     },
     {
       "block_id": "a0e73fbc75df-74",
@@ -6911,8 +6937,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-21 23:06:24",
-      "longitude": -7.9561,
-      "latitude": 13.0726
+      "longitude": -7.9496,
+      "latitude": 13.0689
     },
     {
       "block_id": "a0e73fbc75df-75",
@@ -6987,8 +7013,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A",
       "troisimercolte_survey_end": "2024-06-21 23:12:36",
-      "longitude": -7.9415,
-      "latitude": 13.0703
+      "longitude": -7.9575,
+      "latitude": 13.0835
     },
     {
       "block_id": "a0e73fbc75df-76",
@@ -7064,8 +7090,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C",
       "troisimercolte_survey_end": "2024-06-21 23:17:06",
-      "longitude": -7.9494,
-      "latitude": 13.0682
+      "longitude": -7.9389,
+      "latitude": 13.066
     },
     {
       "block_id": "a0e73fbc75df-77",
@@ -7142,8 +7168,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A",
       "troisimercolte_survey_end": "2024-06-21 23:21:20",
-      "longitude": -7.9432,
-      "latitude": 13.0859
+      "longitude": -7.9572,
+      "latitude": 13.0741
     },
     {
       "block_id": "a0e73fbc75df-78",
@@ -7220,8 +7246,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B",
       "troisimercolte_survey_end": "2024-06-21 23:25:06",
-      "longitude": -7.956,
-      "latitude": 13.0741
+      "longitude": -7.9468,
+      "latitude": 13.0665
     },
     {
       "block_id": "a0e73fbc75df-79",
@@ -7297,8 +7323,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-21 23:29:19",
-      "longitude": -7.9396,
-      "latitude": 13.0761
+      "longitude": -7.9539,
+      "latitude": 13.0668
     },
     {
       "block_id": "a0e73fbc75df-80",
@@ -7374,8 +7400,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-06-21 23:33:38",
-      "longitude": -7.9532,
-      "latitude": 13.082
+      "longitude": -7.9547,
+      "latitude": 13.0855
     },
     {
       "block_id": "a0e73fbc75df-81",
@@ -7432,8 +7458,8 @@
       "transplantation_plotsize": "20m",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-17 18:14:18",
-      "longitude": -7.9216,
-      "latitude": 13.099
+      "longitude": -7.9168,
+      "latitude": 13.0896
     },
     {
       "block_id": "a0e73fbc75df-82",
@@ -7490,8 +7516,8 @@
       "transplantation_plotsize": "100m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-17 23:56:41",
-      "longitude": -7.9403,
-      "latitude": 13.1069
+      "longitude": -7.9417,
+      "latitude": 13.0948
     },
     {
       "block_id": "a0e73fbc75df-83",
@@ -7548,8 +7574,8 @@
       "transplantation_plotsize": "100m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-17 23:59:50",
-      "longitude": -7.9396,
-      "latitude": 13.1081
+      "longitude": -7.9345,
+      "latitude": 13.0984
     },
     {
       "block_id": "a0e73fbc75df-84",
@@ -7606,8 +7632,8 @@
       "transplantation_plotsize": "100m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-18 00:02:01",
-      "longitude": -7.9434,
-      "latitude": 13.1079
+      "longitude": -7.9318,
+      "latitude": 13.0975
     },
     {
       "block_id": "a0e73fbc75df-85",
@@ -7664,8 +7690,8 @@
       "transplantation_plotsize": "100m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-18 00:04:51",
-      "longitude": -7.947,
-      "latitude": 13.0951
+      "longitude": -7.9312,
+      "latitude": 13.1038
     },
     {
       "block_id": "a0e73fbc75df-86",
@@ -7722,8 +7748,8 @@
       "transplantation_plotsize": "100m",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-18 00:06:48",
-      "longitude": -7.927,
-      "latitude": 13.1006
+      "longitude": -7.947,
+      "latitude": 13.0908
     },
     {
       "block_id": "a0e73fbc75df-87",
@@ -7780,8 +7806,8 @@
       "transplantation_plotsize": "20m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-05-10 10:39:31",
-      "longitude": -7.9397,
-      "latitude": 13.1112
+      "longitude": -7.9301,
+      "latitude": 13.0861
     },
     {
       "block_id": "a0e73fbc75df-88",
@@ -7839,8 +7865,8 @@
       "transplantation_plotsize": "100m",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-18 00:10:36",
-      "longitude": -7.9282,
-      "latitude": 13.0974
+      "longitude": -7.9356,
+      "latitude": 13.0833
     },
     {
       "block_id": "a0e73fbc75df-89",
@@ -7896,8 +7922,8 @@
       "transplantation_plotsize": "100m",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-18 00:12:40",
-      "longitude": -7.9448,
-      "latitude": 13.0907
+      "longitude": -7.946,
+      "latitude": 13.1021
     },
     {
       "block_id": "a0e73fbc75df-90",
@@ -7955,8 +7981,8 @@
       "transplantation_plotsize": "100m",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-18 00:15:08",
-      "longitude": -7.925,
-      "latitude": 13.0961
+      "longitude": -7.9359,
+      "latitude": 13.0888
     },
     {
       "block_id": "a0e73fbc75df-91",
@@ -8013,8 +8039,8 @@
       "transplantation_plotsize": "100m",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-18 00:19:08",
-      "longitude": -7.9417,
-      "latitude": 13.104
+      "longitude": -7.9487,
+      "latitude": 13.1013
     },
     {
       "block_id": "a0e73fbc75df-92",
@@ -8073,8 +8099,8 @@
       "transplantation_plotsize": "100m",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-18 00:20:36",
-      "longitude": -7.9292,
-      "latitude": 13.0876
+      "longitude": -7.9265,
+      "latitude": 13.1042
     },
     {
       "block_id": "a0e73fbc75df-93",
@@ -8132,8 +8158,8 @@
       "transplantation_plotsize": "100m",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-04-18 00:23:02",
-      "longitude": -7.9401,
-      "latitude": 13.1041
+      "longitude": -7.942,
+      "latitude": 13.1049
     },
     {
       "block_id": "a0e73fbc75df-94",
@@ -8191,8 +8217,8 @@
       "transplantation_plotsize": "20m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-05-03 10:32:19",
-      "longitude": -7.9343,
-      "latitude": 13.097
+      "longitude": -7.9424,
+      "latitude": 13.0909
     },
     {
       "block_id": "a0e73fbc75df-95",
@@ -8249,8 +8275,8 @@
       "transplantation_plotsize": "20m²",
       "transplantation_plantdensity": "20",
       "transplantation_survey_end": "2024-05-10 09:50:23",
-      "longitude": -7.9211,
-      "latitude": 13.083
+      "longitude": -7.9378,
+      "latitude": 13.0914
     },
     {
       "block_id": "a0e73fbc75df-96",
@@ -8308,8 +8334,8 @@
       "transplantation_plotsize": "40m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-05-10 10:23:00",
-      "longitude": -7.9308,
-      "latitude": 13.1063
+      "longitude": -7.9295,
+      "latitude": 13.1009
     },
     {
       "block_id": "a0e73fbc75df-97",
@@ -8366,8 +8392,8 @@
       "transplantation_plotsize": "20m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-05-10 10:45:15",
-      "longitude": -7.9325,
-      "latitude": 13.1008
+      "longitude": -7.9387,
+      "latitude": 13.1062
     },
     {
       "block_id": "a0e73fbc75df-98",
@@ -8425,8 +8451,8 @@
       "transplantation_plotsize": "20m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-05-10 10:51:43",
-      "longitude": -7.9309,
-      "latitude": 13.1058
+      "longitude": -7.9437,
+      "latitude": 13.093
     },
     {
       "block_id": "a0e73fbc75df-99",
@@ -8483,8 +8509,8 @@
       "transplantation_plotsize": "20m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-05-10 10:58:18",
-      "longitude": -7.9314,
-      "latitude": 13.0936
+      "longitude": -7.9426,
+      "latitude": 13.0903
     },
     {
       "block_id": "a0e73fbc75df-100",
@@ -8542,8 +8568,8 @@
       "transplantation_plotsize": "20m²",
       "transplantation_plantdensity": "20/20",
       "transplantation_survey_end": "2024-05-10 11:01:50",
-      "longitude": -7.9379,
-      "latitude": 13.1012
+      "longitude": -7.9372,
+      "latitude": 13.11
     },
     {
       "block_id": "a0e73fbc75df-101",
@@ -8628,8 +8654,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-06-11 15:39:19",
-      "longitude": -8.343,
-      "latitude": 12.3651
+      "longitude": -8.3432,
+      "latitude": 12.3605
     },
     {
       "block_id": "a0e73fbc75df-102",
@@ -8715,8 +8741,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-06-11 15:39:21",
-      "longitude": -8.3291,
-      "latitude": 12.3637
+      "longitude": -8.3403,
+      "latitude": 12.3758
     },
     {
       "block_id": "a0e73fbc75df-103",
@@ -8801,8 +8827,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-06-11 15:39:23",
-      "longitude": -8.3394,
-      "latitude": 12.3646
+      "longitude": -8.3383,
+      "latitude": 12.3652
     },
     {
       "block_id": "a0e73fbc75df-104",
@@ -8867,8 +8893,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-06-11 15:39:23",
-      "longitude": -8.3474,
-      "latitude": 12.3704
+      "longitude": -8.3559,
+      "latitude": 12.3673
     },
     {
       "block_id": "a0e73fbc75df-105",
@@ -8928,8 +8954,8 @@
       "transplantation_plotsize": "600m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-03-10 09:56:24",
-      "longitude": -8.3357,
-      "latitude": 12.3723
+      "longitude": -8.3455,
+      "latitude": 12.3764
     },
     {
       "block_id": "a0e73fbc75df-106",
@@ -9004,8 +9030,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-08-15 17:51:42",
-      "longitude": -8.3394,
-      "latitude": 12.365
+      "longitude": -8.3312,
+      "latitude": 12.3782
     },
     {
       "block_id": "a0e73fbc75df-107",
@@ -9065,8 +9091,8 @@
       "transplantation_plotsize": "600m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-03-10 10:00:00",
-      "longitude": -8.338,
-      "latitude": 12.3727
+      "longitude": -8.3319,
+      "latitude": 12.387
     },
     {
       "block_id": "a0e73fbc75df-108",
@@ -9126,8 +9152,8 @@
       "transplantation_plotsize": "600m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-04-17 19:31:15",
-      "longitude": -8.3377,
-      "latitude": 12.3577
+      "longitude": -8.3462,
+      "latitude": 12.3757
     },
     {
       "block_id": "a0e73fbc75df-109",
@@ -9187,8 +9213,8 @@
       "transplantation_plotsize": "500m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-04-18 07:48:46",
-      "longitude": -8.3306,
-      "latitude": 12.3692
+      "longitude": -8.329,
+      "latitude": 12.3675
     },
     {
       "block_id": "a0e73fbc75df-110",
@@ -9258,8 +9284,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-08-15 18:21:04",
-      "longitude": -8.3443,
-      "latitude": 12.3588
+      "longitude": -8.3374,
+      "latitude": 12.3819
     },
     {
       "block_id": "a0e73fbc75df-111",
@@ -9343,8 +9369,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-08-18 19:01:28",
-      "longitude": -8.3462,
-      "latitude": 12.3797
+      "longitude": -8.3459,
+      "latitude": 12.3784
     },
     {
       "block_id": "a0e73fbc75df-112",
@@ -9403,8 +9429,8 @@
       "transplantation_plotsize": "600m2",
       "transplantation_plantdensity": "220/20cm",
       "transplantation_survey_end": "2024-04-18 08:08:40",
-      "longitude": -8.3503,
-      "latitude": 12.3573
+      "longitude": -8.3422,
+      "latitude": 12.3556
     },
     {
       "block_id": "a0e73fbc75df-113",
@@ -9464,8 +9490,8 @@
       "transplantation_plotsize": "500m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-03-10 10:00:44",
-      "longitude": -8.3593,
-      "latitude": 12.3622
+      "longitude": -8.3614,
+      "latitude": 12.3491
     },
     {
       "block_id": "a0e73fbc75df-114",
@@ -9585,8 +9611,8 @@
       "transplantation_plotsize": "600m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-01-02 23:43:22",
-      "longitude": -8.3803,
-      "latitude": 12.4203
+      "longitude": -8.3979,
+      "latitude": 12.411
     },
     {
       "block_id": "a0e73fbc75df-117",
@@ -9656,8 +9682,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-08-15 18:51:35",
-      "longitude": -8.3749,
-      "latitude": 12.4127
+      "longitude": -8.3855,
+      "latitude": 12.4102
     },
     {
       "block_id": "a0e73fbc75df-118",
@@ -9741,8 +9767,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-08-18 17:22:12",
-      "longitude": -8.3401,
-      "latitude": 12.3599
+      "longitude": -8.3407,
+      "latitude": 12.3577
     },
     {
       "block_id": "a0e73fbc75df-119",
@@ -9802,8 +9828,8 @@
       "transplantation_plotsize": "600m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-01-02 10:09:59",
-      "longitude": -8.3825,
-      "latitude": 12.4024
+      "longitude": -8.3948,
+      "latitude": 12.4162
     },
     {
       "block_id": "a0e73fbc75df-120",
@@ -9888,8 +9914,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-08-18 17:12:36",
-      "longitude": -8.3867,
-      "latitude": 12.3933
+      "longitude": -8.3756,
+      "latitude": 12.3847
     },
     {
       "block_id": "a0e73fbc75df-121",
@@ -9974,8 +10000,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 11:32:19",
-      "longitude": -7.8199,
-      "latitude": 12.5192
+      "longitude": -7.8407,
+      "latitude": 12.5162
     },
     {
       "block_id": "a0e73fbc75df-122",
@@ -10056,8 +10082,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 11:22:24",
-      "longitude": -7.8257,
-      "latitude": 12.5187
+      "longitude": -7.842,
+      "latitude": 12.5045
     },
     {
       "block_id": "a0e73fbc75df-123",
@@ -10142,8 +10168,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 11:24:37",
-      "longitude": -7.8332,
-      "latitude": 12.5137
+      "longitude": -7.8341,
+      "latitude": 12.4991
     },
     {
       "block_id": "a0e73fbc75df-124",
@@ -10226,8 +10252,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 11:37:27",
-      "longitude": -7.8285,
-      "latitude": 12.5128
+      "longitude": -7.8313,
+      "latitude": 12.5026
     },
     {
       "block_id": "a0e73fbc75df-125",
@@ -10313,8 +10339,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 11:43:34",
-      "longitude": -7.8398,
-      "latitude": 12.514
+      "longitude": -7.8215,
+      "latitude": 12.5026
     },
     {
       "block_id": "a0e73fbc75df-126",
@@ -10395,8 +10421,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 11:49:58",
-      "longitude": -7.8416,
-      "latitude": 12.5073
+      "longitude": -7.8282,
+      "latitude": 12.5195
     },
     {
       "block_id": "a0e73fbc75df-127",
@@ -10482,8 +10508,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 11:56:11",
-      "longitude": -7.8309,
-      "latitude": 12.5223
+      "longitude": -7.8305,
+      "latitude": 12.5084
     },
     {
       "block_id": "a0e73fbc75df-128",
@@ -10565,8 +10591,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 12:13:33",
-      "longitude": -7.8252,
-      "latitude": 12.4992
+      "longitude": -7.8169,
+      "latitude": 12.5102
     },
     {
       "block_id": "a0e73fbc75df-129",
@@ -10649,8 +10675,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 12:20:53",
-      "longitude": -7.8375,
-      "latitude": 12.5004
+      "longitude": -7.8271,
+      "latitude": 12.5082
     },
     {
       "block_id": "a0e73fbc75df-130",
@@ -10730,8 +10756,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 17:49:56",
-      "longitude": -7.8244,
-      "latitude": 12.5089
+      "longitude": -7.8324,
+      "latitude": 12.5173
     },
     {
       "block_id": "a0e73fbc75df-131",
@@ -10806,8 +10832,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-03-28 15:24:01",
-      "longitude": -7.834,
-      "latitude": 12.5054
+      "longitude": -7.83,
+      "latitude": 12.5007
     },
     {
       "block_id": "a0e73fbc75df-132",
@@ -10893,8 +10919,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 18:17:38",
-      "longitude": -7.8189,
-      "latitude": 12.5087
+      "longitude": -7.8255,
+      "latitude": 12.5053
     },
     {
       "block_id": "a0e73fbc75df-133",
@@ -10979,8 +11005,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 18:30:42",
-      "longitude": -7.8306,
-      "latitude": 12.5101
+      "longitude": -7.8325,
+      "latitude": 12.5137
     },
     {
       "block_id": "a0e73fbc75df-134",
@@ -11064,8 +11090,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 18:38:48",
-      "longitude": -7.8201,
-      "latitude": 12.5128
+      "longitude": -7.8305,
+      "latitude": 12.5088
     },
     {
       "block_id": "a0e73fbc75df-135",
@@ -11145,8 +11171,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-03 18:45:30",
-      "longitude": -7.839,
-      "latitude": 12.5035
+      "longitude": -7.8313,
+      "latitude": 12.5166
     },
     {
       "block_id": "a0e73fbc75df-136",
@@ -11229,8 +11255,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-04 09:13:25",
-      "longitude": -7.8372,
-      "latitude": 12.5043
+      "longitude": -7.8375,
+      "latitude": 12.508
     },
     {
       "block_id": "a0e73fbc75df-137",
@@ -11317,8 +11343,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-04 09:32:24",
-      "longitude": -7.8395,
-      "latitude": 12.5181
+      "longitude": -7.8429,
+      "latitude": 12.5099
     },
     {
       "block_id": "a0e73fbc75df-138",
@@ -11397,8 +11423,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-04 09:38:16",
-      "longitude": -7.8325,
-      "latitude": 12.5124
+      "longitude": -7.8397,
+      "latitude": 12.5149
     },
     {
       "block_id": "a0e73fbc75df-139",
@@ -11482,8 +11508,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-04 09:43:35",
-      "longitude": -7.833,
-      "latitude": 12.5137
+      "longitude": -7.819,
+      "latitude": 12.5077
     },
     {
       "block_id": "a0e73fbc75df-140",
@@ -11565,8 +11591,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-05-04 09:47:14",
-      "longitude": -7.8324,
-      "latitude": 12.5201
+      "longitude": -7.8249,
+      "latitude": 12.5064
     },
     {
       "block_id": "a0e73fbc75df-141",
@@ -11652,8 +11678,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-13 16:31:35",
-      "longitude": -7.859,
-      "latitude": 13.2185
+      "longitude": -7.8785,
+      "latitude": 13.2292
     },
     {
       "block_id": "a0e73fbc75df-142",
@@ -11737,8 +11763,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-13 16:45:12",
-      "longitude": -7.8614,
-      "latitude": 13.2266
+      "longitude": -7.8693,
+      "latitude": 13.2358
     },
     {
       "block_id": "a0e73fbc75df-143",
@@ -11823,8 +11849,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-13 17:27:22",
-      "longitude": -7.8653,
-      "latitude": 13.2383
+      "longitude": -7.874,
+      "latitude": 13.2176
     },
     {
       "block_id": "a0e73fbc75df-144",
@@ -11909,8 +11935,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-05-13 17:29:24",
-      "longitude": -7.8661,
-      "latitude": 13.2323
+      "longitude": -7.8679,
+      "latitude": 13.2295
     },
     {
       "block_id": "a0e73fbc75df-145",
@@ -11995,8 +12021,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-13 17:32:01",
-      "longitude": -7.8659,
-      "latitude": 13.2235
+      "longitude": -7.8702,
+      "latitude": 13.2255
     },
     {
       "block_id": "a0e73fbc75df-146",
@@ -12080,8 +12106,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-13 17:35:26",
-      "longitude": -7.859,
-      "latitude": 13.2206
+      "longitude": -7.8659,
+      "latitude": 13.2174
     },
     {
       "block_id": "a0e73fbc75df-147",
@@ -12166,8 +12192,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-05-13 17:37:31",
-      "longitude": -7.87,
-      "latitude": 13.2217
+      "longitude": -7.8724,
+      "latitude": 13.2224
     },
     {
       "block_id": "a0e73fbc75df-148",
@@ -12252,8 +12278,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-13 17:39:16",
-      "longitude": -7.8586,
-      "latitude": 13.2249
+      "longitude": -7.8678,
+      "latitude": 13.2209
     },
     {
       "block_id": "a0e73fbc75df-149",
@@ -12338,8 +12364,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-05-13 17:42:31",
-      "longitude": -7.8736,
-      "latitude": 13.2174
+      "longitude": -7.8698,
+      "latitude": 13.2301
     },
     {
       "block_id": "a0e73fbc75df-150",
@@ -12424,8 +12450,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-05-13 17:44:33",
-      "longitude": -7.8666,
-      "latitude": 13.2372
+      "longitude": -7.8783,
+      "latitude": 13.223
     },
     {
       "block_id": "a0e73fbc75df-151",
@@ -12510,8 +12536,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-13 17:46:30",
-      "longitude": -7.8737,
-      "latitude": 13.2188
+      "longitude": -7.8604,
+      "latitude": 13.2318
     },
     {
       "block_id": "a0e73fbc75df-152",
@@ -12597,8 +12623,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-05-13 17:47:52",
-      "longitude": -7.8568,
-      "latitude": 13.2248
+      "longitude": -7.8537,
+      "latitude": 13.2299
     },
     {
       "block_id": "a0e73fbc75df-153",
@@ -12684,8 +12710,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-05-13 17:52:03",
-      "longitude": -7.8641,
-      "latitude": 13.2236
+      "longitude": -7.8543,
+      "latitude": 13.2261
     },
     {
       "block_id": "a0e73fbc75df-154",
@@ -12771,8 +12797,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-05-13 17:55:32",
-      "longitude": -7.8622,
-      "latitude": 13.2285
+      "longitude": -7.8606,
+      "latitude": 13.2178
     },
     {
       "block_id": "a0e73fbc75df-155",
@@ -12858,7 +12884,7 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-05-13 18:00:09",
-      "longitude": -7.8712,
+      "longitude": -7.8698,
       "latitude": 13.233
     },
     {
@@ -12945,8 +12971,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-13 18:10:29",
-      "longitude": -7.8711,
-      "latitude": 13.2235
+      "longitude": -7.8504,
+      "latitude": 13.2254
     },
     {
       "block_id": "a0e73fbc75df-157",
@@ -13017,8 +13043,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-13 18:13:24",
-      "longitude": -7.869,
-      "latitude": 13.2182
+      "longitude": -7.8616,
+      "latitude": 13.229
     },
     {
       "block_id": "a0e73fbc75df-158",
@@ -13088,8 +13114,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-05-13 18:14:55",
-      "longitude": -7.8573,
-      "latitude": 13.2326
+      "longitude": -7.8649,
+      "latitude": 13.2315
     },
     {
       "block_id": "a0e73fbc75df-159",
@@ -13159,8 +13185,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-05-13 18:16:28",
-      "longitude": -7.8617,
-      "latitude": 13.2264
+      "longitude": -7.8651,
+      "latitude": 13.2209
     },
     {
       "block_id": "a0e73fbc75df-160",
@@ -13231,8 +13257,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-05-13 18:18:22",
-      "longitude": -7.8728,
-      "latitude": 13.2303
+      "longitude": -7.86,
+      "latitude": 13.2355
     },
     {
       "block_id": "a0e73fbc75df-161",
@@ -13317,8 +13343,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; C; B",
       "quatrimercolte_survey_end": "2024-05-27 14:27:22",
-      "longitude": -8.3343,
-      "latitude": 12.3438
+      "longitude": -8.3219,
+      "latitude": 12.3431
     },
     {
       "block_id": "a0e73fbc75df-162",
@@ -13403,8 +13429,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B; C",
       "quatrimercolte_survey_end": "2024-05-27 14:55:12",
-      "longitude": -8.34,
-      "latitude": 12.328
+      "longitude": -8.3277,
+      "latitude": 12.3383
     },
     {
       "block_id": "a0e73fbc75df-163",
@@ -13488,8 +13514,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C; B",
       "quatrimercolte_survey_end": "2024-05-27 19:11:57",
-      "longitude": -8.3361,
-      "latitude": 12.3362
+      "longitude": -8.3293,
+      "latitude": 12.3349
     },
     {
       "block_id": "a0e73fbc75df-164",
@@ -13574,8 +13600,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B; A",
       "quatrimercolte_survey_end": "2024-05-27 19:56:39",
-      "longitude": -8.2833,
-      "latitude": 12.3566
+      "longitude": -8.2838,
+      "latitude": 12.3711
     },
     {
       "block_id": "a0e73fbc75df-165",
@@ -13617,8 +13643,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-05-28 09:05:34",
-      "longitude": -8.2934,
-      "latitude": 12.3607
+      "longitude": -8.2924,
+      "latitude": 12.3627
     },
     {
       "block_id": "a0e73fbc75df-166",
@@ -13702,8 +13728,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C; A",
       "quatrimercolte_survey_end": "2024-05-27 22:48:00",
-      "longitude": -8.2944,
-      "latitude": 12.3621
+      "longitude": -8.2867,
+      "latitude": 12.3804
     },
     {
       "block_id": "a0e73fbc75df-167",
@@ -13787,8 +13813,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-05-27 23:06:32",
-      "longitude": -8.304,
-      "latitude": 12.3659
+      "longitude": -8.2997,
+      "latitude": 12.375
     },
     {
       "block_id": "a0e73fbc75df-168",
@@ -13848,8 +13874,8 @@
       "transplantation_plotsize": "500m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-03-20 20:35:41",
-      "longitude": -8.4416,
-      "latitude": 12.3717
+      "longitude": -8.4376,
+      "latitude": 12.3677
     },
     {
       "block_id": "a0e73fbc75df-169",
@@ -13933,8 +13959,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C; A",
       "quatrimercolte_survey_end": "2024-05-28 01:29:10",
-      "longitude": -8.3061,
-      "latitude": 12.376
+      "longitude": -8.3077,
+      "latitude": 12.3761
     },
     {
       "block_id": "a0e73fbc75df-170",
@@ -14019,8 +14045,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C; B; A",
       "quatrimercolte_survey_end": "2024-05-28 02:18:48",
-      "longitude": -8.3259,
-      "latitude": 12.3427
+      "longitude": -8.3219,
+      "latitude": 12.3397
     },
     {
       "block_id": "a0e73fbc75df-171",
@@ -14105,8 +14131,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B; C; A",
       "quatrimercolte_survey_end": "2024-05-28 02:55:39",
-      "longitude": -8.3258,
-      "latitude": 12.3255
+      "longitude": -8.338,
+      "latitude": 12.3373
     },
     {
       "block_id": "a0e73fbc75df-172",
@@ -14191,8 +14217,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C; A",
       "quatrimercolte_survey_end": "2024-05-28 03:11:57",
-      "longitude": -8.3199,
-      "latitude": 12.3421
+      "longitude": -8.3375,
+      "latitude": 12.3438
     },
     {
       "block_id": "a0e73fbc75df-173",
@@ -14234,8 +14260,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-05-28 03:22:58",
-      "longitude": -8.3387,
-      "latitude": 12.3391
+      "longitude": -8.3241,
+      "latitude": 12.3295
     },
     {
       "block_id": "a0e73fbc75df-174",
@@ -14318,8 +14344,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-05-28 03:38:19",
-      "longitude": -8.327,
-      "latitude": 12.3313
+      "longitude": -8.324,
+      "latitude": 12.3391
     },
     {
       "block_id": "a0e73fbc75df-175",
@@ -14379,8 +14405,8 @@
       "transplantation_plotsize": "500m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-03-20 20:38:52",
-      "longitude": -8.4326,
-      "latitude": 12.3831
+      "longitude": -8.4255,
+      "latitude": 12.3698
     },
     {
       "block_id": "a0e73fbc75df-176",
@@ -14439,8 +14465,8 @@
       "transplantation_plotsize": "600m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-03-20 20:40:17",
-      "longitude": -8.414,
-      "latitude": 12.3655
+      "longitude": -8.4285,
+      "latitude": 12.3617
     },
     {
       "block_id": "a0e73fbc75df-177",
@@ -14500,8 +14526,8 @@
       "transplantation_plotsize": "500m2",
       "transplantation_plantdensity": "20/20cm",
       "transplantation_survey_end": "2024-03-20 20:42:07",
-      "longitude": -8.4327,
-      "latitude": 12.3644
+      "longitude": -8.4234,
+      "latitude": 12.3797
     },
     {
       "block_id": "a0e73fbc75df-178",
@@ -14591,8 +14617,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C; A; B",
       "quatrimercolte_survey_end": "2024-05-28 02:08:35",
-      "longitude": -8.3253,
-      "latitude": 12.3403
+      "longitude": -8.3251,
+      "latitude": 12.3256
     },
     {
       "block_id": "a0e73fbc75df-180",
@@ -14677,8 +14703,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; None",
       "quatrimercolte_survey_end": "2024-05-28 03:53:52",
-      "longitude": -8.3192,
-      "latitude": 12.3361
+      "longitude": -8.3225,
+      "latitude": 12.3348
     },
     {
       "block_id": "a0e73fbc75df-181",
@@ -14739,8 +14765,8 @@
       "transplantation_plotsize": "1m²",
       "transplantation_plantdensity": "20cmx20cm",
       "transplantation_survey_end": "2024-03-14 21:02:28",
-      "longitude": -7.7112,
-      "latitude": 12.7033
+      "longitude": -7.704,
+      "latitude": 12.7082
     },
     {
       "block_id": "a0e73fbc75df-182",
@@ -14800,8 +14826,8 @@
       "transplantation_plotsize": "2m²",
       "transplantation_plantdensity": "20cmx20cm",
       "transplantation_survey_end": "2024-03-14 21:03:47",
-      "longitude": -7.7297,
-      "latitude": 12.7017
+      "longitude": -7.7044,
+      "latitude": 12.711
     },
     {
       "block_id": "a0e73fbc75df-183",
@@ -14860,8 +14886,8 @@
       "transplantation_plotsize": "2m²",
       "transplantation_plantdensity": "20cmx20cm",
       "transplantation_survey_end": "2024-03-14 21:05:00",
-      "longitude": -7.7253,
-      "latitude": 12.7077
+      "longitude": -7.7262,
+      "latitude": 12.7017
     },
     {
       "block_id": "a0e73fbc75df-184",
@@ -14928,8 +14954,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A; B; C",
       "premirercolte_survey_end": "2024-04-16 17:38:51",
-      "longitude": -7.7166,
-      "latitude": 12.7075
+      "longitude": -7.7064,
+      "latitude": 12.7009
     },
     {
       "block_id": "a0e73fbc75df-185",
@@ -14997,8 +15023,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "B; A; C",
       "premirercolte_survey_end": "2024-04-16 17:37:19",
-      "longitude": -7.709,
-      "latitude": 12.6915
+      "longitude": -7.7021,
+      "latitude": 12.6932
     },
     {
       "block_id": "a0e73fbc75df-186",
@@ -15055,8 +15081,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Vélo; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-02-10 11:21:59",
-      "longitude": -7.6967,
-      "latitude": 12.7003
+      "longitude": -7.6913,
+      "latitude": 12.7117
     },
     {
       "block_id": "a0e73fbc75df-187",
@@ -15118,8 +15144,8 @@
       "transplantation_plotsize": "3m²",
       "transplantation_plantdensity": "20cmx20cm",
       "transplantation_survey_end": "2024-03-14 08:55:16",
-      "longitude": -7.71,
-      "latitude": 12.6932
+      "longitude": -7.7152,
+      "latitude": 12.7074
     },
     {
       "block_id": "a0e73fbc75df-188",
@@ -15173,8 +15199,8 @@
       "socioeconomic_membershipwhere": "Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Vélo; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-01-24 13:40:52",
-      "longitude": -7.6945,
-      "latitude": 12.6943
+      "longitude": -7.7029,
+      "latitude": 12.6995
     },
     {
       "block_id": "a0e73fbc75df-189",
@@ -15235,8 +15261,8 @@
       "transplantation_plotsize": "1m²",
       "transplantation_plantdensity": "Ras",
       "transplantation_survey_end": "2024-03-14 20:56:09",
-      "longitude": -7.7206,
-      "latitude": 12.7174
+      "longitude": -7.7029,
+      "latitude": 12.7069
     },
     {
       "block_id": "a0e73fbc75df-190",
@@ -15322,8 +15348,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-05-14 16:03:39",
-      "longitude": -7.7282,
-      "latitude": 12.7272
+      "longitude": -7.7329,
+      "latitude": 12.7055
     },
     {
       "block_id": "a0e73fbc75df-191",
@@ -15389,8 +15415,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "B; C",
       "premirercolte_survey_end": "2024-04-16 17:46:29",
-      "longitude": -7.7237,
-      "latitude": 12.7051
+      "longitude": -7.7144,
+      "latitude": 12.7126
     },
     {
       "block_id": "a0e73fbc75df-192",
@@ -15459,8 +15485,8 @@
       "deuximercolte_anyloss": "Oui",
       "deuximercolte_whichlost": "A; B",
       "deuximercolte_survey_end": "2024-04-21 11:37:59",
-      "longitude": -7.7028,
-      "latitude": 12.7011
+      "longitude": -7.7022,
+      "latitude": 12.6957
     },
     {
       "block_id": "a0e73fbc75df-193",
@@ -15528,8 +15554,8 @@
       "transplantation_plotsize": "1m²",
       "transplantation_plantdensity": "20cmx20cm",
       "transplantation_survey_end": "2024-03-14 21:12:32",
-      "longitude": -7.7177,
-      "latitude": 12.701
+      "longitude": -7.7209,
+      "latitude": 12.6992
     },
     {
       "block_id": "a0e73fbc75df-194",
@@ -15612,8 +15638,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A",
       "troisimercolte_survey_end": "2024-05-31 15:02:35",
-      "longitude": -7.7111,
-      "latitude": 12.7101
+      "longitude": -7.7157,
+      "latitude": 12.7059
     },
     {
       "block_id": "a0e73fbc75df-196",
@@ -15679,8 +15705,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A; B; C",
       "premirercolte_survey_end": "2024-04-16 17:35:27",
-      "longitude": -7.7246,
-      "latitude": 12.7052
+      "longitude": -7.7181,
+      "latitude": 12.7135
     },
     {
       "block_id": "a0e73fbc75df-197",
@@ -15744,8 +15770,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A; B; C",
       "premirercolte_survey_end": "2024-04-21 11:42:21",
-      "longitude": -7.7086,
-      "latitude": 12.6995
+      "longitude": -7.7032,
+      "latitude": 12.6993
     },
     {
       "block_id": "a0e73fbc75df-198",
@@ -15807,8 +15833,8 @@
       "transplantation_plotsize": "Ras",
       "transplantation_plantdensity": "Ras",
       "transplantation_survey_end": "2024-03-29 12:33:03",
-      "longitude": -7.7052,
-      "latitude": 12.7005
+      "longitude": -7.699,
+      "latitude": 12.7141
     },
     {
       "block_id": "a0e73fbc75df-199",
@@ -15873,8 +15899,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A; B; C",
       "premirercolte_survey_end": "2024-04-21 11:52:49",
-      "longitude": -7.7058,
-      "latitude": 12.7004
+      "longitude": -7.6946,
+      "latitude": 12.7132
     },
     {
       "block_id": "a0e73fbc75df-200",
@@ -15935,8 +15961,8 @@
       "transplantation_plotsize": "2m²",
       "transplantation_plantdensity": "20cmx20cm",
       "transplantation_survey_end": "2024-04-21 11:45:02",
-      "longitude": -7.7137,
-      "latitude": 12.7208
+      "longitude": -7.723,
+      "latitude": 12.7273
     }
   ],
   "plot_data": [

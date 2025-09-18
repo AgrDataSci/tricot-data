@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-09-13",
+      "version": "v2025-09-18",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -22,7 +22,7 @@
       "experimental_site": "farm"
     },
     "date": {
-      "start": "2021-10-22",
+      "start": "2021-10-15",
       "end": "2022-03-06"
     },
     "geoLocation": {
@@ -49,77 +49,106 @@
       "men": 85,
       "women": 166
     },
+    "funder": [
+      {
+        "funderName": "Norwegian Agency for Development Cooperation",
+        "funderIdentifier": "https://ror.org/04zbn7k04",
+        "awardTitle": "Biodiversity for Opportunities, Livelihoods and Development (BOLD)",
+        "awardNumber": "CONT-1522"
+      },
+      {
+        "funderName": "Federal Ministry for Economic Cooperation and Development (BMZ)",
+        "funderIdentifier": "https://ror.org/00e0ttj68",
+        "awardTitle": "Choose, Grow, Thrive: Using citizen science in expanding West Africa's food basket with African vegetables to tackle malnutrition (BMZ-CGT)",
+        "awardNumber": "81260859"
+      },
+      {
+        "funderName": "Swiss Agency for Development and Cooperation (SDC)",
+        "funderIdentifier": "https://ror.org/02e5d6q93",
+        "awardTitle": "Consumption of Resilient Orphan Crops and Products for Healthier Diets (CROPS4HD) project",
+        "awardNumber": "CROPS4HD 65213"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "Akeri",
         "role": "Genebank accession",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "WorldVeg",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "Poli",
         "role": "Replacement candidate",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "No information provided",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "Local",
         "role": "Farmer check",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "Benin",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "Nguruma",
         "role": "Historical check",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "No information provided",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "IP-5-Sel",
         "role": "Release candidate",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "AC-NL",
         "role": "Genebank accession",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "WorldVeg",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "Madiira 1",
         "role": "Historical check",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "No information provided",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "Madiira 2",
         "role": "Historical check",
-        "year_release": "No information provided",
-        "market_segment": "Other",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "Yield",
+        "origin": "No information provided",
         "remarks": "Yield & Pest/Disease tolerance"
       },
       {
         "genotype_name": "AM-NKGN",
         "role": "Release candidate",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       }
     ],
@@ -1213,8 +1242,8 @@
       "performanceagronomique1_diseasesany": "Oui",
       "performanceagronomique1_diseasewhere": "Feuilles; Pointes; Tige",
       "performanceagronomique1_survey_end": "2021-12-22 16:14:37",
-      "longitude": 2.2918,
-      "latitude": 6.4289
+      "longitude": 2.2946,
+      "latitude": 6.4454
     },
     {
       "block_id": "c564f83b89c5-2",
@@ -1295,8 +1324,8 @@
       "performanceagronomique1_diseasesany": "Oui",
       "performanceagronomique1_diseasewhere": "Feuilles; Tige; Pointes",
       "performanceagronomique1_survey_end": "2021-12-22 17:26:02",
-      "longitude": 2.2966,
-      "latitude": 6.4395
+      "longitude": 2.3044,
+      "latitude": 6.4407
     },
     {
       "block_id": "c564f83b89c5-3",
@@ -1374,8 +1403,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 15:22:48",
-      "longitude": 2.2963,
-      "latitude": 6.4429
+      "longitude": 2.2858,
+      "latitude": 6.4283
     },
     {
       "block_id": "c564f83b89c5-4",
@@ -1430,8 +1459,8 @@
       "ppinire_plantingdate": "2021-10-19",
       "ppinire_localvariety": "Améliorée living seed",
       "ppinire_survey_end": "2021-11-10 16:00:54",
-      "longitude": 2.2854,
-      "latitude": 6.4353
+      "longitude": 2.3,
+      "latitude": 6.4491
     },
     {
       "block_id": "c564f83b89c5-5",
@@ -1540,8 +1569,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-02-01 16:40:11",
-      "longitude": 2.2848,
-      "latitude": 6.4417
+      "longitude": 2.3022,
+      "latitude": 6.4403
     },
     {
       "block_id": "c564f83b89c5-6",
@@ -1631,8 +1660,8 @@
       "performanceagronomique2_whichlost": "Rien",
       "performanceagronomique2_diseasesany": "Non",
       "performanceagronomique2_survey_end": "2022-01-13 13:46:17",
-      "longitude": 2.292,
-      "latitude": 6.4552
+      "longitude": 2.2822,
+      "latitude": 6.4313
     },
     {
       "block_id": "c564f83b89c5-7",
@@ -1712,8 +1741,8 @@
       "performanceagronomique1_diseasesany": "Non Applicable",
       "performanceagronomique1_diseasewhere": "N'est Pas Applicable",
       "performanceagronomique1_survey_end": "2021-12-18 07:16:12",
-      "longitude": 2.3366,
-      "latitude": 6.4019
+      "longitude": 2.3447,
+      "latitude": 6.3952
     },
     {
       "block_id": "c564f83b89c5-8",
@@ -1803,8 +1832,8 @@
       "performanceagronomique2_whichlost": "Rien",
       "performanceagronomique2_diseasesany": "Non",
       "performanceagronomique2_survey_end": "2022-02-02 18:48:40",
-      "longitude": 2.3304,
-      "latitude": 6.401
+      "longitude": 2.3436,
+      "latitude": 6.3972
     },
     {
       "block_id": "c564f83b89c5-9",
@@ -1885,8 +1914,8 @@
       "performanceagronomique1_diseasesany": "Non Applicable",
       "performanceagronomique1_diseasewhere": "N'est Pas Applicable",
       "performanceagronomique1_survey_end": "2021-12-16 11:56:41",
-      "longitude": 2.3435,
-      "latitude": 6.4079
+      "longitude": 2.3413,
+      "latitude": 6.3889
     },
     {
       "block_id": "c564f83b89c5-10",
@@ -1966,8 +1995,8 @@
       "performanceagronomique1_diseasesany": "Non Applicable",
       "performanceagronomique1_diseasewhere": "N'est Pas Applicable",
       "performanceagronomique1_survey_end": "2021-12-18 07:30:00",
-      "longitude": 2.3326,
-      "latitude": 6.3993
+      "longitude": 2.3382,
+      "latitude": 6.3852
     },
     {
       "block_id": "c564f83b89c5-11",
@@ -2047,8 +2076,8 @@
       "performanceagronomique1_diseasesany": "Non Applicable",
       "performanceagronomique1_diseasewhere": "N'est Pas Applicable",
       "performanceagronomique1_survey_end": "2021-12-18 07:42:53",
-      "longitude": 2.3505,
-      "latitude": 6.4019
+      "longitude": 2.3253,
+      "latitude": 6.3966
     },
     {
       "block_id": "c564f83b89c5-12",
@@ -2102,8 +2131,8 @@
       "ppinire_plantingdate": "2021-10-21",
       "ppinire_localvariety": "Améliorée living seed",
       "ppinire_survey_end": "2021-11-11 15:03:51",
-      "longitude": 2.3708,
-      "latitude": 6.6212
+      "longitude": 2.3701,
+      "latitude": 6.6065
     },
     {
       "block_id": "c564f83b89c5-13",
@@ -2182,8 +2211,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 16:07:25",
-      "longitude": 2.36,
-      "latitude": 6.5636
+      "longitude": 2.3707,
+      "latitude": 6.5606
     },
     {
       "block_id": "c564f83b89c5-14",
@@ -2264,8 +2293,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 16:08:27",
-      "longitude": 2.3808,
-      "latitude": 6.5687
+      "longitude": 2.3704,
+      "latitude": 6.562
     },
     {
       "block_id": "c564f83b89c5-15",
@@ -2345,8 +2374,8 @@
       "performanceagronomique1_diseasesany": "Non Applicable",
       "performanceagronomique1_diseasewhere": "N'est Pas Applicable",
       "performanceagronomique1_survey_end": "2021-12-18 08:45:57",
-      "longitude": 2.3201,
-      "latitude": 6.5563
+      "longitude": 2.3321,
+      "latitude": 6.5689
     },
     {
       "block_id": "c564f83b89c5-16",
@@ -2425,8 +2454,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-23 16:09:45",
-      "longitude": 2.2838,
-      "latitude": 6.4241
+      "longitude": 2.2822,
+      "latitude": 6.4314
     },
     {
       "block_id": "c564f83b89c5-17",
@@ -2505,8 +2534,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-23 16:02:04",
-      "longitude": 2.2921,
-      "latitude": 6.4344
+      "longitude": 2.2907,
+      "latitude": 6.4188
     },
     {
       "block_id": "c564f83b89c5-18",
@@ -2588,8 +2617,8 @@
       "performanceagronomique1_diseasesany": "Oui",
       "performanceagronomique1_diseasewhere": "Tige; Pointes; Feuilles",
       "performanceagronomique1_survey_end": "2021-12-24 12:41:01",
-      "longitude": 2.2896,
-      "latitude": 6.4429
+      "longitude": 2.2847,
+      "latitude": 6.4298
     },
     {
       "block_id": "c564f83b89c5-19",
@@ -2682,8 +2711,8 @@
       "performanceagronomique2_diseasesany": "Oui",
       "performanceagronomique2_diseasewhere": "Tige",
       "performanceagronomique2_survey_end": "2022-02-01 13:32:30",
-      "longitude": 2.2918,
-      "latitude": 6.4445
+      "longitude": 2.2994,
+      "latitude": 6.4221
     },
     {
       "block_id": "c564f83b89c5-20",
@@ -2763,8 +2792,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Oui",
       "performanceagronomique1_survey_end": "2021-12-18 15:22:52",
-      "longitude": 2.2975,
-      "latitude": 6.4323
+      "longitude": 2.3045,
+      "latitude": 6.4258
     },
     {
       "block_id": "c564f83b89c5-21",
@@ -2818,8 +2847,8 @@
       "ppinire_plantingdate": "2021-10-21",
       "ppinire_localvariety": "Locale ",
       "ppinire_survey_end": "2021-11-11 14:55:18",
-      "longitude": 2.3509,
-      "latitude": 6.6276
+      "longitude": 2.3477,
+      "latitude": 6.6383
     },
     {
       "block_id": "c564f83b89c5-22",
@@ -2900,8 +2929,8 @@
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_diseasewherefr_oth": "0",
       "performanceagronomique1_survey_end": "2021-12-19 09:46:38",
-      "longitude": 2.3386,
-      "latitude": 6.4031
+      "longitude": 2.3497,
+      "latitude": 6.4133
     },
     {
       "block_id": "c564f83b89c5-23",
@@ -2992,8 +3021,8 @@
       "performanceagronomique2_whichlost": "Rien",
       "performanceagronomique2_diseasesany": "Non",
       "performanceagronomique2_survey_end": "2022-02-01 15:27:31",
-      "longitude": 2.3676,
-      "latitude": 6.573
+      "longitude": 2.3543,
+      "latitude": 6.579
     },
     {
       "block_id": "c564f83b89c5-24",
@@ -3071,8 +3100,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-10 15:11:45",
-      "longitude": 2.3684,
-      "latitude": 6.597
+      "longitude": 2.3612,
+      "latitude": 6.6046
     },
     {
       "block_id": "c564f83b89c5-25",
@@ -3152,8 +3181,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 15:29:12",
-      "longitude": 2.2988,
-      "latitude": 6.4478
+      "longitude": 2.3024,
+      "latitude": 6.4442
     },
     {
       "block_id": "c564f83b89c5-26",
@@ -3232,8 +3261,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 15:43:47",
-      "longitude": 2.2995,
-      "latitude": 6.4342
+      "longitude": 2.2962,
+      "latitude": 6.4326
     },
     {
       "block_id": "c564f83b89c5-27",
@@ -3313,8 +3342,8 @@
       "performanceagronomique1_diseasesany": "Oui",
       "performanceagronomique1_diseasewhere": "Feuilles; Pointes; Tige",
       "performanceagronomique1_survey_end": "2021-12-20 15:51:01",
-      "longitude": 2.2944,
-      "latitude": 6.4391
+      "longitude": 2.3099,
+      "latitude": 6.4287
     },
     {
       "block_id": "c564f83b89c5-28",
@@ -3395,8 +3424,8 @@
       "performanceagronomique1_diseasesany": "Oui",
       "performanceagronomique1_diseasewhere": "Pointes; Tige",
       "performanceagronomique1_survey_end": "2021-12-20 15:56:38",
-      "longitude": 2.3108,
-      "latitude": 6.4436
+      "longitude": 2.3079,
+      "latitude": 6.4321
     },
     {
       "block_id": "c564f83b89c5-29",
@@ -3477,8 +3506,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 16:02:30",
-      "longitude": 2.3014,
-      "latitude": 6.4508
+      "longitude": 2.2963,
+      "latitude": 6.4316
     },
     {
       "block_id": "c564f83b89c5-30",
@@ -3558,8 +3587,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 15:53:58",
-      "longitude": 2.287,
-      "latitude": 6.4303
+      "longitude": 2.2988,
+      "latitude": 6.438
     },
     {
       "block_id": "c564f83b89c5-31",
@@ -3640,8 +3669,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-19 20:56:08",
-      "longitude": 2.2544,
-      "latitude": 6.4802
+      "longitude": 2.2549,
+      "latitude": 6.4866
     },
     {
       "block_id": "c564f83b89c5-32",
@@ -3734,8 +3763,8 @@
       "performanceagronomique2_whichlost": "Rien",
       "performanceagronomique2_diseasesany": "Non",
       "performanceagronomique2_survey_end": "2022-02-01 15:25:35",
-      "longitude": 2.3629,
-      "latitude": 6.598
+      "longitude": 2.3598,
+      "latitude": 6.6019
     },
     {
       "block_id": "c564f83b89c5-33",
@@ -3814,8 +3843,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-19 21:16:03",
-      "longitude": 2.2588,
-      "latitude": 6.4261
+      "longitude": 2.2575,
+      "latitude": 6.4294
     },
     {
       "block_id": "c564f83b89c5-34",
@@ -3917,8 +3946,8 @@
       "performanceagronomique3_whichlost": "Rien",
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_survey_end": "2022-02-01 16:08:22",
-      "longitude": 2.2398,
-      "latitude": 6.4529
+      "longitude": 2.2467,
+      "latitude": 6.4495
     },
     {
       "block_id": "c564f83b89c5-35",
@@ -3972,8 +4001,8 @@
       "ppinire_plantingdate": "2021-10-25",
       "ppinire_localvariety": "Living seed",
       "ppinire_survey_end": "2021-11-10 16:33:45",
-      "longitude": 2.2585,
-      "latitude": 6.4792
+      "longitude": 2.2648,
+      "latitude": 6.461
     },
     {
       "block_id": "c564f83b89c5-36",
@@ -4082,8 +4111,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-02-07 12:24:22",
-      "longitude": 2.2945,
-      "latitude": 6.424
+      "longitude": 2.2908,
+      "latitude": 6.4366
     },
     {
       "block_id": "c564f83b89c5-37",
@@ -4137,8 +4166,8 @@
       "ppinire_plantingdate": "2021-10-22",
       "ppinire_localvariety": "Locale",
       "ppinire_survey_end": "2021-11-10 16:39:45",
-      "longitude": 2.3108,
-      "latitude": 6.4734
+      "longitude": 2.3172,
+      "latitude": 6.4804
     },
     {
       "block_id": "c564f83b89c5-38",
@@ -4230,8 +4259,8 @@
       "performanceagronomique2_diseasesany": "Oui",
       "performanceagronomique2_diseasewhere": "Feuilles; Pointes; Tige; Tallage",
       "performanceagronomique2_survey_end": "2022-01-18 13:25:30",
-      "longitude": 2.3165,
-      "latitude": 6.4651
+      "longitude": 2.3106,
+      "latitude": 6.4619
     },
     {
       "block_id": "c564f83b89c5-39",
@@ -4312,8 +4341,8 @@
       "performanceagronomique1_diseasesany": "Oui",
       "performanceagronomique1_diseasewhere": "Tige; Feuilles",
       "performanceagronomique1_survey_end": "2021-12-18 09:14:23",
-      "longitude": 2.3294,
-      "latitude": 6.4464
+      "longitude": 2.3429,
+      "latitude": 6.4347
     },
     {
       "block_id": "c564f83b89c5-40",
@@ -4367,8 +4396,8 @@
       "ppinire_plantingdate": "2021-10-22",
       "ppinire_localvariety": "Living seed",
       "ppinire_survey_end": "2021-11-10 16:58:16",
-      "longitude": 2.3081,
-      "latitude": 6.4714
+      "longitude": 2.3291,
+      "latitude": 6.463
     },
     {
       "block_id": "c564f83b89c5-41",
@@ -4431,8 +4460,8 @@
       "transplantation_plotsize": "6m2 ",
       "transplantation_plantdensity": "333333",
       "transplantation_survey_end": "2021-12-01 14:20:08",
-      "longitude": 2.2998,
-      "latitude": 6.4027
+      "longitude": 2.3024,
+      "latitude": 6.3954
     },
     {
       "block_id": "c564f83b89c5-42",
@@ -4494,8 +4523,8 @@
       "transplantation_plotsize": "6m2 ",
       "transplantation_plantdensity": "333333",
       "transplantation_survey_end": "2021-12-01 14:22:38",
-      "longitude": 2.3216,
-      "latitude": 6.3919
+      "longitude": 2.3123,
+      "latitude": 6.4005
     },
     {
       "block_id": "c564f83b89c5-43",
@@ -4576,8 +4605,8 @@
       "performanceagronomique1_diseasesany": "Oui",
       "performanceagronomique1_diseasewhere": "Feuilles; Pointes; Tige",
       "performanceagronomique1_survey_end": "2021-12-19 21:40:22",
-      "longitude": 2.2978,
-      "latitude": 6.4333
+      "longitude": 2.2914,
+      "latitude": 6.4527
     },
     {
       "block_id": "c564f83b89c5-44",
@@ -4639,8 +4668,8 @@
       "transplantation_plotsize": "6m2 ",
       "transplantation_plantdensity": "250000",
       "transplantation_survey_end": "2021-12-01 14:18:48",
-      "longitude": 2.313,
-      "latitude": 6.4411
+      "longitude": 2.2922,
+      "latitude": 6.4394
     },
     {
       "block_id": "c564f83b89c5-45",
@@ -4718,8 +4747,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Oui",
       "performanceagronomique1_survey_end": "2021-12-22 15:51:01",
-      "longitude": 2.3043,
-      "latitude": 6.5038
+      "longitude": 2.3192,
+      "latitude": 6.4867
     },
     {
       "block_id": "c564f83b89c5-46",
@@ -4798,8 +4827,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 16:10:13",
-      "longitude": 2.3021,
-      "latitude": 6.5015
+      "longitude": 2.3108,
+      "latitude": 6.5021
     },
     {
       "block_id": "c564f83b89c5-47",
@@ -4878,8 +4907,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-19 21:57:18",
-      "longitude": 2.3144,
-      "latitude": 6.4857
+      "longitude": 2.305,
+      "latitude": 6.4886
     },
     {
       "block_id": "c564f83b89c5-48",
@@ -4958,8 +4987,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 15:45:01",
-      "longitude": 2.3116,
-      "latitude": 6.48
+      "longitude": 2.3029,
+      "latitude": 6.4847
     },
     {
       "block_id": "c564f83b89c5-49",
@@ -5038,8 +5067,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-23 15:36:04",
-      "longitude": 2.3142,
-      "latitude": 6.4934
+      "longitude": 2.3114,
+      "latitude": 6.4839
     },
     {
       "block_id": "c564f83b89c5-50",
@@ -5119,8 +5148,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-10 14:59:56",
-      "longitude": 2.3163,
-      "latitude": 6.5227
+      "longitude": 2.3151,
+      "latitude": 6.5062
     },
     {
       "block_id": "c564f83b89c5-51",
@@ -5198,8 +5227,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non Applicable",
       "performanceagronomique1_survey_end": "2021-12-22 13:22:40",
-      "longitude": 2.3991,
-      "latitude": 6.3802
+      "longitude": 2.3926,
+      "latitude": 6.3604
     },
     {
       "block_id": "c564f83b89c5-52",
@@ -5278,8 +5307,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 12:24:24",
-      "longitude": 2.3966,
-      "latitude": 6.3792
+      "longitude": 2.394,
+      "latitude": 6.363
     },
     {
       "block_id": "c564f83b89c5-53",
@@ -5340,8 +5369,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-11-30 10:47:37",
-      "longitude": 2.3941,
-      "latitude": 6.371
+      "longitude": 2.3984,
+      "latitude": 6.3539
     },
     {
       "block_id": "c564f83b89c5-54",
@@ -5419,8 +5448,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 13:36:04",
-      "longitude": 2.4038,
-      "latitude": 6.3557
+      "longitude": 2.3944,
+      "latitude": 6.3554
     },
     {
       "block_id": "c564f83b89c5-55",
@@ -5499,8 +5528,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-12 09:45:59",
-      "longitude": 2.4069,
-      "latitude": 6.3735
+      "longitude": 2.3966,
+      "latitude": 6.3722
     },
     {
       "block_id": "c564f83b89c5-56",
@@ -5563,8 +5592,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-11-30 10:50:33",
-      "longitude": 2.399,
-      "latitude": 6.3752
+      "longitude": 2.3903,
+      "latitude": 6.3588
     },
     {
       "block_id": "c564f83b89c5-57",
@@ -5644,8 +5673,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-12 09:39:02",
-      "longitude": 2.4043,
-      "latitude": 6.3719
+      "longitude": 2.3862,
+      "latitude": 6.3685
     },
     {
       "block_id": "c564f83b89c5-58",
@@ -5708,8 +5737,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-11-30 10:52:18",
-      "longitude": 2.3885,
-      "latitude": 6.3615
+      "longitude": 2.4059,
+      "latitude": 6.3735
     },
     {
       "block_id": "c564f83b89c5-59",
@@ -5771,8 +5800,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-11-30 10:53:52",
-      "longitude": 2.3958,
-      "latitude": 6.3582
+      "longitude": 2.3991,
+      "latitude": 6.3538
     },
     {
       "block_id": "c564f83b89c5-60",
@@ -5863,8 +5892,8 @@
       "performanceagronomique2_whichlost": "B",
       "performanceagronomique2_diseasesany": "Non",
       "performanceagronomique2_survey_end": "2022-02-16 13:55:50",
-      "longitude": 2.3954,
-      "latitude": 6.3711
+      "longitude": 2.3973,
+      "latitude": 6.362
     },
     {
       "block_id": "c564f83b89c5-61",
@@ -6014,8 +6043,8 @@
       "performanceagronomique3_whichlost": "Rien",
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_survey_end": "2022-02-16 13:50:58",
-      "longitude": 2.4056,
-      "latitude": 6.377
+      "longitude": 2.3861,
+      "latitude": 6.3683
     },
     {
       "block_id": "c564f83b89c5-63",
@@ -6094,8 +6123,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 14:01:33",
-      "longitude": 2.3981,
-      "latitude": 6.3781
+      "longitude": 2.3969,
+      "latitude": 6.3582
     },
     {
       "block_id": "c564f83b89c5-64",
@@ -6157,8 +6186,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-11-30 10:56:30",
-      "longitude": 2.3987,
-      "latitude": 6.3792
+      "longitude": 2.3978,
+      "latitude": 6.377
     },
     {
       "block_id": "c564f83b89c5-65",
@@ -6238,8 +6267,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 13:57:44",
-      "longitude": 2.3938,
-      "latitude": 6.3709
+      "longitude": 2.4031,
+      "latitude": 6.3805
     },
     {
       "block_id": "c564f83b89c5-66",
@@ -6387,8 +6416,8 @@
       "performanceagronomique3_whichlost": "Rien",
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_survey_end": "2022-02-16 14:16:01",
-      "longitude": 2.3717,
-      "latitude": 6.3576
+      "longitude": 2.3614,
+      "latitude": 6.3627
     },
     {
       "block_id": "c564f83b89c5-68",
@@ -6467,8 +6496,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-12 10:12:42",
-      "longitude": 2.3079,
-      "latitude": 6.3513
+      "longitude": 2.3225,
+      "latitude": 6.3544
     },
     {
       "block_id": "c564f83b89c5-69",
@@ -6547,8 +6576,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-18 10:22:37",
-      "longitude": 2.3634,
-      "latitude": 6.3553
+      "longitude": 2.3484,
+      "latitude": 6.3466
     },
     {
       "block_id": "c564f83b89c5-70",
@@ -6610,8 +6639,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-11-30 11:09:33",
-      "longitude": 2.3672,
-      "latitude": 6.3427
+      "longitude": 2.3686,
+      "latitude": 6.3514
     },
     {
       "block_id": "c564f83b89c5-71",
@@ -6671,8 +6700,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-11-30 11:10:20",
-      "longitude": 2.3636,
-      "latitude": 6.3583
+      "longitude": 2.3695,
+      "latitude": 6.3478
     },
     {
       "block_id": "c564f83b89c5-72",
@@ -6736,8 +6765,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-11-30 11:11:08",
-      "longitude": 2.3345,
-      "latitude": 6.3396
+      "longitude": 2.3334,
+      "latitude": 6.3476
     },
     {
       "block_id": "c564f83b89c5-73",
@@ -6793,8 +6822,8 @@
       "ppinire_plantingdate": "2021-10-19",
       "ppinire_localvariety": "Ras",
       "ppinire_survey_end": "2021-11-08 17:18:49",
-      "longitude": 2.333,
-      "latitude": 6.3549
+      "longitude": 2.3406,
+      "latitude": 6.3419
     },
     {
       "block_id": "c564f83b89c5-74",
@@ -6872,8 +6901,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-18 10:32:57",
-      "longitude": 2.3614,
-      "latitude": 6.3603
+      "longitude": 2.3606,
+      "latitude": 6.3643
     },
     {
       "block_id": "c564f83b89c5-75",
@@ -6953,8 +6982,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-18 10:35:05",
-      "longitude": 2.3715,
-      "latitude": 6.3583
+      "longitude": 2.3694,
+      "latitude": 6.3516
     },
     {
       "block_id": "c564f83b89c5-76",
@@ -7045,8 +7074,8 @@
       "performanceagronomique2_whichlost": "Rien",
       "performanceagronomique2_diseasesany": "Non",
       "performanceagronomique2_survey_end": "2022-02-16 14:27:26",
-      "longitude": 2.3734,
-      "latitude": 6.3494
+      "longitude": 2.3737,
+      "latitude": 6.3659
     },
     {
       "block_id": "c564f83b89c5-77",
@@ -7127,8 +7156,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-18 10:42:52",
-      "longitude": 2.3789,
-      "latitude": 6.3611
+      "longitude": 2.3704,
+      "latitude": 6.3541
     },
     {
       "block_id": "c564f83b89c5-78",
@@ -7206,8 +7235,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 10:50:40",
-      "longitude": 2.454,
-      "latitude": 6.3477
+      "longitude": 2.4607,
+      "latitude": 6.3568
     },
     {
       "block_id": "c564f83b89c5-79",
@@ -7286,8 +7315,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 10:07:23",
-      "longitude": 2.448,
-      "latitude": 6.3525
+      "longitude": 2.4565,
+      "latitude": 6.3657
     },
     {
       "block_id": "c564f83b89c5-80",
@@ -7366,8 +7395,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 10:17:22",
-      "longitude": 2.4702,
-      "latitude": 6.3512
+      "longitude": 2.4704,
+      "latitude": 6.3668
     },
     {
       "block_id": "c564f83b89c5-81",
@@ -7445,8 +7474,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 10:34:54",
-      "longitude": 2.4505,
-      "latitude": 6.3669
+      "longitude": 2.4587,
+      "latitude": 6.3498
     },
     {
       "block_id": "c564f83b89c5-82",
@@ -7524,8 +7553,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 10:27:47",
-      "longitude": 2.4707,
-      "latitude": 6.3683
+      "longitude": 2.463,
+      "latitude": 6.3532
     },
     {
       "block_id": "c564f83b89c5-83",
@@ -7603,8 +7632,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 11:02:53",
-      "longitude": 2.4667,
-      "latitude": 6.3468
+      "longitude": 2.4726,
+      "latitude": 6.3587
     },
     {
       "block_id": "c564f83b89c5-84",
@@ -7667,8 +7696,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-12-01 07:16:43",
-      "longitude": 2.3445,
-      "latitude": 6.3792
+      "longitude": 2.359,
+      "latitude": 6.3835
     },
     {
       "block_id": "c564f83b89c5-85",
@@ -7746,8 +7775,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 10:09:01",
-      "longitude": 2.3671,
-      "latitude": 6.3815
+      "longitude": 2.3609,
+      "latitude": 6.3735
     },
     {
       "block_id": "c564f83b89c5-86",
@@ -7828,8 +7857,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 09:20:25",
-      "longitude": 2.3606,
-      "latitude": 6.3859
+      "longitude": 2.3449,
+      "latitude": 6.3703
     },
     {
       "block_id": "c564f83b89c5-87",
@@ -7901,8 +7930,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 09:41:32",
-      "longitude": 2.3384,
-      "latitude": 6.3751
+      "longitude": 2.3562,
+      "latitude": 6.3918
     },
     {
       "block_id": "c564f83b89c5-88",
@@ -7976,8 +8005,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 09:56:24",
-      "longitude": 2.3533,
-      "latitude": 6.3841
+      "longitude": 2.3429,
+      "latitude": 6.3703
     },
     {
       "block_id": "c564f83b89c5-89",
@@ -8055,8 +8084,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-20 09:47:42",
-      "longitude": 2.3578,
-      "latitude": 6.3837
+      "longitude": 2.3471,
+      "latitude": 6.3827
     },
     {
       "block_id": "c564f83b89c5-90",
@@ -8118,8 +8147,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-12-01 07:19:31",
-      "longitude": 2.3833,
-      "latitude": 6.3416
+      "longitude": 2.3892,
+      "latitude": 6.341
     },
     {
       "block_id": "c564f83b89c5-91",
@@ -8180,8 +8209,8 @@
       "transplantation_plotsize": "6m2 ",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-11-29 09:54:17",
-      "longitude": 2.3763,
-      "latitude": 6.3413
+      "longitude": 2.3851,
+      "latitude": 6.3494
     },
     {
       "block_id": "c564f83b89c5-92",
@@ -8260,8 +8289,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-18 10:44:34",
-      "longitude": 2.3985,
-      "latitude": 6.3533
+      "longitude": 2.3875,
+      "latitude": 6.3433
     },
     {
       "block_id": "c564f83b89c5-93",
@@ -8339,8 +8368,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 12:57:38",
-      "longitude": 2.4067,
-      "latitude": 6.3609
+      "longitude": 2.3978,
+      "latitude": 6.3624
     },
     {
       "block_id": "c564f83b89c5-94",
@@ -8401,8 +8430,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-12-01 07:20:41",
-      "longitude": 2.3975,
-      "latitude": 6.3684
+      "longitude": 2.4064,
+      "latitude": 6.357
     },
     {
       "block_id": "c564f83b89c5-95",
@@ -8480,8 +8509,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2022-01-18 10:46:21",
-      "longitude": 2.4025,
-      "latitude": 6.3722
+      "longitude": 2.3892,
+      "latitude": 6.3752
     },
     {
       "block_id": "c564f83b89c5-96",
@@ -8536,7 +8565,7 @@
       "ppinire_plantingdate": "2021-11-04",
       "ppinire_localvariety": "Ras",
       "ppinire_survey_end": "2021-11-17 10:52:31",
-      "longitude": 2.3995,
+      "longitude": 2.3979,
       "latitude": 6.3747
     },
     {
@@ -8598,8 +8627,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-12-01 07:21:47",
-      "longitude": 2.4017,
-      "latitude": 6.3723
+      "longitude": 2.3961,
+      "latitude": 6.3733
     },
     {
       "block_id": "c564f83b89c5-98",
@@ -8677,8 +8706,8 @@
       "performanceagronomique1_whichlost": "Rien",
       "performanceagronomique1_diseasesany": "Non",
       "performanceagronomique1_survey_end": "2021-12-22 12:44:51",
-      "longitude": 2.4054,
-      "latitude": 6.3644
+      "longitude": 2.398,
+      "latitude": 6.3581
     },
     {
       "block_id": "c564f83b89c5-99",
@@ -8741,8 +8770,8 @@
       "transplantation_plotsize": "6m2 ",
       "transplantation_plantdensity": "444444",
       "transplantation_survey_end": "2021-12-09 15:23:27",
-      "longitude": 2.3998,
-      "latitude": 6.3749
+      "longitude": 2.396,
+      "latitude": 6.3705
     },
     {
       "block_id": "c564f83b89c5-100",
@@ -8796,8 +8825,8 @@
       "ppinire_plantingdate": "2021-10-20",
       "ppinire_localvariety": "Ras",
       "ppinire_survey_end": "2021-11-11 10:59:24",
-      "longitude": 2.3953,
-      "latitude": 6.366
+      "longitude": 2.3891,
+      "latitude": 6.3757
     },
     {
       "block_id": "c564f83b89c5-101",
@@ -8856,8 +8885,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-08 11:15:34",
-      "longitude": 2.5977,
-      "latitude": 6.3629
+      "longitude": 2.6065,
+      "latitude": 6.3869
     },
     {
       "block_id": "c564f83b89c5-102",
@@ -8917,8 +8946,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants/ha",
       "transplantation_survey_end": "2022-02-21 13:42:39",
-      "longitude": 2.6146,
-      "latitude": 6.3892
+      "longitude": 2.6082,
+      "latitude": 6.378
     },
     {
       "block_id": "c564f83b89c5-103",
@@ -8978,8 +9007,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2021-12-08 10:56:08",
-      "longitude": 2.5977,
-      "latitude": 6.3843
+      "longitude": 2.5953,
+      "latitude": 6.3819
     },
     {
       "block_id": "c564f83b89c5-104",
@@ -9039,8 +9068,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-08 11:30:13",
-      "longitude": 2.5915,
-      "latitude": 6.3751
+      "longitude": 2.6034,
+      "latitude": 6.3712
     },
     {
       "block_id": "c564f83b89c5-105",
@@ -9100,8 +9129,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-08 10:41:27",
-      "longitude": 2.5934,
-      "latitude": 6.3896
+      "longitude": 2.6065,
+      "latitude": 6.3814
     },
     {
       "block_id": "c564f83b89c5-106",
@@ -9154,8 +9183,8 @@
       "ppinire_plantingdate": "2021-11-26",
       "ppinire_localvariety": "Fotètè",
       "ppinire_survey_end": "2022-02-21 13:12:02",
-      "longitude": 2.602,
-      "latitude": 6.3858
+      "longitude": 2.595,
+      "latitude": 6.3762
     },
     {
       "block_id": "c564f83b89c5-107",
@@ -9215,8 +9244,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-08 12:22:09",
-      "longitude": 2.5961,
-      "latitude": 6.381
+      "longitude": 2.596,
+      "latitude": 6.369
     },
     {
       "block_id": "c564f83b89c5-108",
@@ -9276,8 +9305,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants / ha",
       "transplantation_survey_end": "2021-12-08 11:02:03",
-      "longitude": 2.5882,
-      "latitude": 6.3727
+      "longitude": 2.5911,
+      "latitude": 6.3808
     },
     {
       "block_id": "c564f83b89c5-109",
@@ -9337,8 +9366,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants/ha",
       "transplantation_survey_end": "2022-02-21 13:48:08",
-      "longitude": 2.6071,
-      "latitude": 6.3716
+      "longitude": 2.5988,
+      "latitude": 6.3899
     },
     {
       "block_id": "c564f83b89c5-110",
@@ -9398,8 +9427,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-08 12:10:31",
-      "longitude": 2.6106,
-      "latitude": 6.3778
+      "longitude": 2.6139,
+      "latitude": 6.3763
     },
     {
       "block_id": "c564f83b89c5-111",
@@ -9458,8 +9487,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:41:00",
-      "longitude": 2.6003,
-      "latitude": 6.3863
+      "longitude": 2.5929,
+      "latitude": 6.3747
     },
     {
       "block_id": "c564f83b89c5-112",
@@ -9519,8 +9548,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:47:20",
-      "longitude": 2.6042,
-      "latitude": 6.3944
+      "longitude": 2.6026,
+      "latitude": 6.3818
     },
     {
       "block_id": "c564f83b89c5-113",
@@ -9580,8 +9609,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:54:47",
-      "longitude": 2.5938,
-      "latitude": 6.3919
+      "longitude": 2.6064,
+      "latitude": 6.377
     },
     {
       "block_id": "c564f83b89c5-114",
@@ -9641,8 +9670,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2022-02-21 15:00:06",
-      "longitude": 2.5918,
-      "latitude": 6.3898
+      "longitude": 2.5958,
+      "latitude": 6.3722
     },
     {
       "block_id": "c564f83b89c5-115",
@@ -9703,8 +9732,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants/ha",
       "transplantation_survey_end": "2022-02-21 15:07:20",
-      "longitude": 2.6038,
-      "latitude": 6.3706
+      "longitude": 2.6059,
+      "latitude": 6.3835
     },
     {
       "block_id": "c564f83b89c5-116",
@@ -9763,8 +9792,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 13:50:54",
-      "longitude": 2.6093,
-      "latitude": 6.3941
+      "longitude": 2.5954,
+      "latitude": 6.3923
     },
     {
       "block_id": "c564f83b89c5-117",
@@ -9825,8 +9854,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 13:54:05",
-      "longitude": 2.5932,
-      "latitude": 6.3739
+      "longitude": 2.6133,
+      "latitude": 6.3738
     },
     {
       "block_id": "c564f83b89c5-118",
@@ -9932,8 +9961,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 13:58:00",
-      "longitude": 2.6105,
-      "latitude": 6.3915
+      "longitude": 2.6053,
+      "latitude": 6.3707
     },
     {
       "block_id": "c564f83b89c5-120",
@@ -9993,8 +10022,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants /ha",
       "transplantation_survey_end": "2022-02-28 09:30:17",
-      "longitude": 2.5928,
-      "latitude": 6.3902
+      "longitude": 2.6041,
+      "latitude": 6.3882
     },
     {
       "block_id": "c564f83b89c5-121",
@@ -10099,8 +10128,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:01:19",
-      "longitude": 2.609,
-      "latitude": 6.3817
+      "longitude": 2.599,
+      "latitude": 6.3703
     },
     {
       "block_id": "c564f83b89c5-123",
@@ -10160,8 +10189,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:04:36",
-      "longitude": 2.6032,
-      "latitude": 6.3698
+      "longitude": 2.6085,
+      "latitude": 6.3707
     },
     {
       "block_id": "c564f83b89c5-124",
@@ -10221,8 +10250,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants / ha",
       "transplantation_survey_end": "2022-02-28 09:36:26",
-      "longitude": 2.6052,
-      "latitude": 6.3971
+      "longitude": 2.6024,
+      "latitude": 6.3823
     },
     {
       "block_id": "c564f83b89c5-125",
@@ -10282,8 +10311,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants / ha",
       "transplantation_survey_end": "2022-02-28 09:54:55",
-      "longitude": 2.5931,
-      "latitude": 6.3858
+      "longitude": 2.5959,
+      "latitude": 6.3838
     },
     {
       "block_id": "c564f83b89c5-126",
@@ -10342,8 +10371,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants/ha",
       "transplantation_survey_end": "2022-02-28 10:06:14",
-      "longitude": 2.602,
-      "latitude": 6.3896
+      "longitude": 2.6025,
+      "latitude": 6.3899
     },
     {
       "block_id": "c564f83b89c5-127",
@@ -10403,8 +10432,8 @@
       "transplantation_plotsize": "6 m2",
       "transplantation_plantdensity": "2700 plants / ha",
       "transplantation_survey_end": "2021-12-01 11:54:47",
-      "longitude": 2.5793,
-      "latitude": 6.3701
+      "longitude": 2.5753,
+      "latitude": 6.3726
     },
     {
       "block_id": "c564f83b89c5-128",
@@ -10464,8 +10493,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:07:38",
-      "longitude": 2.6015,
-      "latitude": 6.3789
+      "longitude": 2.6022,
+      "latitude": 6.3793
     },
     {
       "block_id": "c564f83b89c5-129",
@@ -10525,8 +10554,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:32:48",
-      "longitude": 2.5936,
-      "latitude": 6.3734
+      "longitude": 2.6068,
+      "latitude": 6.3792
     },
     {
       "block_id": "c564f83b89c5-130",
@@ -10585,8 +10614,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-01 10:31:51",
-      "longitude": 2.5708,
-      "latitude": 6.382
+      "longitude": 2.5865,
+      "latitude": 6.3726
     },
     {
       "block_id": "c564f83b89c5-131",
@@ -10646,8 +10675,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:10:34",
-      "longitude": 2.6083,
-      "latitude": 6.3859
+      "longitude": 2.604,
+      "latitude": 6.3937
     },
     {
       "block_id": "c564f83b89c5-132",
@@ -10707,8 +10736,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:12:49",
-      "longitude": 2.6097,
-      "latitude": 6.3727
+      "longitude": 2.5988,
+      "latitude": 6.389
     },
     {
       "block_id": "c564f83b89c5-133",
@@ -10768,8 +10797,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants / ha",
       "transplantation_survey_end": "2022-02-21 14:15:32",
-      "longitude": 2.6151,
-      "latitude": 6.3764
+      "longitude": 2.6004,
+      "latitude": 6.386
     },
     {
       "block_id": "c564f83b89c5-134",
@@ -10828,8 +10857,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-01 10:15:07",
-      "longitude": 2.5634,
-      "latitude": 6.3665
+      "longitude": 2.5725,
+      "latitude": 6.3707
     },
     {
       "block_id": "c564f83b89c5-135",
@@ -10889,8 +10918,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:17:58",
-      "longitude": 2.6034,
-      "latitude": 6.3854
+      "longitude": 2.6027,
+      "latitude": 6.3715
     },
     {
       "block_id": "c564f83b89c5-136",
@@ -10950,8 +10979,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants / ha",
       "transplantation_survey_end": "2022-02-21 14:20:40",
-      "longitude": 2.6039,
-      "latitude": 6.3851
+      "longitude": 2.6126,
+      "latitude": 6.3719
     },
     {
       "block_id": "c564f83b89c5-137",
@@ -11011,8 +11040,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000",
       "transplantation_survey_end": "2022-01-21 09:38:26",
-      "longitude": 2.6106,
-      "latitude": 6.3833
+      "longitude": 2.6113,
+      "latitude": 6.3809
     },
     {
       "block_id": "c564f83b89c5-138",
@@ -11072,8 +11101,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants",
       "transplantation_survey_end": "2022-01-21 10:01:38",
-      "longitude": 2.6077,
-      "latitude": 6.3665
+      "longitude": 2.6157,
+      "latitude": 6.3748
     },
     {
       "block_id": "c564f83b89c5-139",
@@ -11133,8 +11162,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants",
       "transplantation_survey_end": "2022-01-21 09:50:05",
-      "longitude": 2.6089,
-      "latitude": 6.3706
+      "longitude": 2.6027,
+      "latitude": 6.3765
     },
     {
       "block_id": "c564f83b89c5-140",
@@ -11188,8 +11217,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants / ha",
       "transplantation_survey_end": "2022-02-21 13:21:20",
-      "longitude": 2.6037,
-      "latitude": 6.3797
+      "longitude": 2.6082,
+      "latitude": 6.3723
     },
     {
       "block_id": "c564f83b89c5-141",
@@ -11248,8 +11277,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants / ha",
       "transplantation_survey_end": "2022-02-21 13:28:14",
-      "longitude": 2.598,
-      "latitude": 6.3934
+      "longitude": 2.612,
+      "latitude": 6.3777
     },
     {
       "block_id": "c564f83b89c5-142",
@@ -11309,8 +11338,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2021-12-01 11:19:21",
-      "longitude": 2.5758,
-      "latitude": 6.3567
+      "longitude": 2.5723,
+      "latitude": 6.3824
     },
     {
       "block_id": "c564f83b89c5-143",
@@ -11370,8 +11399,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-01 11:26:02",
-      "longitude": 2.5646,
-      "latitude": 6.3817
+      "longitude": 2.5773,
+      "latitude": 6.3773
     },
     {
       "block_id": "c564f83b89c5-144",
@@ -11430,8 +11459,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "30000 plants/ha",
       "transplantation_survey_end": "2021-12-01 10:02:20",
-      "longitude": 2.5687,
-      "latitude": 6.3641
+      "longitude": 2.559,
+      "latitude": 6.3713
     },
     {
       "block_id": "c564f83b89c5-145",
@@ -11491,8 +11520,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants/ha",
       "transplantation_survey_end": "2021-12-01 10:40:14",
-      "longitude": 2.5745,
-      "latitude": 6.3736
+      "longitude": 2.5718,
+      "latitude": 6.3769
     },
     {
       "block_id": "c564f83b89c5-146",
@@ -11597,8 +11626,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-08 09:27:21",
-      "longitude": 2.5596,
-      "latitude": 6.3786
+      "longitude": 2.5765,
+      "latitude": 6.3829
     },
     {
       "block_id": "c564f83b89c5-148",
@@ -11658,8 +11687,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-01 09:49:52",
-      "longitude": 2.569,
-      "latitude": 6.3672
+      "longitude": 2.5616,
+      "latitude": 6.3803
     },
     {
       "block_id": "c564f83b89c5-149",
@@ -11719,8 +11748,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "24000 plants/ha",
       "transplantation_survey_end": "2022-02-21 14:27:59",
-      "longitude": 2.6008,
-      "latitude": 6.3794
+      "longitude": 2.6081,
+      "latitude": 6.3832
     },
     {
       "block_id": "c564f83b89c5-150",
@@ -11781,8 +11810,8 @@
       "transplantation_plotsize": "6m2",
       "transplantation_plantdensity": "25000 plants /ha",
       "transplantation_survey_end": "2021-12-08 09:20:43",
-      "longitude": 2.5813,
-      "latitude": 6.3704
+      "longitude": 2.5728,
+      "latitude": 6.3872
     },
     {
       "block_id": "c564f83b89c5-151",
@@ -11930,8 +11959,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 09:58:22",
-      "longitude": 2.538,
-      "latitude": 6.6048
+      "longitude": 2.5364,
+      "latitude": 6.6067
     },
     {
       "block_id": "c564f83b89c5-153",
@@ -12038,8 +12067,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:05:27",
-      "longitude": 2.5641,
-      "latitude": 6.5954
+      "longitude": 2.5517,
+      "latitude": 6.578
     },
     {
       "block_id": "c564f83b89c5-154",
@@ -12143,8 +12172,8 @@
       "quatrimercolte_item_B_vs_local": "Worse",
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_survey_end": "2022-03-06 10:08:06",
-      "longitude": 2.5673,
-      "latitude": 6.5921
+      "longitude": 2.5439,
+      "latitude": 6.6
     },
     {
       "block_id": "c564f83b89c5-155",
@@ -12527,8 +12556,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:14:26",
-      "longitude": 2.5503,
-      "latitude": 6.6136
+      "longitude": 2.54,
+      "latitude": 6.6053
     },
     {
       "block_id": "c564f83b89c5-162",
@@ -12578,8 +12607,8 @@
       "ppinire_plantingdate": "2021-12-01",
       "ppinire_localvariety": "Amaranth ",
       "ppinire_survey_end": "2021-11-14 09:46:11",
-      "longitude": 2.5336,
-      "latitude": 6.5999
+      "longitude": 2.5457,
+      "latitude": 6.5954
     },
     {
       "block_id": "c564f83b89c5-163",
@@ -12774,8 +12803,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:10:29",
-      "longitude": 2.5475,
-      "latitude": 6.6135
+      "longitude": 2.5441,
+      "latitude": 6.6172
     },
     {
       "block_id": "c564f83b89c5-166",
@@ -12925,8 +12954,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:17:30",
-      "longitude": 2.5398,
-      "latitude": 6.5985
+      "longitude": 2.5328,
+      "latitude": 6.596
     },
     {
       "block_id": "c564f83b89c5-168",
@@ -13033,8 +13062,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:21:41",
-      "longitude": 2.5423,
-      "latitude": 6.5903
+      "longitude": 2.5573,
+      "latitude": 6.5843
     },
     {
       "block_id": "c564f83b89c5-169",
@@ -13172,8 +13201,8 @@
       "performanceagronomique3_whichlost": "Rien",
       "performanceagronomique3_diseasesany": "Non Applicable",
       "performanceagronomique3_survey_end": "2022-02-26 14:42:38",
-      "longitude": 2.5577,
-      "latitude": 6.5813
+      "longitude": 2.5605,
+      "latitude": 6.6003
     },
     {
       "block_id": "c564f83b89c5-171",
@@ -13367,8 +13396,8 @@
       "quatrimercolte_item_B_vs_local": "Worse",
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_survey_end": "2022-03-06 10:26:25",
-      "longitude": 2.5426,
-      "latitude": 6.5927
+      "longitude": 2.5508,
+      "latitude": 6.6039
     },
     {
       "block_id": "c564f83b89c5-174",
@@ -13418,8 +13447,8 @@
       "ppinire_plantingdate": "2021-10-31",
       "ppinire_localvariety": "Amaranth ",
       "ppinire_survey_end": "2021-11-14 09:51:28",
-      "longitude": 2.5459,
-      "latitude": 6.6068
+      "longitude": 2.5466,
+      "latitude": 6.5964
     },
     {
       "block_id": "c564f83b89c5-175",
@@ -13512,8 +13541,8 @@
       "ppinire_plantingdate": "2021-10-31",
       "ppinire_localvariety": "Amaranth ",
       "ppinire_survey_end": "2021-11-14 10:01:38",
-      "longitude": 2.5435,
-      "latitude": 6.6145
+      "longitude": 2.5413,
+      "latitude": 6.619
     },
     {
       "block_id": "c564f83b89c5-177",
@@ -13663,8 +13692,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:28:52",
-      "longitude": 2.5346,
-      "latitude": 6.596
+      "longitude": 2.5484,
+      "latitude": 6.6057
     },
     {
       "block_id": "c564f83b89c5-179",
@@ -13809,8 +13838,8 @@
       "transplantation_plotsize": "15",
       "transplantation_plantdensity": "20x20",
       "transplantation_survey_end": "2022-01-22 10:03:26",
-      "longitude": 2.5486,
-      "latitude": 6.6124
+      "longitude": 2.5451,
+      "latitude": 6.6099
     },
     {
       "block_id": "c564f83b89c5-183",
@@ -13910,8 +13939,8 @@
       "transplantation_plotsize": "1x6m",
       "transplantation_plantdensity": "20x20",
       "transplantation_survey_end": "2022-02-19 11:08:38",
-      "longitude": 2.5397,
-      "latitude": 6.603
+      "longitude": 2.5628,
+      "latitude": 6.5942
     },
     {
       "block_id": "c564f83b89c5-185",
@@ -14061,8 +14090,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:32:53",
-      "longitude": 2.5363,
-      "latitude": 6.6165
+      "longitude": 2.5322,
+      "latitude": 6.6016
     },
     {
       "block_id": "c564f83b89c5-187",
@@ -14167,8 +14196,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:35:28",
-      "longitude": 2.5592,
-      "latitude": 6.5941
+      "longitude": 2.5435,
+      "latitude": 6.5883
     },
     {
       "block_id": "c564f83b89c5-188",
@@ -14271,8 +14300,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:52:32",
-      "longitude": 2.5537,
-      "latitude": 6.5827
+      "longitude": 2.5569,
+      "latitude": 6.5985
     },
     {
       "block_id": "c564f83b89c5-189",
@@ -14368,8 +14397,8 @@
       "performanceagronomique3_whichlost": "Rien",
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_survey_end": "2022-02-26 14:55:40",
-      "longitude": 2.5533,
-      "latitude": 6.6004
+      "longitude": 2.5474,
+      "latitude": 6.6144
     },
     {
       "block_id": "c564f83b89c5-190",
@@ -14475,8 +14504,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:42:51",
-      "longitude": 2.5429,
-      "latitude": 6.5827
+      "longitude": 2.5466,
+      "latitude": 6.6011
     },
     {
       "block_id": "c564f83b89c5-191",
@@ -14574,8 +14603,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:53:52",
-      "longitude": 2.5889,
-      "latitude": 6.5698
+      "longitude": 2.5673,
+      "latitude": 6.5758
     },
     {
       "block_id": "c564f83b89c5-192",
@@ -14673,8 +14702,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_survey_end": "2022-03-06 10:39:43",
-      "longitude": 2.551,
-      "latitude": 6.5786
+      "longitude": 2.5493,
+      "latitude": 6.5961
     },
     {
       "block_id": "c564f83b89c5-193",
@@ -14780,8 +14809,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:44:28",
-      "longitude": 2.5515,
-      "latitude": 6.6041
+      "longitude": 2.5416,
+      "latitude": 6.5938
     },
     {
       "block_id": "c564f83b89c5-194",
@@ -14887,8 +14916,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:48:29",
-      "longitude": 2.5392,
-      "latitude": 6.6092
+      "longitude": 2.5436,
+      "latitude": 6.6159
     },
     {
       "block_id": "c564f83b89c5-195",
@@ -15122,8 +15151,8 @@
       "quatrimercolte_item_B_vs_local": "Better",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-03-06 10:50:36",
-      "longitude": 2.5499,
-      "latitude": 6.5809
+      "longitude": 2.5532,
+      "latitude": 6.5891
     },
     {
       "block_id": "c564f83b89c5-199",
@@ -15274,8 +15303,8 @@
       "ppinire_plantingdate": "2021-11-08",
       "ppinire_localvariety": "Amarante ",
       "ppinire_survey_end": "2021-11-18 16:35:26",
-      "longitude": 1.7847,
-      "latitude": 6.261
+      "longitude": 1.7947,
+      "latitude": 6.2592
     },
     {
       "block_id": "c564f83b89c5-202",
@@ -15381,8 +15410,8 @@
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_diseasewherefr_oth": "00",
       "performanceagronomique3_survey_end": "2022-02-11 12:21:46",
-      "longitude": 1.7167,
-      "latitude": 6.2585
+      "longitude": 1.7241,
+      "latitude": 6.2682
     },
     {
       "block_id": "c564f83b89c5-203",
@@ -15493,8 +15522,8 @@
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_diseasewherefr_oth": "00",
       "performanceagronomique3_survey_end": "2022-02-11 15:32:02",
-      "longitude": 1.7637,
-      "latitude": 6.2598
+      "longitude": 1.7802,
+      "latitude": 6.2744
     },
     {
       "block_id": "c564f83b89c5-204",
@@ -15591,8 +15620,8 @@
       "performanceagronomique3_whichlost": "Rien",
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_survey_end": "2022-02-11 11:43:27",
-      "longitude": 1.7215,
-      "latitude": 6.2492
+      "longitude": 1.7076,
+      "latitude": 6.2441
     },
     {
       "block_id": "c564f83b89c5-205",
@@ -15646,8 +15675,8 @@
       "ppinire_plantingdate": "2021-10-20",
       "ppinire_localvariety": "Amarante",
       "ppinire_survey_end": "2021-11-18 14:34:59",
-      "longitude": 1.738,
-      "latitude": 6.2638
+      "longitude": 1.7264,
+      "latitude": 6.2489
     },
     {
       "block_id": "c564f83b89c5-209",
@@ -15757,8 +15786,8 @@
       "ppinire_plantingdate": "2021-10-26",
       "ppinire_localvariety": "Abc",
       "ppinire_survey_end": "2021-11-09 14:40:21",
-      "longitude": 1.7775,
-      "latitude": 6.2759
+      "longitude": 1.8033,
+      "latitude": 6.2784
     },
     {
       "block_id": "c564f83b89c5-211",
@@ -15862,8 +15891,8 @@
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_diseasewherefr_oth": "00",
       "performanceagronomique3_survey_end": "2022-02-11 15:43:08",
-      "longitude": 1.7995,
-      "latitude": 6.2796
+      "longitude": 1.8047,
+      "latitude": 6.2726
     },
     {
       "block_id": "c564f83b89c5-212",
@@ -15924,8 +15953,8 @@
       "transplantation_plotsize": "3mx17m",
       "transplantation_plantdensity": "250000",
       "transplantation_survey_end": "2021-11-29 13:06:42",
-      "longitude": 1.789,
-      "latitude": 6.282
+      "longitude": 1.8025,
+      "latitude": 6.2689
     },
     {
       "block_id": "c564f83b89c5-213",
@@ -16032,8 +16061,8 @@
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_diseasewhere": "N'est Pas Applicable",
       "performanceagronomique3_survey_end": "2022-02-10 07:57:42",
-      "longitude": 1.7913,
-      "latitude": 6.2818
+      "longitude": 1.7891,
+      "latitude": 6.2629
     },
     {
       "block_id": "c564f83b89c5-214",
@@ -16128,8 +16157,8 @@
       "performanceagronomique3_whichlost": "Rien",
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_survey_end": "2022-02-10 08:27:42",
-      "longitude": 1.7826,
-      "latitude": 6.2688
+      "longitude": 1.7842,
+      "latitude": 6.2804
     },
     {
       "block_id": "c564f83b89c5-215",
@@ -16190,8 +16219,8 @@
       "ppinire_plantingdate": "2021-10-22",
       "ppinire_localvariety": "Abc",
       "ppinire_survey_end": "2021-11-09 14:32:45",
-      "longitude": 1.7934,
-      "latitude": 6.2656
+      "longitude": 1.7813,
+      "latitude": 6.2787
     },
     {
       "block_id": "c564f83b89c5-217",
@@ -16344,8 +16373,8 @@
       "performanceagronomique3_diseasewhere": "N'est Pas Applicable",
       "performanceagronomique3_diseasewherefr_oth": "00",
       "performanceagronomique3_survey_end": "2022-02-11 11:23:36",
-      "longitude": 1.7818,
-      "latitude": 6.2815
+      "longitude": 1.7825,
+      "latitude": 6.2719
     },
     {
       "block_id": "c564f83b89c5-219",
@@ -16425,8 +16454,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2022-01-26 12:44:26",
-      "longitude": 1.7156,
-      "latitude": 6.2684
+      "longitude": 1.729,
+      "latitude": 6.2661
     },
     {
       "block_id": "c564f83b89c5-220",
@@ -16572,8 +16601,8 @@
       "performanceagronomique3_diseasesany": "Non",
       "performanceagronomique3_diseasewherefr_oth": "00",
       "performanceagronomique3_survey_end": "2022-02-11 12:05:20",
-      "longitude": 1.7091,
-      "latitude": 6.2561
+      "longitude": 1.718,
+      "latitude": 6.2522
     },
     {
       "block_id": "c564f83b89c5-222",
@@ -16664,8 +16693,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2022-02-11 15:51:33",
-      "longitude": 1.744,
-      "latitude": 6.2628
+      "longitude": 1.7398,
+      "latitude": 6.26
     },
     {
       "block_id": "c564f83b89c5-223",
@@ -16778,8 +16807,8 @@
       "floraison_diseasesany": "Non Applicable",
       "floraison_diseasewhere": "N'est Pas Applicable",
       "floraison_survey_end": "2021-12-15 14:11:45",
-      "longitude": 1.7599,
-      "latitude": 6.2677
+      "longitude": 1.776,
+      "latitude": 6.2676
     },
     {
       "block_id": "c564f83b89c5-227",
@@ -16873,8 +16902,8 @@
       "quatrimercolte_item_B_vs_local": "Worse",
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_survey_end": "2022-01-18 11:35:57",
-      "longitude": 1.7849,
-      "latitude": 6.2691
+      "longitude": 1.7748,
+      "latitude": 6.2732
     },
     {
       "block_id": "c564f83b89c5-228",
@@ -17010,8 +17039,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2022-01-18 10:31:50",
-      "longitude": 1.7678,
-      "latitude": 6.2606
+      "longitude": 1.7719,
+      "latitude": 6.2752
     },
     {
       "block_id": "c564f83b89c5-231",
@@ -17086,8 +17115,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2021-12-22 09:58:35",
-      "longitude": 2.5758,
-      "latitude": 6.4954
+      "longitude": 2.5774,
+      "latitude": 6.5005
     },
     {
       "block_id": "c564f83b89c5-232",
@@ -17164,8 +17193,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2021-12-03 08:53:43",
-      "longitude": 2.6192,
-      "latitude": 6.4713
+      "longitude": 2.6113,
+      "latitude": 6.4654
     },
     {
       "block_id": "c564f83b89c5-233",
@@ -17240,8 +17269,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "B",
       "premirercolte_survey_end": "2021-12-17 11:19:07",
-      "longitude": 2.6276,
-      "latitude": 6.4694
+      "longitude": 2.632,
+      "latitude": 6.4667
     },
     {
       "block_id": "c564f83b89c5-234",
@@ -17366,8 +17395,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A",
       "premirercolte_survey_end": "2021-12-22 11:41:59",
-      "longitude": 2.6088,
-      "latitude": 6.5129
+      "longitude": 2.5896,
+      "latitude": 6.5289
     },
     {
       "block_id": "c564f83b89c5-236",
@@ -17442,8 +17471,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2021-12-21 10:02:24",
-      "longitude": 2.6328,
-      "latitude": 6.4601
+      "longitude": 2.6372,
+      "latitude": 6.4653
     },
     {
       "block_id": "c564f83b89c5-237",
@@ -17518,8 +17547,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2021-12-17 10:04:08",
-      "longitude": 2.6333,
-      "latitude": 6.4958
+      "longitude": 2.6475,
+      "latitude": 6.4915
     },
     {
       "block_id": "c564f83b89c5-238",
@@ -17575,8 +17604,8 @@
       "ppinire_plantingdate": "2021-11-15",
       "ppinire_localvariety": "LOCAL BLANC ",
       "ppinire_survey_end": "2021-11-23 10:00:55",
-      "longitude": 2.6434,
-      "latitude": 6.455
+      "longitude": 2.629,
+      "latitude": 6.4705
     },
     {
       "block_id": "c564f83b89c5-239",
@@ -17650,8 +17679,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2021-12-06 10:08:55",
-      "longitude": 2.647,
-      "latitude": 6.4743
+      "longitude": 2.6338,
+      "latitude": 6.4937
     },
     {
       "block_id": "c564f83b89c5-240",
@@ -17776,8 +17805,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2021-12-22 11:17:43",
-      "longitude": 2.5987,
-      "latitude": 6.5203
+      "longitude": 2.5965,
+      "latitude": 6.5216
     },
     {
       "block_id": "c564f83b89c5-243",
@@ -17851,8 +17880,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "B",
       "premirercolte_survey_end": "2022-01-06 09:50:14",
-      "longitude": 2.647,
-      "latitude": 6.4884
+      "longitude": 2.6586,
+      "latitude": 6.4759
     },
     {
       "block_id": "c564f83b89c5-244",
@@ -17927,8 +17956,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A",
       "premirercolte_survey_end": "2022-01-06 09:29:16",
-      "longitude": 2.652,
-      "latitude": 6.4673
+      "longitude": 2.6533,
+      "latitude": 6.4833
     },
     {
       "block_id": "c564f83b89c5-245",
@@ -18002,8 +18031,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2022-01-06 09:30:08",
-      "longitude": 2.6476,
-      "latitude": 6.489
+      "longitude": 2.6415,
+      "latitude": 6.4848
     },
     {
       "block_id": "c564f83b89c5-246",
@@ -18088,8 +18117,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2022-01-20 09:34:39",
-      "longitude": 2.5771,
-      "latitude": 6.51
+      "longitude": 2.5867,
+      "latitude": 6.5176
     },
     {
       "block_id": "c564f83b89c5-247",
@@ -18145,8 +18174,8 @@
       "ppinire_plantingdate": "2021-11-24",
       "ppinire_localvariety": "LOCAL BLANC",
       "ppinire_survey_end": "2021-11-30 10:20:25",
-      "longitude": 2.6276,
-      "latitude": 6.4739
+      "longitude": 2.6434,
+      "latitude": 6.4606
     },
     {
       "block_id": "c564f83b89c5-248",
@@ -18221,8 +18250,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2021-12-21 09:27:47",
-      "longitude": 2.646,
-      "latitude": 6.4744
+      "longitude": 2.6511,
+      "latitude": 6.4615
     },
     {
       "block_id": "c564f83b89c5-249",
@@ -18301,8 +18330,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "C",
       "premirercolte_survey_end": "2021-12-21 08:52:36",
-      "longitude": 2.6434,
-      "latitude": 6.4874
+      "longitude": 2.6493,
+      "latitude": 6.4797
     },
     {
       "block_id": "c564f83b89c5-250",
@@ -18359,8 +18388,8 @@
       "ppinire_plantingdate": "2021-11-02",
       "ppinire_localvariety": "LOCAL BLANC ",
       "ppinire_survey_end": "2021-11-18 10:19:00",
-      "longitude": 2.5739,
-      "latitude": 6.4909
+      "longitude": 2.5743,
+      "latitude": 6.5082
     },
     {
       "block_id": "c564f83b89c5-251",
@@ -18434,8 +18463,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "B; C",
       "premirercolte_survey_end": "2021-12-06 10:05:54",
-      "longitude": 2.6353,
-      "latitude": 6.4817
+      "longitude": 2.632,
+      "latitude": 6.4837
     },
     {
       "block_id": "c564f83b89c5-252",
@@ -18560,8 +18589,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A",
       "premirercolte_survey_end": "2021-12-17 10:14:50",
-      "longitude": 2.6316,
-      "latitude": 6.4898
+      "longitude": 2.6357,
+      "latitude": 6.4705
     },
     {
       "block_id": "c564f83b89c5-254",
@@ -18686,8 +18715,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2021-12-22 10:32:10",
-      "longitude": 2.571,
-      "latitude": 6.5023
+      "longitude": 2.5857,
+      "latitude": 6.5
     },
     {
       "block_id": "c564f83b89c5-256",
@@ -18743,8 +18772,8 @@
       "ppinire_plantingdate": "2021-11-06",
       "ppinire_localvariety": "LOCAL BLANC",
       "ppinire_survey_end": "2021-11-18 11:24:12",
-      "longitude": 2.5791,
-      "latitude": 6.5048
+      "longitude": 2.5829,
+      "latitude": 6.5161
     },
     {
       "block_id": "c564f83b89c5-257",
@@ -18800,8 +18829,8 @@
       "ppinire_plantingdate": "2021-11-06",
       "ppinire_localvariety": "LOCAL ",
       "ppinire_survey_end": "2021-11-18 10:59:38",
-      "longitude": 2.5863,
-      "latitude": 6.5052
+      "longitude": 2.5767,
+      "latitude": 6.5134
     },
     {
       "block_id": "c564f83b89c5-258",
@@ -18907,8 +18936,8 @@
       "ppinire_plantingdate": "2021-11-02",
       "ppinire_localvariety": "LOCAL BLANC ",
       "ppinire_survey_end": "2021-11-18 12:24:20",
-      "longitude": 2.5955,
-      "latitude": 6.5144
+      "longitude": 2.6008,
+      "latitude": 6.5222
     },
     {
       "block_id": "c564f83b89c5-260",
@@ -18998,8 +19027,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2022-01-26 10:58:29",
-      "longitude": 2.6321,
-      "latitude": 6.5043
+      "longitude": 2.6363,
+      "latitude": 6.4981
     }
   ],
   "plot_data": [

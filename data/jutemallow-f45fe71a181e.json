@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-09-13",
+      "version": "v2025-09-18",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -22,7 +22,7 @@
       "experimental_site": "farm"
     },
     "date": {
-      "start": "2023-10-30",
+      "start": "2023-01-09",
       "end": "2024-04-25"
     },
     "geoLocation": {
@@ -49,53 +49,79 @@
       "men": 279,
       "women": 213
     },
+    "funder": [
+      {
+        "funderName": "Norwegian Agency for Development Cooperation",
+        "funderIdentifier": "https://ror.org/04zbn7k04",
+        "awardTitle": "Biodiversity for Opportunities, Livelihoods and Development (BOLD)",
+        "awardNumber": "CONT-1522"
+      },
+      {
+        "funderName": "Federal Ministry for Economic Cooperation and Development (BMZ)",
+        "funderIdentifier": "https://ror.org/00e0ttj68",
+        "awardTitle": "Choose, Grow, Thrive: Using citizen science in expanding West Africa's food basket with African vegetables to tackle malnutrition (BMZ-CGT)",
+        "awardNumber": "81260859"
+      },
+      {
+        "funderName": "Swiss Agency for Development and Cooperation (SDC)",
+        "funderIdentifier": "https://ror.org/02e5d6q93",
+        "awardTitle": "Consumption of Resilient Orphan Crops and Products for Healthier Diets (CROPS4HD) project",
+        "awardNumber": "CROPS4HD 65213"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "SUD2",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "IP2",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "Crincrin local",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Farmer check",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "No information provided",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "ES",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "SUD 4",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       },
       {
         "genotype_name": "Bafia",
-        "role": "No information provided",
-        "year_release": "No information provided",
-        "market_segment": "No information provided",
-        "country_origin": "No information provided",
+        "role": "Genebank accession",
+        "release_year": "No information provided",
+        "crossing_year": "No information provided",
+        "target_trait": "No information provided",
+        "origin": "WorldVeg",
         "remarks": "No information provided"
       }
     ],
@@ -998,8 +1024,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-15 10:33:39",
-      "longitude": 1.8145,
-      "latitude": 6.5293
+      "longitude": 1.8187,
+      "latitude": 6.5263
     },
     {
       "block_id": "f45fe71a181e-2",
@@ -1058,8 +1084,8 @@
       "transplantation_plotsize": "2000",
       "transplantation_plantdensity": "semi a la volé",
       "transplantation_survey_end": "2024-01-31 06:50:29",
-      "longitude": 1.8022,
-      "latitude": 6.5065
+      "longitude": 1.7948,
+      "latitude": 6.5043
     },
     {
       "block_id": "f45fe71a181e-3",
@@ -1142,8 +1168,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-04-16 06:52:47",
-      "longitude": 1.7988,
-      "latitude": 6.5585
+      "longitude": 1.8082,
+      "latitude": 6.553
     },
     {
       "block_id": "f45fe71a181e-4",
@@ -1224,8 +1250,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-04-15 14:05:08",
-      "longitude": 1.8161,
-      "latitude": 6.571
+      "longitude": 1.8131,
+      "latitude": 6.5549
     },
     {
       "block_id": "f45fe71a181e-5",
@@ -1283,8 +1309,8 @@
       "transplantation_plotsize": "180",
       "transplantation_plantdensity": "40x 40",
       "transplantation_survey_end": "2024-01-31 07:01:34",
-      "longitude": 1.817,
-      "latitude": 6.5604
+      "longitude": 1.8087,
+      "latitude": 6.552
     },
     {
       "block_id": "f45fe71a181e-6",
@@ -1361,8 +1387,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-16 08:23:35",
-      "longitude": 1.8145,
-      "latitude": 6.5169
+      "longitude": 1.8295,
+      "latitude": 6.5008
     },
     {
       "block_id": "f45fe71a181e-7",
@@ -1425,8 +1451,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-01-31 08:14:13",
-      "longitude": 1.8062,
-      "latitude": 6.511
+      "longitude": 1.8103,
+      "latitude": 6.5245
     },
     {
       "block_id": "f45fe71a181e-8",
@@ -1506,8 +1532,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-16 06:34:55",
-      "longitude": 1.8207,
-      "latitude": 6.4899
+      "longitude": 1.8149,
+      "latitude": 6.5
     },
     {
       "block_id": "f45fe71a181e-9",
@@ -1591,8 +1617,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-16 05:57:42",
-      "longitude": 1.81,
-      "latitude": 6.5407
+      "longitude": 1.8121,
+      "latitude": 6.5457
     },
     {
       "block_id": "f45fe71a181e-10",
@@ -1665,8 +1691,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-04-15 10:41:20",
-      "longitude": 1.8689,
-      "latitude": 6.5685
+      "longitude": 1.8648,
+      "latitude": 6.5604
     },
     {
       "block_id": "f45fe71a181e-11",
@@ -1740,8 +1766,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B",
       "troisimercolte_survey_end": "2024-04-16 08:53:23",
-      "longitude": 1.8307,
-      "latitude": 6.5598
+      "longitude": 1.8246,
+      "latitude": 6.5726
     },
     {
       "block_id": "f45fe71a181e-12",
@@ -1824,8 +1850,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-16 08:46:05",
-      "longitude": 1.8662,
-      "latitude": 6.5718
+      "longitude": 1.8611,
+      "latitude": 6.5664
     },
     {
       "block_id": "f45fe71a181e-13",
@@ -1907,8 +1933,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-15 13:43:04",
-      "longitude": 1.7979,
-      "latitude": 6.6196
+      "longitude": 1.7985,
+      "latitude": 6.6181
     },
     {
       "block_id": "f45fe71a181e-14",
@@ -1983,8 +2009,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-16 06:44:55",
-      "longitude": 1.8024,
-      "latitude": 6.5033
+      "longitude": 1.8095,
+      "latitude": 6.5064
     },
     {
       "block_id": "f45fe71a181e-15",
@@ -2047,8 +2073,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A",
       "premirercolte_survey_end": "2024-01-31 08:01:37",
-      "longitude": 1.7892,
-      "latitude": 6.6193
+      "longitude": 1.8028,
+      "latitude": 6.6229
     },
     {
       "block_id": "f45fe71a181e-16",
@@ -2130,8 +2156,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-04-16 06:21:47",
-      "longitude": 1.8005,
-      "latitude": 6.6107
+      "longitude": 1.7934,
+      "latitude": 6.6175
     },
     {
       "block_id": "f45fe71a181e-17",
@@ -2209,8 +2235,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-15 13:28:45",
-      "longitude": 1.8336,
-      "latitude": 6.6594
+      "longitude": 1.8301,
+      "latitude": 6.6579
     },
     {
       "block_id": "f45fe71a181e-18",
@@ -2292,8 +2318,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-16 08:33:42",
-      "longitude": 1.8381,
-      "latitude": 6.6539
+      "longitude": 1.8121,
+      "latitude": 6.653
     },
     {
       "block_id": "f45fe71a181e-19",
@@ -2366,8 +2392,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-16 06:08:11",
-      "longitude": 1.8407,
-      "latitude": 6.5781
+      "longitude": 1.8331,
+      "latitude": 6.5735
     },
     {
       "block_id": "f45fe71a181e-20",
@@ -2423,8 +2449,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-01-29 23:00:50",
-      "longitude": 1.8221,
-      "latitude": 6.5546
+      "longitude": 1.8202,
+      "latitude": 6.5721
     },
     {
       "block_id": "f45fe71a181e-22",
@@ -2473,8 +2499,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière électrique; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2024-01-29 23:04:29",
-      "longitude": 1.8176,
-      "latitude": 6.5981
+      "longitude": 1.8117,
+      "latitude": 6.5882
     },
     {
       "block_id": "f45fe71a181e-23",
@@ -2523,8 +2549,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Table Et Chaises0; Table Et ChaisesCuisinière électrique; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2024-01-29 23:09:35",
-      "longitude": 1.8228,
-      "latitude": 6.5715
+      "longitude": 1.8382,
+      "latitude": 6.5729
     },
     {
       "block_id": "f45fe71a181e-24",
@@ -2572,8 +2598,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-01-29 23:12:05",
-      "longitude": 1.8203,
-      "latitude": 6.555
+      "longitude": 1.8198,
+      "latitude": 6.5735
     },
     {
       "block_id": "f45fe71a181e-25",
@@ -2622,8 +2648,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-01-30 07:20:39",
-      "longitude": 1.7719,
-      "latitude": 6.5781
+      "longitude": 1.7755,
+      "latitude": 6.574
     },
     {
       "block_id": "f45fe71a181e-26",
@@ -2682,8 +2708,8 @@
       "transplantation_plotsize": "260",
       "transplantation_plantdensity": "20x20",
       "transplantation_survey_end": "2024-01-31 06:55:26",
-      "longitude": 1.8558,
-      "latitude": 6.5662
+      "longitude": 1.8611,
+      "latitude": 6.5777
     },
     {
       "block_id": "f45fe71a181e-27",
@@ -2739,8 +2765,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Vélo; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesLit; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-01-29 23:15:38",
-      "longitude": 1.8165,
-      "latitude": 6.646
+      "longitude": 1.821,
+      "latitude": 6.6337
     },
     {
       "block_id": "f45fe71a181e-29",
@@ -2788,8 +2814,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-01-29 23:20:50",
-      "longitude": 1.8383,
-      "latitude": 6.5704
+      "longitude": 1.8257,
+      "latitude": 6.5592
     },
     {
       "block_id": "f45fe71a181e-30",
@@ -2843,8 +2869,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Tapis; Cuisinière à Gaz; Réfrigérateur; Table Et Chaises0; Table Et ChaisesTable Et Chaises; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Gaz; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2023-12-30 22:19:02",
-      "longitude": 2.3893,
-      "latitude": 6.3709
+      "longitude": 2.3895,
+      "latitude": 6.3751
     },
     {
       "block_id": "f45fe71a181e-31",
@@ -2919,8 +2945,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:39:16",
-      "longitude": 2.0413,
-      "latitude": 6.6526
+      "longitude": 2.0232,
+      "latitude": 6.6554
     },
     {
       "block_id": "f45fe71a181e-32",
@@ -2995,8 +3021,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-04-15 20:44:19",
-      "longitude": 2.024,
-      "latitude": 6.6673
+      "longitude": 2.0441,
+      "latitude": 6.6549
     },
     {
       "block_id": "f45fe71a181e-33",
@@ -3071,8 +3097,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:48:47",
-      "longitude": 2.0342,
-      "latitude": 6.6538
+      "longitude": 2.0426,
+      "latitude": 6.6525
     },
     {
       "block_id": "f45fe71a181e-34",
@@ -3148,8 +3174,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:37:51",
-      "longitude": 2.0383,
-      "latitude": 6.6557
+      "longitude": 2.0371,
+      "latitude": 6.6567
     },
     {
       "block_id": "f45fe71a181e-35",
@@ -3214,8 +3240,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:16:53",
-      "longitude": 1.9661,
-      "latitude": 6.6137
+      "longitude": 1.9499,
+      "latitude": 6.6224
     },
     {
       "block_id": "f45fe71a181e-36",
@@ -3289,8 +3315,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:30:36",
-      "longitude": 2.0219,
-      "latitude": 6.6548
+      "longitude": 2.025,
+      "latitude": 6.67
     },
     {
       "block_id": "f45fe71a181e-37",
@@ -3324,8 +3350,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:10:35",
-      "longitude": 2.0264,
-      "latitude": 6.667
+      "longitude": 2.0451,
+      "latitude": 6.6576
     },
     {
       "block_id": "f45fe71a181e-38",
@@ -3400,8 +3426,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:13:57",
-      "longitude": 2.0326,
-      "latitude": 6.6746
+      "longitude": 2.0241,
+      "latitude": 6.6569
     },
     {
       "block_id": "f45fe71a181e-39",
@@ -3476,8 +3502,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:34:20",
-      "longitude": 2.0216,
-      "latitude": 6.6579
+      "longitude": 2.0243,
+      "latitude": 6.6487
     },
     {
       "block_id": "f45fe71a181e-40",
@@ -3551,8 +3577,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:15:33",
-      "longitude": 2.0302,
-      "latitude": 6.6496
+      "longitude": 2.0436,
+      "latitude": 6.6649
     },
     {
       "block_id": "f45fe71a181e-41",
@@ -3627,8 +3653,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 21:13:50",
-      "longitude": 2.0251,
-      "latitude": 6.6618
+      "longitude": 2.0409,
+      "latitude": 6.6707
     },
     {
       "block_id": "f45fe71a181e-42",
@@ -3703,8 +3729,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:19:42",
-      "longitude": 2.0244,
-      "latitude": 6.6493
+      "longitude": 2.0383,
+      "latitude": 6.6684
     },
     {
       "block_id": "f45fe71a181e-43",
@@ -3779,8 +3805,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:18:29",
-      "longitude": 1.9483,
-      "latitude": 6.6107
+      "longitude": 1.9502,
+      "latitude": 6.6247
     },
     {
       "block_id": "f45fe71a181e-44",
@@ -3855,8 +3881,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:36:21",
-      "longitude": 2.0242,
-      "latitude": 6.661
+      "longitude": 2.0296,
+      "latitude": 6.6658
     },
     {
       "block_id": "f45fe71a181e-45",
@@ -3931,8 +3957,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 21:16:46",
-      "longitude": 1.9581,
-      "latitude": 6.6124
+      "longitude": 1.9608,
+      "latitude": 6.6017
     },
     {
       "block_id": "f45fe71a181e-46",
@@ -4066,8 +4092,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-14 18:41:09",
-      "longitude": 2.9067,
-      "latitude": 11.0733
+      "longitude": 2.9117,
+      "latitude": 11.0918
     },
     {
       "block_id": "f45fe71a181e-52",
@@ -4168,8 +4194,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-14 18:33:13",
-      "longitude": 2.8892,
-      "latitude": 11.0792
+      "longitude": 2.9051,
+      "latitude": 11.0717
     },
     {
       "block_id": "f45fe71a181e-53",
@@ -4270,8 +4296,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-15 16:30:24",
-      "longitude": 2.9298,
-      "latitude": 11.1403
+      "longitude": 2.9333,
+      "latitude": 11.1334
     },
     {
       "block_id": "f45fe71a181e-54",
@@ -4372,8 +4398,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-15 16:21:07",
-      "longitude": 2.944,
-      "latitude": 11.1388
+      "longitude": 2.9405,
+      "latitude": 11.1392
     },
     {
       "block_id": "f45fe71a181e-55",
@@ -4473,8 +4499,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-15 16:38:35",
-      "longitude": 2.9391,
-      "latitude": 11.1325
+      "longitude": 2.937,
+      "latitude": 11.1268
     },
     {
       "block_id": "f45fe71a181e-56",
@@ -4571,8 +4597,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-24 17:04:25",
-      "longitude": 3.0008,
-      "latitude": 11.1592
+      "longitude": 3.004,
+      "latitude": 11.1569
     },
     {
       "block_id": "f45fe71a181e-57",
@@ -4670,8 +4696,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-24 18:25:06",
-      "longitude": 3.004,
-      "latitude": 11.1711
+      "longitude": 2.9928,
+      "latitude": 11.174
     },
     {
       "block_id": "f45fe71a181e-58",
@@ -4769,8 +4795,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-24 18:32:05",
-      "longitude": 2.9922,
-      "latitude": 11.1589
+      "longitude": 2.9982,
+      "latitude": 11.1692
     },
     {
       "block_id": "f45fe71a181e-59",
@@ -4868,8 +4894,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-24 18:18:30",
-      "longitude": 3.0037,
-      "latitude": 11.1546
+      "longitude": 3.0073,
+      "latitude": 11.1665
     },
     {
       "block_id": "f45fe71a181e-60",
@@ -4967,8 +4993,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-24 18:13:14",
-      "longitude": 3.003,
-      "latitude": 11.179
+      "longitude": 3.0082,
+      "latitude": 11.1793
     },
     {
       "block_id": "f45fe71a181e-61",
@@ -5066,8 +5092,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-24 18:07:41",
-      "longitude": 3.0011,
-      "latitude": 11.1695
+      "longitude": 2.9979,
+      "latitude": 11.1623
     },
     {
       "block_id": "f45fe71a181e-62",
@@ -5166,8 +5192,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-14 14:52:14",
-      "longitude": 2.8955,
-      "latitude": 11.0779
+      "longitude": 2.894,
+      "latitude": 11.0747
     },
     {
       "block_id": "f45fe71a181e-63",
@@ -5268,8 +5294,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2024-03-14 14:08:22",
-      "longitude": 2.8846,
-      "latitude": 11.0644
+      "longitude": 2.888,
+      "latitude": 11.0721
     },
     {
       "block_id": "f45fe71a181e-64",
@@ -5367,8 +5393,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-14 15:13:05",
-      "longitude": 2.88,
-      "latitude": 11.0728
+      "longitude": 2.904,
+      "latitude": 11.0833
     },
     {
       "block_id": "f45fe71a181e-65",
@@ -5467,8 +5493,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-03-10 16:29:12",
-      "longitude": 2.892,
-      "latitude": 11.0703
+      "longitude": 2.9132,
+      "latitude": 11.0756
     },
     {
       "block_id": "f45fe71a181e-66",
@@ -5568,8 +5594,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-14 13:51:39",
-      "longitude": 2.9001,
-      "latitude": 11.0739
+      "longitude": 2.8981,
+      "latitude": 11.0646
     },
     {
       "block_id": "f45fe71a181e-67",
@@ -5666,8 +5692,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-14 15:02:21",
-      "longitude": 2.9056,
-      "latitude": 11.0668
+      "longitude": 2.9044,
+      "latitude": 11.077
     },
     {
       "block_id": "f45fe71a181e-68",
@@ -5765,8 +5791,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-24 17:10:06",
-      "longitude": 3.0099,
-      "latitude": 11.1596
+      "longitude": 3.013,
+      "latitude": 11.1664
     },
     {
       "block_id": "f45fe71a181e-69",
@@ -5829,8 +5855,8 @@
       "socioeconomic_membershipwherefr_oth": "Association",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Table Et ChaisesTapis; Table Et Chaises0; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-01-29 20:39:12",
-      "longitude": 2.9109,
-      "latitude": 11.08
+      "longitude": 2.9065,
+      "latitude": 11.078
     },
     {
       "block_id": "f45fe71a181e-70",
@@ -5931,8 +5957,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-14 18:15:01",
-      "longitude": 2.897,
-      "latitude": 11.0913
+      "longitude": 2.8968,
+      "latitude": 11.072
     },
     {
       "block_id": "f45fe71a181e-71",
@@ -6052,8 +6078,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 15:03:20",
-      "longitude": 2.4455,
-      "latitude": 6.9043
+      "longitude": 2.4557,
+      "latitude": 6.8999
     },
     {
       "block_id": "f45fe71a181e-79",
@@ -6128,8 +6154,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 13:59:47",
-      "longitude": 2.5177,
-      "latitude": 6.8242
+      "longitude": 2.5136,
+      "latitude": 6.8241
     },
     {
       "block_id": "f45fe71a181e-80",
@@ -6204,8 +6230,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 14:04:00",
-      "longitude": 2.5221,
-      "latitude": 6.8265
+      "longitude": 2.5266,
+      "latitude": 6.8319
     },
     {
       "block_id": "f45fe71a181e-81",
@@ -6281,8 +6307,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-30 10:19:11",
-      "longitude": 2.5301,
-      "latitude": 6.8371
+      "longitude": 2.5387,
+      "latitude": 6.8323
     },
     {
       "block_id": "f45fe71a181e-82",
@@ -6358,8 +6384,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-26 17:42:07",
-      "longitude": 2.5357,
-      "latitude": 6.8358
+      "longitude": 2.5194,
+      "latitude": 6.8433
     },
     {
       "block_id": "f45fe71a181e-83",
@@ -6435,8 +6461,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 14:09:02",
-      "longitude": 2.5223,
-      "latitude": 6.8311
+      "longitude": 2.5384,
+      "latitude": 6.8345
     },
     {
       "block_id": "f45fe71a181e-84",
@@ -6512,8 +6538,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-26 18:24:50",
-      "longitude": 2.5368,
-      "latitude": 6.8383
+      "longitude": 2.5169,
+      "latitude": 6.8379
     },
     {
       "block_id": "f45fe71a181e-85",
@@ -6589,8 +6615,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-26 18:34:10",
-      "longitude": 2.5251,
-      "latitude": 6.819
+      "longitude": 2.5318,
+      "latitude": 6.8429
     },
     {
       "block_id": "f45fe71a181e-86",
@@ -6665,8 +6691,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 14:16:01",
-      "longitude": 2.5235,
-      "latitude": 6.8325
+      "longitude": 2.5203,
+      "latitude": 6.8282
     },
     {
       "block_id": "f45fe71a181e-87",
@@ -6742,8 +6768,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-26 18:36:45",
-      "longitude": 2.5263,
-      "latitude": 6.8299
+      "longitude": 2.5345,
+      "latitude": 6.8367
     },
     {
       "block_id": "f45fe71a181e-88",
@@ -6818,8 +6844,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-26 18:40:18",
-      "longitude": 2.5292,
-      "latitude": 6.836
+      "longitude": 2.5161,
+      "latitude": 6.8373
     },
     {
       "block_id": "f45fe71a181e-89",
@@ -6895,8 +6921,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-26 18:45:45",
-      "longitude": 2.5117,
-      "latitude": 6.8302
+      "longitude": 2.5241,
+      "latitude": 6.8391
     },
     {
       "block_id": "f45fe71a181e-90",
@@ -6955,8 +6981,8 @@
       "transplantation_plotsize": "7,2 m carré",
       "transplantation_plantdensity": "180",
       "transplantation_survey_end": "2024-01-26 16:56:07",
-      "longitude": 2.4727,
-      "latitude": 6.8187
+      "longitude": 2.4695,
+      "latitude": 6.811
     },
     {
       "block_id": "f45fe71a181e-91",
@@ -7029,8 +7055,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 14:26:56",
-      "longitude": 2.4725,
-      "latitude": 6.8257
+      "longitude": 2.4641,
+      "latitude": 6.819
     },
     {
       "block_id": "f45fe71a181e-92",
@@ -7142,8 +7168,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-26 18:53:24",
-      "longitude": 2.4371,
-      "latitude": 6.9154
+      "longitude": 2.4404,
+      "latitude": 6.9257
     },
     {
       "block_id": "f45fe71a181e-98",
@@ -7216,8 +7242,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 14:43:04",
-      "longitude": 2.4459,
-      "latitude": 6.929
+      "longitude": 2.4416,
+      "latitude": 6.9149
     },
     {
       "block_id": "f45fe71a181e-99",
@@ -7289,8 +7315,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 15:11:51",
-      "longitude": 2.4564,
-      "latitude": 6.9286
+      "longitude": 2.4456,
+      "latitude": 6.9399
     },
     {
       "block_id": "f45fe71a181e-100",
@@ -7363,8 +7389,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 14:38:20",
-      "longitude": 2.4459,
-      "latitude": 6.9315
+      "longitude": 2.4326,
+      "latitude": 6.9221
     },
     {
       "block_id": "f45fe71a181e-101",
@@ -7552,8 +7578,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A",
       "troisimercolte_survey_end": "2024-04-17 12:26:41",
-      "longitude": 1.7938,
-      "latitude": 7.045
+      "longitude": 1.7947,
+      "latitude": 7.0546
     },
     {
       "block_id": "f45fe71a181e-115",
@@ -7621,8 +7647,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-17 12:31:12",
-      "longitude": 1.8077,
-      "latitude": 7.039
+      "longitude": 1.7978,
+      "latitude": 7.0369
     },
     {
       "block_id": "f45fe71a181e-116",
@@ -7688,8 +7714,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "B; C",
       "troisimercolte_survey_end": "2024-04-17 12:34:32",
-      "longitude": 1.8098,
-      "latitude": 7.0375
+      "longitude": 1.7913,
+      "latitude": 7.0427
     },
     {
       "block_id": "f45fe71a181e-117",
@@ -7757,8 +7783,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-17 12:36:38",
-      "longitude": 1.8141,
-      "latitude": 7.0489
+      "longitude": 1.8114,
+      "latitude": 7.0517
     },
     {
       "block_id": "f45fe71a181e-118",
@@ -7860,8 +7886,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A",
       "troisimercolte_survey_end": "2024-04-17 12:42:52",
-      "longitude": 1.8034,
-      "latitude": 7.0485
+      "longitude": 1.8066,
+      "latitude": 7.0509
     },
     {
       "block_id": "f45fe71a181e-122",
@@ -7951,8 +7977,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-16 23:04:13",
-      "longitude": 1.8097,
-      "latitude": 7.05
+      "longitude": 1.796,
+      "latitude": 7.0366
     },
     {
       "block_id": "f45fe71a181e-125",
@@ -8009,8 +8035,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:15:36",
-      "longitude": 1.8006,
-      "latitude": 7.034
+      "longitude": 1.7966,
+      "latitude": 7.028
     },
     {
       "block_id": "f45fe71a181e-126",
@@ -8103,8 +8129,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:17:21",
-      "longitude": 1.7955,
-      "latitude": 7.0481
+      "longitude": 1.7917,
+      "latitude": 7.0353
     },
     {
       "block_id": "f45fe71a181e-130",
@@ -8160,8 +8186,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:18:57",
-      "longitude": 1.7916,
-      "latitude": 7.0539
+      "longitude": 1.8047,
+      "latitude": 7.0361
     },
     {
       "block_id": "f45fe71a181e-131",
@@ -8219,8 +8245,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:20:30",
-      "longitude": 1.8273,
-      "latitude": 6.9968
+      "longitude": 1.8434,
+      "latitude": 7.0014
     },
     {
       "block_id": "f45fe71a181e-132",
@@ -8280,8 +8306,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "B",
       "premirercolte_survey_end": "2024-04-16 21:22:27",
-      "longitude": 1.8288,
-      "latitude": 6.9816
+      "longitude": 1.8349,
+      "latitude": 6.9969
     },
     {
       "block_id": "f45fe71a181e-133",
@@ -8341,8 +8367,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:27:43",
-      "longitude": 1.8419,
-      "latitude": 6.9886
+      "longitude": 1.8295,
+      "latitude": 6.9807
     },
     {
       "block_id": "f45fe71a181e-134",
@@ -8461,8 +8487,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:30:21",
-      "longitude": 1.8043,
-      "latitude": 7.0339
+      "longitude": 1.7951,
+      "latitude": 7.0373
     },
     {
       "block_id": "f45fe71a181e-142",
@@ -8519,8 +8545,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:32:35",
-      "longitude": 1.8059,
-      "latitude": 7.0282
+      "longitude": 1.806,
+      "latitude": 7.0395
     },
     {
       "block_id": "f45fe71a181e-143",
@@ -8589,8 +8615,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:35:01",
-      "longitude": 1.8052,
-      "latitude": 7.0564
+      "longitude": 1.8035,
+      "latitude": 7.0455
     },
     {
       "block_id": "f45fe71a181e-145",
@@ -8647,8 +8673,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:37:30",
-      "longitude": 1.7999,
-      "latitude": 7.0417
+      "longitude": 1.7929,
+      "latitude": 7.0266
     },
     {
       "block_id": "f45fe71a181e-146",
@@ -8706,8 +8732,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "C",
       "premirercolte_survey_end": "2024-04-16 21:41:35",
-      "longitude": 1.7917,
-      "latitude": 7.0254
+      "longitude": 1.807,
+      "latitude": 7.0398
     },
     {
       "block_id": "f45fe71a181e-147",
@@ -8765,8 +8791,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:45:27",
-      "longitude": 1.8113,
-      "latitude": 7.0389
+      "longitude": 1.7859,
+      "latitude": 7.0319
     },
     {
       "block_id": "f45fe71a181e-148",
@@ -8823,8 +8849,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:47:10",
-      "longitude": 1.7893,
-      "latitude": 7.0313
+      "longitude": 1.7933,
+      "latitude": 7.0442
     },
     {
       "block_id": "f45fe71a181e-149",
@@ -8886,8 +8912,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-16 21:43:21",
-      "longitude": 1.8014,
-      "latitude": 7.041
+      "longitude": 1.7854,
+      "latitude": 7.0378
     },
     {
       "block_id": "f45fe71a181e-151",
@@ -8962,8 +8988,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:47:26",
-      "longitude": 2.0365,
-      "latitude": 6.6474
+      "longitude": 2.0364,
+      "latitude": 6.6515
     },
     {
       "block_id": "f45fe71a181e-152",
@@ -9039,8 +9065,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-04-15 20:41:40",
-      "longitude": 2.0265,
-      "latitude": 6.6697
+      "longitude": 2.0236,
+      "latitude": 6.6539
     },
     {
       "block_id": "f45fe71a181e-153",
@@ -9109,8 +9135,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C; B; A",
       "troisimercolte_survey_end": "2024-04-15 20:50:32",
-      "longitude": 1.9735,
-      "latitude": 6.6139
+      "longitude": 1.9712,
+      "latitude": 6.6069
     },
     {
       "block_id": "f45fe71a181e-154",
@@ -9185,8 +9211,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:23:18",
-      "longitude": 2.0293,
-      "latitude": 6.6706
+      "longitude": 2.0309,
+      "latitude": 6.6541
     },
     {
       "block_id": "f45fe71a181e-155",
@@ -9219,8 +9245,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:29:11",
-      "longitude": 1.9568,
-      "latitude": 6.6159
+      "longitude": 1.9607,
+      "latitude": 6.6201
     },
     {
       "block_id": "f45fe71a181e-156",
@@ -9253,8 +9279,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 21:12:11",
-      "longitude": 1.9637,
-      "latitude": 6.6083
+      "longitude": 1.9692,
+      "latitude": 6.6177
     },
     {
       "block_id": "f45fe71a181e-157",
@@ -9351,8 +9377,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-04-15 20:42:54",
-      "longitude": 2.069,
-      "latitude": 6.6849
+      "longitude": 2.0672,
+      "latitude": 6.671
     },
     {
       "block_id": "f45fe71a181e-159",
@@ -9428,8 +9454,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:27:34",
-      "longitude": 2.028,
-      "latitude": 6.6723
+      "longitude": 2.0422,
+      "latitude": 6.6574
     },
     {
       "block_id": "f45fe71a181e-160",
@@ -9504,8 +9530,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:32:09",
-      "longitude": 2.0402,
-      "latitude": 6.6487
+      "longitude": 2.0234,
+      "latitude": 6.6681
     },
     {
       "block_id": "f45fe71a181e-161",
@@ -9538,8 +9564,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:33:14",
-      "longitude": 1.9677,
-      "latitude": 6.62
+      "longitude": 1.9603,
+      "latitude": 6.6232
     },
     {
       "block_id": "f45fe71a181e-162",
@@ -9620,8 +9646,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-04-15 20:08:55",
-      "longitude": 1.9654,
-      "latitude": 6.6187
+      "longitude": 1.9722,
+      "latitude": 6.6211
     },
     {
       "block_id": "f45fe71a181e-163",
@@ -9697,8 +9723,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 21:15:35",
-      "longitude": 1.9707,
-      "latitude": 6.6121
+      "longitude": 1.9654,
+      "latitude": 6.6195
     },
     {
       "block_id": "f45fe71a181e-164",
@@ -9773,8 +9799,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:22:07",
-      "longitude": 2.0356,
-      "latitude": 6.6685
+      "longitude": 2.0235,
+      "latitude": 6.6654
     },
     {
       "block_id": "f45fe71a181e-165",
@@ -9807,8 +9833,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:45:51",
-      "longitude": 2.0258,
-      "latitude": 6.6519
+      "longitude": 2.0388,
+      "latitude": 6.6525
     },
     {
       "block_id": "f45fe71a181e-166",
@@ -9883,8 +9909,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:26:24",
-      "longitude": 1.9048,
-      "latitude": 6.6214
+      "longitude": 1.9141,
+      "latitude": 6.6254
     },
     {
       "block_id": "f45fe71a181e-167",
@@ -9948,8 +9974,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:00:46",
-      "longitude": 1.9645,
-      "latitude": 6.6226
+      "longitude": 1.965,
+      "latitude": 6.6063
     },
     {
       "block_id": "f45fe71a181e-168",
@@ -9982,8 +10008,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:04:25",
-      "longitude": 1.9578,
-      "latitude": 6.6279
+      "longitude": 1.961,
+      "latitude": 6.6115
     },
     {
       "block_id": "f45fe71a181e-169",
@@ -10058,8 +10084,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:24:51",
-      "longitude": 2.0204,
-      "latitude": 6.6607
+      "longitude": 2.0439,
+      "latitude": 6.656
     },
     {
       "block_id": "f45fe71a181e-170",
@@ -10092,8 +10118,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 20:21:00",
-      "longitude": 2.0256,
-      "latitude": 6.6505
+      "longitude": 2.0367,
+      "latitude": 6.6621
     },
     {
       "block_id": "f45fe71a181e-171",
@@ -10366,8 +10392,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-11 10:33:53",
-      "longitude": 2.8911,
-      "latitude": 11.0863
+      "longitude": 2.8894,
+      "latitude": 11.0834
     },
     {
       "block_id": "f45fe71a181e-197",
@@ -10430,8 +10456,8 @@
       "socioeconomic_membershipwherefr_oth": "Groupe des producteurs",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-12-13 18:56:24",
-      "longitude": 2.9619,
-      "latitude": 11.1835
+      "longitude": 2.9575,
+      "latitude": 11.189
     },
     {
       "block_id": "f45fe71a181e-198",
@@ -10469,8 +10495,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-11 11:51:05",
-      "longitude": 2.8936,
-      "latitude": 11.0672
+      "longitude": 2.9041,
+      "latitude": 11.0881
     },
     {
       "block_id": "f45fe71a181e-199",
@@ -10568,8 +10594,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-11 12:01:05",
-      "longitude": 2.9055,
-      "latitude": 11.0777
+      "longitude": 2.9152,
+      "latitude": 11.0769
     },
     {
       "block_id": "f45fe71a181e-200",
@@ -10612,8 +10638,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-11 16:51:17",
-      "longitude": 2.9029,
-      "latitude": 11.0867
+      "longitude": 2.89,
+      "latitude": 11.0745
     },
     {
       "block_id": "f45fe71a181e-201",
@@ -10711,8 +10737,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-11 12:19:33",
-      "longitude": 2.9127,
-      "latitude": 11.0784
+      "longitude": 2.9051,
+      "latitude": 11.0834
     },
     {
       "block_id": "f45fe71a181e-202",
@@ -10810,8 +10836,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-11 17:18:56",
-      "longitude": 2.8979,
-      "latitude": 11.089
+      "longitude": 2.905,
+      "latitude": 11.0678
     },
     {
       "block_id": "f45fe71a181e-203",
@@ -10907,8 +10933,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 15:59:21",
-      "longitude": 2.9361,
-      "latitude": 11.1991
+      "longitude": 2.9378,
+      "latitude": 11.1874
     },
     {
       "block_id": "f45fe71a181e-204",
@@ -11004,8 +11030,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 18:17:29",
-      "longitude": 2.9399,
-      "latitude": 11.1805
+      "longitude": 2.9537,
+      "latitude": 11.1994
     },
     {
       "block_id": "f45fe71a181e-205",
@@ -11103,8 +11129,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-11 17:47:12",
-      "longitude": 2.9116,
-      "latitude": 11.0779
+      "longitude": 2.8925,
+      "latitude": 11.0756
     },
     {
       "block_id": "f45fe71a181e-206",
@@ -11203,8 +11229,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-22 16:15:30",
-      "longitude": 3.0432,
-      "latitude": 11.3258
+      "longitude": 3.044,
+      "latitude": 11.3354
     },
     {
       "block_id": "f45fe71a181e-207",
@@ -11300,8 +11326,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-23 16:43:16",
-      "longitude": 2.9505,
-      "latitude": 11.1864
+      "longitude": 2.935,
+      "latitude": 11.1922
     },
     {
       "block_id": "f45fe71a181e-208",
@@ -11401,8 +11427,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-17 11:00:34",
-      "longitude": 2.9387,
-      "latitude": 11.1884
+      "longitude": 2.9458,
+      "latitude": 11.1855
     },
     {
       "block_id": "f45fe71a181e-209",
@@ -11500,8 +11526,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-31 17:13:46",
-      "longitude": 2.8974,
-      "latitude": 11.0694
+      "longitude": 2.8964,
+      "latitude": 11.0648
     },
     {
       "block_id": "f45fe71a181e-210",
@@ -11596,8 +11622,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-03-11 19:54:03",
-      "longitude": 2.8934,
-      "latitude": 11.0796
+      "longitude": 2.8963,
+      "latitude": 11.0903
     },
     {
       "block_id": "f45fe71a181e-211",
@@ -11640,8 +11666,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 17:16:52",
-      "longitude": 2.941,
-      "latitude": 11.1921
+      "longitude": 2.9536,
+      "latitude": 11.1907
     },
     {
       "block_id": "f45fe71a181e-212",
@@ -11739,8 +11765,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-13 19:01:33",
-      "longitude": 2.8916,
-      "latitude": 11.0729
+      "longitude": 2.898,
+      "latitude": 11.0909
     },
     {
       "block_id": "f45fe71a181e-213",
@@ -11838,8 +11864,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 17:43:56",
-      "longitude": 2.9426,
-      "latitude": 11.2027
+      "longitude": 2.9578,
+      "latitude": 11.1867
     },
     {
       "block_id": "f45fe71a181e-214",
@@ -11882,8 +11908,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 16:49:10",
-      "longitude": 2.9398,
-      "latitude": 11.1849
+      "longitude": 2.9364,
+      "latitude": 11.2
     },
     {
       "block_id": "f45fe71a181e-215",
@@ -11981,8 +12007,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 16:36:29",
-      "longitude": 2.9542,
-      "latitude": 11.1993
+      "longitude": 2.9416,
+      "latitude": 11.1922
     },
     {
       "block_id": "f45fe71a181e-216",
@@ -12080,8 +12106,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-23 17:03:38",
-      "longitude": 2.9471,
-      "latitude": 11.1858
+      "longitude": 2.957,
+      "latitude": 11.1894
     },
     {
       "block_id": "f45fe71a181e-217",
@@ -12179,8 +12205,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; C",
       "quatrimercolte_survey_end": "2024-04-17 11:38:33",
-      "longitude": 2.9439,
-      "latitude": 11.2033
+      "longitude": 2.9539,
+      "latitude": 11.1851
     },
     {
       "block_id": "f45fe71a181e-218",
@@ -12277,8 +12303,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 17:23:01",
-      "longitude": 2.9361,
-      "latitude": 11.2007
+      "longitude": 2.9539,
+      "latitude": 11.1833
     },
     {
       "block_id": "f45fe71a181e-219",
@@ -12375,8 +12401,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-11 19:06:42",
-      "longitude": 2.9091,
-      "latitude": 11.0752
+      "longitude": 2.8971,
+      "latitude": 11.0694
     },
     {
       "block_id": "f45fe71a181e-220",
@@ -12474,8 +12500,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 17:50:18",
-      "longitude": 2.9413,
-      "latitude": 11.1983
+      "longitude": 2.9562,
+      "latitude": 11.1972
     },
     {
       "block_id": "f45fe71a181e-221",
@@ -12575,8 +12601,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-17 12:04:01",
-      "longitude": 2.9394,
-      "latitude": 11.1876
+      "longitude": 2.9474,
+      "latitude": 11.1828
     },
     {
       "block_id": "f45fe71a181e-224",
@@ -12625,8 +12651,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 20:28:03",
-      "longitude": 1.7192,
-      "latitude": 6.6327
+      "longitude": 1.7119,
+      "latitude": 6.6397
     },
     {
       "block_id": "f45fe71a181e-225",
@@ -12677,8 +12703,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 14:10:56",
-      "longitude": 1.6603,
-      "latitude": 6.6497
+      "longitude": 1.6572,
+      "latitude": 6.6655
     },
     {
       "block_id": "f45fe71a181e-226",
@@ -12729,8 +12755,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 20:12:46",
-      "longitude": 1.7043,
-      "latitude": 6.6331
+      "longitude": 1.7152,
+      "latitude": 6.6413
     },
     {
       "block_id": "f45fe71a181e-227",
@@ -12781,8 +12807,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 14:14:46",
-      "longitude": 1.7008,
-      "latitude": 6.6258
+      "longitude": 1.7084,
+      "latitude": 6.6166
     },
     {
       "block_id": "f45fe71a181e-228",
@@ -12834,8 +12860,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 14:19:50",
-      "longitude": 1.7125,
-      "latitude": 6.6326
+      "longitude": 1.7002,
+      "latitude": 6.6218
     },
     {
       "block_id": "f45fe71a181e-229",
@@ -12891,8 +12917,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Table Et ChaisesCuisinière à Essence; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-13 07:37:15",
-      "longitude": 1.6766,
-      "latitude": 6.7236
+      "longitude": 1.6837,
+      "latitude": 6.7237
     },
     {
       "block_id": "f45fe71a181e-231",
@@ -12950,8 +12976,8 @@
       "transplantation_plotsize": "8,4",
       "transplantation_plantdensity": "20x20",
       "transplantation_survey_end": "2024-02-07 17:42:53",
-      "longitude": 1.6626,
-      "latitude": 6.7205
+      "longitude": 1.655,
+      "latitude": 6.7244
     },
     {
       "block_id": "f45fe71a181e-232",
@@ -13010,8 +13036,8 @@
       "transplantation_plotsize": "14,4",
       "transplantation_plantdensity": "20x20",
       "transplantation_survey_end": "2024-02-07 17:45:24",
-      "longitude": 1.6685,
-      "latitude": 6.726
+      "longitude": 1.6588,
+      "latitude": 6.7266
     },
     {
       "block_id": "f45fe71a181e-233",
@@ -13060,8 +13086,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Lit; Table Et ChaisesTapis; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-02-12 23:27:37",
-      "longitude": 1.6603,
-      "latitude": 6.7305
+      "longitude": 1.6668,
+      "latitude": 6.711
     },
     {
       "block_id": "f45fe71a181e-234",
@@ -13110,8 +13136,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-02-12 22:12:39",
-      "longitude": 1.6808,
-      "latitude": 6.7269
+      "longitude": 1.6615,
+      "latitude": 6.7337
     },
     {
       "block_id": "f45fe71a181e-235",
@@ -13159,8 +13185,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-02-12 22:03:56",
-      "longitude": 1.6582,
-      "latitude": 6.73
+      "longitude": 1.6794,
+      "latitude": 6.7181
     },
     {
       "block_id": "f45fe71a181e-236",
@@ -13219,8 +13245,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 18:29:06",
-      "longitude": 1.7096,
-      "latitude": 6.6227
+      "longitude": 1.7166,
+      "latitude": 6.634
     },
     {
       "block_id": "f45fe71a181e-238",
@@ -13271,8 +13297,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 18:54:00",
-      "longitude": 1.7041,
-      "latitude": 6.6367
+      "longitude": 1.6914,
+      "latitude": 6.6298
     },
     {
       "block_id": "f45fe71a181e-239",
@@ -13322,8 +13348,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et ChaisesLit; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 19:37:02",
-      "longitude": 1.6998,
-      "latitude": 6.6314
+      "longitude": 1.6944,
+      "latitude": 6.637
     },
     {
       "block_id": "f45fe71a181e-240",
@@ -13409,8 +13435,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-16 23:51:02",
-      "longitude": 1.6748,
-      "latitude": 6.5573
+      "longitude": 1.6772,
+      "latitude": 6.569
     },
     {
       "block_id": "f45fe71a181e-241",
@@ -13494,8 +13520,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-16 23:28:21",
-      "longitude": 1.7192,
-      "latitude": 6.6007
+      "longitude": 1.7143,
+      "latitude": 6.5851
     },
     {
       "block_id": "f45fe71a181e-242",
@@ -13596,8 +13622,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-13 18:30:40",
-      "longitude": 2.9039,
-      "latitude": 11.097
+      "longitude": 2.8984,
+      "latitude": 11.091
     },
     {
       "block_id": "f45fe71a181e-243",
@@ -13698,8 +13724,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-11 19:37:39",
-      "longitude": 2.8983,
-      "latitude": 11.0738
+      "longitude": 2.8997,
+      "latitude": 11.0768
     },
     {
       "block_id": "f45fe71a181e-244",
@@ -13800,8 +13826,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-11 19:46:01",
-      "longitude": 2.9107,
-      "latitude": 11.0791
+      "longitude": 2.9039,
+      "latitude": 11.0948
     },
     {
       "block_id": "f45fe71a181e-245",
@@ -13900,8 +13926,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-13 17:55:36",
-      "longitude": 2.8932,
-      "latitude": 11.0913
+      "longitude": 2.9026,
+      "latitude": 11.079
     },
     {
       "block_id": "f45fe71a181e-246",
@@ -13999,8 +14025,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 17:29:55",
-      "longitude": 2.9377,
-      "latitude": 11.1814
+      "longitude": 2.9459,
+      "latitude": 11.1829
     },
     {
       "block_id": "f45fe71a181e-247",
@@ -14097,8 +14123,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-11 10:22:50",
-      "longitude": 2.9022,
-      "latitude": 11.065
+      "longitude": 2.8969,
+      "latitude": 11.0782
     },
     {
       "block_id": "f45fe71a181e-248",
@@ -14198,8 +14224,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-17 11:15:47",
-      "longitude": 2.9458,
-      "latitude": 11.1809
+      "longitude": 2.9545,
+      "latitude": 11.1948
     },
     {
       "block_id": "f45fe71a181e-249",
@@ -14297,8 +14323,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2024-04-23 17:37:36",
-      "longitude": 2.9419,
-      "latitude": 11.1926
+      "longitude": 2.9477,
+      "latitude": 11.1905
     },
     {
       "block_id": "f45fe71a181e-250",
@@ -14394,8 +14420,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 17:57:40",
-      "longitude": 2.9502,
-      "latitude": 11.1941
+      "longitude": 2.9558,
+      "latitude": 11.1967
     },
     {
       "block_id": "f45fe71a181e-251",
@@ -14493,8 +14519,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 18:04:48",
-      "longitude": 2.9462,
-      "latitude": 11.1845
+      "longitude": 2.9461,
+      "latitude": 11.1916
     },
     {
       "block_id": "f45fe71a181e-252",
@@ -14591,8 +14617,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-31 17:21:32",
-      "longitude": 2.898,
-      "latitude": 11.0747
+      "longitude": 2.9116,
+      "latitude": 11.0713
     },
     {
       "block_id": "f45fe71a181e-253",
@@ -14669,8 +14695,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "B",
       "troisimercolte_survey_end": "2024-04-22 10:42:39",
-      "longitude": 2.1897,
-      "latitude": 6.6244
+      "longitude": 2.1849,
+      "latitude": 6.6311
     },
     {
       "block_id": "f45fe71a181e-254",
@@ -14746,8 +14772,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A",
       "troisimercolte_survey_end": "2024-04-22 10:44:29",
-      "longitude": 2.1894,
-      "latitude": 6.6345
+      "longitude": 2.1913,
+      "latitude": 6.636
     },
     {
       "block_id": "f45fe71a181e-255",
@@ -14817,8 +14843,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-21 14:25:44",
-      "longitude": 2.1758,
-      "latitude": 6.6267
+      "longitude": 2.1723,
+      "latitude": 6.6353
     },
     {
       "block_id": "f45fe71a181e-256",
@@ -14889,8 +14915,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-21 19:34:05",
-      "longitude": 2.17,
-      "latitude": 6.6707
+      "longitude": 2.1759,
+      "latitude": 6.6564
     },
     {
       "block_id": "f45fe71a181e-257",
@@ -14960,8 +14986,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-21 22:21:01",
-      "longitude": 2.1656,
-      "latitude": 6.6621
+      "longitude": 2.1746,
+      "latitude": 6.6688
     },
     {
       "block_id": "f45fe71a181e-258",
@@ -15035,8 +15061,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C",
       "troisimercolte_survey_end": "2024-04-22 10:33:42",
-      "longitude": 2.2309,
-      "latitude": 6.628
+      "longitude": 2.236,
+      "latitude": 6.6203
     },
     {
       "block_id": "f45fe71a181e-261",
@@ -15123,8 +15149,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-17 00:11:31",
-      "longitude": 1.76,
-      "latitude": 6.5541
+      "longitude": 1.7561,
+      "latitude": 6.5447
     },
     {
       "block_id": "f45fe71a181e-262",
@@ -15174,8 +15200,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Cuisinière à Essence; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-14 14:44:37",
-      "longitude": 1.7495,
-      "latitude": 6.5482
+      "longitude": 1.7518,
+      "latitude": 6.5391
     },
     {
       "block_id": "f45fe71a181e-263",
@@ -15225,8 +15251,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Cuisinière à Essence; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-14 13:43:50",
-      "longitude": 1.7551,
-      "latitude": 6.5532
+      "longitude": 1.7408,
+      "latitude": 6.5543
     },
     {
       "block_id": "f45fe71a181e-264",
@@ -15276,8 +15302,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 14:28:37",
-      "longitude": 1.7001,
-      "latitude": 6.6246
+      "longitude": 1.7117,
+      "latitude": 6.6199
     },
     {
       "block_id": "f45fe71a181e-265",
@@ -15330,8 +15356,8 @@
       "socioeconomic_membershipwhere": "Commerce Et Entreprise; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Cuisinière à Essence; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-14 14:13:20",
-      "longitude": 1.7491,
-      "latitude": 6.5583
+      "longitude": 1.7528,
+      "latitude": 6.5528
     },
     {
       "block_id": "f45fe71a181e-266",
@@ -15382,8 +15408,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Cuisinière à Essence; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-14 15:33:02",
-      "longitude": 1.7614,
-      "latitude": 6.5532
+      "longitude": 1.7526,
+      "latitude": 6.5563
     },
     {
       "block_id": "f45fe71a181e-267",
@@ -15469,8 +15495,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-17 00:25:37",
-      "longitude": 1.7461,
-      "latitude": 6.5573
+      "longitude": 1.7545,
+      "latitude": 6.5481
     },
     {
       "block_id": "f45fe71a181e-268",
@@ -15521,8 +15547,8 @@
       "socioeconomic_membershipwhere": "Association",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 14:39:17",
-      "longitude": 1.7046,
-      "latitude": 6.6195
+      "longitude": 1.7017,
+      "latitude": 6.637
     },
     {
       "block_id": "f45fe71a181e-269",
@@ -15573,8 +15599,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Gaz; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2024-02-07 14:56:38",
-      "longitude": 1.7161,
-      "latitude": 6.6237
+      "longitude": 1.7121,
+      "latitude": 6.639
     },
     {
       "block_id": "f45fe71a181e-270",
@@ -15624,8 +15650,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Cuisinière à Essence; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-14 12:40:45",
-      "longitude": 1.7405,
-      "latitude": 6.5652
+      "longitude": 1.7633,
+      "latitude": 6.5653
     },
     {
       "block_id": "f45fe71a181e-271",
@@ -15676,8 +15702,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Cuisinière à Essence; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-14 13:20:23",
-      "longitude": 1.7572,
-      "latitude": 6.5646
+      "longitude": 1.7399,
+      "latitude": 6.5577
     },
     {
       "block_id": "f45fe71a181e-272",
@@ -15728,8 +15754,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-14 15:42:14",
-      "longitude": 1.7549,
-      "latitude": 6.5436
+      "longitude": 1.7452,
+      "latitude": 6.5462
     },
     {
       "block_id": "f45fe71a181e-273",
@@ -15817,8 +15843,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-16 23:09:00",
-      "longitude": 1.7479,
-      "latitude": 6.5533
+      "longitude": 1.7568,
+      "latitude": 6.5421
     },
     {
       "block_id": "f45fe71a181e-274",
@@ -15868,8 +15894,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Cuisinière à Essence; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-13 13:54:36",
-      "longitude": 1.665,
-      "latitude": 6.5735
+      "longitude": 1.6611,
+      "latitude": 6.5736
     },
     {
       "block_id": "f45fe71a181e-275",
@@ -15920,8 +15946,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Cuisinière à Essence; Vélo; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-14 15:17:53",
-      "longitude": 1.7542,
-      "latitude": 6.5411
+      "longitude": 1.7636,
+      "latitude": 6.556
     },
     {
       "block_id": "f45fe71a181e-276",
@@ -15972,8 +15998,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Cuisinière à Essence; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2023-12-14 15:29:57",
-      "longitude": 1.7465,
-      "latitude": 6.5504
+      "longitude": 1.7466,
+      "latitude": 6.5479
     },
     {
       "block_id": "f45fe71a181e-277",
@@ -16024,8 +16050,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 17:59:24",
-      "longitude": 1.7137,
-      "latitude": 6.6307
+      "longitude": 1.7016,
+      "latitude": 6.6222
     },
     {
       "block_id": "f45fe71a181e-278",
@@ -16076,8 +16102,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Table Et Chaises0; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique",
       "socioeconomic_survey_end": "2024-02-07 14:52:16",
-      "longitude": 1.6458,
-      "latitude": 6.6493
+      "longitude": 1.6543,
+      "latitude": 6.6713
     },
     {
       "block_id": "f45fe71a181e-279",
@@ -16127,8 +16153,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et Chaises0",
       "socioeconomic_survey_end": "2024-02-07 14:43:45",
-      "longitude": 1.7044,
-      "latitude": 6.6395
+      "longitude": 1.6981,
+      "latitude": 6.6204
     },
     {
       "block_id": "f45fe71a181e-280",
@@ -16179,8 +16205,8 @@
       "socioeconomic_membership": "Non",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesLit; Table Et Chaises0",
       "socioeconomic_survey_end": "2024-02-07 18:04:48",
-      "longitude": 1.7065,
-      "latitude": 6.6268
+      "longitude": 1.7133,
+      "latitude": 6.6305
     },
     {
       "block_id": "f45fe71a181e-281",
@@ -16281,8 +16307,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-15 16:56:37",
-      "longitude": 2.9452,
-      "latitude": 11.142
+      "longitude": 2.9228,
+      "latitude": 11.1405
     },
     {
       "block_id": "f45fe71a181e-282",
@@ -16383,8 +16409,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-15 16:59:37",
-      "longitude": 2.9411,
-      "latitude": 11.1435
+      "longitude": 2.9283,
+      "latitude": 11.1519
     },
     {
       "block_id": "f45fe71a181e-283",
@@ -16471,8 +16497,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-15 17:01:34",
-      "longitude": 2.9262,
-      "latitude": 11.1431
+      "longitude": 2.9343,
+      "latitude": 11.1519
     },
     {
       "block_id": "f45fe71a181e-284",
@@ -16559,8 +16585,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-03-15 17:05:13",
-      "longitude": 2.9332,
-      "latitude": 11.1307
+      "longitude": 2.9329,
+      "latitude": 11.1468
     },
     {
       "block_id": "f45fe71a181e-285",
@@ -16661,8 +16687,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-03-15 17:13:33",
-      "longitude": 2.9374,
-      "latitude": 11.1517
+      "longitude": 2.9382,
+      "latitude": 11.1402
     },
     {
       "block_id": "f45fe71a181e-286",
@@ -16761,8 +16787,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-15 17:47:19",
-      "longitude": 2.9298,
-      "latitude": 11.1534
+      "longitude": 2.9322,
+      "latitude": 11.1401
     },
     {
       "block_id": "f45fe71a181e-287",
@@ -16858,8 +16884,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 18:10:41",
-      "longitude": 2.9401,
-      "latitude": 11.2021
+      "longitude": 2.9377,
+      "latitude": 11.1834
     },
     {
       "block_id": "f45fe71a181e-288",
@@ -16954,8 +16980,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 16:17:16",
-      "longitude": 2.9401,
-      "latitude": 11.2017
+      "longitude": 2.9347,
+      "latitude": 11.1976
     },
     {
       "block_id": "f45fe71a181e-289",
@@ -17051,8 +17077,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 16:04:59",
-      "longitude": 2.9554,
-      "latitude": 11.185
+      "longitude": 2.9592,
+      "latitude": 11.1877
     },
     {
       "block_id": "f45fe71a181e-290",
@@ -17148,8 +17174,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-23 15:53:23",
-      "longitude": 2.9441,
-      "latitude": 11.1917
+      "longitude": 2.955,
+      "latitude": 11.1881
     },
     {
       "block_id": "f45fe71a181e-291",
@@ -17245,8 +17271,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-23 18:23:21",
-      "longitude": 2.9588,
-      "latitude": 11.1968
+      "longitude": 2.9579,
+      "latitude": 11.1975
     },
     {
       "block_id": "f45fe71a181e-292",
@@ -17342,8 +17368,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 16:23:23",
-      "longitude": 2.9517,
-      "latitude": 11.1821
+      "longitude": 2.9492,
+      "latitude": 11.1899
     },
     {
       "block_id": "f45fe71a181e-293",
@@ -17439,8 +17465,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-17 12:13:29",
-      "longitude": 2.9433,
-      "latitude": 11.2036
+      "longitude": 2.9459,
+      "latitude": 11.195
     },
     {
       "block_id": "f45fe71a181e-294",
@@ -17483,8 +17509,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-11 10:48:03",
-      "longitude": 2.8877,
-      "latitude": 11.0753
+      "longitude": 2.9016,
+      "latitude": 11.0651
     },
     {
       "block_id": "f45fe71a181e-295",
@@ -17580,8 +17606,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-23 16:11:06",
-      "longitude": 2.9402,
-      "latitude": 11.1966
+      "longitude": 2.9331,
+      "latitude": 11.1902
     },
     {
       "block_id": "f45fe71a181e-296",
@@ -17679,8 +17705,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-11 19:00:00",
-      "longitude": 2.8928,
-      "latitude": 11.0807
+      "longitude": 2.8911,
+      "latitude": 11.0779
     },
     {
       "block_id": "f45fe71a181e-297",
@@ -17779,8 +17805,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-11 19:30:33",
-      "longitude": 2.8908,
-      "latitude": 11.0751
+      "longitude": 2.8948,
+      "latitude": 11.089
     },
     {
       "block_id": "f45fe71a181e-298",
@@ -17878,8 +17904,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-04-23 17:10:18",
-      "longitude": 2.9359,
-      "latitude": 11.1978
+      "longitude": 2.9378,
+      "latitude": 11.1961
     },
     {
       "block_id": "f45fe71a181e-299",
@@ -17979,8 +18005,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-13 17:43:56",
-      "longitude": 2.8894,
-      "latitude": 11.09
+      "longitude": 2.91,
+      "latitude": 11.079
     },
     {
       "block_id": "f45fe71a181e-300",
@@ -18020,8 +18046,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-04-21 08:00:23",
-      "longitude": 2.3254,
-      "latitude": 6.3754
+      "longitude": 2.3195,
+      "latitude": 6.3859
     },
     {
       "block_id": "f45fe71a181e-302",
@@ -18054,8 +18080,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-04-21 08:02:20",
-      "longitude": 2.3126,
-      "latitude": 6.3922
+      "longitude": 2.3206,
+      "latitude": 6.3827
     },
     {
       "block_id": "f45fe71a181e-303",
@@ -18088,8 +18114,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "A; B; C",
       "troisimercolte_survey_end": "2024-04-21 15:54:54",
-      "longitude": 2.337,
-      "latitude": 6.3866
+      "longitude": 2.3187,
+      "latitude": 6.3999
     },
     {
       "block_id": "f45fe71a181e-304",
@@ -18122,8 +18148,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-21 15:56:19",
-      "longitude": 1.969,
-      "latitude": 7.9377
+      "longitude": 1.9758,
+      "latitude": 7.922
     },
     {
       "block_id": "f45fe71a181e-305",
@@ -18151,8 +18177,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-21 15:57:39",
-      "longitude": 1.9776,
-      "latitude": 7.9307
+      "longitude": 1.9736,
+      "latitude": 7.9295
     },
     {
       "block_id": "f45fe71a181e-306",
@@ -18185,8 +18211,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-21 15:59:43",
-      "longitude": 1.9865,
-      "latitude": 7.924
+      "longitude": 1.9683,
+      "latitude": 7.9307
     },
     {
       "block_id": "f45fe71a181e-307",
@@ -18219,8 +18245,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-21 16:01:12",
-      "longitude": 1.9698,
-      "latitude": 7.9164
+      "longitude": 1.9817,
+      "latitude": 7.9358
     },
     {
       "block_id": "f45fe71a181e-308",
@@ -18867,8 +18893,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-20 22:36:01",
-      "longitude": 1.7274,
-      "latitude": 6.774
+      "longitude": 1.736,
+      "latitude": 6.7628
     },
     {
       "block_id": "f45fe71a181e-342",
@@ -18934,8 +18960,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 22:54:21",
-      "longitude": 1.7291,
-      "latitude": 6.753
+      "longitude": 1.7317,
+      "latitude": 6.7603
     },
     {
       "block_id": "f45fe71a181e-343",
@@ -18995,8 +19021,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-20 23:13:11",
-      "longitude": 1.716,
-      "latitude": 6.7558
+      "longitude": 1.72,
+      "latitude": 6.7551
     },
     {
       "block_id": "f45fe71a181e-344",
@@ -19059,8 +19085,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-20 23:11:42",
-      "longitude": 1.7268,
-      "latitude": 6.7479
+      "longitude": 1.7199,
+      "latitude": 6.7667
     },
     {
       "block_id": "f45fe71a181e-345",
@@ -19121,8 +19147,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-20 23:15:28",
-      "longitude": 1.7208,
-      "latitude": 6.7625
+      "longitude": 1.7114,
+      "latitude": 6.7661
     },
     {
       "block_id": "f45fe71a181e-346",
@@ -19178,8 +19204,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-19 09:33:55",
-      "longitude": 1.7174,
-      "latitude": 6.7695
+      "longitude": 1.7204,
+      "latitude": 6.7631
     },
     {
       "block_id": "f45fe71a181e-347",
@@ -19244,8 +19270,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-19 09:35:28",
-      "longitude": 1.761,
-      "latitude": 6.7992
+      "longitude": 1.7534,
+      "latitude": 6.7898
     },
     {
       "block_id": "f45fe71a181e-348",
@@ -19310,8 +19336,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-19 09:36:45",
-      "longitude": 1.7523,
-      "latitude": 6.7971
+      "longitude": 1.7662,
+      "latitude": 6.8035
     },
     {
       "block_id": "f45fe71a181e-349",
@@ -19369,8 +19395,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-19 09:38:52",
-      "longitude": 1.7595,
-      "latitude": 6.7646
+      "longitude": 1.759,
+      "latitude": 6.7547
     },
     {
       "block_id": "f45fe71a181e-350",
@@ -19420,8 +19446,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Crédit/épargne; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et Chaises0; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-12-08 20:26:00",
-      "longitude": 1.7742,
-      "latitude": 6.7499
+      "longitude": 1.7579,
+      "latitude": 6.7565
     },
     {
       "block_id": "f45fe71a181e-351",
@@ -19473,8 +19499,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Crédit/épargne",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2023-12-09 16:54:45",
-      "longitude": 1.7123,
-      "latitude": 6.7612
+      "longitude": 1.735,
+      "latitude": 6.7683
     },
     {
       "block_id": "f45fe71a181e-352",
@@ -19590,8 +19616,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-20 23:57:26",
-      "longitude": 2.542,
-      "latitude": 6.593
+      "longitude": 2.5287,
+      "latitude": 6.5919
     },
     {
       "block_id": "f45fe71a181e-362",
@@ -19649,8 +19675,8 @@
       "transplantation_plotsize": "6,2",
       "transplantation_plantdensity": "180",
       "transplantation_survey_end": "2024-01-29 17:10:44",
-      "longitude": 2.5531,
-      "latitude": 6.6014
+      "longitude": 2.5333,
+      "latitude": 6.614
     },
     {
       "block_id": "f45fe71a181e-363",
@@ -19715,8 +19741,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-21 00:00:58",
-      "longitude": 2.5455,
-      "latitude": 6.5998
+      "longitude": 2.5474,
+      "latitude": 6.5932
     },
     {
       "block_id": "f45fe71a181e-364",
@@ -19775,8 +19801,8 @@
       "transplantation_plotsize": "6,2",
       "transplantation_plantdensity": "180",
       "transplantation_survey_end": "2024-01-27 11:11:44",
-      "longitude": 2.5257,
-      "latitude": 6.605
+      "longitude": 2.5414,
+      "latitude": 6.6052
     },
     {
       "block_id": "f45fe71a181e-365",
@@ -19840,8 +19866,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-01-29 17:12:17",
-      "longitude": 2.5407,
-      "latitude": 6.596
+      "longitude": 2.5389,
+      "latitude": 6.6013
     },
     {
       "block_id": "f45fe71a181e-366",
@@ -19909,8 +19935,8 @@
       "transplantation_plotsize": "6,2",
       "transplantation_plantdensity": "180",
       "transplantation_survey_end": "2024-01-29 17:15:57",
-      "longitude": 2.561,
-      "latitude": 6.5689
+      "longitude": 2.5472,
+      "latitude": 6.5827
     },
     {
       "block_id": "f45fe71a181e-368",
@@ -19971,8 +19997,8 @@
       "transplantation_plotsize": "6,2",
       "transplantation_plantdensity": "180",
       "transplantation_survey_end": "2024-01-29 17:16:26",
-      "longitude": 2.5416,
-      "latitude": 6.5852
+      "longitude": 2.552,
+      "latitude": 6.5697
     },
     {
       "block_id": "f45fe71a181e-369",
@@ -20039,8 +20065,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-21 00:04:45",
-      "longitude": 2.583,
-      "latitude": 6.5888
+      "longitude": 2.5911,
+      "latitude": 6.5944
     },
     {
       "block_id": "f45fe71a181e-370",
@@ -20105,8 +20131,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-18 01:05:40",
-      "longitude": 2.5948,
-      "latitude": 6.5902
+      "longitude": 2.5804,
+      "latitude": 6.5843
     },
     {
       "block_id": "f45fe71a181e-371",
@@ -20171,8 +20197,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-18 01:02:02",
-      "longitude": 2.5941,
-      "latitude": 6.5793
+      "longitude": 2.5918,
+      "latitude": 6.5846
     },
     {
       "block_id": "f45fe71a181e-372",
@@ -20237,8 +20263,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-04-18 00:57:19",
-      "longitude": 2.5283,
-      "latitude": 6.6035
+      "longitude": 2.5351,
+      "latitude": 6.5907
     },
     {
       "block_id": "f45fe71a181e-373",
@@ -20323,8 +20349,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-04-19 11:08:47",
-      "longitude": 1.7873,
-      "latitude": 6.2818
+      "longitude": 1.7874,
+      "latitude": 6.2763
     },
     {
       "block_id": "f45fe71a181e-374",
@@ -20373,8 +20399,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs; Groupe De Femmes; Association",
       "socioeconomic_hhassets": "Table Et Chaises; Table Et ChaisesTapis",
       "socioeconomic_survey_end": "2024-01-30 11:55:14",
-      "longitude": 1.8018,
-      "latitude": 6.2694
+      "longitude": 1.7967,
+      "latitude": 6.2776
     },
     {
       "block_id": "f45fe71a181e-375",
@@ -20445,8 +20471,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-02-06 11:13:26",
-      "longitude": 1.9089,
-      "latitude": 6.4459
+      "longitude": 1.9092,
+      "latitude": 6.4284
     },
     {
       "block_id": "f45fe71a181e-376",
@@ -20546,8 +20572,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-14 18:52:56",
-      "longitude": 2.8898,
-      "latitude": 11.0855
+      "longitude": 2.8925,
+      "latitude": 11.0737
     },
     {
       "block_id": "f45fe71a181e-377",
@@ -20646,8 +20672,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-14 17:16:47",
-      "longitude": 2.8904,
-      "latitude": 11.0873
+      "longitude": 2.9107,
+      "latitude": 11.0921
     },
     {
       "block_id": "f45fe71a181e-378",
@@ -20730,8 +20756,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-04-16 10:17:10",
-      "longitude": 2.4856,
-      "latitude": 6.727
+      "longitude": 2.483,
+      "latitude": 6.7097
     },
     {
       "block_id": "f45fe71a181e-379",
@@ -20814,8 +20840,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; C",
       "quatrimercolte_survey_end": "2024-04-16 14:04:19",
-      "longitude": 2.4784,
-      "latitude": 6.7031
+      "longitude": 2.4825,
+      "latitude": 6.7119
     },
     {
       "block_id": "f45fe71a181e-380",
@@ -20906,8 +20932,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-04-16 10:28:50",
-      "longitude": 2.4713,
-      "latitude": 6.6328
+      "longitude": 2.4808,
+      "latitude": 6.6294
     },
     {
       "block_id": "f45fe71a181e-382",
@@ -20965,8 +20991,8 @@
       "socioeconomic_membershipwhere": "Groupe De Producteurs",
       "socioeconomic_hhassets": "Table Et Chaises; Matelas; Lit; Table Et Chaises0; Table Et ChaisesLit; Table Et ChaisesTapis; Table Et ChaisesCuisinière électrique; Table Et ChaisesCuisinière à Essence",
       "socioeconomic_survey_end": "2024-01-06 11:39:48",
-      "longitude": 2.3991,
-      "latitude": 6.3608
+      "longitude": 2.4055,
+      "latitude": 6.373
     },
     {
       "block_id": "f45fe71a181e-384",
@@ -21029,8 +21055,8 @@
       "transplantation_plotsize": "6",
       "transplantation_plantdensity": "0",
       "transplantation_survey_end": "2024-01-06 11:49:50",
-      "longitude": 2.2811,
-      "latitude": 6.4479
+      "longitude": 2.2913,
+      "latitude": 6.444
     },
     {
       "block_id": "f45fe71a181e-385",
@@ -21102,8 +21128,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-15 13:14:49",
-      "longitude": 2.3123,
-      "latitude": 6.3592
+      "longitude": 2.3191,
+      "latitude": 6.3524
     },
     {
       "block_id": "f45fe71a181e-386",
@@ -21175,8 +21201,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-15 13:26:18",
-      "longitude": 2.4022,
-      "latitude": 6.3415
+      "longitude": 2.3898,
+      "latitude": 6.3396
     },
     {
       "block_id": "f45fe71a181e-387",
@@ -21247,8 +21273,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-15 13:12:11",
-      "longitude": 2.2229,
-      "latitude": 6.4509
+      "longitude": 2.2243,
+      "latitude": 6.4581
     },
     {
       "block_id": "f45fe71a181e-388",
@@ -21333,8 +21359,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-16 09:22:30",
-      "longitude": 2.3387,
-      "latitude": 6.3918
+      "longitude": 2.3397,
+      "latitude": 6.393
     },
     {
       "block_id": "f45fe71a181e-390",
@@ -21411,8 +21437,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "C; Rien",
       "troisimercolte_survey_end": "2024-04-18 19:14:18",
-      "longitude": 2.2725,
-      "latitude": 6.7933
+      "longitude": 2.2622,
+      "latitude": 6.8085
     },
     {
       "block_id": "f45fe71a181e-391",
@@ -21488,8 +21514,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:11:02",
-      "longitude": 2.2582,
-      "latitude": 6.8092
+      "longitude": 2.2718,
+      "latitude": 6.8005
     },
     {
       "block_id": "f45fe71a181e-392",
@@ -21565,8 +21591,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:08:57",
-      "longitude": 2.255,
-      "latitude": 6.7974
+      "longitude": 2.2593,
+      "latitude": 6.792
     },
     {
       "block_id": "f45fe71a181e-393",
@@ -21642,8 +21668,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:16:21",
-      "longitude": 2.2531,
-      "latitude": 6.8054
+      "longitude": 2.2666,
+      "latitude": 6.7985
     },
     {
       "block_id": "f45fe71a181e-394",
@@ -21718,8 +21744,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:18:54",
-      "longitude": 2.2934,
-      "latitude": 6.6767
+      "longitude": 2.2936,
+      "latitude": 6.6879
     },
     {
       "block_id": "f45fe71a181e-395",
@@ -21797,8 +21823,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 18:37:39",
-      "longitude": 2.2805,
-      "latitude": 6.7237
+      "longitude": 2.3025,
+      "latitude": 6.7235
     },
     {
       "block_id": "f45fe71a181e-396",
@@ -21875,8 +21901,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "B",
       "troisimercolte_survey_end": "2024-04-18 18:47:38",
-      "longitude": 2.2783,
-      "latitude": 6.7217
+      "longitude": 2.2721,
+      "latitude": 6.7177
     },
     {
       "block_id": "f45fe71a181e-397",
@@ -21952,8 +21978,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:02:44",
-      "longitude": 2.304,
-      "latitude": 6.7726
+      "longitude": 2.3043,
+      "latitude": 6.7798
     },
     {
       "block_id": "f45fe71a181e-398",
@@ -22029,8 +22055,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:00:43",
-      "longitude": 2.3139,
-      "latitude": 6.7695
+      "longitude": 2.3181,
+      "latitude": 6.7725
     },
     {
       "block_id": "f45fe71a181e-399",
@@ -22107,8 +22133,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:06:27",
-      "longitude": 2.321,
-      "latitude": 6.7806
+      "longitude": 2.3146,
+      "latitude": 6.7786
     },
     {
       "block_id": "f45fe71a181e-400",
@@ -22181,8 +22207,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-16 12:01:59",
-      "longitude": 2.5585,
-      "latitude": 6.4856
+      "longitude": 2.5542,
+      "latitude": 6.5008
     },
     {
       "block_id": "f45fe71a181e-401",
@@ -22249,8 +22275,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-01-27 11:20:36",
-      "longitude": 2.5423,
-      "latitude": 6.4693
+      "longitude": 2.5466,
+      "latitude": 6.494
     },
     {
       "block_id": "f45fe71a181e-402",
@@ -22322,8 +22348,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "C; Rien",
       "troisimercolte_survey_end": "2024-04-16 12:10:40",
-      "longitude": 2.5564,
-      "latitude": 6.4834
+      "longitude": 2.5526,
+      "latitude": 6.4887
     },
     {
       "block_id": "f45fe71a181e-403",
@@ -22369,8 +22395,8 @@
       "transplantation_plotsize": "10mx3",
       "transplantation_plantdensity": "60",
       "transplantation_survey_end": "2024-01-08 09:33:15",
-      "longitude": 2.5722,
-      "latitude": 6.4917
+      "longitude": 2.5739,
+      "latitude": 6.4886
     },
     {
       "block_id": "f45fe71a181e-408",
@@ -22471,8 +22497,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-27 20:49:49",
-      "longitude": 2.5277,
-      "latitude": 6.5273
+      "longitude": 2.5482,
+      "latitude": 6.5299
     },
     {
       "block_id": "f45fe71a181e-413",
@@ -22505,8 +22531,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-27 20:27:27",
-      "longitude": 2.5305,
-      "latitude": 6.5314
+      "longitude": 2.5249,
+      "latitude": 6.5332
     },
     {
       "block_id": "f45fe71a181e-414",
@@ -22539,8 +22565,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-27 20:35:16",
-      "longitude": 2.5467,
-      "latitude": 6.5414
+      "longitude": 2.5447,
+      "latitude": 6.5325
     },
     {
       "block_id": "f45fe71a181e-415",
@@ -22573,8 +22599,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-01-27 20:43:26",
-      "longitude": 2.5452,
-      "latitude": 6.5438
+      "longitude": 2.5283,
+      "latitude": 6.5428
     },
     {
       "block_id": "f45fe71a181e-416",
@@ -22658,8 +22684,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-09 17:39:39",
-      "longitude": 2.3978,
-      "latitude": 6.5817
+      "longitude": 2.3855,
+      "latitude": 6.6002
     },
     {
       "block_id": "f45fe71a181e-417",
@@ -22743,8 +22769,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C; B",
       "quatrimercolte_survey_end": "2024-03-01 15:49:37",
-      "longitude": 2.3887,
-      "latitude": 6.5647
+      "longitude": 2.3896,
+      "latitude": 6.5808
     },
     {
       "block_id": "f45fe71a181e-418",
@@ -22829,8 +22855,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-03-21 13:22:19",
-      "longitude": 2.3932,
-      "latitude": 6.5932
+      "longitude": 2.3957,
+      "latitude": 6.6106
     },
     {
       "block_id": "f45fe71a181e-419",
@@ -22915,8 +22941,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-03-02 09:14:59",
-      "longitude": 2.3871,
-      "latitude": 6.5892
+      "longitude": 2.3917,
+      "latitude": 6.6121
     },
     {
       "block_id": "f45fe71a181e-420",
@@ -22982,8 +23008,8 @@
       "premirercolte_anyloss": "Oui",
       "premirercolte_whichlost": "A; C",
       "premirercolte_survey_end": "2024-02-13 09:52:19",
-      "longitude": 2.4098,
-      "latitude": 6.6106
+      "longitude": 2.4074,
+      "latitude": 6.5951
     },
     {
       "block_id": "f45fe71a181e-421",
@@ -23067,8 +23093,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-03-02 09:16:42",
-      "longitude": 2.3972,
-      "latitude": 6.6034
+      "longitude": 2.3732,
+      "latitude": 6.6029
     },
     {
       "block_id": "f45fe71a181e-422",
@@ -23124,8 +23150,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-02-13 09:53:41",
-      "longitude": 2.4107,
-      "latitude": 6.5995
+      "longitude": 2.4037,
+      "latitude": 6.5921
     },
     {
       "block_id": "f45fe71a181e-423",
@@ -23191,8 +23217,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-02-13 09:54:43",
-      "longitude": 2.3942,
-      "latitude": 6.609
+      "longitude": 2.3797,
+      "latitude": 6.6002
     },
     {
       "block_id": "f45fe71a181e-424",
@@ -23258,8 +23284,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-02-13 09:56:52",
-      "longitude": 2.3934,
-      "latitude": 6.6008
+      "longitude": 2.3924,
+      "latitude": 6.5953
     },
     {
       "block_id": "f45fe71a181e-425",
@@ -23344,7 +23370,7 @@
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-03-02 09:15:50",
       "longitude": 2.3885,
-      "latitude": 6.5961
+      "latitude": 6.5963
     },
     {
       "block_id": "f45fe71a181e-426",
@@ -23416,8 +23442,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-15 15:53:17",
-      "longitude": 2.3075,
-      "latitude": 6.4307
+      "longitude": 2.3012,
+      "latitude": 6.4417
     },
     {
       "block_id": "f45fe71a181e-427",
@@ -23489,8 +23515,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-15 13:53:13",
-      "longitude": 2.2941,
-      "latitude": 6.4377
+      "longitude": 2.2906,
+      "latitude": 6.4472
     },
     {
       "block_id": "f45fe71a181e-431",
@@ -23548,8 +23574,8 @@
       "transplantation_plotsize": "10mx2m",
       "transplantation_plantdensity": "1000",
       "transplantation_survey_end": "2024-01-28 21:05:10",
-      "longitude": 2.5505,
-      "latitude": 6.4865
+      "longitude": 2.5523,
+      "latitude": 6.4919
     },
     {
       "block_id": "f45fe71a181e-432",
@@ -23632,8 +23658,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 13:48:01",
-      "longitude": 2.5339,
-      "latitude": 6.8235
+      "longitude": 2.5287,
+      "latitude": 6.8345
     },
     {
       "block_id": "f45fe71a181e-434",
@@ -23706,8 +23732,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-15 14:51:33",
-      "longitude": 2.502,
-      "latitude": 6.8671
+      "longitude": 2.5196,
+      "latitude": 6.8821
     },
     {
       "block_id": "f45fe71a181e-435",
@@ -23808,8 +23834,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "None",
       "quatrimercolte_survey_end": "2024-03-02 09:13:54",
-      "longitude": 2.3918,
-      "latitude": 6.5885
+      "longitude": 2.3786,
+      "latitude": 6.5945
     },
     {
       "block_id": "f45fe71a181e-438",
@@ -23874,8 +23900,8 @@
       "premirercolte_anyloss": "Non",
       "premirercolte_whichlost": "Rien",
       "premirercolte_survey_end": "2024-02-13 09:58:09",
-      "longitude": 2.3818,
-      "latitude": 6.6125
+      "longitude": 2.3908,
+      "latitude": 6.597
     },
     {
       "block_id": "f45fe71a181e-439",
@@ -23936,8 +23962,8 @@
       "transplantation_plotsize": "7,2m²",
       "transplantation_plantdensity": "80",
       "transplantation_survey_end": "2023-12-22 07:45:46",
-      "longitude": 2.4067,
-      "latitude": 6.6223
+      "longitude": 2.4066,
+      "latitude": 6.6036
     },
     {
       "block_id": "f45fe71a181e-440",
@@ -23998,8 +24024,8 @@
       "transplantation_plotsize": "7,2m²",
       "transplantation_plantdensity": "50",
       "transplantation_survey_end": "2023-12-22 08:01:17",
-      "longitude": 2.4038,
-      "latitude": 6.6023
+      "longitude": 2.3993,
+      "latitude": 6.6217
     },
     {
       "block_id": "f45fe71a181e-441",
@@ -24084,8 +24110,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-11 11:00:37",
-      "longitude": 2.3956,
-      "latitude": 6.5839
+      "longitude": 2.3867,
+      "latitude": 6.5807
     },
     {
       "block_id": "f45fe71a181e-442",
@@ -24169,8 +24195,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-11 10:40:06",
-      "longitude": 2.3933,
-      "latitude": 6.5823
+      "longitude": 2.3984,
+      "latitude": 6.5876
     },
     {
       "block_id": "f45fe71a181e-443",
@@ -24255,8 +24281,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-11 11:07:01",
-      "longitude": 2.3975,
-      "latitude": 6.5814
+      "longitude": 2.3991,
+      "latitude": 6.5884
     },
     {
       "block_id": "f45fe71a181e-444",
@@ -24341,8 +24367,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-03-11 10:31:33",
-      "longitude": 2.3876,
-      "latitude": 6.5914
+      "longitude": 2.3927,
+      "latitude": 6.5941
     },
     {
       "block_id": "f45fe71a181e-445",
@@ -24427,8 +24453,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-09 17:30:08",
-      "longitude": 2.3831,
-      "latitude": 6.5951
+      "longitude": 2.3773,
+      "latitude": 6.5937
     },
     {
       "block_id": "f45fe71a181e-446",
@@ -24513,8 +24539,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-03-09 17:44:19",
-      "longitude": 2.3983,
-      "latitude": 6.5766
+      "longitude": 2.4079,
+      "latitude": 6.5834
     },
     {
       "block_id": "f45fe71a181e-447",
@@ -24596,8 +24622,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; C",
       "quatrimercolte_survey_end": "2024-04-16 13:02:29",
-      "longitude": 2.4945,
-      "latitude": 6.717
+      "longitude": 2.4733,
+      "latitude": 6.7218
     },
     {
       "block_id": "f45fe71a181e-448",
@@ -24680,8 +24706,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-04-16 12:45:53",
-      "longitude": 2.4737,
-      "latitude": 6.7168
+      "longitude": 2.4927,
+      "latitude": 6.7086
     },
     {
       "block_id": "f45fe71a181e-449",
@@ -24763,8 +24789,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-16 11:01:14",
-      "longitude": 2.482,
-      "latitude": 6.8183
+      "longitude": 2.471,
+      "latitude": 6.7987
     },
     {
       "block_id": "f45fe71a181e-450",
@@ -24848,8 +24874,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-16 11:11:32",
-      "longitude": 2.4778,
-      "latitude": 6.7133
+      "longitude": 2.4825,
+      "latitude": 6.7227
     },
     {
       "block_id": "f45fe71a181e-451",
@@ -24941,8 +24967,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-02-22 14:09:26",
-      "longitude": 2.4683,
-      "latitude": 6.6292
+      "longitude": 2.469,
+      "latitude": 6.6298
     },
     {
       "block_id": "f45fe71a181e-453",
@@ -25046,8 +25072,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-04-16 11:19:38",
-      "longitude": 2.4715,
-      "latitude": 6.6633
+      "longitude": 2.4799,
+      "latitude": 6.6658
     },
     {
       "block_id": "f45fe71a181e-457",
@@ -25131,8 +25157,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-04-16 11:29:27",
-      "longitude": 2.4863,
-      "latitude": 6.7065
+      "longitude": 2.4835,
+      "latitude": 6.703
     },
     {
       "block_id": "f45fe71a181e-458",
@@ -25215,8 +25241,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-04-16 11:38:01",
-      "longitude": 2.4745,
-      "latitude": 6.7694
+      "longitude": 2.4679,
+      "latitude": 6.7681
     },
     {
       "block_id": "f45fe71a181e-459",
@@ -25299,8 +25325,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B; A",
       "quatrimercolte_survey_end": "2024-04-16 14:18:30",
-      "longitude": 2.4807,
-      "latitude": 6.7135
+      "longitude": 2.4711,
+      "latitude": 6.716
     },
     {
       "block_id": "f45fe71a181e-460",
@@ -25383,8 +25409,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-04-16 11:47:52",
-      "longitude": 2.4746,
-      "latitude": 6.7561
+      "longitude": 2.4905,
+      "latitude": 6.767
     },
     {
       "block_id": "f45fe71a181e-461",
@@ -25467,8 +25493,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "A; C",
       "quatrimercolte_survey_end": "2024-02-22 14:06:03",
-      "longitude": 2.4824,
-      "latitude": 6.6551
+      "longitude": 2.4854,
+      "latitude": 6.6556
     },
     {
       "block_id": "f45fe71a181e-462",
@@ -25550,8 +25576,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-16 12:00:48",
-      "longitude": 2.4782,
-      "latitude": 6.6671
+      "longitude": 2.4784,
+      "latitude": 6.6785
     },
     {
       "block_id": "f45fe71a181e-463",
@@ -25629,8 +25655,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 18:33:47",
-      "longitude": 2.2855,
-      "latitude": 6.7419
+      "longitude": 2.2878,
+      "latitude": 6.7365
     },
     {
       "block_id": "f45fe71a181e-464",
@@ -25706,8 +25732,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 18:41:37",
-      "longitude": 2.2998,
-      "latitude": 6.7298
+      "longitude": 2.2855,
+      "latitude": 6.7419
     },
     {
       "block_id": "f45fe71a181e-465",
@@ -25784,8 +25810,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:30:28",
-      "longitude": 2.2926,
-      "latitude": 6.6369
+      "longitude": 2.295,
+      "latitude": 6.6292
     },
     {
       "block_id": "f45fe71a181e-466",
@@ -25856,8 +25882,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:31:44",
-      "longitude": 2.2906,
-      "latitude": 6.6265
+      "longitude": 2.3095,
+      "latitude": 6.6198
     },
     {
       "block_id": "f45fe71a181e-467",
@@ -25934,8 +25960,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:27:58",
-      "longitude": 2.3072,
-      "latitude": 6.6385
+      "longitude": 2.2986,
+      "latitude": 6.6207
     },
     {
       "block_id": "f45fe71a181e-468",
@@ -26012,8 +26038,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:25:39",
-      "longitude": 2.3048,
-      "latitude": 6.6383
+      "longitude": 2.3079,
+      "latitude": 6.6288
     },
     {
       "block_id": "f45fe71a181e-469",
@@ -26090,8 +26116,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 19:21:58",
-      "longitude": 2.2996,
-      "latitude": 6.6276
+      "longitude": 2.2962,
+      "latitude": 6.6215
     },
     {
       "block_id": "f45fe71a181e-470",
@@ -26167,8 +26193,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 18:50:16",
-      "longitude": 2.2795,
-      "latitude": 6.7247
+      "longitude": 2.2851,
+      "latitude": 6.7418
     },
     {
       "block_id": "f45fe71a181e-471",
@@ -26244,8 +26270,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 18:44:57",
-      "longitude": 2.2824,
-      "latitude": 6.7369
+      "longitude": 2.2821,
+      "latitude": 6.7359
     },
     {
       "block_id": "f45fe71a181e-472",
@@ -26321,8 +26347,8 @@
       "troisimercolte_anyloss": "Non",
       "troisimercolte_whichlost": "Rien",
       "troisimercolte_survey_end": "2024-04-18 18:58:12",
-      "longitude": 2.2948,
-      "latitude": 6.7236
+      "longitude": 2.285,
+      "latitude": 6.7274
     },
     {
       "block_id": "f45fe71a181e-473",
@@ -26392,8 +26418,8 @@
       "deuximercolte_anyloss": "Non",
       "deuximercolte_whichlost": "Rien",
       "deuximercolte_survey_end": "2024-04-19 13:53:14",
-      "longitude": 2.2918,
-      "latitude": 6.9471
+      "longitude": 2.2789,
+      "latitude": 6.9533
     },
     {
       "block_id": "f45fe71a181e-474",
@@ -26463,8 +26489,8 @@
       "deuximercolte_anyloss": "Oui",
       "deuximercolte_whichlost": "B",
       "deuximercolte_survey_end": "2024-04-18 17:22:12",
-      "longitude": 2.1313,
-      "latitude": 6.8427
+      "longitude": 2.1389,
+      "latitude": 6.8459
     },
     {
       "block_id": "f45fe71a181e-475",
@@ -26539,8 +26565,8 @@
       "troisimercolte_anyloss": "Oui",
       "troisimercolte_whichlost": "C",
       "troisimercolte_survey_end": "2024-04-22 11:41:15",
-      "longitude": 2.2389,
-      "latitude": 6.8608
+      "longitude": 2.2329,
+      "latitude": 6.8478
     },
     {
       "block_id": "f45fe71a181e-477",
@@ -26641,8 +26667,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-13 18:26:13",
-      "longitude": 2.9045,
-      "latitude": 11.0701
+      "longitude": 2.8977,
+      "latitude": 11.0951
     },
     {
       "block_id": "f45fe71a181e-478",
@@ -26743,8 +26769,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A; B",
       "quatrimercolte_survey_end": "2024-03-13 18:36:20",
-      "longitude": 2.8965,
-      "latitude": 11.0718
+      "longitude": 2.9001,
+      "latitude": 11.0963
     },
     {
       "block_id": "f45fe71a181e-479",
@@ -26845,8 +26871,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "B",
       "quatrimercolte_survey_end": "2024-03-14 15:49:15",
-      "longitude": 2.8927,
-      "latitude": 11.0857
+      "longitude": 2.8973,
+      "latitude": 11.0685
     },
     {
       "block_id": "f45fe71a181e-480",
@@ -26947,8 +26973,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-03-14 16:41:41",
-      "longitude": 2.8982,
-      "latitude": 11.0806
+      "longitude": 2.8977,
+      "latitude": 11.0797
     },
     {
       "block_id": "f45fe71a181e-481",
@@ -27047,8 +27073,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "B; C",
       "quatrimercolte_survey_end": "2024-03-13 19:10:37",
-      "longitude": 2.8904,
-      "latitude": 11.0845
+      "longitude": 2.8997,
+      "latitude": 11.0806
     },
     {
       "block_id": "f45fe71a181e-482",
@@ -27144,8 +27170,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 17:27:35",
-      "longitude": 3.0002,
-      "latitude": 11.1616
+      "longitude": 3.0047,
+      "latitude": 11.1586
     },
     {
       "block_id": "f45fe71a181e-483",
@@ -27241,8 +27267,8 @@
       "quatrimercolte_item_C_vs_local": "Worse",
       "quatrimercolte_grownexttricot": "A",
       "quatrimercolte_survey_end": "2024-04-25 15:46:58",
-      "longitude": 3.0039,
-      "latitude": 11.1699
+      "longitude": 3.0077,
+      "latitude": 11.175
     },
     {
       "block_id": "f45fe71a181e-484",
@@ -27340,8 +27366,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 15:52:15",
-      "longitude": 2.9967,
-      "latitude": 11.1579
+      "longitude": 3.0137,
+      "latitude": 11.1603
     },
     {
       "block_id": "f45fe71a181e-485",
@@ -27439,8 +27465,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 15:58:02",
-      "longitude": 3.0134,
-      "latitude": 11.1687
+      "longitude": 2.9948,
+      "latitude": 11.162
     },
     {
       "block_id": "f45fe71a181e-486",
@@ -27538,8 +27564,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 17:32:11",
-      "longitude": 3.0118,
-      "latitude": 11.1628
+      "longitude": 3.0066,
+      "latitude": 11.1658
     },
     {
       "block_id": "f45fe71a181e-487",
@@ -27637,8 +27663,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:03:23",
-      "longitude": 3.0138,
-      "latitude": 11.1607
+      "longitude": 2.9986,
+      "latitude": 11.1665
     },
     {
       "block_id": "f45fe71a181e-488",
@@ -27736,8 +27762,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:08:37",
-      "longitude": 3.0048,
-      "latitude": 11.1574
+      "longitude": 3.0043,
+      "latitude": 11.1767
     },
     {
       "block_id": "f45fe71a181e-489",
@@ -27834,8 +27860,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:14:21",
-      "longitude": 2.9993,
-      "latitude": 11.1597
+      "longitude": 2.9925,
+      "latitude": 11.1759
     },
     {
       "block_id": "f45fe71a181e-490",
@@ -27932,8 +27958,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:20:05",
-      "longitude": 3.0093,
-      "latitude": 11.1587
+      "longitude": 2.9984,
+      "latitude": 11.1747
     },
     {
       "block_id": "f45fe71a181e-491",
@@ -28030,8 +28056,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:25:27",
-      "longitude": 3.0129,
-      "latitude": 11.1739
+      "longitude": 2.9951,
+      "latitude": 11.1648
     },
     {
       "block_id": "f45fe71a181e-492",
@@ -28074,8 +28100,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:31:22",
-      "longitude": 2.9942,
-      "latitude": 11.1569
+      "longitude": 3.0118,
+      "latitude": 11.1614
     },
     {
       "block_id": "f45fe71a181e-493",
@@ -28171,8 +28197,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:36:21",
-      "longitude": 2.9917,
-      "latitude": 11.1729
+      "longitude": 3.0153,
+      "latitude": 11.1736
     },
     {
       "block_id": "f45fe71a181e-494",
@@ -28268,8 +28294,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:43:03",
-      "longitude": 3.0077,
-      "latitude": 11.1662
+      "longitude": 3.0117,
+      "latitude": 11.1719
     },
     {
       "block_id": "f45fe71a181e-495",
@@ -28367,8 +28393,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:49:27",
-      "longitude": 3.011,
-      "latitude": 11.1728
+      "longitude": 3.0011,
+      "latitude": 11.1661
     },
     {
       "block_id": "f45fe71a181e-496",
@@ -28465,7 +28491,7 @@
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:54:15",
       "longitude": 3.0018,
-      "latitude": 11.1752
+      "latitude": 11.1765
     },
     {
       "block_id": "f45fe71a181e-497",
@@ -28563,8 +28589,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 16:59:33",
-      "longitude": 3.0003,
-      "latitude": 11.1791
+      "longitude": 3.004,
+      "latitude": 11.1675
     },
     {
       "block_id": "f45fe71a181e-498",
@@ -28662,8 +28688,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 17:05:44",
-      "longitude": 2.9903,
-      "latitude": 11.1727
+      "longitude": 3.0047,
+      "latitude": 11.1677
     },
     {
       "block_id": "f45fe71a181e-499",
@@ -28761,8 +28787,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 17:16:36",
-      "longitude": 3.0115,
-      "latitude": 11.1658
+      "longitude": 2.9934,
+      "latitude": 11.1603
     },
     {
       "block_id": "f45fe71a181e-500",
@@ -28861,8 +28887,8 @@
       "quatrimercolte_item_C_vs_local": "Better",
       "quatrimercolte_grownexttricot": "C",
       "quatrimercolte_survey_end": "2024-04-25 17:10:58",
-      "longitude": 3.009,
-      "latitude": 11.1697
+      "longitude": 3.0061,
+      "latitude": 11.158
     }
   ],
   "plot_data": [
@@ -300465,8 +300491,8 @@
       "collection_moment": "transplantation",
       "trait": "vigor",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.1181,
+      "SE": 0.1794,
       "quasiSE": 0.1258,
       "quasiVar": 0.0158
     },
@@ -300474,8 +300500,8 @@
       "collection_moment": "transplantation",
       "trait": "vigor",
       "genotype_name": "Crincrin local",
-      "estimate": -0.1181,
-      "SE": 0.1794,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1266,
       "quasiVar": 0.016
     },
@@ -300483,7 +300509,7 @@
       "collection_moment": "transplantation",
       "trait": "vigor",
       "genotype_name": "ES",
-      "estimate": 0.1168,
+      "estimate": 0.2349,
       "SE": 0.1809,
       "quasiSE": 0.1293,
       "quasiVar": 0.0167
@@ -300492,8 +300518,8 @@
       "collection_moment": "transplantation",
       "trait": "vigor",
       "genotype_name": "IP2",
-      "estimate": 0.1809,
-      "SE": 0.1744,
+      "estimate": 0.299,
+      "SE": 0.1784,
       "quasiSE": 0.124,
       "quasiVar": 0.0154
     },
@@ -300501,8 +300527,8 @@
       "collection_moment": "transplantation",
       "trait": "vigor",
       "genotype_name": "SUD 4",
-      "estimate": -0.1114,
-      "SE": 0.1837,
+      "estimate": 0.0067,
+      "SE": 0.1793,
       "quasiSE": 0.1324,
       "quasiVar": 0.0175
     },
@@ -300510,8 +300536,8 @@
       "collection_moment": "transplantation",
       "trait": "vigor",
       "genotype_name": "SUD2",
-      "estimate": 0.2225,
-      "SE": 0.1791,
+      "estimate": 0.3405,
+      "SE": 0.1811,
       "quasiSE": 0.1275,
       "quasiVar": 0.0163
     },
@@ -300519,8 +300545,8 @@
       "collection_moment": "transplantation",
       "trait": "plantsurvival",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1011,
+      "SE": 0.1798,
       "quasiSE": 0.1302,
       "quasiVar": 0.0169
     },
@@ -300528,8 +300554,8 @@
       "collection_moment": "transplantation",
       "trait": "plantsurvival",
       "genotype_name": "Crincrin local",
-      "estimate": 0.1011,
-      "SE": 0.1798,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1223,
       "quasiVar": 0.015
     },
@@ -300537,8 +300563,8 @@
       "collection_moment": "transplantation",
       "trait": "plantsurvival",
       "genotype_name": "ES",
-      "estimate": 0.4263,
-      "SE": 0.1842,
+      "estimate": 0.3251,
+      "SE": 0.1782,
       "quasiSE": 0.1292,
       "quasiVar": 0.0167
     },
@@ -300546,8 +300572,8 @@
       "collection_moment": "transplantation",
       "trait": "plantsurvival",
       "genotype_name": "IP2",
-      "estimate": 0.2342,
-      "SE": 0.1782,
+      "estimate": 0.1331,
+      "SE": 0.1753,
       "quasiSE": 0.1249,
       "quasiVar": 0.0156
     },
@@ -300555,8 +300581,8 @@
       "collection_moment": "transplantation",
       "trait": "plantsurvival",
       "genotype_name": "SUD 4",
-      "estimate": 0.0927,
-      "SE": 0.1831,
+      "estimate": -0.0085,
+      "SE": 0.1741,
       "quasiSE": 0.1292,
       "quasiVar": 0.0167
     },
@@ -300564,8 +300590,8 @@
       "collection_moment": "transplantation",
       "trait": "plantsurvival",
       "genotype_name": "SUD2",
-      "estimate": 0.2194,
-      "SE": 0.1836,
+      "estimate": 0.1183,
+      "SE": 0.1794,
       "quasiSE": 0.1288,
       "quasiVar": 0.0166
     },
@@ -300573,8 +300599,8 @@
       "collection_moment": "transplantation",
       "trait": "pestresistance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.2079,
+      "SE": 0.2088,
       "quasiSE": 0.1497,
       "quasiVar": 0.0224
     },
@@ -300582,8 +300608,8 @@
       "collection_moment": "transplantation",
       "trait": "pestresistance",
       "genotype_name": "Crincrin local",
-      "estimate": -0.2079,
-      "SE": 0.2088,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1426,
       "quasiVar": 0.0203
     },
@@ -300591,8 +300617,8 @@
       "collection_moment": "transplantation",
       "trait": "pestresistance",
       "genotype_name": "ES",
-      "estimate": 0.1813,
-      "SE": 0.2137,
+      "estimate": 0.3893,
+      "SE": 0.2056,
       "quasiSE": 0.149,
       "quasiVar": 0.0222
     },
@@ -300600,8 +300626,8 @@
       "collection_moment": "transplantation",
       "trait": "pestresistance",
       "genotype_name": "IP2",
-      "estimate": 0.1373,
-      "SE": 0.2024,
+      "estimate": 0.3452,
+      "SE": 0.2032,
       "quasiSE": 0.1415,
       "quasiVar": 0.02
     },
@@ -300609,8 +300635,8 @@
       "collection_moment": "transplantation",
       "trait": "pestresistance",
       "genotype_name": "SUD 4",
-      "estimate": -0.0094,
-      "SE": 0.2082,
+      "estimate": 0.1986,
+      "SE": 0.1996,
       "quasiSE": 0.1455,
       "quasiVar": 0.0212
     },
@@ -300618,8 +300644,8 @@
       "collection_moment": "transplantation",
       "trait": "pestresistance",
       "genotype_name": "SUD2",
-      "estimate": 0.2367,
-      "SE": 0.2057,
+      "estimate": 0.4447,
+      "SE": 0.2012,
       "quasiSE": 0.1411,
       "quasiVar": 0.0199
     },
@@ -300627,8 +300653,8 @@
       "collection_moment": "transplantation",
       "trait": "droughttolerance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.1159,
+      "SE": 0.2195,
       "quasiSE": 0.153,
       "quasiVar": 0.0234
     },
@@ -300636,8 +300662,8 @@
       "collection_moment": "transplantation",
       "trait": "droughttolerance",
       "genotype_name": "Crincrin local",
-      "estimate": -0.1159,
-      "SE": 0.2195,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1537,
       "quasiVar": 0.0236
     },
@@ -300645,8 +300671,8 @@
       "collection_moment": "transplantation",
       "trait": "droughttolerance",
       "genotype_name": "ES",
-      "estimate": -0.3001,
-      "SE": 0.2198,
+      "estimate": -0.1843,
+      "SE": 0.2199,
       "quasiSE": 0.1578,
       "quasiVar": 0.0249
     },
@@ -300654,8 +300680,8 @@
       "collection_moment": "transplantation",
       "trait": "droughttolerance",
       "genotype_name": "IP2",
-      "estimate": -0.1437,
-      "SE": 0.2141,
+      "estimate": -0.0278,
+      "SE": 0.2122,
       "quasiSE": 0.1492,
       "quasiVar": 0.0223
     },
@@ -300663,8 +300689,8 @@
       "collection_moment": "transplantation",
       "trait": "droughttolerance",
       "genotype_name": "SUD 4",
-      "estimate": -0.3167,
-      "SE": 0.2155,
+      "estimate": -0.2009,
+      "SE": 0.2176,
       "quasiSE": 0.1561,
       "quasiVar": 0.0244
     },
@@ -300672,8 +300698,8 @@
       "collection_moment": "transplantation",
       "trait": "droughttolerance",
       "genotype_name": "SUD2",
-      "estimate": -0.0083,
-      "SE": 0.2166,
+      "estimate": 0.1075,
+      "SE": 0.2182,
       "quasiSE": 0.1533,
       "quasiVar": 0.0235
     },
@@ -300681,8 +300707,8 @@
       "collection_moment": "transplantation",
       "trait": "floodtolerance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.2787,
+      "SE": 0.2467,
       "quasiSE": 0.1688,
       "quasiVar": 0.0285
     },
@@ -300690,8 +300716,8 @@
       "collection_moment": "transplantation",
       "trait": "floodtolerance",
       "genotype_name": "Crincrin local",
-      "estimate": -0.2787,
-      "SE": 0.2467,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.175,
       "quasiVar": 0.0306
     },
@@ -300699,8 +300725,8 @@
       "collection_moment": "transplantation",
       "trait": "floodtolerance",
       "genotype_name": "ES",
-      "estimate": -0.1335,
-      "SE": 0.2417,
+      "estimate": 0.1452,
+      "SE": 0.2475,
       "quasiSE": 0.1747,
       "quasiVar": 0.0305
     },
@@ -300708,8 +300734,8 @@
       "collection_moment": "transplantation",
       "trait": "floodtolerance",
       "genotype_name": "IP2",
-      "estimate": -0.0083,
-      "SE": 0.2421,
+      "estimate": 0.2704,
+      "SE": 0.2455,
       "quasiSE": 0.1746,
       "quasiVar": 0.0305
     },
@@ -300717,8 +300743,8 @@
       "collection_moment": "transplantation",
       "trait": "floodtolerance",
       "genotype_name": "SUD 4",
-      "estimate": -0.3263,
-      "SE": 0.2453,
+      "estimate": -0.0476,
+      "SE": 0.2485,
       "quasiSE": 0.1805,
       "quasiVar": 0.0326
     },
@@ -300726,8 +300752,8 @@
       "collection_moment": "transplantation",
       "trait": "floodtolerance",
       "genotype_name": "SUD2",
-      "estimate": -0.3505,
-      "SE": 0.25,
+      "estimate": -0.0717,
+      "SE": 0.2547,
       "quasiSE": 0.1842,
       "quasiVar": 0.0339
     },
@@ -300735,8 +300761,8 @@
       "collection_moment": "premirercolte",
       "trait": "flowering",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.2168,
+      "SE": 0.1811,
       "quasiSE": 0.13,
       "quasiVar": 0.0169
     },
@@ -300744,8 +300770,8 @@
       "collection_moment": "premirercolte",
       "trait": "flowering",
       "genotype_name": "Crincrin local",
-      "estimate": 0.2168,
-      "SE": 0.1811,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1258,
       "quasiVar": 0.0158
     },
@@ -300753,8 +300779,8 @@
       "collection_moment": "premirercolte",
       "trait": "flowering",
       "genotype_name": "ES",
-      "estimate": 0.3039,
-      "SE": 0.1843,
+      "estimate": 0.0871,
+      "SE": 0.1778,
       "quasiSE": 0.128,
       "quasiVar": 0.0164
     },
@@ -300762,8 +300788,8 @@
       "collection_moment": "premirercolte",
       "trait": "flowering",
       "genotype_name": "IP2",
-      "estimate": 0.3021,
-      "SE": 0.1785,
+      "estimate": 0.0853,
+      "SE": 0.1774,
       "quasiSE": 0.1241,
       "quasiVar": 0.0154
     },
@@ -300771,8 +300797,8 @@
       "collection_moment": "premirercolte",
       "trait": "flowering",
       "genotype_name": "SUD 4",
-      "estimate": 0.2567,
-      "SE": 0.1822,
+      "estimate": 0.0399,
+      "SE": 0.1782,
       "quasiSE": 0.1272,
       "quasiVar": 0.0162
     },
@@ -300780,8 +300806,8 @@
       "collection_moment": "premirercolte",
       "trait": "flowering",
       "genotype_name": "SUD2",
-      "estimate": 0.2429,
-      "SE": 0.18,
+      "estimate": 0.0261,
+      "SE": 0.1796,
       "quasiSE": 0.1261,
       "quasiVar": 0.0159
     },
@@ -300789,8 +300815,8 @@
       "collection_moment": "premirercolte",
       "trait": "pestresistance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.0461,
+      "SE": 0.1764,
       "quasiSE": 0.1242,
       "quasiVar": 0.0154
     },
@@ -300798,8 +300824,8 @@
       "collection_moment": "premirercolte",
       "trait": "pestresistance",
       "genotype_name": "Crincrin local",
-      "estimate": 0.0461,
-      "SE": 0.1764,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.124,
       "quasiVar": 0.0154
     },
@@ -300807,8 +300833,8 @@
       "collection_moment": "premirercolte",
       "trait": "pestresistance",
       "genotype_name": "ES",
-      "estimate": 0.3436,
-      "SE": 0.1807,
+      "estimate": 0.2975,
+      "SE": 0.1796,
       "quasiSE": 0.1313,
       "quasiVar": 0.0172
     },
@@ -300816,8 +300842,8 @@
       "collection_moment": "premirercolte",
       "trait": "pestresistance",
       "genotype_name": "IP2",
-      "estimate": 0.156,
-      "SE": 0.177,
+      "estimate": 0.1099,
+      "SE": 0.1774,
       "quasiSE": 0.1277,
       "quasiVar": 0.0163
     },
@@ -300825,8 +300851,8 @@
       "collection_moment": "premirercolte",
       "trait": "pestresistance",
       "genotype_name": "SUD 4",
-      "estimate": 0.0025,
-      "SE": 0.174,
+      "estimate": -0.0436,
+      "SE": 0.1719,
       "quasiSE": 0.1196,
       "quasiVar": 0.0143
     },
@@ -300834,8 +300860,8 @@
       "collection_moment": "premirercolte",
       "trait": "pestresistance",
       "genotype_name": "SUD2",
-      "estimate": 0.229,
-      "SE": 0.1749,
+      "estimate": 0.1829,
+      "SE": 0.1771,
       "quasiSE": 0.1252,
       "quasiVar": 0.0157
     },
@@ -300843,8 +300869,8 @@
       "collection_moment": "premirercolte",
       "trait": "diseasesresistance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1814,
+      "SE": 0.1824,
       "quasiSE": 0.1322,
       "quasiVar": 0.0175
     },
@@ -300852,8 +300878,8 @@
       "collection_moment": "premirercolte",
       "trait": "diseasesresistance",
       "genotype_name": "Crincrin local",
-      "estimate": 0.1814,
-      "SE": 0.1824,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.126,
       "quasiVar": 0.0159
     },
@@ -300861,8 +300887,8 @@
       "collection_moment": "premirercolte",
       "trait": "diseasesresistance",
       "genotype_name": "ES",
-      "estimate": 0.3158,
-      "SE": 0.1888,
+      "estimate": 0.1345,
+      "SE": 0.1819,
       "quasiSE": 0.1328,
       "quasiVar": 0.0176
     },
@@ -300870,8 +300896,8 @@
       "collection_moment": "premirercolte",
       "trait": "diseasesresistance",
       "genotype_name": "IP2",
-      "estimate": 0.2372,
-      "SE": 0.1847,
+      "estimate": 0.0558,
+      "SE": 0.1805,
       "quasiSE": 0.131,
       "quasiVar": 0.0172
     },
@@ -300879,8 +300905,8 @@
       "collection_moment": "premirercolte",
       "trait": "diseasesresistance",
       "genotype_name": "SUD 4",
-      "estimate": 0.1687,
-      "SE": 0.1831,
+      "estimate": -0.0127,
+      "SE": 0.1784,
       "quasiSE": 0.1253,
       "quasiVar": 0.0157
     },
@@ -300888,8 +300914,8 @@
       "collection_moment": "premirercolte",
       "trait": "diseasesresistance",
       "genotype_name": "SUD2",
-      "estimate": 0.128,
-      "SE": 0.1831,
+      "estimate": -0.0534,
+      "SE": 0.1812,
       "quasiSE": 0.1278,
       "quasiVar": 0.0163
     },
@@ -300897,8 +300923,8 @@
       "collection_moment": "premirercolte",
       "trait": "yield",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.2032,
+      "SE": 0.1652,
       "quasiSE": 0.1188,
       "quasiVar": 0.0141
     },
@@ -300906,8 +300932,8 @@
       "collection_moment": "premirercolte",
       "trait": "yield",
       "genotype_name": "Crincrin local",
-      "estimate": 0.2032,
-      "SE": 0.1652,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1156,
       "quasiVar": 0.0134
     },
@@ -300915,8 +300941,8 @@
       "collection_moment": "premirercolte",
       "trait": "yield",
       "genotype_name": "ES",
-      "estimate": 0.1981,
-      "SE": 0.1694,
+      "estimate": -0.0051,
+      "SE": 0.1654,
       "quasiSE": 0.1191,
       "quasiVar": 0.0142
     },
@@ -300924,8 +300950,8 @@
       "collection_moment": "premirercolte",
       "trait": "yield",
       "genotype_name": "IP2",
-      "estimate": 0.2605,
-      "SE": 0.1652,
+      "estimate": 0.0573,
+      "SE": 0.1625,
       "quasiSE": 0.1153,
       "quasiVar": 0.0133
     },
@@ -300933,8 +300959,8 @@
       "collection_moment": "premirercolte",
       "trait": "yield",
       "genotype_name": "SUD 4",
-      "estimate": -0.0158,
-      "SE": 0.1664,
+      "estimate": -0.219,
+      "SE": 0.1632,
       "quasiSE": 0.1153,
       "quasiVar": 0.0133
     },
@@ -300942,8 +300968,8 @@
       "collection_moment": "premirercolte",
       "trait": "yield",
       "genotype_name": "SUD2",
-      "estimate": -0.0547,
-      "SE": 0.1663,
+      "estimate": -0.2579,
+      "SE": 0.1672,
       "quasiSE": 0.118,
       "quasiVar": 0.0139
     },
@@ -300951,8 +300977,8 @@
       "collection_moment": "premirercolte",
       "trait": "leafsize",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.0009,
+      "SE": 0.1667,
       "quasiSE": 0.1183,
       "quasiVar": 0.014
     },
@@ -300960,8 +300986,8 @@
       "collection_moment": "premirercolte",
       "trait": "leafsize",
       "genotype_name": "Crincrin local",
-      "estimate": -0.0009,
-      "SE": 0.1667,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1175,
       "quasiVar": 0.0138
     },
@@ -300969,8 +300995,8 @@
       "collection_moment": "premirercolte",
       "trait": "leafsize",
       "genotype_name": "ES",
-      "estimate": 0.0743,
-      "SE": 0.1694,
+      "estimate": 0.0752,
+      "SE": 0.1689,
       "quasiSE": 0.1218,
       "quasiVar": 0.0148
     },
@@ -300978,8 +301004,8 @@
       "collection_moment": "premirercolte",
       "trait": "leafsize",
       "genotype_name": "IP2",
-      "estimate": 0.206,
-      "SE": 0.1657,
+      "estimate": 0.2069,
+      "SE": 0.1646,
       "quasiSE": 0.1167,
       "quasiVar": 0.0136
     },
@@ -300987,8 +301013,8 @@
       "collection_moment": "premirercolte",
       "trait": "leafsize",
       "genotype_name": "SUD 4",
-      "estimate": -0.0451,
-      "SE": 0.1715,
+      "estimate": -0.0442,
+      "SE": 0.1673,
       "quasiSE": 0.1204,
       "quasiVar": 0.0145
     },
@@ -300996,8 +301022,8 @@
       "collection_moment": "premirercolte",
       "trait": "leafsize",
       "genotype_name": "SUD2",
-      "estimate": -0.0887,
-      "SE": 0.1661,
+      "estimate": -0.0878,
+      "SE": 0.1694,
       "quasiSE": 0.1187,
       "quasiVar": 0.0141
     },
@@ -301005,8 +301031,8 @@
       "collection_moment": "premirercolte",
       "trait": "marketability",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.3206,
+      "SE": 0.173,
       "quasiSE": 0.1217,
       "quasiVar": 0.0148
     },
@@ -301014,8 +301040,8 @@
       "collection_moment": "premirercolte",
       "trait": "marketability",
       "genotype_name": "Crincrin local",
-      "estimate": 0.3206,
-      "SE": 0.173,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1227,
       "quasiVar": 0.015
     },
@@ -301023,8 +301049,8 @@
       "collection_moment": "premirercolte",
       "trait": "marketability",
       "genotype_name": "ES",
-      "estimate": 0.114,
-      "SE": 0.1756,
+      "estimate": -0.2066,
+      "SE": 0.1767,
       "quasiSE": 0.127,
       "quasiVar": 0.0161
     },
@@ -301032,8 +301058,8 @@
       "collection_moment": "premirercolte",
       "trait": "marketability",
       "genotype_name": "IP2",
-      "estimate": 0.1199,
-      "SE": 0.1754,
+      "estimate": -0.2007,
+      "SE": 0.1723,
       "quasiSE": 0.1242,
       "quasiVar": 0.0154
     },
@@ -301041,8 +301067,8 @@
       "collection_moment": "premirercolte",
       "trait": "marketability",
       "genotype_name": "SUD 4",
-      "estimate": -0.0394,
-      "SE": 0.1746,
+      "estimate": -0.36,
+      "SE": 0.1753,
       "quasiSE": 0.1251,
       "quasiVar": 0.0157
     },
@@ -301050,8 +301076,8 @@
       "collection_moment": "premirercolte",
       "trait": "marketability",
       "genotype_name": "SUD2",
-      "estimate": 0.0148,
-      "SE": 0.1702,
+      "estimate": -0.3057,
+      "SE": 0.174,
       "quasiSE": 0.1208,
       "quasiVar": 0.0146
     },
@@ -301059,8 +301085,8 @@
       "collection_moment": "premirercolte",
       "trait": "taste",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1705,
+      "SE": 0.1912,
       "quasiSE": 0.1321,
       "quasiVar": 0.0174
     },
@@ -301068,8 +301094,8 @@
       "collection_moment": "premirercolte",
       "trait": "taste",
       "genotype_name": "Crincrin local",
-      "estimate": 0.1705,
-      "SE": 0.1912,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1407,
       "quasiVar": 0.0198
     },
@@ -301077,8 +301103,8 @@
       "collection_moment": "premirercolte",
       "trait": "taste",
       "genotype_name": "ES",
-      "estimate": 0.2467,
-      "SE": 0.1959,
+      "estimate": 0.0762,
+      "SE": 0.1996,
       "quasiSE": 0.1434,
       "quasiVar": 0.0206
     },
@@ -301086,8 +301112,8 @@
       "collection_moment": "premirercolte",
       "trait": "taste",
       "genotype_name": "IP2",
-      "estimate": 0.1082,
-      "SE": 0.1923,
+      "estimate": -0.0623,
+      "SE": 0.1987,
       "quasiSE": 0.1385,
       "quasiVar": 0.0192
     },
@@ -301095,8 +301121,8 @@
       "collection_moment": "premirercolte",
       "trait": "taste",
       "genotype_name": "SUD 4",
-      "estimate": 0.0332,
-      "SE": 0.1872,
+      "estimate": -0.1372,
+      "SE": 0.1925,
       "quasiSE": 0.1313,
       "quasiVar": 0.0172
     },
@@ -301104,8 +301130,8 @@
       "collection_moment": "premirercolte",
       "trait": "taste",
       "genotype_name": "SUD2",
-      "estimate": 0.1501,
-      "SE": 0.1883,
+      "estimate": -0.0204,
+      "SE": 0.1974,
       "quasiSE": 0.1358,
       "quasiVar": 0.0184
     },
@@ -301113,8 +301139,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantsurvival",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.0312,
+      "SE": 0.1768,
       "quasiSE": 0.1286,
       "quasiVar": 0.0165
     },
@@ -301122,8 +301148,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantsurvival",
       "genotype_name": "Crincrin local",
-      "estimate": 0.0312,
-      "SE": 0.1768,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.12,
       "quasiVar": 0.0144
     },
@@ -301131,8 +301157,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantsurvival",
       "genotype_name": "ES",
-      "estimate": 0.1364,
-      "SE": 0.18,
+      "estimate": 0.1052,
+      "SE": 0.1698,
       "quasiSE": 0.1224,
       "quasiVar": 0.015
     },
@@ -301140,8 +301166,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantsurvival",
       "genotype_name": "IP2",
-      "estimate": 0.4361,
-      "SE": 0.178,
+      "estimate": 0.4049,
+      "SE": 0.1724,
       "quasiSE": 0.1243,
       "quasiVar": 0.0154
     },
@@ -301149,8 +301175,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantsurvival",
       "genotype_name": "SUD 4",
-      "estimate": 0.1964,
-      "SE": 0.1787,
+      "estimate": 0.1652,
+      "SE": 0.1707,
       "quasiSE": 0.1231,
       "quasiVar": 0.0152
     },
@@ -301158,8 +301184,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantsurvival",
       "genotype_name": "SUD2",
-      "estimate": 0.0533,
-      "SE": 0.1759,
+      "estimate": 0.022,
+      "SE": 0.1754,
       "quasiSE": 0.1246,
       "quasiVar": 0.0155
     },
@@ -301167,8 +301193,8 @@
       "collection_moment": "deuximercolte",
       "trait": "pestresistance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.0511,
+      "SE": 0.1871,
       "quasiSE": 0.1327,
       "quasiVar": 0.0176
     },
@@ -301176,8 +301202,8 @@
       "collection_moment": "deuximercolte",
       "trait": "pestresistance",
       "genotype_name": "Crincrin local",
-      "estimate": -0.0511,
-      "SE": 0.1871,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1288,
       "quasiVar": 0.0166
     },
@@ -301185,8 +301211,8 @@
       "collection_moment": "deuximercolte",
       "trait": "pestresistance",
       "genotype_name": "ES",
-      "estimate": 0.1056,
-      "SE": 0.1911,
+      "estimate": 0.1568,
+      "SE": 0.1837,
       "quasiSE": 0.1351,
       "quasiVar": 0.0182
     },
@@ -301194,8 +301220,8 @@
       "collection_moment": "deuximercolte",
       "trait": "pestresistance",
       "genotype_name": "IP2",
-      "estimate": 0.3075,
-      "SE": 0.1846,
+      "estimate": 0.3586,
+      "SE": 0.1822,
       "quasiSE": 0.1298,
       "quasiVar": 0.0168
     },
@@ -301203,8 +301229,8 @@
       "collection_moment": "deuximercolte",
       "trait": "pestresistance",
       "genotype_name": "SUD 4",
-      "estimate": 0.0147,
-      "SE": 0.1824,
+      "estimate": 0.0659,
+      "SE": 0.1791,
       "quasiSE": 0.1256,
       "quasiVar": 0.0158
     },
@@ -301212,8 +301238,8 @@
       "collection_moment": "deuximercolte",
       "trait": "pestresistance",
       "genotype_name": "SUD2",
-      "estimate": -0.1803,
-      "SE": 0.1853,
+      "estimate": -0.1292,
+      "SE": 0.1873,
       "quasiSE": 0.1328,
       "quasiVar": 0.0176
     },
@@ -301221,8 +301247,8 @@
       "collection_moment": "deuximercolte",
       "trait": "diseasesresistance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1197,
+      "SE": 0.1922,
       "quasiSE": 0.1369,
       "quasiVar": 0.0187
     },
@@ -301230,8 +301256,8 @@
       "collection_moment": "deuximercolte",
       "trait": "diseasesresistance",
       "genotype_name": "Crincrin local",
-      "estimate": 0.1197,
-      "SE": 0.1922,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1323,
       "quasiVar": 0.0175
     },
@@ -301239,8 +301265,8 @@
       "collection_moment": "deuximercolte",
       "trait": "diseasesresistance",
       "genotype_name": "ES",
-      "estimate": -0.0065,
-      "SE": 0.1968,
+      "estimate": -0.1262,
+      "SE": 0.1925,
       "quasiSE": 0.1402,
       "quasiVar": 0.0197
     },
@@ -301248,8 +301274,8 @@
       "collection_moment": "deuximercolte",
       "trait": "diseasesresistance",
       "genotype_name": "IP2",
-      "estimate": 0.2962,
-      "SE": 0.193,
+      "estimate": 0.1765,
+      "SE": 0.1892,
       "quasiSE": 0.1365,
       "quasiVar": 0.0186
     },
@@ -301257,8 +301283,8 @@
       "collection_moment": "deuximercolte",
       "trait": "diseasesresistance",
       "genotype_name": "SUD 4",
-      "estimate": -0.0683,
-      "SE": 0.1903,
+      "estimate": -0.188,
+      "SE": 0.1844,
       "quasiSE": 0.132,
       "quasiVar": 0.0174
     },
@@ -301266,8 +301292,8 @@
       "collection_moment": "deuximercolte",
       "trait": "diseasesresistance",
       "genotype_name": "SUD2",
-      "estimate": 0.0243,
-      "SE": 0.1883,
+      "estimate": -0.0954,
+      "SE": 0.1891,
       "quasiSE": 0.1326,
       "quasiVar": 0.0176
     },
@@ -301275,8 +301301,8 @@
       "collection_moment": "deuximercolte",
       "trait": "droughttolerance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1435,
+      "SE": 0.1943,
       "quasiSE": 0.1376,
       "quasiVar": 0.0189
     },
@@ -301284,8 +301310,8 @@
       "collection_moment": "deuximercolte",
       "trait": "droughttolerance",
       "genotype_name": "Crincrin local",
-      "estimate": 0.1435,
-      "SE": 0.1943,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1347,
       "quasiVar": 0.0182
     },
@@ -301293,8 +301319,8 @@
       "collection_moment": "deuximercolte",
       "trait": "droughttolerance",
       "genotype_name": "ES",
-      "estimate": 0.2074,
-      "SE": 0.1987,
+      "estimate": 0.0639,
+      "SE": 0.1956,
       "quasiSE": 0.1418,
       "quasiVar": 0.0201
     },
@@ -301302,8 +301328,8 @@
       "collection_moment": "deuximercolte",
       "trait": "droughttolerance",
       "genotype_name": "IP2",
-      "estimate": 0.2317,
-      "SE": 0.1928,
+      "estimate": 0.0882,
+      "SE": 0.1888,
       "quasiSE": 0.1348,
       "quasiVar": 0.0182
     },
@@ -301311,8 +301337,8 @@
       "collection_moment": "deuximercolte",
       "trait": "droughttolerance",
       "genotype_name": "SUD 4",
-      "estimate": -0.0708,
-      "SE": 0.1905,
+      "estimate": -0.2143,
+      "SE": 0.1869,
       "quasiSE": 0.1317,
       "quasiVar": 0.0173
     },
@@ -301320,8 +301346,8 @@
       "collection_moment": "deuximercolte",
       "trait": "droughttolerance",
       "genotype_name": "SUD2",
-      "estimate": -0.1434,
-      "SE": 0.1907,
+      "estimate": -0.2869,
+      "SE": 0.1935,
       "quasiSE": 0.1364,
       "quasiVar": 0.0186
     },
@@ -301329,8 +301355,8 @@
       "collection_moment": "deuximercolte",
       "trait": "floodtolerance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.0786,
+      "SE": 0.2007,
       "quasiSE": 0.1437,
       "quasiVar": 0.0206
     },
@@ -301338,8 +301364,8 @@
       "collection_moment": "deuximercolte",
       "trait": "floodtolerance",
       "genotype_name": "Crincrin local",
-      "estimate": 0.0786,
-      "SE": 0.2007,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1395,
       "quasiVar": 0.0195
     },
@@ -301347,8 +301373,8 @@
       "collection_moment": "deuximercolte",
       "trait": "floodtolerance",
       "genotype_name": "ES",
-      "estimate": -0.0015,
-      "SE": 0.2054,
+      "estimate": -0.0801,
+      "SE": 0.2023,
       "quasiSE": 0.146,
       "quasiVar": 0.0213
     },
@@ -301356,8 +301382,8 @@
       "collection_moment": "deuximercolte",
       "trait": "floodtolerance",
       "genotype_name": "IP2",
-      "estimate": 0.0938,
-      "SE": 0.2022,
+      "estimate": 0.0152,
+      "SE": 0.1975,
       "quasiSE": 0.1412,
       "quasiVar": 0.0199
     },
@@ -301365,8 +301391,8 @@
       "collection_moment": "deuximercolte",
       "trait": "floodtolerance",
       "genotype_name": "SUD 4",
-      "estimate": -0.2376,
-      "SE": 0.2001,
+      "estimate": -0.3162,
+      "SE": 0.1957,
       "quasiSE": 0.1389,
       "quasiVar": 0.0193
     },
@@ -301374,8 +301400,8 @@
       "collection_moment": "deuximercolte",
       "trait": "floodtolerance",
       "genotype_name": "SUD2",
-      "estimate": -0.2439,
-      "SE": 0.1992,
+      "estimate": -0.3225,
+      "SE": 0.1996,
       "quasiSE": 0.1406,
       "quasiVar": 0.0198
     },
@@ -301383,8 +301409,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantheighttricot",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.0456,
+      "SE": 0.1741,
       "quasiSE": 0.1261,
       "quasiVar": 0.0159
     },
@@ -301392,8 +301418,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantheighttricot",
       "genotype_name": "Crincrin local",
-      "estimate": -0.0456,
-      "SE": 0.1741,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1213,
       "quasiVar": 0.0147
     },
@@ -301401,8 +301427,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantheighttricot",
       "genotype_name": "ES",
-      "estimate": 0.0991,
-      "SE": 0.1789,
+      "estimate": 0.1447,
+      "SE": 0.1729,
       "quasiSE": 0.1239,
       "quasiVar": 0.0153
     },
@@ -301410,8 +301436,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantheighttricot",
       "genotype_name": "IP2",
-      "estimate": 0.2601,
-      "SE": 0.1749,
+      "estimate": 0.3057,
+      "SE": 0.1707,
       "quasiSE": 0.1216,
       "quasiVar": 0.0148
     },
@@ -301419,8 +301445,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantheighttricot",
       "genotype_name": "SUD 4",
-      "estimate": 0.0796,
-      "SE": 0.1753,
+      "estimate": 0.1252,
+      "SE": 0.1713,
       "quasiSE": 0.1208,
       "quasiVar": 0.0146
     },
@@ -301428,8 +301454,8 @@
       "collection_moment": "deuximercolte",
       "trait": "plantheighttricot",
       "genotype_name": "SUD2",
-      "estimate": -0.1496,
-      "SE": 0.1753,
+      "estimate": -0.104,
+      "SE": 0.1761,
       "quasiSE": 0.1244,
       "quasiVar": 0.0155
     },
@@ -301437,8 +301463,8 @@
       "collection_moment": "deuximercolte",
       "trait": "branching",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.0886,
+      "SE": 0.177,
       "quasiSE": 0.1256,
       "quasiVar": 0.0158
     },
@@ -301446,8 +301472,8 @@
       "collection_moment": "deuximercolte",
       "trait": "branching",
       "genotype_name": "Crincrin local",
-      "estimate": 0.0886,
-      "SE": 0.177,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1234,
       "quasiVar": 0.0152
     },
@@ -301455,8 +301481,8 @@
       "collection_moment": "deuximercolte",
       "trait": "branching",
       "genotype_name": "ES",
-      "estimate": -0.0917,
-      "SE": 0.1807,
+      "estimate": -0.1802,
+      "SE": 0.178,
       "quasiSE": 0.1288,
       "quasiVar": 0.0166
     },
@@ -301464,8 +301490,8 @@
       "collection_moment": "deuximercolte",
       "trait": "branching",
       "genotype_name": "IP2",
-      "estimate": 0.1534,
-      "SE": 0.1747,
+      "estimate": 0.0648,
+      "SE": 0.1739,
       "quasiSE": 0.1234,
       "quasiVar": 0.0152
     },
@@ -301473,8 +301499,8 @@
       "collection_moment": "deuximercolte",
       "trait": "branching",
       "genotype_name": "SUD 4",
-      "estimate": -0.0678,
-      "SE": 0.1767,
+      "estimate": -0.1564,
+      "SE": 0.1723,
       "quasiSE": 0.1227,
       "quasiVar": 0.0151
     },
@@ -301482,8 +301508,8 @@
       "collection_moment": "deuximercolte",
       "trait": "branching",
       "genotype_name": "SUD2",
-      "estimate": -0.3159,
-      "SE": 0.1792,
+      "estimate": -0.4045,
+      "SE": 0.1812,
       "quasiSE": 0.13,
       "quasiVar": 0.0169
     },
@@ -301491,8 +301517,8 @@
       "collection_moment": "deuximercolte",
       "trait": "yield",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.0284,
+      "SE": 0.173,
       "quasiSE": 0.1234,
       "quasiVar": 0.0152
     },
@@ -301500,8 +301526,8 @@
       "collection_moment": "deuximercolte",
       "trait": "yield",
       "genotype_name": "Crincrin local",
-      "estimate": 0.0284,
-      "SE": 0.173,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1205,
       "quasiVar": 0.0145
     },
@@ -301509,8 +301535,8 @@
       "collection_moment": "deuximercolte",
       "trait": "yield",
       "genotype_name": "ES",
-      "estimate": -0.0055,
-      "SE": 0.1759,
+      "estimate": -0.0339,
+      "SE": 0.172,
       "quasiSE": 0.1245,
       "quasiVar": 0.0155
     },
@@ -301518,8 +301544,8 @@
       "collection_moment": "deuximercolte",
       "trait": "yield",
       "genotype_name": "IP2",
-      "estimate": 0.2605,
-      "SE": 0.1718,
+      "estimate": 0.232,
+      "SE": 0.17,
       "quasiSE": 0.1203,
       "quasiVar": 0.0145
     },
@@ -301527,8 +301553,8 @@
       "collection_moment": "deuximercolte",
       "trait": "yield",
       "genotype_name": "SUD 4",
-      "estimate": -0.0014,
-      "SE": 0.1748,
+      "estimate": -0.0298,
+      "SE": 0.1701,
       "quasiSE": 0.1212,
       "quasiVar": 0.0147
     },
@@ -301536,8 +301562,8 @@
       "collection_moment": "deuximercolte",
       "trait": "yield",
       "genotype_name": "SUD2",
-      "estimate": -0.2555,
-      "SE": 0.1735,
+      "estimate": -0.284,
+      "SE": 0.1758,
       "quasiSE": 0.1252,
       "quasiVar": 0.0157
     },
@@ -301545,8 +301571,8 @@
       "collection_moment": "deuximercolte",
       "trait": "leafsize",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.1789,
+      "SE": 0.1764,
       "quasiSE": 0.1238,
       "quasiVar": 0.0153
     },
@@ -301554,8 +301580,8 @@
       "collection_moment": "deuximercolte",
       "trait": "leafsize",
       "genotype_name": "Crincrin local",
-      "estimate": -0.1789,
-      "SE": 0.1764,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1246,
       "quasiVar": 0.0155
     },
@@ -301563,8 +301589,8 @@
       "collection_moment": "deuximercolte",
       "trait": "leafsize",
       "genotype_name": "ES",
-      "estimate": -0.1624,
-      "SE": 0.178,
+      "estimate": 0.0165,
+      "SE": 0.1793,
       "quasiSE": 0.1279,
       "quasiVar": 0.0164
     },
@@ -301572,8 +301598,8 @@
       "collection_moment": "deuximercolte",
       "trait": "leafsize",
       "genotype_name": "IP2",
-      "estimate": -0.0688,
-      "SE": 0.1733,
+      "estimate": 0.1101,
+      "SE": 0.1737,
       "quasiSE": 0.1227,
       "quasiVar": 0.0151
     },
@@ -301581,8 +301607,8 @@
       "collection_moment": "deuximercolte",
       "trait": "leafsize",
       "genotype_name": "SUD 4",
-      "estimate": -0.0618,
-      "SE": 0.1742,
+      "estimate": 0.1171,
+      "SE": 0.1729,
       "quasiSE": 0.1205,
       "quasiVar": 0.0145
     },
@@ -301590,8 +301616,8 @@
       "collection_moment": "deuximercolte",
       "trait": "leafsize",
       "genotype_name": "SUD2",
-      "estimate": -0.2914,
-      "SE": 0.1755,
+      "estimate": -0.1125,
+      "SE": 0.1777,
       "quasiSE": 0.1263,
       "quasiVar": 0.0159
     },
@@ -301599,8 +301625,8 @@
       "collection_moment": "deuximercolte",
       "trait": "taste",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.0686,
+      "SE": 0.206,
       "quasiSE": 0.1423,
       "quasiVar": 0.0202
     },
@@ -301608,8 +301634,8 @@
       "collection_moment": "deuximercolte",
       "trait": "taste",
       "genotype_name": "Crincrin local",
-      "estimate": 0.0686,
-      "SE": 0.206,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1475,
       "quasiVar": 0.0218
     },
@@ -301617,8 +301643,8 @@
       "collection_moment": "deuximercolte",
       "trait": "taste",
       "genotype_name": "ES",
-      "estimate": 0.2242,
-      "SE": 0.2138,
+      "estimate": 0.1556,
+      "SE": 0.2165,
       "quasiSE": 0.1606,
       "quasiVar": 0.0258
     },
@@ -301626,8 +301652,8 @@
       "collection_moment": "deuximercolte",
       "trait": "taste",
       "genotype_name": "IP2",
-      "estimate": -0.0562,
-      "SE": 0.2031,
+      "estimate": -0.1248,
+      "SE": 0.2045,
       "quasiSE": 0.1425,
       "quasiVar": 0.0203
     },
@@ -301635,8 +301661,8 @@
       "collection_moment": "deuximercolte",
       "trait": "taste",
       "genotype_name": "SUD 4",
-      "estimate": -0.0324,
-      "SE": 0.2007,
+      "estimate": -0.1011,
+      "SE": 0.2032,
       "quasiSE": 0.1412,
       "quasiVar": 0.0199
     },
@@ -301644,8 +301670,8 @@
       "collection_moment": "deuximercolte",
       "trait": "taste",
       "genotype_name": "SUD2",
-      "estimate": 0.0302,
-      "SE": 0.2029,
+      "estimate": -0.0384,
+      "SE": 0.2109,
       "quasiSE": 0.148,
       "quasiVar": 0.0219
     },
@@ -301653,8 +301679,8 @@
       "collection_moment": "deuximercolte",
       "trait": "marketability",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.0548,
+      "SE": 0.1838,
       "quasiSE": 0.1298,
       "quasiVar": 0.0169
     },
@@ -301662,8 +301688,8 @@
       "collection_moment": "deuximercolte",
       "trait": "marketability",
       "genotype_name": "Crincrin local",
-      "estimate": 0.0548,
-      "SE": 0.1838,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.13,
       "quasiVar": 0.0169
     },
@@ -301671,8 +301697,8 @@
       "collection_moment": "deuximercolte",
       "trait": "marketability",
       "genotype_name": "ES",
-      "estimate": -0.0164,
-      "SE": 0.1889,
+      "estimate": -0.0712,
+      "SE": 0.189,
       "quasiSE": 0.1377,
       "quasiVar": 0.019
     },
@@ -301680,8 +301706,8 @@
       "collection_moment": "deuximercolte",
       "trait": "marketability",
       "genotype_name": "IP2",
-      "estimate": -0.1355,
-      "SE": 0.1856,
+      "estimate": -0.1903,
+      "SE": 0.1838,
       "quasiSE": 0.1321,
       "quasiVar": 0.0174
     },
@@ -301689,8 +301715,8 @@
       "collection_moment": "deuximercolte",
       "trait": "marketability",
       "genotype_name": "SUD 4",
-      "estimate": -0.2578,
-      "SE": 0.1819,
+      "estimate": -0.3126,
+      "SE": 0.1824,
       "quasiSE": 0.1273,
       "quasiVar": 0.0162
     },
@@ -301698,8 +301724,8 @@
       "collection_moment": "deuximercolte",
       "trait": "marketability",
       "genotype_name": "SUD2",
-      "estimate": -0.1159,
-      "SE": 0.1845,
+      "estimate": -0.1707,
+      "SE": 0.1861,
       "quasiSE": 0.1314,
       "quasiVar": 0.0173
     },
@@ -301707,8 +301733,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantsurvival",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.2855,
+      "SE": 0.1959,
       "quasiSE": 0.1431,
       "quasiVar": 0.0205
     },
@@ -301716,8 +301742,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantsurvival",
       "genotype_name": "Crincrin local",
-      "estimate": 0.2855,
-      "SE": 0.1959,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1347,
       "quasiVar": 0.0181
     },
@@ -301725,8 +301751,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantsurvival",
       "genotype_name": "ES",
-      "estimate": 0.1507,
-      "SE": 0.2031,
+      "estimate": -0.1347,
+      "SE": 0.1966,
       "quasiSE": 0.1415,
       "quasiVar": 0.02
     },
@@ -301734,8 +301760,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantsurvival",
       "genotype_name": "IP2",
-      "estimate": 0.4673,
-      "SE": 0.1966,
+      "estimate": 0.1818,
+      "SE": 0.1936,
       "quasiSE": 0.1367,
       "quasiVar": 0.0187
     },
@@ -301743,8 +301769,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantsurvival",
       "genotype_name": "SUD 4",
-      "estimate": 0.3114,
-      "SE": 0.1995,
+      "estimate": 0.0259,
+      "SE": 0.1885,
       "quasiSE": 0.1347,
       "quasiVar": 0.0182
     },
@@ -301752,8 +301778,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantsurvival",
       "genotype_name": "SUD2",
-      "estimate": -0.0545,
-      "SE": 0.1981,
+      "estimate": -0.34,
+      "SE": 0.195,
       "quasiSE": 0.1414,
       "quasiVar": 0.02
     },
@@ -301761,8 +301787,8 @@
       "collection_moment": "troisimercolte",
       "trait": "pestresistance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.5431,
+      "SE": 0.2109,
       "quasiSE": 0.1517,
       "quasiVar": 0.023
     },
@@ -301770,8 +301796,8 @@
       "collection_moment": "troisimercolte",
       "trait": "pestresistance",
       "genotype_name": "Crincrin local",
-      "estimate": 0.5431,
-      "SE": 0.2109,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1455,
       "quasiVar": 0.0212
     },
@@ -301779,8 +301805,8 @@
       "collection_moment": "troisimercolte",
       "trait": "pestresistance",
       "genotype_name": "ES",
-      "estimate": 0.3202,
-      "SE": 0.2169,
+      "estimate": -0.2228,
+      "SE": 0.2108,
       "quasiSE": 0.1517,
       "quasiVar": 0.023
     },
@@ -301788,8 +301814,8 @@
       "collection_moment": "troisimercolte",
       "trait": "pestresistance",
       "genotype_name": "IP2",
-      "estimate": 0.3545,
-      "SE": 0.2099,
+      "estimate": -0.1885,
+      "SE": 0.2088,
       "quasiSE": 0.1481,
       "quasiVar": 0.0219
     },
@@ -301797,8 +301823,8 @@
       "collection_moment": "troisimercolte",
       "trait": "pestresistance",
       "genotype_name": "SUD 4",
-      "estimate": 0.2839,
-      "SE": 0.2084,
+      "estimate": -0.2592,
+      "SE": 0.2012,
       "quasiSE": 0.1416,
       "quasiVar": 0.0201
     },
@@ -301806,8 +301832,8 @@
       "collection_moment": "troisimercolte",
       "trait": "pestresistance",
       "genotype_name": "SUD2",
-      "estimate": 0.2109,
-      "SE": 0.2121,
+      "estimate": -0.3321,
+      "SE": 0.2092,
       "quasiSE": 0.1509,
       "quasiVar": 0.0228
     },
@@ -301815,8 +301841,8 @@
       "collection_moment": "troisimercolte",
       "trait": "diseasesresistance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.5876,
+      "SE": 0.2242,
       "quasiSE": 0.1607,
       "quasiVar": 0.0258
     },
@@ -301824,8 +301850,8 @@
       "collection_moment": "troisimercolte",
       "trait": "diseasesresistance",
       "genotype_name": "Crincrin local",
-      "estimate": 0.5876,
-      "SE": 0.2242,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.153,
       "quasiVar": 0.0234
     },
@@ -301833,8 +301859,8 @@
       "collection_moment": "troisimercolte",
       "trait": "diseasesresistance",
       "genotype_name": "ES",
-      "estimate": 0.2881,
-      "SE": 0.2284,
+      "estimate": -0.2996,
+      "SE": 0.2207,
       "quasiSE": 0.1606,
       "quasiVar": 0.0258
     },
@@ -301842,8 +301868,8 @@
       "collection_moment": "troisimercolte",
       "trait": "diseasesresistance",
       "genotype_name": "IP2",
-      "estimate": 0.406,
-      "SE": 0.2219,
+      "estimate": -0.1816,
+      "SE": 0.219,
       "quasiSE": 0.1566,
       "quasiVar": 0.0245
     },
@@ -301851,8 +301877,8 @@
       "collection_moment": "troisimercolte",
       "trait": "diseasesresistance",
       "genotype_name": "SUD 4",
-      "estimate": 0.4595,
-      "SE": 0.2166,
+      "estimate": -0.1281,
+      "SE": 0.2099,
       "quasiSE": 0.1455,
       "quasiVar": 0.0212
     },
@@ -301860,8 +301886,8 @@
       "collection_moment": "troisimercolte",
       "trait": "diseasesresistance",
       "genotype_name": "SUD2",
-      "estimate": 0.3252,
-      "SE": 0.2211,
+      "estimate": -0.2624,
+      "SE": 0.2167,
       "quasiSE": 0.1532,
       "quasiVar": 0.0235
     },
@@ -301869,8 +301895,8 @@
       "collection_moment": "troisimercolte",
       "trait": "floodtolerance",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.4006,
+      "SE": 0.2261,
       "quasiSE": 0.1618,
       "quasiVar": 0.0262
     },
@@ -301878,8 +301904,8 @@
       "collection_moment": "troisimercolte",
       "trait": "floodtolerance",
       "genotype_name": "Crincrin local",
-      "estimate": 0.4006,
-      "SE": 0.2261,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1544,
       "quasiVar": 0.0238
     },
@@ -301887,8 +301913,8 @@
       "collection_moment": "troisimercolte",
       "trait": "floodtolerance",
       "genotype_name": "ES",
-      "estimate": 0.4066,
-      "SE": 0.2299,
+      "estimate": 0.006,
+      "SE": 0.2238,
       "quasiSE": 0.1616,
       "quasiVar": 0.0261
     },
@@ -301896,8 +301922,8 @@
       "collection_moment": "troisimercolte",
       "trait": "floodtolerance",
       "genotype_name": "IP2",
-      "estimate": 0.2515,
-      "SE": 0.2266,
+      "estimate": -0.1492,
+      "SE": 0.2205,
       "quasiSE": 0.159,
       "quasiVar": 0.0253
     },
@@ -301905,8 +301931,8 @@
       "collection_moment": "troisimercolte",
       "trait": "floodtolerance",
       "genotype_name": "SUD 4",
-      "estimate": 0.1634,
-      "SE": 0.2191,
+      "estimate": -0.2372,
+      "SE": 0.2132,
       "quasiSE": 0.149,
       "quasiVar": 0.0222
     },
@@ -301914,8 +301940,8 @@
       "collection_moment": "troisimercolte",
       "trait": "floodtolerance",
       "genotype_name": "SUD2",
-      "estimate": 0.073,
-      "SE": 0.2231,
+      "estimate": -0.3277,
+      "SE": 0.2204,
       "quasiSE": 0.1572,
       "quasiVar": 0.0247
     },
@@ -301923,8 +301949,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantheighttricot",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1628,
+      "SE": 0.1903,
       "quasiSE": 0.136,
       "quasiVar": 0.0185
     },
@@ -301932,8 +301958,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantheighttricot",
       "genotype_name": "Crincrin local",
-      "estimate": 0.1628,
-      "SE": 0.1903,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1335,
       "quasiVar": 0.0178
     },
@@ -301941,8 +301967,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantheighttricot",
       "genotype_name": "ES",
-      "estimate": 0.1847,
-      "SE": 0.1984,
+      "estimate": 0.022,
+      "SE": 0.1963,
       "quasiSE": 0.1416,
       "quasiVar": 0.02
     },
@@ -301950,8 +301976,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantheighttricot",
       "genotype_name": "IP2",
-      "estimate": 0.1492,
-      "SE": 0.1892,
+      "estimate": -0.0136,
+      "SE": 0.1884,
       "quasiSE": 0.1342,
       "quasiVar": 0.018
     },
@@ -301959,8 +301985,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantheighttricot",
       "genotype_name": "SUD 4",
-      "estimate": -0.0585,
-      "SE": 0.1944,
+      "estimate": -0.2212,
+      "SE": 0.1907,
       "quasiSE": 0.1372,
       "quasiVar": 0.0188
     },
@@ -301968,8 +301994,8 @@
       "collection_moment": "troisimercolte",
       "trait": "plantheighttricot",
       "genotype_name": "SUD2",
-      "estimate": 0.1881,
-      "SE": 0.1912,
+      "estimate": 0.0253,
+      "SE": 0.1909,
       "quasiSE": 0.1357,
       "quasiVar": 0.0184
     },
@@ -301977,8 +302003,8 @@
       "collection_moment": "troisimercolte",
       "trait": "branching",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.28,
+      "SE": 0.1971,
       "quasiSE": 0.1397,
       "quasiVar": 0.0195
     },
@@ -301986,8 +302012,8 @@
       "collection_moment": "troisimercolte",
       "trait": "branching",
       "genotype_name": "Crincrin local",
-      "estimate": 0.28,
-      "SE": 0.1971,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1373,
       "quasiVar": 0.0189
     },
@@ -301995,8 +302021,8 @@
       "collection_moment": "troisimercolte",
       "trait": "branching",
       "genotype_name": "ES",
-      "estimate": 0.1942,
-      "SE": 0.2017,
+      "estimate": -0.0858,
+      "SE": 0.1981,
       "quasiSE": 0.1421,
       "quasiVar": 0.0202
     },
@@ -302004,8 +302030,8 @@
       "collection_moment": "troisimercolte",
       "trait": "branching",
       "genotype_name": "IP2",
-      "estimate": 0.1952,
-      "SE": 0.1942,
+      "estimate": -0.0848,
+      "SE": 0.1948,
       "quasiSE": 0.1385,
       "quasiVar": 0.0192
     },
@@ -302013,8 +302039,8 @@
       "collection_moment": "troisimercolte",
       "trait": "branching",
       "genotype_name": "SUD 4",
-      "estimate": 0.0075,
-      "SE": 0.194,
+      "estimate": -0.2725,
+      "SE": 0.1907,
       "quasiSE": 0.1345,
       "quasiVar": 0.0181
     },
@@ -302022,8 +302048,8 @@
       "collection_moment": "troisimercolte",
       "trait": "branching",
       "genotype_name": "SUD2",
-      "estimate": -0.1068,
-      "SE": 0.2029,
+      "estimate": -0.3868,
+      "SE": 0.2027,
       "quasiSE": 0.1486,
       "quasiVar": 0.0221
     },
@@ -302031,8 +302057,8 @@
       "collection_moment": "troisimercolte",
       "trait": "yield",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.1479,
+      "SE": 0.1897,
       "quasiSE": 0.1364,
       "quasiVar": 0.0186
     },
@@ -302040,8 +302066,8 @@
       "collection_moment": "troisimercolte",
       "trait": "yield",
       "genotype_name": "Crincrin local",
-      "estimate": 0.1479,
-      "SE": 0.1897,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1312,
       "quasiVar": 0.0172
     },
@@ -302049,8 +302075,8 @@
       "collection_moment": "troisimercolte",
       "trait": "yield",
       "genotype_name": "ES",
-      "estimate": 0.167,
-      "SE": 0.1963,
+      "estimate": 0.0191,
+      "SE": 0.1911,
       "quasiSE": 0.1378,
       "quasiVar": 0.019
     },
@@ -302058,8 +302084,8 @@
       "collection_moment": "troisimercolte",
       "trait": "yield",
       "genotype_name": "IP2",
-      "estimate": 0.1788,
-      "SE": 0.1871,
+      "estimate": 0.0309,
+      "SE": 0.1848,
       "quasiSE": 0.1314,
       "quasiVar": 0.0173
     },
@@ -302067,8 +302093,8 @@
       "collection_moment": "troisimercolte",
       "trait": "yield",
       "genotype_name": "SUD 4",
-      "estimate": -0.0177,
-      "SE": 0.1919,
+      "estimate": -0.1656,
+      "SE": 0.1865,
       "quasiSE": 0.1341,
       "quasiVar": 0.018
     },
@@ -302076,8 +302102,8 @@
       "collection_moment": "troisimercolte",
       "trait": "yield",
       "genotype_name": "SUD2",
-      "estimate": -0.1778,
-      "SE": 0.1946,
+      "estimate": -0.3257,
+      "SE": 0.1931,
       "quasiSE": 0.1404,
       "quasiVar": 0.0197
     },
@@ -302085,8 +302111,8 @@
       "collection_moment": "troisimercolte",
       "trait": "leafsize",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.0807,
+      "SE": 0.1938,
       "quasiSE": 0.1381,
       "quasiVar": 0.0191
     },
@@ -302094,8 +302120,8 @@
       "collection_moment": "troisimercolte",
       "trait": "leafsize",
       "genotype_name": "Crincrin local",
-      "estimate": 0.0807,
-      "SE": 0.1938,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1347,
       "quasiVar": 0.0182
     },
@@ -302103,8 +302129,8 @@
       "collection_moment": "troisimercolte",
       "trait": "leafsize",
       "genotype_name": "ES",
-      "estimate": -0.0038,
-      "SE": 0.2016,
+      "estimate": -0.0845,
+      "SE": 0.2002,
       "quasiSE": 0.1451,
       "quasiVar": 0.0211
     },
@@ -302112,8 +302138,8 @@
       "collection_moment": "troisimercolte",
       "trait": "leafsize",
       "genotype_name": "IP2",
-      "estimate": 0.1453,
-      "SE": 0.1922,
+      "estimate": 0.0646,
+      "SE": 0.1903,
       "quasiSE": 0.1364,
       "quasiVar": 0.0186
     },
@@ -302121,8 +302147,8 @@
       "collection_moment": "troisimercolte",
       "trait": "leafsize",
       "genotype_name": "SUD 4",
-      "estimate": 0.1914,
-      "SE": 0.1932,
+      "estimate": 0.1107,
+      "SE": 0.1879,
       "quasiSE": 0.1328,
       "quasiVar": 0.0176
     },
@@ -302130,8 +302156,8 @@
       "collection_moment": "troisimercolte",
       "trait": "leafsize",
       "genotype_name": "SUD2",
-      "estimate": -0.0121,
-      "SE": 0.1961,
+      "estimate": -0.0927,
+      "SE": 0.1957,
       "quasiSE": 0.142,
       "quasiVar": 0.0202
     },
@@ -302139,8 +302165,8 @@
       "collection_moment": "troisimercolte",
       "trait": "taste",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.2088,
+      "SE": 0.2263,
       "quasiSE": 0.1542,
       "quasiVar": 0.0238
     },
@@ -302148,8 +302174,8 @@
       "collection_moment": "troisimercolte",
       "trait": "taste",
       "genotype_name": "Crincrin local",
-      "estimate": 0.2088,
-      "SE": 0.2263,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.162,
       "quasiVar": 0.0262
     },
@@ -302157,8 +302183,8 @@
       "collection_moment": "troisimercolte",
       "trait": "taste",
       "genotype_name": "ES",
-      "estimate": 0.1563,
-      "SE": 0.2371,
+      "estimate": -0.0525,
+      "SE": 0.2414,
       "quasiSE": 0.1806,
       "quasiVar": 0.0326
     },
@@ -302166,8 +302192,8 @@
       "collection_moment": "troisimercolte",
       "trait": "taste",
       "genotype_name": "IP2",
-      "estimate": -0.1606,
-      "SE": 0.221,
+      "estimate": -0.3694,
+      "SE": 0.2275,
       "quasiSE": 0.1587,
       "quasiVar": 0.0252
     },
@@ -302175,8 +302201,8 @@
       "collection_moment": "troisimercolte",
       "trait": "taste",
       "genotype_name": "SUD 4",
-      "estimate": 0.0576,
-      "SE": 0.2182,
+      "estimate": -0.1512,
+      "SE": 0.22,
       "quasiSE": 0.1525,
       "quasiVar": 0.0232
     },
@@ -302184,8 +302210,8 @@
       "collection_moment": "troisimercolte",
       "trait": "taste",
       "genotype_name": "SUD2",
-      "estimate": -0.0195,
-      "SE": 0.221,
+      "estimate": -0.2283,
+      "SE": 0.2302,
       "quasiSE": 0.1633,
       "quasiVar": 0.0267
     },
@@ -302193,8 +302219,8 @@
       "collection_moment": "troisimercolte",
       "trait": "marketability",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.3101,
+      "SE": 0.1999,
       "quasiSE": 0.1415,
       "quasiVar": 0.02
     },
@@ -302202,8 +302228,8 @@
       "collection_moment": "troisimercolte",
       "trait": "marketability",
       "genotype_name": "Crincrin local",
-      "estimate": 0.3101,
-      "SE": 0.1999,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1401,
       "quasiVar": 0.0196
     },
@@ -302211,8 +302237,8 @@
       "collection_moment": "troisimercolte",
       "trait": "marketability",
       "genotype_name": "ES",
-      "estimate": 0.0249,
-      "SE": 0.2075,
+      "estimate": -0.2852,
+      "SE": 0.2056,
       "quasiSE": 0.1503,
       "quasiVar": 0.0226
     },
@@ -302220,8 +302246,8 @@
       "collection_moment": "troisimercolte",
       "trait": "marketability",
       "genotype_name": "IP2",
-      "estimate": 0.101,
-      "SE": 0.1976,
+      "estimate": -0.2091,
+      "SE": 0.1972,
       "quasiSE": 0.1398,
       "quasiVar": 0.0195
     },
@@ -302229,8 +302255,8 @@
       "collection_moment": "troisimercolte",
       "trait": "marketability",
       "genotype_name": "SUD 4",
-      "estimate": 0.0747,
-      "SE": 0.1986,
+      "estimate": -0.2353,
+      "SE": 0.1961,
       "quasiSE": 0.139,
       "quasiVar": 0.0193
     },
@@ -302238,8 +302264,8 @@
       "collection_moment": "troisimercolte",
       "trait": "marketability",
       "genotype_name": "SUD2",
-      "estimate": 0.0207,
-      "SE": 0.2009,
+      "estimate": -0.2894,
+      "SE": 0.2017,
       "quasiSE": 0.1438,
       "quasiVar": 0.0207
     },
@@ -302247,8 +302273,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "yield",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.0329,
+      "SE": 0.2426,
       "quasiSE": 0.1677,
       "quasiVar": 0.0281
     },
@@ -302256,8 +302282,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "yield",
       "genotype_name": "Crincrin local",
-      "estimate": -0.0329,
-      "SE": 0.2426,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1748,
       "quasiVar": 0.0305
     },
@@ -302265,8 +302291,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "yield",
       "genotype_name": "ES",
-      "estimate": -0.0401,
-      "SE": 0.247,
+      "estimate": -0.0073,
+      "SE": 0.2492,
       "quasiSE": 0.1753,
       "quasiVar": 0.0307
     },
@@ -302274,8 +302300,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "yield",
       "genotype_name": "IP2",
-      "estimate": 0.2547,
-      "SE": 0.2379,
+      "estimate": 0.2876,
+      "SE": 0.2457,
       "quasiSE": 0.1721,
       "quasiVar": 0.0296
     },
@@ -302283,8 +302309,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "yield",
       "genotype_name": "SUD 4",
-      "estimate": -0.0373,
-      "SE": 0.2419,
+      "estimate": -0.0045,
+      "SE": 0.2441,
       "quasiSE": 0.175,
       "quasiVar": 0.0306
     },
@@ -302292,8 +302318,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "yield",
       "genotype_name": "SUD2",
-      "estimate": -0.0673,
-      "SE": 0.2434,
+      "estimate": -0.0344,
+      "SE": 0.251,
       "quasiSE": 0.1789,
       "quasiVar": 0.032
     },
@@ -302301,8 +302327,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "leafsize",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.0499,
+      "SE": 0.2474,
       "quasiSE": 0.1682,
       "quasiVar": 0.0283
     },
@@ -302310,8 +302336,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "leafsize",
       "genotype_name": "Crincrin local",
-      "estimate": -0.0499,
-      "SE": 0.2474,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1796,
       "quasiVar": 0.0322
     },
@@ -302319,8 +302345,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "leafsize",
       "genotype_name": "ES",
-      "estimate": -0.3007,
-      "SE": 0.255,
+      "estimate": -0.2508,
+      "SE": 0.2589,
       "quasiSE": 0.1846,
       "quasiVar": 0.0341
     },
@@ -302328,8 +302354,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "leafsize",
       "genotype_name": "IP2",
-      "estimate": -0.0203,
-      "SE": 0.2457,
+      "estimate": 0.0296,
+      "SE": 0.256,
       "quasiSE": 0.1812,
       "quasiVar": 0.0328
     },
@@ -302337,8 +302363,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "leafsize",
       "genotype_name": "SUD 4",
-      "estimate": -0.1354,
-      "SE": 0.2411,
+      "estimate": -0.0855,
+      "SE": 0.246,
       "quasiSE": 0.1737,
       "quasiVar": 0.0302
     },
@@ -302346,8 +302372,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "leafsize",
       "genotype_name": "SUD2",
-      "estimate": -0.2913,
-      "SE": 0.2459,
+      "estimate": -0.2414,
+      "SE": 0.2584,
       "quasiSE": 0.1855,
       "quasiVar": 0.0344
     },
@@ -302355,8 +302381,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "taste",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.11,
+      "SE": 0.2757,
       "quasiSE": 0.1863,
       "quasiVar": 0.0347
     },
@@ -302364,8 +302390,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "taste",
       "genotype_name": "Crincrin local",
-      "estimate": 0.11,
-      "SE": 0.2757,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.2026,
       "quasiVar": 0.0411
     },
@@ -302373,8 +302399,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "taste",
       "genotype_name": "ES",
-      "estimate": -0.062,
-      "SE": 0.2871,
+      "estimate": -0.1719,
+      "SE": 0.2919,
       "quasiSE": 0.2093,
       "quasiVar": 0.0438
     },
@@ -302382,8 +302408,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "taste",
       "genotype_name": "IP2",
-      "estimate": 0.035,
-      "SE": 0.2661,
+      "estimate": -0.075,
+      "SE": 0.2802,
       "quasiSE": 0.19,
       "quasiVar": 0.0361
     },
@@ -302391,8 +302417,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "taste",
       "genotype_name": "SUD 4",
-      "estimate": 0.0965,
-      "SE": 0.258,
+      "estimate": -0.0135,
+      "SE": 0.2681,
       "quasiSE": 0.1801,
       "quasiVar": 0.0324
     },
@@ -302400,8 +302426,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "taste",
       "genotype_name": "SUD2",
-      "estimate": -0.203,
-      "SE": 0.2672,
+      "estimate": -0.313,
+      "SE": 0.2838,
       "quasiSE": 0.1988,
       "quasiVar": 0.0395
     },
@@ -302409,8 +302435,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "marketability",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": -0.2254,
+      "SE": 0.2525,
       "quasiSE": 0.1782,
       "quasiVar": 0.0318
     },
@@ -302418,8 +302444,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "marketability",
       "genotype_name": "Crincrin local",
-      "estimate": 0.2254,
-      "SE": 0.2525,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.177,
       "quasiVar": 0.0313
     },
@@ -302427,8 +302453,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "marketability",
       "genotype_name": "ES",
-      "estimate": 0.0594,
-      "SE": 0.2614,
+      "estimate": -0.1659,
+      "SE": 0.2552,
       "quasiSE": 0.1839,
       "quasiVar": 0.0338
     },
@@ -302436,8 +302462,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "marketability",
       "genotype_name": "IP2",
-      "estimate": 0.0389,
-      "SE": 0.2523,
+      "estimate": -0.1864,
+      "SE": 0.2512,
       "quasiSE": 0.1792,
       "quasiVar": 0.0321
     },
@@ -302445,8 +302471,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "marketability",
       "genotype_name": "SUD 4",
-      "estimate": 0.0533,
-      "SE": 0.2508,
+      "estimate": -0.172,
+      "SE": 0.2527,
       "quasiSE": 0.1806,
       "quasiVar": 0.0326
     },
@@ -302454,8 +302480,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "marketability",
       "genotype_name": "SUD2",
-      "estimate": -0.0402,
-      "SE": 0.2517,
+      "estimate": -0.2655,
+      "SE": 0.2536,
       "quasiSE": 0.1817,
       "quasiVar": 0.033
     },
@@ -302463,8 +302489,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "overallchar",
       "genotype_name": "Bafia",
-      "estimate": 0,
-      "SE": 0,
+      "estimate": 0.1202,
+      "SE": 0.2438,
       "quasiSE": 0.1672,
       "quasiVar": 0.0279
     },
@@ -302472,8 +302498,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "overallchar",
       "genotype_name": "Crincrin local",
-      "estimate": -0.1202,
-      "SE": 0.2438,
+      "estimate": 0,
+      "SE": 0,
       "quasiSE": 0.1764,
       "quasiVar": 0.0311
     },
@@ -302481,8 +302507,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "overallchar",
       "genotype_name": "ES",
-      "estimate": -0.1432,
-      "SE": 0.2488,
+      "estimate": -0.0229,
+      "SE": 0.2518,
       "quasiSE": 0.1784,
       "quasiVar": 0.0318
     },
@@ -302490,8 +302516,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "overallchar",
       "genotype_name": "IP2",
-      "estimate": 0.0203,
-      "SE": 0.2389,
+      "estimate": 0.1405,
+      "SE": 0.2464,
       "quasiSE": 0.1721,
       "quasiVar": 0.0296
     },
@@ -302499,8 +302525,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "overallchar",
       "genotype_name": "SUD 4",
-      "estimate": -0.1106,
-      "SE": 0.2396,
+      "estimate": 0.0096,
+      "SE": 0.2452,
       "quasiSE": 0.1732,
       "quasiVar": 0.03
     },
@@ -302508,8 +302534,8 @@
       "collection_moment": "quatrimercolte",
       "trait": "overallchar",
       "genotype_name": "SUD2",
-      "estimate": -0.0664,
-      "SE": 0.2445,
+      "estimate": 0.0538,
+      "SE": 0.254,
       "quasiSE": 0.1824,
       "quasiVar": 0.0333
     }

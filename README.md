@@ -51,7 +51,7 @@ The hierarchical organization allows users to track data from trial design throu
 │   │   ├── start (YYYY-MM-DD)
 │   │   ├── end (YYYY-MM-DD)
 │   ├── geo location
-│   │   ├── bounding box
+│   │   ├── boundingBox
 │   │   │   ├── xmin (0.00)
 │   │   │   ├── xmax (0.00)
 │   │   │   ├── ymin (0.00)
@@ -77,6 +77,11 @@ The hierarchical organization allows users to track data from trial design throu
 │   │   ├── target trait
 │   │   ├── origin
 │   │   ├── remarks
+│   ├── funder
+│   │   ├── funderName 
+│   │   ├── funderIdentifier
+│   │   ├── awardTitle
+│   │   ├── awardNumber
 │   ├── variables
 │   │   ├── variable name
 │   │   ├── description

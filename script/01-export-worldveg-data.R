@@ -17,6 +17,11 @@ xy = read.csv("docs/trial-xy.csv")
 
 available = read.csv("data/aa-available-datasets.csv")
 
+# funders 
+funders = read_excel('metadata/trials-metadata/worldveg/funder-metadata.xlsx')
+
+names(funders) = c("funderName", "funderIdentifier", "awardTitle", "awardNumber")
+
 # read file with genotype metadata
 geno = read_excel('metadata/trials-metadata/worldveg/genotype-metadata.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), 
@@ -54,11 +59,6 @@ keep = grep("@worldveg.org", projects$email)
 projects = projects[keep, ]
 
 cmdata = cmdata[keep]
-
-# x = do.call("rbind", lapply(cmdata, function(x){do.call("rbind", x$combination$elements)}))
-# x$technology_name[x$technology_name == "Amaranths"] = "Amaranth"
-# x$id = paste0(x$technology_name, x$alias_name)
-# x = x[!duplicated(x$id), ]
 
 # remove eggplant piment and tomate
 projects$project_name
@@ -100,7 +100,10 @@ for(k in seq_along(cmdata)) {
   
   meta$study$unit_of_analysis = unit_of_analysis
   
-  meta$crop$name = ifelse(meta$crop$name == "Amaranths", "Amaranth", meta$crop$name)
+  meta$crop$name = ifelse(meta$crop$name == "Amaranths", "Amaranth", 
+                          ifelse(meta$crop$name == "Tomato Lines", "Tomato", 
+                                 ifelse(meta$crop$name == "Chili Pepper lines", "chilipepper",
+                                        meta$crop$name)))
   
   meta$crop$name = gsub(" ", "", meta$crop$name)
   
@@ -108,8 +111,14 @@ for(k in seq_along(cmdata)) {
   
   meta$crop$taxon = ifelse(meta$crop$name == "amaranth", "Amaranthus spp.",
                       ifelse(meta$crop$name == "okra", "Abelmoschus spp.",
-                             ifelse(meta$crop$name == "jutemallow", "Corchorus spp.", 
-                             "Not provided")))
+                             ifelse(meta$crop$name == "jutemallow", "Corchorus spp.",
+                                    ifelse(meta$crop$name == "tomato", "Solanum lycopersicum",
+                                           ifelse(meta$crop$name == "chilipepper", "Capsicum spp.",
+                             "Not provided")))))
+  
+  if(meta$crop$name == "amaranth" | meta$crop$name == "jutemallow" | meta$crop$name == "okra"){
+    meta$funder = funders
+  }
   
   # ....................................
   # ....................................
