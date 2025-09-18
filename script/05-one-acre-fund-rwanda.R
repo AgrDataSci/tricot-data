@@ -79,8 +79,8 @@ techs$taxon = ifelse(techs$crop_name == "maize", "Zea maiz",
                                    ifelse(techs$crop_name == "forages", "Plantae",
                                           ifelse(techs$crop_name == "wheat", "Triticum aestivum",
                                                  ifelse(techs$crop_name == "sorghum", "Sorghum spp.",
-                                                        ifelse(techs$crop_name == "Glycine max", 
-                                                               "Soybean", "")))))))
+                                                        ifelse(techs$crop_name == "soybean", 
+                                                               "Glycine max", "")))))))
 
 
 # # check for genotype names
@@ -164,8 +164,6 @@ for(k in seq_along(cmdata)) {
   rank = exportTricotRanks(x, nmin = 0.30)
   
   if (nrow(rank) == 0) next
-  
-  rank = rank[rank$trait != "yieldqualitative", ]
   
   # remove ties 
   # keep only block x traits with >1 distinct value
@@ -330,10 +328,13 @@ for(k in seq_along(cmdata)) {
   # add coordinates to file to write the main map
   coords = data.frame(block_id = block$block_id,
                       crop_name = meta$crop$name,
-                      longitude = block$longitude,
-                      latitude = block$latitude)
+                      longitude = ClimMobTools:::.safe_extract(block, "longitude"),
+                      latitude = ClimMobTools:::.safe_extract(block, "latitude"))
   
   xy = rbind(xy, coords)  
+  
+  xy = na.omit(xy)
+  
   
   # summary table with available datasets
   avail = data.frame(study_id = meta$study$id,
