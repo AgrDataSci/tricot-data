@@ -185,8 +185,10 @@ for(k in seq_along(cmdata)) {
       ungroup()
     
     plot = as.data.frame(rbind(rank, measu))
+    
   } else {
     plot = as.data.frame(rank)
+    measu = plot[1:2, ]
   }
   
   rownames(plot) = 1:nrow(plot)
