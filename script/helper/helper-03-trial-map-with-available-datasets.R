@@ -34,8 +34,7 @@ trialmap =
           fill = "grey97") +         # draw world map
   geom_jitter(data = coord, aes(x = longitude,
                                 y = latitude, 
-                                colour = crop_name,
-                                shape = crop_name),
+                                colour = crop_name),
               size = 0.5) + # add trial points
   theme_void() + 
   scale_color_brewer(palette = "Set1") + # set color palette
@@ -53,3 +52,4 @@ ggsave("docs/trial-locations.png",
        height = 18,
        units = "cm",
        dpi = 400)
+

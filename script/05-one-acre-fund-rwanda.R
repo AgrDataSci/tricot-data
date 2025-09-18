@@ -18,7 +18,7 @@ xy = read.csv("docs/trial-xy.csv")
 available = read.csv("data/aa-available-datasets.csv")
 
 # read file with genotype metadata
-geno = read_excel('raw/variety-metadata/one-acre-fund-rwanda.xlsx')
+geno = read_excel('metadata/trials-metadata/oneacre-fund/genotype-metadata.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
 
 doi = "https://doi.org/10.5281/zenodo.17112492"
@@ -44,7 +44,7 @@ pi_email = "elyse.tuyishime@oneacrefund.org"
 
 program = "One Acre Fund"
 
-ror_id = "pending"
+ror_id = "Not defined"
 
 # filter the worlveg projects
 keep = grep("Elyse Tuyishime|Elyse TUYISHIME|Elysé Tuyishime", projects$coordinator)
@@ -77,9 +77,9 @@ techs$taxon = ifelse(techs$crop_name == "maize", "Zea maiz",
                      ifelse(techs$crop_name == "common bean", "Phaseolus vulgaris",
                             ifelse(techs$crop_name == "potato", "Solanum tuberosum",
                                    ifelse(techs$crop_name == "forages", "Plantae",
-                                          ifelse(techs$crop_name == "wheat", "Triticum spp.",
-                                                 ifelse(techs$crop_name == "sorghum", "Sorghum",
-                                                        ifelse(techs$crop_name == "soybean", 
+                                          ifelse(techs$crop_name == "wheat", "Triticum aestivum",
+                                                 ifelse(techs$crop_name == "sorghum", "Sorghum spp.",
+                                                        ifelse(techs$crop_name == "Glycine max", 
                                                                "Soybean", "")))))))
 
 
@@ -175,20 +175,19 @@ for(k in seq_along(cmdata)) {
     filter(n_distinct(value) > 1) %>%   
     ungroup()
   
-  # ....................................
-  # ....................................
   # other non-tricot traits
-  measu = exportMeasuredTraits(x)
+  measu = try(exportMeasuredTraits(x), silent = TRUE)
   
-  # keep only block x traits with at least one entry (no NA)
-  measu = 
-    measu %>%
-    group_by(block_id, collection_moment, trait) %>%
-    filter(!all(is.na(value))) %>%   
-    ungroup()
-  
-  # combine tricot and non-tricot traits
-  plot = as.data.frame(rbind(rank, measu))
+  if (!inherits(measu, "try-error")) {
+    measu = measu %>%
+      group_by(block_id, collection_moment, trait) %>%
+      filter(!all(is.na(value))) %>%
+      ungroup()
+    
+    plot = as.data.frame(rbind(rank, measu))
+  } else {
+    plot = as.data.frame(rank)
+  }
   
   rownames(plot) = 1:nrow(plot)
   

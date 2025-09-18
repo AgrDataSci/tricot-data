@@ -18,8 +18,10 @@ xy = read.csv("docs/trial-xy.csv")
 available = read.csv("data/aa-available-datasets.csv")
 
 # read file with genotype metadata
-geno = read_excel('raw/variety-metadata/worldveg.xlsx')
-geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
+geno = read_excel('metadata/trials-metadata/worldveg/genotype-metadata.xlsx')
+geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), 
+                                  geno$genotype_name, 
+                                  geno$final_genotype_name)
 
 doi = "https://doi.org/10.5281/zenodo.17112492"
 
@@ -61,7 +63,7 @@ cmdata = cmdata[keep]
 # remove eggplant piment and tomate
 projects$project_name
 
-keep = !grepl("piment|tomate|eggplant", projects$project_name)
+keep = !grepl("eggplant", projects$project_name)
 
 projects = projects[keep, ]
 
