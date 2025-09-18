@@ -61,7 +61,7 @@ The hierarchical organization allows users to track data from trial design throu
 │   │   ├── identifier (ROR id)
 │   │   ├── principal investigator
 │   │   ├── email
-│   │   ├── program (ADCIN, RTB, BOLDER)
+│   │   ├── program
 │   ├── crop 
 │   │   ├── name
 │   │   ├── taxon
@@ -72,9 +72,10 @@ The hierarchical organization allows users to track data from trial design throu
 │   ├── genotypes
 │   │   ├── genotype name
 │   │   ├── role
-│   │   ├── year release
-│   │   ├── market segment
-│   │   ├── country of origin
+│   │   ├── release year
+│   │   ├── crossing year year
+│   │   ├── target trait
+│   │   ├── origin
 │   │   ├── remarks
 │   ├── variables
 │   │   ├── variable name
