@@ -5,7 +5,7 @@
 
 # Global multi-crop agricultural trial data supported by citizen science
 
-The [triadic comparison of technologies (tricot)](https://doi.org/10.1007/s13593-023-00937-1) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. ‘Triadic’ refers to the sets of three technology options that are compared by each participant. In the approach, participants are invited to test a anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. Between 2011 and 2025 the tricot approach was applied in more than 25 countries across Africa, Asia, Europe and Latin America with more than 30 crops.
+The [triadic comparison of technologies (tricot)](https://doi.org/10.1007/s13593-023-00937-1) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. ‘Triadic’ refers to the sets of three technology options that are compared by each participant. In the approach, participants are invited to test an anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. Between 2011 and 2025 the tricot approach was applied in more than 25 countries across Africa, Asia, Europe and Latin America with more than 30 crops.
 
 ---
 
@@ -73,7 +73,7 @@ The hierarchical organization allows users to track data from trial design throu
 │   │   ├── genotype name
 │   │   ├── role
 │   │   ├── release year
-│   │   ├── crossing year year
+│   │   ├── crossing year
 │   │   ├── target trait
 │   │   ├── origin
 │   │   ├── remarks
@@ -114,6 +114,41 @@ The hierarchical organization allows users to track data from trial design throu
 │   ├── casi se
 │   ├── casi var
 ```
+
+# Using the ranking data
+This repository provides tricot on-farm ranking data in JSON. The plot_data table stores one row per plot evaluation (e.g., block_id, genotype_name, collection_moment, trait, value, value_type). To analyze rankings, filter rows to value_type == "rank", convert to sparse rankings with rank_tricot2(), and fit Plackett–Luce models.
+
+````
+library("jsonlite")
+library("gosset")
+library("PlackettLuce")
+
+# Load one dataset
+dat = fromJSON(
+  "https://raw.githubusercontent.com/AgrDataSci/tricot-data/refs/heads/main/data/potato-88f82a3f073e.json"
+)
+
+# study metadata
+dat$metadata$study
+
+# Prepare and model rankings by trait × collection moment
+R = dat$plot_data
+R = R[R$value_type == "rank", ]
+R$traitmoment = paste(R$collection_moment, R$trait, sep = " - ")
+
+R = split(R, R$traitmoment)
+R = lapply(R, function(x) {
+  rank_tricot2(
+    data  = x,
+    items = "genotype_name",
+    input = "value",
+    id    = "block_id"
+  )
+})
+
+mod = lapply(R, PlackettLuce)
+````
+For more information, check the [gosset package documentation](https://agrdatasci.github.io/gosset/).
 
 ## Citation
 
