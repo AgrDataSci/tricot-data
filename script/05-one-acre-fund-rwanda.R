@@ -259,11 +259,14 @@ for(k in seq_along(cmdata)) {
     
     dat_i = subset(rank, rank$traitmoment == traits[i])
     
-    R[[i]] = rank_numeric(data = dat_i,
+    dat_i$block_id = as.character(dat_i$block_id)
+    
+    dat_i$value = as.integer(dat_i$value)
+    
+    R[[i]] = rank_tricot2(data = dat_i,
                           items = "genotype_name",
                           input = "value",
-                          id = "block_id",
-                          ascending = TRUE)
+                          id = "block_id")
     
     # remove rows with ties 
     ties = unclass(R[[i]])
