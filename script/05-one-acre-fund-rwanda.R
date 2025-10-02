@@ -71,10 +71,10 @@ techs$crop_name[grepl("maize", techs$desc)] = "maize"
 techs$crop_name[grepl("Sorghum", techs$desc)] = "sorghum"
 techs$crop_name[grepl("wheat", techs$desc)] = "wheat"
 techs$crop_name[grepl("cover crops", techs$desc)] = "forages"
-techs$crop_name[grepl("Climbing beans |Bush beans ", techs$desc)] = "common bean"
+techs$crop_name[grepl("Climbing beans |Bush beans ", techs$desc)] = "commonbean"
 
 techs$taxon = ifelse(techs$crop_name == "maize", "Zea maiz", 
-                     ifelse(techs$crop_name == "common bean", "Phaseolus vulgaris",
+                     ifelse(techs$crop_name == "commonbean", "Phaseolus vulgaris",
                             ifelse(techs$crop_name == "potato", "Solanum tuberosum",
                                    ifelse(techs$crop_name == "forages", "Plantae",
                                           ifelse(techs$crop_name == "wheat", "Triticum aestivum",
