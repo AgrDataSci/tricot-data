@@ -63,7 +63,7 @@ cmdata = cmdata[keep]
 
 cmdata
 
-# check for genotype names
+# # check for genotype names
 # x = do.call("rbind", lapply(cmdata, function(x){do.call("rbind", x$combination$elements)}))
 # x$id = paste0(x$technology_name, x$alias_name)
 # x = x[!duplicated(x$id), ]
@@ -76,13 +76,16 @@ cmdata
 # geno2 = unique(c(geno$genotype_name,
 #                  x$alias_name))
 # 
+# namesgeno = names(geno)
 # 
 # geno2 = data.frame(genotype_name = geno2)
 # 
 # geno = merge(geno2, geno, by = "genotype_name", all.x = TRUE)
 # 
+# geno = geno[namesgeno]
+# 
 # # write the merged dataset to fix it manually
-# write.csv(geno, "raw/variety-metadata/groundnut-tanzania.csv", row.names = FALSE)
+# write.csv(geno, "metadata/trials-metadata/groundnut-tari/groundnut-tanzania.csv", row.names = FALSE)
 
 
 cmdata
