@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-02",
+      "version": "v2025-10-03",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -49,6 +49,15 @@
       "men": "No information provided",
       "women": "No information provided"
     },
+    "funder": [
+      {
+        "funderName": "Gates Foundation",
+        "funderIdentifier": "https://ror.org/0456r8d26",
+        "awardTitle": "1000FARMS",
+        "awardNumber": "L22ROM222",
+        "5": "We recevied this grant as sub-grantees of the main grant given to Bioversity-CIAT alliance"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "Kigufi",
@@ -1529,8 +1538,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-05-05 12:49:35",
-      "longitude": 30.5565,
-      "latitude": -2.0586
+      "longitude": 30.559,
+      "latitude": -2.0398
     },
     {
       "block_id": "f8f78de9569a-2",
@@ -1594,8 +1603,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-05-12 09:56:53",
-      "longitude": 30.4795,
-      "latitude": -2.0689
+      "longitude": 30.4735,
+      "latitude": -2.0616
     },
     {
       "block_id": "f8f78de9569a-3",
@@ -1659,8 +1668,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-05-12 09:57:58",
-      "longitude": 30.4937,
-      "latitude": -2.0514
+      "longitude": 30.4955,
+      "latitude": -2.0515
     },
     {
       "block_id": "f8f78de9569a-4",
@@ -1731,8 +1740,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2025-06-30 08:37:19",
-      "longitude": 30.4915,
-      "latitude": -2.0664
+      "longitude": 30.4742,
+      "latitude": -2.0552
     },
     {
       "block_id": "f8f78de9569a-5",
@@ -1796,8 +1805,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-05-12 10:05:56",
-      "longitude": 30.4933,
-      "latitude": -2.0729
+      "longitude": 30.4903,
+      "latitude": -2.0639
     },
     {
       "block_id": "f8f78de9569a-6",
@@ -1861,8 +1870,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-05-12 10:03:30",
-      "longitude": 30.5555,
-      "latitude": -2.0558
+      "longitude": 30.5592,
+      "latitude": -2.0417
     },
     {
       "block_id": "f8f78de9569a-7",
@@ -1926,8 +1935,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-05-12 10:01:22",
-      "longitude": 30.5077,
-      "latitude": -2.0657
+      "longitude": 30.4915,
+      "latitude": -2.0871
     },
     {
       "block_id": "f8f78de9569a-8",
@@ -1998,8 +2007,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-12 16:36:02",
-      "longitude": 30.3283,
-      "latitude": -1.6667
+      "longitude": 30.3181,
+      "latitude": -1.6707
     },
     {
       "block_id": "f8f78de9569a-9",
@@ -2070,8 +2079,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-23 09:19:05",
-      "longitude": 30.3184,
-      "latitude": -1.6721
+      "longitude": 30.3171,
+      "latitude": -1.6737
     },
     {
       "block_id": "f8f78de9569a-10",
@@ -2142,8 +2151,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-23 09:57:58",
-      "longitude": 30.3168,
-      "latitude": -1.6732
+      "longitude": 30.3216,
+      "latitude": -1.6877
     },
     {
       "block_id": "f8f78de9569a-11",
@@ -2214,8 +2223,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-23 09:05:19",
-      "longitude": 30.3159,
-      "latitude": -1.683
+      "longitude": 30.3126,
+      "latitude": -1.6832
     },
     {
       "block_id": "f8f78de9569a-12",
@@ -2286,8 +2295,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-23 09:50:53",
-      "longitude": 30.3127,
-      "latitude": -1.6882
+      "longitude": 30.3205,
+      "latitude": -1.6778
     },
     {
       "block_id": "f8f78de9569a-13",
@@ -2358,8 +2367,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-26 19:59:48",
-      "longitude": 30.3238,
-      "latitude": -1.6793
+      "longitude": 30.3164,
+      "latitude": -1.6837
     },
     {
       "block_id": "f8f78de9569a-14",
@@ -2430,8 +2439,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-30 07:11:48",
-      "longitude": 30.3052,
-      "latitude": -1.6777
+      "longitude": 30.3053,
+      "latitude": -1.6865
     },
     {
       "block_id": "f8f78de9569a-15",
@@ -2502,8 +2511,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-23 09:29:45",
-      "longitude": 30.3067,
-      "latitude": -1.6855
+      "longitude": 30.3123,
+      "latitude": -1.6915
     },
     {
       "block_id": "f8f78de9569a-16",
@@ -2574,8 +2583,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-22 19:24:19",
-      "longitude": 30.5986,
-      "latitude": -1.7912
+      "longitude": 30.5934,
+      "latitude": -1.7936
     },
     {
       "block_id": "f8f78de9569a-17",
@@ -2646,8 +2655,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-18 08:19:33",
-      "longitude": 30.5705,
-      "latitude": -1.8187
+      "longitude": 30.576,
+      "latitude": -1.8164
     },
     {
       "block_id": "f8f78de9569a-18",
@@ -2718,8 +2727,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-30 09:22:34",
-      "longitude": 30.5899,
-      "latitude": -1.8083
+      "longitude": 30.5848,
+      "latitude": -1.7961
     },
     {
       "block_id": "f8f78de9569a-19",
@@ -2790,8 +2799,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-18 08:20:51",
-      "longitude": 30.5879,
-      "latitude": -1.8195
+      "longitude": 30.5804,
+      "latitude": -1.8151
     },
     {
       "block_id": "f8f78de9569a-20",
@@ -2855,8 +2864,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "Ntamvaruganda twari dufite yo gukoresha",
       "maturity_survey_end": "2025-05-07 06:38:41",
-      "longitude": 30.5838,
-      "latitude": -1.789
+      "longitude": 30.5795,
+      "latitude": -1.8118
     },
     {
       "block_id": "f8f78de9569a-21",
@@ -2927,8 +2936,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-30 09:28:42",
-      "longitude": 30.5695,
-      "latitude": -1.8144
+      "longitude": 30.5856,
+      "latitude": -1.7933
     },
     {
       "block_id": "f8f78de9569a-22",
@@ -2999,8 +3008,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-30 09:27:28",
-      "longitude": 30.5911,
-      "latitude": -1.8164
+      "longitude": 30.5796,
+      "latitude": -1.8176
     },
     {
       "block_id": "f8f78de9569a-23",
@@ -3071,8 +3080,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-30 09:29:45",
-      "longitude": 30.5893,
-      "latitude": -1.8205
+      "longitude": 30.5847,
+      "latitude": -1.7969
     },
     {
       "block_id": "f8f78de9569a-24",
@@ -3143,8 +3152,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-30 09:24:15",
-      "longitude": 30.5765,
-      "latitude": -1.8152
+      "longitude": 30.5863,
+      "latitude": -1.8069
     },
     {
       "block_id": "f8f78de9569a-25",
@@ -3215,8 +3224,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2025-06-23 18:36:38",
-      "longitude": 30.1955,
-      "latitude": -2.1153
+      "longitude": 30.1966,
+      "latitude": -2.0992
     },
     {
       "block_id": "f8f78de9569a-26",
@@ -3287,8 +3296,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2025-06-23 16:56:57",
-      "longitude": 30.1917,
-      "latitude": -2.1101
+      "longitude": 30.1954,
+      "latitude": -2.1083
     },
     {
       "block_id": "f8f78de9569a-27",
@@ -3359,8 +3368,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2025-06-24 14:03:27",
-      "longitude": 30.1762,
-      "latitude": -2.0966
+      "longitude": 30.1728,
+      "latitude": -2.1096
     },
     {
       "block_id": "f8f78de9569a-28",
@@ -3431,8 +3440,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "0k",
       "harvest_survey_end": "2025-06-23 15:18:23",
-      "longitude": 30.1846,
-      "latitude": -2.106
+      "longitude": 30.1949,
+      "latitude": -2.1198
     },
     {
       "block_id": "f8f78de9569a-29",
@@ -3503,8 +3512,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2025-06-06 16:51:44",
-      "longitude": 30.1861,
-      "latitude": -2.1053
+      "longitude": 30.1953,
+      "latitude": -2.1135
     },
     {
       "block_id": "f8f78de9569a-30",
@@ -3575,8 +3584,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Inyoni zatangiye kuyarya atariyera ziyamaraho yose (A,C)",
       "harvest_survey_end": "2025-06-22 17:45:42",
-      "longitude": 30.1883,
-      "latitude": -2.111
+      "longitude": 30.1786,
+      "latitude": -2.1012
     },
     {
       "block_id": "f8f78de9569a-31",
@@ -3646,8 +3655,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2025-06-24 15:56:37",
-      "longitude": 30.2045,
-      "latitude": -2.1158
+      "longitude": 30.1979,
+      "latitude": -2.1174
     },
     {
       "block_id": "f8f78de9569a-32",
@@ -3718,8 +3727,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2025-06-23 13:26:17",
-      "longitude": 30.1919,
-      "latitude": -2.1164
+      "longitude": 30.1834,
+      "latitude": -2.1139
     },
     {
       "block_id": "f8f78de9569a-33",
@@ -3771,8 +3780,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-26 09:39:49",
-      "longitude": 30.249,
-      "latitude": -1.3887
+      "longitude": 30.2485,
+      "latitude": -1.3725
     },
     {
       "block_id": "f8f78de9569a-34",
@@ -3831,8 +3840,8 @@
       "harvest_whichlost": "B; A",
       "harvest_plotlossreason": "Inyoni zariye uturima tubiri none twasaruye akarima ka c konyine",
       "harvest_survey_end": "2025-06-21 07:43:48",
-      "longitude": 30.2506,
-      "latitude": -1.3848
+      "longitude": 30.2596,
+      "latitude": -1.3744
     },
     {
       "block_id": "f8f78de9569a-35",
@@ -3884,8 +3893,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-30 20:01:11",
-      "longitude": 30.2538,
-      "latitude": -1.3699
+      "longitude": 30.2647,
+      "latitude": -1.3752
     },
     {
       "block_id": "f8f78de9569a-36",
@@ -3944,8 +3953,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-16 15:08:16",
-      "longitude": 30.2566,
-      "latitude": -1.3758
+      "longitude": 30.2565,
+      "latitude": -1.3862
     },
     {
       "block_id": "f8f78de9569a-37",
@@ -4019,8 +4028,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_futureadoption": "Option B",
       "threshing_survey_end": "2025-06-30 10:13:35",
-      "longitude": 30.2454,
-      "latitude": -1.3837
+      "longitude": 30.2522,
+      "latitude": -1.3892
     },
     {
       "block_id": "f8f78de9569a-38",
@@ -4072,8 +4081,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-26 09:33:47",
-      "longitude": 30.2686,
-      "latitude": -1.3781
+      "longitude": 30.2651,
+      "latitude": -1.3782
     },
     {
       "block_id": "f8f78de9569a-39",
@@ -4132,8 +4141,8 @@
       "harvest_whichlost": "B",
       "harvest_plotlossreason": "Inyoni zariye akarima ka B bituma tutagasarura",
       "harvest_survey_end": "2025-06-24 08:41:05",
-      "longitude": 30.2479,
-      "latitude": -1.3754
+      "longitude": 30.2532,
+      "latitude": -1.3855
     },
     {
       "block_id": "f8f78de9569a-40",
@@ -4192,8 +4201,8 @@
       "harvest_whichlost": "C; B; A",
       "harvest_plotlossreason": "Inyoni zariye uturima those nti twasarura",
       "harvest_survey_end": "2025-06-21 07:46:13",
-      "longitude": 30.2653,
-      "latitude": -1.3788
+      "longitude": 30.2531,
+      "latitude": -1.3865
     },
     {
       "block_id": "f8f78de9569a-41",
@@ -4252,8 +4261,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-13 08:50:12",
-      "longitude": 30.2661,
-      "latitude": -1.3812
+      "longitude": 30.2585,
+      "latitude": -1.376
     },
     {
       "block_id": "f8f78de9569a-42",
@@ -4307,8 +4316,8 @@
       "maturity_management": "Fertilization; Wedding",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-16 17:39:38",
-      "longitude": 29.8384,
-      "latitude": -1.5037
+      "longitude": 29.8461,
+      "latitude": -1.4793
     },
     {
       "block_id": "f8f78de9569a-43",
@@ -4362,8 +4371,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-16 15:31:10",
-      "longitude": 29.8513,
-      "latitude": -1.4792
+      "longitude": 29.85,
+      "latitude": -1.4978
     },
     {
       "block_id": "f8f78de9569a-44",
@@ -4417,8 +4426,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-12 07:55:52",
-      "longitude": 29.8486,
-      "latitude": -1.5047
+      "longitude": 29.8582,
+      "latitude": -1.5088
     },
     {
       "block_id": "f8f78de9569a-45",
@@ -4472,8 +4481,8 @@
       "maturity_management": "Fertilization; Wedding",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-12 07:56:59",
-      "longitude": 29.8556,
-      "latitude": -1.4968
+      "longitude": 29.8603,
+      "latitude": -1.5069
     },
     {
       "block_id": "f8f78de9569a-46",
@@ -4527,8 +4536,8 @@
       "maturity_management": "Wedding; Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-12 07:57:50",
-      "longitude": 29.8605,
-      "latitude": -1.4945
+      "longitude": 29.8584,
+      "latitude": -1.5083
     },
     {
       "block_id": "f8f78de9569a-47",
@@ -4582,8 +4591,8 @@
       "maturity_management": "Wedding; Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-12 07:59:17",
-      "longitude": 29.8653,
-      "latitude": -1.5196
+      "longitude": 29.8506,
+      "latitude": -1.5017
     },
     {
       "block_id": "f8f78de9569a-48",
@@ -4637,8 +4646,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-16 15:27:58",
-      "longitude": 29.8498,
-      "latitude": -1.5119
+      "longitude": 29.865,
+      "latitude": -1.5103
     },
     {
       "block_id": "f8f78de9569a-49",
@@ -4692,8 +4701,8 @@
       "maturity_management": "Fertilization; Wedding",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-16 16:11:14",
-      "longitude": 29.8567,
-      "latitude": -1.494
+      "longitude": 29.8358,
+      "latitude": -1.5075
     },
     {
       "block_id": "f8f78de9569a-50",
@@ -4747,8 +4756,8 @@
       "maturity_management": "Wedding; Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-16 13:32:50",
-      "longitude": 29.8522,
-      "latitude": -1.4973
+      "longitude": 29.8575,
+      "latitude": -1.505
     },
     {
       "block_id": "f8f78de9569a-51",
@@ -4802,8 +4811,8 @@
       "maturity_management": "Fertilization; Wedding",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-16 17:43:10",
-      "longitude": 29.8368,
-      "latitude": -1.4951
+      "longitude": 29.8471,
+      "latitude": -1.4977
     },
     {
       "block_id": "f8f78de9569a-52",
@@ -4857,8 +4866,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 16:26:10",
-      "longitude": 29.7985,
-      "latitude": -1.5004
+      "longitude": 29.7951,
+      "latitude": -1.5123
     },
     {
       "block_id": "f8f78de9569a-53",
@@ -4912,8 +4921,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 16:27:29",
-      "longitude": 29.7919,
-      "latitude": -1.5099
+      "longitude": 29.788,
+      "latitude": -1.5
     },
     {
       "block_id": "f8f78de9569a-54",
@@ -4967,8 +4976,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 16:28:05",
-      "longitude": 29.7947,
-      "latitude": -1.5006
+      "longitude": 29.7992,
+      "latitude": -1.4991
     },
     {
       "block_id": "f8f78de9569a-55",
@@ -5022,8 +5031,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 16:28:43",
-      "longitude": 29.8049,
-      "latitude": -1.4944
+      "longitude": 29.7971,
+      "latitude": -1.5193
     },
     {
       "block_id": "f8f78de9569a-56",
@@ -5076,8 +5085,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 16:29:30",
-      "longitude": 29.8091,
-      "latitude": -1.4978
+      "longitude": 29.7902,
+      "latitude": -1.5075
     },
     {
       "block_id": "f8f78de9569a-57",
@@ -5131,8 +5140,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 16:30:11",
-      "longitude": 29.8055,
-      "latitude": -1.5134
+      "longitude": 29.7956,
+      "latitude": -1.4994
     },
     {
       "block_id": "f8f78de9569a-58",
@@ -5186,8 +5195,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 16:32:19",
-      "longitude": 29.8082,
-      "latitude": -1.5094
+      "longitude": 29.7999,
+      "latitude": -1.4968
     },
     {
       "block_id": "f8f78de9569a-59",
@@ -5240,8 +5249,8 @@
       "maturity_management": "Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 16:32:58",
-      "longitude": 29.7981,
-      "latitude": -1.5068
+      "longitude": 29.7891,
+      "latitude": -1.5011
     },
     {
       "block_id": "f8f78de9569a-60",
@@ -5303,8 +5312,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-04-28 12:14:22",
-      "longitude": 29.7175,
-      "latitude": -1.4425
+      "longitude": 29.719,
+      "latitude": -1.4359
     },
     {
       "block_id": "f8f78de9569a-61",
@@ -5366,8 +5375,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-04-29 13:26:55",
-      "longitude": 29.7287,
-      "latitude": -1.4392
+      "longitude": 29.7169,
+      "latitude": -1.438
     },
     {
       "block_id": "f8f78de9569a-62",
@@ -5429,8 +5438,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-04-30 13:56:18",
-      "longitude": 29.73,
-      "latitude": -1.4427
+      "longitude": 29.7061,
+      "latitude": -1.436
     },
     {
       "block_id": "f8f78de9569a-63",
@@ -5491,8 +5500,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-04-30 15:52:40",
-      "longitude": 29.725,
-      "latitude": -1.4181
+      "longitude": 29.7233,
+      "latitude": -1.4431
     },
     {
       "block_id": "f8f78de9569a-64",
@@ -5554,8 +5563,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-04-29 13:27:02",
-      "longitude": 29.7341,
-      "latitude": -1.4718
+      "longitude": 29.7281,
+      "latitude": -1.4566
     },
     {
       "block_id": "f8f78de9569a-65",
@@ -5617,8 +5626,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-04-22 18:27:09",
-      "longitude": 29.7299,
-      "latitude": -1.4432
+      "longitude": 29.7322,
+      "latitude": -1.4245
     },
     {
       "block_id": "f8f78de9569a-66",
@@ -5680,8 +5689,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-04-29 13:27:08",
-      "longitude": 29.7234,
-      "latitude": -1.4384
+      "longitude": 29.7233,
+      "latitude": -1.4335
     },
     {
       "block_id": "f8f78de9569a-67",
@@ -5743,8 +5752,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-04-29 13:27:15",
-      "longitude": 29.7214,
-      "latitude": -1.4349
+      "longitude": 29.7301,
+      "latitude": -1.4484
     },
     {
       "block_id": "f8f78de9569a-68",
@@ -5806,8 +5815,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "Ok",
       "maturity_survey_end": "2025-04-22 18:27:33",
-      "longitude": 29.7301,
-      "latitude": -1.4544
+      "longitude": 29.7296,
+      "latitude": -1.4497
     },
     {
       "block_id": "f8f78de9569a-69",
@@ -5871,8 +5880,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "No",
       "maturity_survey_end": "2025-04-30 09:05:03",
-      "longitude": 29.5598,
-      "latitude": -1.4774
+      "longitude": 29.5793,
+      "latitude": -1.4913
     },
     {
       "block_id": "f8f78de9569a-70",
@@ -5934,8 +5943,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "No",
       "maturity_survey_end": "2025-04-30 09:16:19",
-      "longitude": 29.5804,
-      "latitude": -1.4807
+      "longitude": 29.5636,
+      "latitude": -1.4715
     },
     {
       "block_id": "f8f78de9569a-71",
@@ -5997,8 +6006,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "No",
       "maturity_survey_end": "2025-04-30 08:56:59",
-      "longitude": 29.5605,
-      "latitude": -1.493
+      "longitude": 29.5654,
+      "latitude": -1.4919
     },
     {
       "block_id": "f8f78de9569a-72",
@@ -6062,8 +6071,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "No",
       "maturity_survey_end": "2025-04-30 08:38:58",
-      "longitude": 29.6132,
-      "latitude": -1.507
+      "longitude": 29.6127,
+      "latitude": -1.5121
     },
     {
       "block_id": "f8f78de9569a-73",
@@ -6125,8 +6134,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "No",
       "maturity_survey_end": "2025-04-30 08:03:22",
-      "longitude": 29.5602,
-      "latitude": -1.4756
+      "longitude": 29.5821,
+      "latitude": -1.4819
     },
     {
       "block_id": "f8f78de9569a-74",
@@ -6220,8 +6229,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "No",
       "maturity_survey_end": "2025-05-06 09:49:36",
-      "longitude": 29.5788,
-      "latitude": -1.4891
+      "longitude": 29.5645,
+      "latitude": -1.4845
     },
     {
       "block_id": "f8f78de9569a-75",
@@ -6283,8 +6292,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "No",
       "maturity_survey_end": "2025-04-30 08:03:29",
-      "longitude": 29.5808,
-      "latitude": -1.4835
+      "longitude": 29.5641,
+      "latitude": -1.4862
     },
     {
       "block_id": "f8f78de9569a-76",
@@ -6348,8 +6357,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "No",
       "maturity_survey_end": "2025-05-20 06:42:02",
-      "longitude": 29.5722,
-      "latitude": -1.4825
+      "longitude": 29.564,
+      "latitude": -1.4735
     },
     {
       "block_id": "f8f78de9569a-77",
@@ -6413,8 +6422,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "no",
       "maturity_survey_end": "2025-05-20 07:25:55",
-      "longitude": 29.581,
-      "latitude": -1.4788
+      "longitude": 29.5729,
+      "latitude": -1.4779
     },
     {
       "block_id": "f8f78de9569a-78",
@@ -6478,8 +6487,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "No",
       "maturity_survey_end": "2025-04-30 09:59:13",
-      "longitude": 29.5653,
-      "latitude": -1.4805
+      "longitude": 29.5798,
+      "latitude": -1.4773
     },
     {
       "block_id": "f8f78de9569a-79",
@@ -6539,8 +6548,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-25 21:00:05",
-      "longitude": 29.6947,
-      "latitude": -1.5856
+      "longitude": 29.6829,
+      "latitude": -1.5994
     },
     {
       "block_id": "f8f78de9569a-80",
@@ -6592,8 +6601,8 @@
       "maturity_management": "Planting Date; Fertilization",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 07:17:17",
-      "longitude": 29.6835,
-      "latitude": -1.5771
+      "longitude": 29.6797,
+      "latitude": -1.5628
     },
     {
       "block_id": "f8f78de9569a-81",
@@ -6645,8 +6654,8 @@
       "maturity_management": "Planting Date",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 07:15:28",
-      "longitude": 29.6793,
-      "latitude": -1.5856
+      "longitude": 29.6829,
+      "latitude": -1.5851
     },
     {
       "block_id": "f8f78de9569a-82",
@@ -6698,8 +6707,8 @@
       "maturity_management": "Planting Date",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-08 07:13:46",
-      "longitude": 29.6758,
-      "latitude": -1.5767
+      "longitude": 29.6773,
+      "latitude": -1.5696
     },
     {
       "block_id": "f8f78de9569a-83",
@@ -6753,8 +6762,8 @@
       "maturity_management": "Planting Date",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-05 12:36:27",
-      "longitude": 29.6714,
-      "latitude": -1.5817
+      "longitude": 29.6778,
+      "latitude": -1.5721
     },
     {
       "block_id": "f8f78de9569a-84",
@@ -6813,8 +6822,8 @@
       "harvest_whichlost": "A; C",
       "harvest_plotlossreason": "Inyoni zarayariye",
       "harvest_survey_end": "2025-06-24 14:27:03",
-      "longitude": 29.6728,
-      "latitude": -1.5822
+      "longitude": 29.6773,
+      "latitude": -1.5951
     },
     {
       "block_id": "f8f78de9569a-85",
@@ -6873,8 +6882,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-07-01 16:03:38",
-      "longitude": 29.6673,
-      "latitude": -1.5861
+      "longitude": 29.6838,
+      "latitude": -1.5908
     },
     {
       "block_id": "f8f78de9569a-86",
@@ -6933,8 +6942,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-25 17:18:53",
-      "longitude": 29.6856,
-      "latitude": -1.5812
+      "longitude": 29.6719,
+      "latitude": -1.5818
     },
     {
       "block_id": "f8f78de9569a-87",
@@ -6987,8 +6996,8 @@
       "maturity_management": "Planting Date",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-05-05 12:36:11",
-      "longitude": 29.69,
-      "latitude": -1.5871
+      "longitude": 29.6811,
+      "latitude": -1.5929
     },
     {
       "block_id": "f8f78de9569a-88",
@@ -7048,8 +7057,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-25 21:00:29",
-      "longitude": 29.6634,
-      "latitude": -1.5804
+      "longitude": 29.6824,
+      "latitude": -1.5829
     },
     {
       "block_id": "f8f78de9569a-89",
@@ -7113,8 +7122,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "none",
       "maturity_survey_end": "2025-05-06 08:51:58",
-      "longitude": 29.7511,
-      "latitude": -2.5492
+      "longitude": 29.7619,
+      "latitude": -2.5481
     },
     {
       "block_id": "f8f78de9569a-90",
@@ -7178,8 +7187,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "none",
       "maturity_survey_end": "2025-05-06 10:28:23",
-      "longitude": 29.7563,
-      "latitude": -2.5501
+      "longitude": 29.7678,
+      "latitude": -2.554
     },
     {
       "block_id": "f8f78de9569a-91",
@@ -7250,8 +7259,8 @@
       "harvest_whichlost": "A; C",
       "harvest_plotlossreason": "Muri A na B ntiyatonze ntitwasaruye nutwajeho muri A inyoni zahise ziturya twasaruye muri B gusa",
       "harvest_survey_end": "2025-06-27 10:25:30",
-      "longitude": 29.7661,
-      "latitude": -2.5533
+      "longitude": 29.7482,
+      "latitude": -2.5407
     },
     {
       "block_id": "f8f78de9569a-92",
@@ -7322,8 +7331,8 @@
       "harvest_whichlost": "C",
       "harvest_plotlossreason": "Muri C ayajejo yose inyoni zarayariye zimaraho,muri B twasaruye amahundo 21 hariho intete nkeya inyoni zasigaje nabwo nuko bari bayapfutse naho muri A naho twasaruye amahundo 74 hariho intete nkeya kuko naho inyoni zarayannye",
       "harvest_survey_end": "2025-06-27 13:14:04",
-      "longitude": 29.7494,
-      "latitude": -2.5416
+      "longitude": 29.7529,
+      "latitude": -2.5598
     },
     {
       "block_id": "f8f78de9569a-93",
@@ -7394,8 +7403,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Muri A yaratonze twasaruyemo makeya kuko ninyoni zayonnye muri B yaratonze inyoni zihita ziyona ziyamaraho twasaruyemo dukeyaya cyane,muri C ntiyatonze nutwajeho inyoni zaraturiye harimo udutete dukeya cyane",
       "harvest_survey_end": "2025-06-27 16:26:18",
-      "longitude": 29.7625,
-      "latitude": -2.5621
+      "longitude": 29.7644,
+      "latitude": -2.5659
     },
     {
       "block_id": "f8f78de9569a-94",
@@ -7466,8 +7475,8 @@
       "harvest_whichlost": "A; B; C",
       "harvest_plotlossreason": "Abajura bahiye amasaka yose muturima twose ntitwasaruye ninyoni zari zayariye muri A na C zimaraho muri B hariho makeya barayahira ntitwasaruye",
       "harvest_survey_end": "2025-06-25 16:04:11",
-      "longitude": 29.7479,
-      "latitude": -2.5669
+      "longitude": 29.7502,
+      "latitude": -2.5572
     },
     {
       "block_id": "f8f78de9569a-95",
@@ -7531,8 +7540,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "none",
       "maturity_survey_end": "2025-05-06 10:42:41",
-      "longitude": 29.7472,
-      "latitude": -2.5475
+      "longitude": 29.7418,
+      "latitude": -2.5521
     },
     {
       "block_id": "f8f78de9569a-96",
@@ -7596,8 +7605,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "none",
       "maturity_survey_end": "2025-05-06 08:53:02",
-      "longitude": 29.7528,
-      "latitude": -2.5671
+      "longitude": 29.747,
+      "latitude": -2.5579
     },
     {
       "block_id": "f8f78de9569a-97",
@@ -7668,8 +7677,8 @@
       "harvest_whichlost": "B; C",
       "harvest_plotlossreason": "Muri yatenzeho makeya inyoni zihita ziyarya muri C ntiyigeze atonda,tuje gusarura dusanga ibyatsi abajura babyahiye muri BnaC ntitwahasaruye twasaruye A yonyine",
       "harvest_survey_end": "2025-06-25 14:29:51",
-      "longitude": 29.7589,
-      "latitude": -2.555
+      "longitude": 29.7537,
+      "latitude": -2.5643
     },
     {
       "block_id": "f8f78de9569a-98",
@@ -7733,8 +7742,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "none",
       "maturity_survey_end": "2025-05-09 12:01:41",
-      "longitude": 29.7543,
-      "latitude": -2.5592
+      "longitude": 29.7509,
+      "latitude": -2.5698
     },
     {
       "block_id": "f8f78de9569a-99",
@@ -7803,8 +7812,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-18 08:33:09",
-      "longitude": 29.8639,
-      "latitude": -2.3277
+      "longitude": 29.86,
+      "latitude": -2.3172
     },
     {
       "block_id": "f8f78de9569a-100",
@@ -7866,8 +7875,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "None",
       "maturity_survey_end": "2025-05-09 14:21:42",
-      "longitude": 29.8556,
-      "latitude": -2.3158
+      "longitude": 29.8545,
+      "latitude": -2.3196
     },
     {
       "block_id": "f8f78de9569a-101",
@@ -7931,8 +7940,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "None",
       "maturity_survey_end": "2025-06-06 06:11:45",
-      "longitude": 29.8712,
-      "latitude": -2.3285
+      "longitude": 29.8743,
+      "latitude": -2.3361
     },
     {
       "block_id": "f8f78de9569a-102",
@@ -8000,8 +8009,8 @@
       "harvest_whichlost": "A",
       "harvest_plotlossreason": "Ntabwo kameze",
       "harvest_survey_end": "2025-06-16 12:03:43",
-      "longitude": 29.8597,
-      "latitude": -2.3191
+      "longitude": 29.8628,
+      "latitude": -2.3216
     },
     {
       "block_id": "f8f78de9569a-103",
@@ -8070,8 +8079,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-17 10:46:20",
-      "longitude": 29.8809,
-      "latitude": -2.3264
+      "longitude": 29.8591,
+      "latitude": -2.3278
     },
     {
       "block_id": "f8f78de9569a-104",
@@ -8140,8 +8149,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-16 11:56:54",
-      "longitude": 29.8471,
-      "latitude": -2.3166
+      "longitude": 29.8529,
+      "latitude": -2.3181
     },
     {
       "block_id": "f8f78de9569a-105",
@@ -8209,8 +8218,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-17 08:46:59",
-      "longitude": 29.8492,
-      "latitude": -2.3212
+      "longitude": 29.8517,
+      "latitude": -2.3192
     },
     {
       "block_id": "f8f78de9569a-106",
@@ -8272,8 +8281,8 @@
       "maturity_managementpriorit": "Treated Equally",
       "maturity_managementwhy": "None",
       "maturity_survey_end": "2025-05-09 14:23:46",
-      "longitude": 29.8461,
-      "latitude": -2.3144
+      "longitude": 29.8569,
+      "latitude": -2.3066
     },
     {
       "block_id": "f8f78de9569a-107",
@@ -8342,8 +8351,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-16 12:06:34",
-      "longitude": 29.8564,
-      "latitude": -2.2986
+      "longitude": 29.8388,
+      "latitude": -2.3067
     },
     {
       "block_id": "f8f78de9569a-108",
@@ -8412,8 +8421,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "None",
       "harvest_survey_end": "2025-06-16 12:04:49",
-      "longitude": 29.8424,
-      "latitude": -2.3052
+      "longitude": 29.8451,
+      "latitude": -2.309
     },
     {
       "block_id": "f8f78de9569a-109",
@@ -8474,8 +8483,8 @@
       "harvest_whichlost": "A; None",
       "harvest_plotlossreason": "Inyoni zarayariye yose kuburyo tutazasarura",
       "harvest_survey_end": "2025-06-20 15:29:33",
-      "longitude": 29.902,
-      "latitude": -2.4887
+      "longitude": 29.8888,
+      "latitude": -2.4804
     },
     {
       "block_id": "f8f78de9569a-110",
@@ -8537,8 +8546,8 @@
       "harvest_whichlost": "C",
       "harvest_plotlossreason": "Inyoni zarayariye yose kuburyo tutazasarura",
       "harvest_survey_end": "2025-06-20 11:49:21",
-      "longitude": 29.8983,
-      "latitude": -2.4845
+      "longitude": 29.8979,
+      "latitude": -2.4887
     },
     {
       "block_id": "f8f78de9569a-111",
@@ -8596,8 +8605,8 @@
       "harvest_whichlost": "A; C",
       "harvest_plotlossreason": "Inyoni zarayariye yose kuburyo tutazasarura",
       "harvest_survey_end": "2025-06-20 15:17:45",
-      "longitude": 29.5787,
-      "latitude": -2.6577
+      "longitude": 29.5605,
+      "latitude": -2.6408
     },
     {
       "block_id": "f8f78de9569a-112",
@@ -8658,8 +8667,8 @@
       "harvest_whichlost": "B",
       "harvest_plotlossreason": "Inyoni zarayariye yose kuburyo tutazasarura",
       "harvest_survey_end": "2025-06-21 18:41:21",
-      "longitude": 29.9029,
-      "latitude": -2.4767
+      "longitude": 29.8915,
+      "latitude": -2.4831
     },
     {
       "block_id": "f8f78de9569a-113",
@@ -8719,8 +8728,8 @@
       "harvest_whichlost": "A; B; C",
       "harvest_plotlossreason": "Inyoni zariye A na B zirazimara naho C yarwaye inopfu ntihagira ikintu kizaho",
       "harvest_survey_end": "2025-06-24 13:02:16",
-      "longitude": 29.9026,
-      "latitude": -2.4701
+      "longitude": 29.9063,
+      "latitude": -2.4707
     },
     {
       "block_id": "f8f78de9569a-114",
@@ -8780,8 +8789,8 @@
       "harvest_whichlost": "A",
       "harvest_plotlossreason": "Inyoni zarayariye ziyamaraho",
       "harvest_survey_end": "2025-06-18 09:16:51",
-      "longitude": 29.9182,
-      "latitude": -2.4761
+      "longitude": 29.8982,
+      "latitude": -2.4877
     },
     {
       "block_id": "f8f78de9569a-115",
@@ -8841,8 +8850,8 @@
       "harvest_whichlost": "B",
       "harvest_plotlossreason": "Inyoni zarayariye yose kuburyo tutazasarura",
       "harvest_survey_end": "2025-06-21 18:42:13",
-      "longitude": 29.9066,
-      "latitude": -2.4807
+      "longitude": 29.9162,
+      "latitude": -2.4821
     },
     {
       "block_id": "f8f78de9569a-116",
@@ -8900,8 +8909,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-27 12:21:53",
-      "longitude": 29.0913,
-      "latitude": -2.3695
+      "longitude": 29.0687,
+      "latitude": -2.3565
     },
     {
       "block_id": "f8f78de9569a-117",
@@ -8954,8 +8963,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-27 11:28:47",
-      "longitude": 29.1371,
-      "latitude": -2.3357
+      "longitude": 29.1342,
+      "latitude": -2.3424
     },
     {
       "block_id": "f8f78de9569a-118",
@@ -9008,8 +9017,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-22 12:52:10",
-      "longitude": 29.0758,
-      "latitude": -2.3523
+      "longitude": 29.0824,
+      "latitude": -2.3469
     },
     {
       "block_id": "f8f78de9569a-119",
@@ -9067,8 +9076,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-27 09:50:24",
-      "longitude": 29.1083,
-      "latitude": -2.3731
+      "longitude": 29.0957,
+      "latitude": -2.3537
     },
     {
       "block_id": "f8f78de9569a-120",
@@ -9126,8 +9135,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-06-24 14:47:03",
-      "longitude": 29.1072,
-      "latitude": -2.3552
+      "longitude": 29.098,
+      "latitude": -2.3581
     },
     {
       "block_id": "f8f78de9569a-121",
@@ -9179,8 +9188,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-20 15:01:14",
-      "longitude": 29.0886,
-      "latitude": -2.3764
+      "longitude": 29.0819,
+      "latitude": -2.3749
     },
     {
       "block_id": "f8f78de9569a-122",
@@ -9234,8 +9243,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-20 14:05:35",
-      "longitude": 29.0904,
-      "latitude": -2.3592
+      "longitude": 29.0886,
+      "latitude": -2.366
     },
     {
       "block_id": "f8f78de9569a-123",
@@ -9298,8 +9307,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Inyoni hari akarima zayariye ashiraho",
       "harvest_survey_end": "2025-06-25 14:18:20",
-      "longitude": 29.2255,
-      "latitude": -2.2268
+      "longitude": 29.2302,
+      "latitude": -2.2354
     },
     {
       "block_id": "f8f78de9569a-124",
@@ -9350,8 +9359,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-08 12:46:04",
-      "longitude": 29.2314,
-      "latitude": -2.2356
+      "longitude": 29.2295,
+      "latitude": -2.2203
     },
     {
       "block_id": "f8f78de9569a-125",
@@ -9403,8 +9412,8 @@
       "maturity_management": "Irrigation",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-04-30 12:29:58",
-      "longitude": 29.2244,
-      "latitude": -2.2169
+      "longitude": 29.2319,
+      "latitude": -2.2388
     },
     {
       "block_id": "f8f78de9569a-126",
@@ -9456,8 +9465,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-15 13:10:26",
-      "longitude": 29.2284,
-      "latitude": -2.2128
+      "longitude": 29.2373,
+      "latitude": -2.2254
     },
     {
       "block_id": "f8f78de9569a-127",
@@ -9508,8 +9517,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-29 12:33:23",
-      "longitude": 29.2396,
-      "latitude": -2.2267
+      "longitude": 29.2273,
+      "latitude": -2.2172
     },
     {
       "block_id": "f8f78de9569a-128",
@@ -9560,8 +9569,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-04-29 12:09:40",
-      "longitude": 29.2146,
-      "latitude": -2.2199
+      "longitude": 29.2101,
+      "latitude": -2.2295
     },
     {
       "block_id": "f8f78de9569a-129",
@@ -9612,8 +9621,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-04-29 11:58:06",
-      "longitude": 29.2217,
-      "latitude": -2.22
+      "longitude": 29.2273,
+      "latitude": -2.2277
     },
     {
       "block_id": "f8f78de9569a-130",
@@ -9659,8 +9668,8 @@
       "vegetativeupdated_whichlost": "A; C; B",
       "vegetativeupdated_plotlossreason": "Amasaka bayateye bayavangavanze,",
       "vegetativeupdated_survey_end": "2025-04-14 08:55:25",
-      "longitude": 29.0363,
-      "latitude": -2.672
+      "longitude": 29.0509,
+      "latitude": -2.6799
     },
     {
       "block_id": "f8f78de9569a-131",
@@ -9706,8 +9715,8 @@
       "vegetativeupdated_whichlost": "None",
       "vegetativeupdated_plotlossreason": "Ok",
       "vegetativeupdated_survey_end": "2025-05-01 10:02:16",
-      "longitude": 29.0472,
-      "latitude": -2.6747
+      "longitude": 29.0561,
+      "latitude": -2.6784
     },
     {
       "block_id": "f8f78de9569a-132",
@@ -9753,8 +9762,8 @@
       "vegetativeupdated_whichlost": "None",
       "vegetativeupdated_plotlossreason": "None",
       "vegetativeupdated_survey_end": "2025-04-14 08:23:03",
-      "longitude": 29.0334,
-      "latitude": -2.6866
+      "longitude": 29.0403,
+      "latitude": -2.6772
     },
     {
       "block_id": "f8f78de9569a-133",
@@ -9800,8 +9809,8 @@
       "vegetativeupdated_whichlost": "A; B; C",
       "vegetativeupdated_plotlossreason": "Yarayateye hava izubaryinshi ntiyamera",
       "vegetativeupdated_survey_end": "2025-04-14 08:15:30",
-      "longitude": 29.0375,
-      "latitude": -2.6859
+      "longitude": 29.0416,
+      "latitude": -2.667
     },
     {
       "block_id": "f8f78de9569a-134",
@@ -9847,8 +9856,8 @@
       "vegetativeupdated_whichlost": "None",
       "vegetativeupdated_plotlossreason": "Ok",
       "vegetativeupdated_survey_end": "2025-04-14 08:36:36",
-      "longitude": 29.0387,
-      "latitude": -2.7043
+      "longitude": 29.0406,
+      "latitude": -2.7058
     },
     {
       "block_id": "f8f78de9569a-135",
@@ -9911,8 +9920,8 @@
       "maturity_managementpriorit": "Trial Plot",
       "maturity_managementwhy": "Nibyoroshye kugakurikirana kuberako arihatoya",
       "maturity_survey_end": "2025-06-16 12:48:01",
-      "longitude": 29.047,
-      "latitude": -2.6974
+      "longitude": 29.0515,
+      "latitude": -2.6921
     },
     {
       "block_id": "f8f78de9569a-136",
@@ -9958,8 +9967,8 @@
       "vegetativeupdated_whichlost": "A; B; C",
       "vegetativeupdated_plotlossreason": "Amasaka ntiyameze",
       "vegetativeupdated_survey_end": "2025-05-15 13:58:58",
-      "longitude": 29.0259,
-      "latitude": -2.7411
+      "longitude": 29.0287,
+      "latitude": -2.7348
     },
     {
       "block_id": "f8f78de9569a-137",
@@ -10030,8 +10039,8 @@
       "harvest_whichlost": "B",
       "harvest_plotlossreason": "Inyoni zarayariye ziyamaraho",
       "harvest_survey_end": "2025-06-17 15:26:21",
-      "longitude": 29.0435,
-      "latitude": -2.6911
+      "longitude": 29.0478,
+      "latitude": -2.6879
     },
     {
       "block_id": "f8f78de9569a-138",
@@ -10094,8 +10103,8 @@
       "maturity_management_oth": "Ok",
       "maturity_managementpriorit": "Trial Plot",
       "maturity_survey_end": "2025-06-16 12:50:35",
-      "longitude": 29.0432,
-      "latitude": -2.6794
+      "longitude": 29.0487,
+      "latitude": -2.6645
     },
     {
       "block_id": "f8f78de9569a-139",
@@ -10166,8 +10175,8 @@
       "harvest_whichlost": "A",
       "harvest_plotlossreason": "Inyoni zarayariye ziyamaraho yose hasigara ibiti gusa",
       "harvest_survey_end": "2025-06-17 15:15:38",
-      "longitude": 29.0351,
-      "latitude": -2.6973
+      "longitude": 29.0436,
+      "latitude": -2.6822
     },
     {
       "block_id": "f8f78de9569a-140",
@@ -10207,8 +10216,8 @@
       "vegetativeupdated_whichlost": "A; B; C",
       "vegetativeupdated_plotlossreason": "Ntiyabiteye",
       "vegetativeupdated_survey_end": "2025-04-29 12:12:56",
-      "longitude": 29.0271,
-      "latitude": -2.45
+      "longitude": 29.0148,
+      "latitude": -2.4283
     },
     {
       "block_id": "f8f78de9569a-141",
@@ -10261,8 +10270,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-14 12:50:11",
-      "longitude": 29.0796,
-      "latitude": -2.421
+      "longitude": 29.0944,
+      "latitude": -2.4181
     },
     {
       "block_id": "f8f78de9569a-142",
@@ -10313,8 +10322,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-14 12:11:17",
-      "longitude": 29.0759,
-      "latitude": -2.4248
+      "longitude": 29.0965,
+      "latitude": -2.417
     },
     {
       "block_id": "f8f78de9569a-143",
@@ -10368,8 +10377,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-06-05 10:00:53",
-      "longitude": 29.0136,
-      "latitude": -2.3881
+      "longitude": 29.0151,
+      "latitude": -2.3902
     },
     {
       "block_id": "f8f78de9569a-144",
@@ -10424,8 +10433,8 @@
       "maturity_management": "Other",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-28 14:12:21",
-      "longitude": 29.0354,
-      "latitude": -2.4096
+      "longitude": 29.0327,
+      "latitude": -2.3995
     },
     {
       "block_id": "f8f78de9569a-145",
@@ -10476,8 +10485,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-14 12:51:34",
-      "longitude": 29.0846,
-      "latitude": -2.435
+      "longitude": 29.0957,
+      "latitude": -2.4123
     },
     {
       "block_id": "f8f78de9569a-146",
@@ -10529,8 +10538,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-06-23 11:55:05",
-      "longitude": 29.0166,
-      "latitude": -2.4103
+      "longitude": 29.021,
+      "latitude": -2.4139
     },
     {
       "block_id": "f8f78de9569a-147",
@@ -10583,8 +10592,8 @@
       "maturity_management_oth": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-06-22 20:02:58",
-      "longitude": 29.0212,
-      "latitude": -2.4088
+      "longitude": 29.0288,
+      "latitude": -2.398
     },
     {
       "block_id": "f8f78de9569a-148",
@@ -10623,8 +10632,8 @@
       "vegetativeupdated_whichlost": "None",
       "vegetativeupdated_plotlossreason": "None",
       "vegetativeupdated_survey_end": "2025-04-28 09:09:24",
-      "longitude": 29.026,
-      "latitude": -2.4298
+      "longitude": 29.0351,
+      "latitude": -2.4294
     },
     {
       "block_id": "f8f78de9569a-149",
@@ -10677,8 +10686,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-20 09:33:26",
-      "longitude": 28.9015,
-      "latitude": -2.488
+      "longitude": 28.9081,
+      "latitude": -2.4998
     },
     {
       "block_id": "f8f78de9569a-150",
@@ -10717,8 +10726,8 @@
       "vegetativeupdated_whichlost": "None",
       "vegetativeupdated_plotlossreason": "Ok",
       "vegetativeupdated_survey_end": "2025-04-11 13:06:27",
-      "longitude": 28.8909,
-      "latitude": -2.4969
+      "longitude": 28.9095,
+      "latitude": -2.4944
     },
     {
       "block_id": "f8f78de9569a-151",
@@ -10757,8 +10766,8 @@
       "vegetativeupdated_whichlost": "B; A; C",
       "vegetativeupdated_plotlossreason": "Ntabwo yubahirije protocole amasaka aranyanyagije mumurima niaamenya A ,B,C kuko nabyo biracurikiranyije",
       "vegetativeupdated_survey_end": "2025-04-22 09:45:45",
-      "longitude": 28.8881,
-      "latitude": -2.4912
+      "longitude": 28.893,
+      "latitude": -2.5113
     },
     {
       "block_id": "f8f78de9569a-152",
@@ -10813,8 +10822,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-19 11:41:22",
-      "longitude": 28.8856,
-      "latitude": -2.4909
+      "longitude": 28.8932,
+      "latitude": -2.5048
     },
     {
       "block_id": "f8f78de9569a-153",
@@ -10869,8 +10878,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-25 15:26:43",
-      "longitude": 28.8919,
-      "latitude": -2.5047
+      "longitude": 28.8857,
+      "latitude": -2.4954
     },
     {
       "block_id": "f8f78de9569a-154",
@@ -10924,8 +10933,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-20 11:24:21",
-      "longitude": 28.9015,
-      "latitude": -2.4994
+      "longitude": 28.8972,
+      "latitude": -2.4914
     },
     {
       "block_id": "f8f78de9569a-155",
@@ -10964,8 +10973,8 @@
       "vegetativeupdated_whichlost": "None",
       "vegetativeupdated_plotlossreason": "Ok",
       "vegetativeupdated_survey_end": "2025-04-11 12:25:04",
-      "longitude": 28.812,
-      "latitude": -2.5365
+      "longitude": 28.8183,
+      "latitude": -2.5423
     },
     {
       "block_id": "f8f78de9569a-156",
@@ -11019,8 +11028,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-20 11:22:04",
-      "longitude": 28.8992,
-      "latitude": -2.4931
+      "longitude": 28.9063,
+      "latitude": -2.5069
     },
     {
       "block_id": "f8f78de9569a-157",
@@ -11060,8 +11069,8 @@
       "vegetativeupdated_whichlost": "None",
       "vegetativeupdated_plotlossreason": "None",
       "vegetativeupdated_survey_end": "2025-04-11 11:27:21",
-      "longitude": 28.8284,
-      "latitude": -2.5024
+      "longitude": 28.8334,
+      "latitude": -2.5111
     },
     {
       "block_id": "f8f78de9569a-158",
@@ -11112,8 +11121,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-08 11:33:51",
-      "longitude": 29.4181,
-      "latitude": -2.0943
+      "longitude": 29.4033,
+      "latitude": -2.0906
     },
     {
       "block_id": "f8f78de9569a-159",
@@ -11164,8 +11173,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-08 11:30:58",
-      "longitude": 29.3998,
-      "latitude": -2.0839
+      "longitude": 29.4253,
+      "latitude": -2.0771
     },
     {
       "block_id": "f8f78de9569a-160",
@@ -11216,8 +11225,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-08 11:37:10",
-      "longitude": 29.3575,
-      "latitude": -2.0854
+      "longitude": 29.346,
+      "latitude": -2.0724
     },
     {
       "block_id": "f8f78de9569a-161",
@@ -11268,8 +11277,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-08 11:51:24",
-      "longitude": 29.4009,
-      "latitude": -2.1234
+      "longitude": 29.402,
+      "latitude": -2.1241
     },
     {
       "block_id": "f8f78de9569a-162",
@@ -11320,8 +11329,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-08 12:08:17",
-      "longitude": 29.3999,
-      "latitude": -2.1111
+      "longitude": 29.4159,
+      "latitude": -2.1218
     },
     {
       "block_id": "f8f78de9569a-163",
@@ -11372,8 +11381,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-08 12:04:01",
-      "longitude": 29.4088,
-      "latitude": -2.091
+      "longitude": 29.4257,
+      "latitude": -2.0849
     },
     {
       "block_id": "f8f78de9569a-164",
@@ -11424,8 +11433,8 @@
       "maturity_management": "None",
       "maturity_managementpriorit": "Treated Equally",
       "maturity_survey_end": "2025-05-13 10:40:48",
-      "longitude": 29.4034,
-      "latitude": -2.1254
+      "longitude": 29.4076,
+      "latitude": -2.1211
     }
   ],
   "plot_data": [

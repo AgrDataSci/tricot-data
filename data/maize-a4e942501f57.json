@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-02",
+      "version": "v2025-10-03",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -49,6 +49,15 @@
       "men": 187,
       "women": 221
     },
+    "funder": [
+      {
+        "funderName": "Gates Foundation",
+        "funderIdentifier": "https://ror.org/0456r8d26",
+        "awardTitle": "1000FARMS",
+        "awardNumber": "L22ROM222",
+        "5": "We recevied this grant as sub-grantees of the main grant given to Bioversity-CIAT alliance"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "CKDHH160387",
@@ -1406,8 +1415,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-11 05:22:57",
-      "longitude": 30.481,
-      "latitude": -2.0592
+      "longitude": 30.4826,
+      "latitude": -2.0525
     },
     {
       "block_id": "a4e942501f57-324",
@@ -1543,8 +1552,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-27 09:46:58",
-      "longitude": 30.4929,
-      "latitude": -2.0621
+      "longitude": 30.5009,
+      "latitude": -2.0701
     },
     {
       "block_id": "a4e942501f57-325",
@@ -1680,8 +1689,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-23 14:54:40",
-      "longitude": 30.4923,
-      "latitude": -2.0648
+      "longitude": 30.4906,
+      "latitude": -2.0841
     },
     {
       "block_id": "a4e942501f57-326",
@@ -1814,8 +1823,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-26 12:21:26",
-      "longitude": 30.5019,
-      "latitude": -2.0786
+      "longitude": 30.5175,
+      "latitude": -2.0726
     },
     {
       "block_id": "a4e942501f57-327",
@@ -1951,8 +1960,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-03 07:39:58",
-      "longitude": 30.5116,
-      "latitude": -2.0593
+      "longitude": 30.4998,
+      "latitude": -2.0478
     },
     {
       "block_id": "a4e942501f57-328",
@@ -2088,8 +2097,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-23 07:55:35",
-      "longitude": 30.4683,
-      "latitude": -2.065
+      "longitude": 30.4738,
+      "latitude": -2.0629
     },
     {
       "block_id": "a4e942501f57-329",
@@ -2224,8 +2233,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-19 17:32:58",
-      "longitude": 30.4914,
-      "latitude": -2.0775
+      "longitude": 30.5072,
+      "latitude": -2.073
     },
     {
       "block_id": "a4e942501f57-330",
@@ -2361,8 +2370,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-04 08:49:53",
-      "longitude": 30.4951,
-      "latitude": -2.059
+      "longitude": 30.4957,
+      "latitude": -2.0734
     },
     {
       "block_id": "a4e942501f57-331",
@@ -2484,8 +2493,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-17 14:34:23",
-      "longitude": 30.5113,
-      "latitude": -2.0697
+      "longitude": 30.5149,
+      "latitude": -2.0683
     },
     {
       "block_id": "a4e942501f57-332",
@@ -2621,8 +2630,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-08 08:15:08",
-      "longitude": 30.4955,
-      "latitude": -2.0604
+      "longitude": 30.493,
+      "latitude": -2.061
     },
     {
       "block_id": "a4e942501f57-333",
@@ -2758,8 +2767,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-16 16:58:01",
-      "longitude": 30.4791,
-      "latitude": -2.0539
+      "longitude": 30.4898,
+      "latitude": -2.0528
     },
     {
       "block_id": "a4e942501f57-334",
@@ -2895,8 +2904,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-16 18:30:13",
-      "longitude": 30.496,
-      "latitude": -2.0488
+      "longitude": 30.4811,
+      "latitude": -2.0647
     },
     {
       "block_id": "a4e942501f57-335",
@@ -3032,8 +3041,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-26 16:48:49",
-      "longitude": 30.4917,
-      "latitude": -2.0841
+      "longitude": 30.4989,
+      "latitude": -2.0658
     },
     {
       "block_id": "a4e942501f57-336",
@@ -3169,8 +3178,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-20 12:15:11",
-      "longitude": 30.4994,
-      "latitude": -2.0751
+      "longitude": 30.5054,
+      "latitude": -2.0912
     },
     {
       "block_id": "a4e942501f57-337",
@@ -3304,8 +3313,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-20 18:45:25",
-      "longitude": 30.5042,
-      "latitude": -2.0864
+      "longitude": 30.5171,
+      "latitude": -2.0727
     },
     {
       "block_id": "a4e942501f57-338",
@@ -3441,8 +3450,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 15:18:50",
-      "longitude": 30.5065,
-      "latitude": -2.0727
+      "longitude": 30.5114,
+      "latitude": -2.0901
     },
     {
       "block_id": "a4e942501f57-339",
@@ -3577,8 +3586,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-23 15:42:54",
-      "longitude": 30.523,
-      "latitude": -2.0772
+      "longitude": 30.5144,
+      "latitude": -2.0635
     },
     {
       "block_id": "a4e942501f57-340",
@@ -3703,8 +3712,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-04 14:06:10",
-      "longitude": 30.5462,
-      "latitude": -2.0645
+      "longitude": 30.5433,
+      "latitude": -2.0647
     },
     {
       "block_id": "a4e942501f57-341",
@@ -3840,8 +3849,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-21 17:39:43",
-      "longitude": 30.5019,
-      "latitude": -2.054
+      "longitude": 30.5151,
+      "latitude": -2.0657
     },
     {
       "block_id": "a4e942501f57-342",
@@ -3977,8 +3986,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-21 17:24:31",
-      "longitude": 30.5484,
-      "latitude": -2.0778
+      "longitude": 30.5554,
+      "latitude": -2.0818
     },
     {
       "block_id": "a4e942501f57-343",
@@ -4114,8 +4123,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-24 12:51:30",
-      "longitude": 30.5766,
-      "latitude": -2.0695
+      "longitude": 30.5613,
+      "latitude": -2.0689
     },
     {
       "block_id": "a4e942501f57-344",
@@ -4250,8 +4259,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-24 11:56:00",
-      "longitude": 30.5782,
-      "latitude": -2.068
+      "longitude": 30.5733,
+      "latitude": -2.0812
     },
     {
       "block_id": "a4e942501f57-345",
@@ -4387,8 +4396,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-21 16:48:14",
-      "longitude": 30.5617,
-      "latitude": -2.0663
+      "longitude": 30.5603,
+      "latitude": -2.0669
     },
     {
       "block_id": "a4e942501f57-346",
@@ -4524,8 +4533,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-24 14:08:55",
-      "longitude": 30.5594,
-      "latitude": -2.0715
+      "longitude": 30.5523,
+      "latitude": -2.0595
     },
     {
       "block_id": "a4e942501f57-347",
@@ -4661,8 +4670,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-18 11:15:30",
-      "longitude": 30.5444,
-      "latitude": -2.0706
+      "longitude": 30.5481,
+      "latitude": -2.0794
     },
     {
       "block_id": "a4e942501f57-348",
@@ -4797,8 +4806,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-18 14:05:46",
-      "longitude": 30.5482,
-      "latitude": -2.0624
+      "longitude": 30.5648,
+      "latitude": -2.0671
     },
     {
       "block_id": "a4e942501f57-349",
@@ -4934,8 +4943,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-11 05:08:58",
-      "longitude": 30.5641,
-      "latitude": -2.0518
+      "longitude": 30.553,
+      "latitude": -2.0614
     },
     {
       "block_id": "a4e942501f57-350",
@@ -5071,8 +5080,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-20 14:03:30",
-      "longitude": 30.5121,
-      "latitude": -2.083
+      "longitude": 30.5166,
+      "latitude": -2.0659
     },
     {
       "block_id": "a4e942501f57-351",
@@ -5207,8 +5216,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 14:00:48",
-      "longitude": 30.5436,
-      "latitude": -2.0767
+      "longitude": 30.5437,
+      "latitude": -2.0897
     },
     {
       "block_id": "a4e942501f57-352",
@@ -5344,8 +5353,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 21:48:28",
-      "longitude": 30.5507,
-      "latitude": -2.092
+      "longitude": 30.5511,
+      "latitude": -2.0779
     },
     {
       "block_id": "a4e942501f57-353",
@@ -5481,8 +5490,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-20 13:24:08",
-      "longitude": 30.5305,
-      "latitude": -2.0751
+      "longitude": 30.5271,
+      "latitude": -2.0896
     },
     {
       "block_id": "a4e942501f57-354",
@@ -5618,8 +5627,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-26 08:41:16",
-      "longitude": 30.5154,
-      "latitude": -2.0752
+      "longitude": 30.5203,
+      "latitude": -2.0649
     },
     {
       "block_id": "a4e942501f57-355",
@@ -5755,8 +5764,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 14:25:35",
-      "longitude": 30.5316,
-      "latitude": -2.0736
+      "longitude": 30.5294,
+      "latitude": -2.0612
     },
     {
       "block_id": "a4e942501f57-356",
@@ -5872,8 +5881,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-13 19:00:40",
-      "longitude": 30.3051,
-      "latitude": -1.6678
+      "longitude": 30.3139,
+      "latitude": -1.6666
     },
     {
       "block_id": "a4e942501f57-357",
@@ -5990,8 +5999,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-16 17:59:41",
-      "longitude": 30.3169,
-      "latitude": -1.6748
+      "longitude": 30.3051,
+      "latitude": -1.6823
     },
     {
       "block_id": "a4e942501f57-358",
@@ -6108,8 +6117,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-16 17:51:21",
-      "longitude": 30.3103,
-      "latitude": -1.6903
+      "longitude": 30.2969,
+      "latitude": -1.6762
     },
     {
       "block_id": "a4e942501f57-359",
@@ -6225,8 +6234,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-13 12:50:46",
-      "longitude": 30.3014,
-      "latitude": -1.6684
+      "longitude": 30.311,
+      "latitude": -1.6689
     },
     {
       "block_id": "a4e942501f57-360",
@@ -6343,8 +6352,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-02 23:17:09",
-      "longitude": 30.3005,
-      "latitude": -1.6715
+      "longitude": 30.3001,
+      "latitude": -1.6824
     },
     {
       "block_id": "a4e942501f57-361",
@@ -6447,8 +6456,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-16 18:17:55",
-      "longitude": 30.3229,
-      "latitude": -1.6877
+      "longitude": 30.3254,
+      "latitude": -1.6644
     },
     {
       "block_id": "a4e942501f57-362",
@@ -6564,8 +6573,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-13 19:06:34",
-      "longitude": 30.311,
-      "latitude": -1.6731
+      "longitude": 30.303,
+      "latitude": -1.6739
     },
     {
       "block_id": "a4e942501f57-363",
@@ -6682,8 +6691,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 08:15:03",
-      "longitude": 30.3089,
-      "latitude": -1.6662
+      "longitude": 30.3205,
+      "latitude": -1.6671
     },
     {
       "block_id": "a4e942501f57-364",
@@ -6799,8 +6808,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-26 16:26:01",
-      "longitude": 30.3084,
-      "latitude": -1.6861
+      "longitude": 30.3233,
+      "latitude": -1.6654
     },
     {
       "block_id": "a4e942501f57-365",
@@ -6917,8 +6926,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 10:14:34",
-      "longitude": 30.3137,
-      "latitude": -1.6902
+      "longitude": 30.3165,
+      "latitude": -1.668
     },
     {
       "block_id": "a4e942501f57-366",
@@ -7035,8 +7044,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-13 12:42:40",
-      "longitude": 30.3165,
-      "latitude": -1.6784
+      "longitude": 30.3228,
+      "latitude": -1.6666
     },
     {
       "block_id": "a4e942501f57-367",
@@ -7152,8 +7161,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-17 07:43:58",
-      "longitude": 30.3223,
-      "latitude": -1.674
+      "longitude": 30.319,
+      "latitude": -1.6845
     },
     {
       "block_id": "a4e942501f57-368",
@@ -7273,8 +7282,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-26 16:53:14",
-      "longitude": 30.3005,
-      "latitude": -1.6767
+      "longitude": 30.32,
+      "latitude": -1.6702
     },
     {
       "block_id": "a4e942501f57-369",
@@ -7391,8 +7400,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-13 19:15:26",
-      "longitude": 30.293,
-      "latitude": -1.6732
+      "longitude": 30.3059,
+      "latitude": -1.6617
     },
     {
       "block_id": "a4e942501f57-370",
@@ -7510,8 +7519,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-24 12:04:55",
-      "longitude": 30.3054,
-      "latitude": -1.6791
+      "longitude": 30.3084,
+      "latitude": -1.683
     },
     {
       "block_id": "a4e942501f57-371",
@@ -7627,8 +7636,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 18:24:51",
-      "longitude": 30.3133,
-      "latitude": -1.6737
+      "longitude": 30.3275,
+      "latitude": -1.6849
     },
     {
       "block_id": "a4e942501f57-372",
@@ -7744,8 +7753,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-06 08:02:55",
-      "longitude": 30.3128,
-      "latitude": -1.6791
+      "longitude": 30.3104,
+      "latitude": -1.6804
     },
     {
       "block_id": "a4e942501f57-373",
@@ -7863,8 +7872,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-02 10:04:20",
-      "longitude": 30.3036,
-      "latitude": -1.6645
+      "longitude": 30.2908,
+      "latitude": -1.6536
     },
     {
       "block_id": "a4e942501f57-374",
@@ -7981,8 +7990,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 08:33:03",
-      "longitude": 30.3082,
-      "latitude": -1.6437
+      "longitude": 30.3067,
+      "latitude": -1.6534
     },
     {
       "block_id": "a4e942501f57-375",
@@ -8100,8 +8109,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-02 10:30:33",
-      "longitude": 30.2884,
-      "latitude": -1.6406
+      "longitude": 30.3,
+      "latitude": -1.6452
     },
     {
       "block_id": "a4e942501f57-376",
@@ -8216,8 +8225,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 10:45:04",
-      "longitude": 30.3037,
-      "latitude": -1.6376
+      "longitude": 30.3012,
+      "latitude": -1.6365
     },
     {
       "block_id": "a4e942501f57-377",
@@ -8333,8 +8342,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-11 08:34:45",
-      "longitude": 30.2925,
-      "latitude": -1.6504
+      "longitude": 30.3125,
+      "latitude": -1.6411
     },
     {
       "block_id": "a4e942501f57-378",
@@ -8449,8 +8458,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-15 11:50:08",
-      "longitude": 30.3056,
-      "latitude": -1.64
+      "longitude": 30.3096,
+      "latitude": -1.635
     },
     {
       "block_id": "a4e942501f57-379",
@@ -8567,8 +8576,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 10:35:17",
-      "longitude": 30.3062,
-      "latitude": -1.6446
+      "longitude": 30.2922,
+      "latitude": -1.6549
     },
     {
       "block_id": "a4e942501f57-380",
@@ -8686,8 +8695,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-03 11:31:25",
-      "longitude": 30.2996,
-      "latitude": -1.6448
+      "longitude": 30.3006,
+      "latitude": -1.6533
     },
     {
       "block_id": "a4e942501f57-381",
@@ -8807,8 +8816,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-02-27 12:40:21",
-      "longitude": 30.3089,
-      "latitude": -1.6621
+      "longitude": 30.3091,
+      "latitude": -1.6416
     },
     {
       "block_id": "a4e942501f57-382",
@@ -8924,8 +8933,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-11 14:23:36",
-      "longitude": 30.3079,
-      "latitude": -1.6447
+      "longitude": 30.3156,
+      "latitude": -1.6466
     },
     {
       "block_id": "a4e942501f57-383",
@@ -9041,8 +9050,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-15 11:58:27",
-      "longitude": 30.302,
-      "latitude": -1.6543
+      "longitude": 30.3165,
+      "latitude": -1.6397
     },
     {
       "block_id": "a4e942501f57-384",
@@ -9158,8 +9167,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-16 17:04:40",
-      "longitude": 30.3106,
-      "latitude": -1.6518
+      "longitude": 30.307,
+      "latitude": -1.6394
     },
     {
       "block_id": "a4e942501f57-385",
@@ -9277,8 +9286,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 09:00:02",
-      "longitude": 30.3006,
-      "latitude": -1.6441
+      "longitude": 30.3068,
+      "latitude": -1.6459
     },
     {
       "block_id": "a4e942501f57-386",
@@ -9395,8 +9404,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 15:01:23",
-      "longitude": 30.2927,
-      "latitude": -1.6332
+      "longitude": 30.2931,
+      "latitude": -1.6456
     },
     {
       "block_id": "a4e942501f57-387",
@@ -9514,8 +9523,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-28 09:53:26",
-      "longitude": 30.3215,
-      "latitude": -1.6473
+      "longitude": 30.3019,
+      "latitude": -1.644
     },
     {
       "block_id": "a4e942501f57-388",
@@ -9633,8 +9642,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 09:28:00",
-      "longitude": 30.3267,
-      "latitude": -1.6523
+      "longitude": 30.3306,
+      "latitude": -1.6427
     },
     {
       "block_id": "a4e942501f57-389",
@@ -9769,8 +9778,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-10 13:26:41",
-      "longitude": 30.571,
-      "latitude": -1.8002
+      "longitude": 30.5852,
+      "latitude": -1.8164
     },
     {
       "block_id": "a4e942501f57-390",
@@ -9903,8 +9912,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:09:36",
-      "longitude": 30.5838,
-      "latitude": -1.8025
+      "longitude": 30.566,
+      "latitude": -1.8089
     },
     {
       "block_id": "a4e942501f57-391",
@@ -10038,8 +10047,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-02 11:12:00",
-      "longitude": 30.5762,
-      "latitude": -1.8076
+      "longitude": 30.5672,
+      "latitude": -1.8108
     },
     {
       "block_id": "a4e942501f57-392",
@@ -10171,8 +10180,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:50:59",
-      "longitude": 30.5889,
-      "latitude": -1.7992
+      "longitude": 30.5829,
+      "latitude": -1.8176
     },
     {
       "block_id": "a4e942501f57-393",
@@ -10306,8 +10315,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:33:06",
-      "longitude": 30.5766,
-      "latitude": -1.8185
+      "longitude": 30.5682,
+      "latitude": -1.8044
     },
     {
       "block_id": "a4e942501f57-394",
@@ -10442,8 +10451,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-08 17:01:27",
-      "longitude": 30.5878,
-      "latitude": -1.8057
+      "longitude": 30.5954,
+      "latitude": -1.8095
     },
     {
       "block_id": "a4e942501f57-395",
@@ -10576,8 +10585,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:52:00",
-      "longitude": 30.5864,
-      "latitude": -1.8032
+      "longitude": 30.578,
+      "latitude": -1.8099
     },
     {
       "block_id": "a4e942501f57-396",
@@ -10709,8 +10718,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-02 13:47:06",
-      "longitude": 30.5705,
-      "latitude": -1.8108
+      "longitude": 30.5858,
+      "latitude": -1.7943
     },
     {
       "block_id": "a4e942501f57-397",
@@ -10843,8 +10852,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-02 09:07:40",
-      "longitude": 30.5763,
-      "latitude": -1.8062
+      "longitude": 30.5687,
+      "latitude": -1.8085
     },
     {
       "block_id": "a4e942501f57-398",
@@ -10978,8 +10987,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:19:04",
-      "longitude": 30.5835,
-      "latitude": -1.799
+      "longitude": 30.5805,
+      "latitude": -1.8039
     },
     {
       "block_id": "a4e942501f57-399",
@@ -11114,8 +11123,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:53:13",
-      "longitude": 30.5762,
-      "latitude": -1.8062
+      "longitude": 30.5798,
+      "latitude": -1.8198
     },
     {
       "block_id": "a4e942501f57-400",
@@ -11235,8 +11244,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:53:43",
-      "longitude": 30.5761,
-      "latitude": -1.805
+      "longitude": 30.5879,
+      "latitude": -1.7869
     },
     {
       "block_id": "a4e942501f57-401",
@@ -11371,8 +11380,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-02-27 13:48:09",
-      "longitude": 30.5899,
-      "latitude": -1.8146
+      "longitude": 30.5747,
+      "latitude": -1.7998
     },
     {
       "block_id": "a4e942501f57-402",
@@ -11506,8 +11515,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-02 14:51:17",
-      "longitude": 30.5879,
-      "latitude": -1.8045
+      "longitude": 30.5735,
+      "latitude": -1.8069
     },
     {
       "block_id": "a4e942501f57-403",
@@ -11639,8 +11648,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:34:34",
-      "longitude": 30.5917,
-      "latitude": -1.7996
+      "longitude": 30.586,
+      "latitude": -1.8078
     },
     {
       "block_id": "a4e942501f57-404",
@@ -11772,8 +11781,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:29:49",
-      "longitude": 30.5629,
-      "latitude": -1.809
+      "longitude": 30.5615,
+      "latitude": -1.8116
     },
     {
       "block_id": "a4e942501f57-405",
@@ -11907,8 +11916,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-10 14:29:09",
-      "longitude": 30.5836,
-      "latitude": -1.8018
+      "longitude": 30.5691,
+      "latitude": -1.8105
     },
     {
       "block_id": "a4e942501f57-406",
@@ -12043,8 +12052,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:31:21",
-      "longitude": 30.5924,
-      "latitude": -1.7997
+      "longitude": 30.6036,
+      "latitude": -1.8094
     },
     {
       "block_id": "a4e942501f57-407",
@@ -12178,8 +12187,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:53:59",
-      "longitude": 30.5307,
-      "latitude": -1.7763
+      "longitude": 30.5278,
+      "latitude": -1.7779
     },
     {
       "block_id": "a4e942501f57-408",
@@ -12313,8 +12322,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:39:14",
-      "longitude": 30.5077,
-      "latitude": -1.7729
+      "longitude": 30.5277,
+      "latitude": -1.7836
     },
     {
       "block_id": "a4e942501f57-409",
@@ -12446,8 +12455,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:54:23",
-      "longitude": 30.5186,
-      "latitude": -1.7834
+      "longitude": 30.5113,
+      "latitude": -1.8051
     },
     {
       "block_id": "a4e942501f57-410",
@@ -12556,8 +12565,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-21 14:49:17",
-      "longitude": 30.5207,
-      "latitude": -1.7896
+      "longitude": 30.5192,
+      "latitude": -1.7777
     },
     {
       "block_id": "a4e942501f57-411",
@@ -12688,8 +12697,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:46:01",
-      "longitude": 30.5221,
-      "latitude": -1.7766
+      "longitude": 30.5131,
+      "latitude": -1.7738
     },
     {
       "block_id": "a4e942501f57-412",
@@ -12821,8 +12830,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:41:20",
-      "longitude": 30.5152,
-      "latitude": -1.8061
+      "longitude": 30.5089,
+      "latitude": -1.7984
     },
     {
       "block_id": "a4e942501f57-413",
@@ -12955,8 +12964,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:21:31",
-      "longitude": 30.5078,
-      "latitude": -1.7721
+      "longitude": 30.5068,
+      "latitude": -1.7856
     },
     {
       "block_id": "a4e942501f57-414",
@@ -13089,8 +13098,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:41:24",
-      "longitude": 30.5057,
-      "latitude": -1.7665
+      "longitude": 30.5206,
+      "latitude": -1.7838
     },
     {
       "block_id": "a4e942501f57-415",
@@ -13223,8 +13232,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:54:54",
-      "longitude": 30.505,
-      "latitude": -1.7735
+      "longitude": 30.506,
+      "latitude": -1.797
     },
     {
       "block_id": "a4e942501f57-416",
@@ -13287,8 +13296,8 @@
       "reproductive_herbicidesuse": "No",
       "reproductive_herbicidefreq": 0,
       "reproductive_survey_end": "2023-02-06 09:16:25",
-      "longitude": 30.4561,
-      "latitude": -1.8228
+      "longitude": 30.4611,
+      "latitude": -1.8378
     },
     {
       "block_id": "a4e942501f57-417",
@@ -13422,8 +13431,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:50:45",
-      "longitude": 30.5205,
-      "latitude": -1.7747
+      "longitude": 30.5047,
+      "latitude": -1.7804
     },
     {
       "block_id": "a4e942501f57-418",
@@ -13530,8 +13539,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-21 14:55:38",
-      "longitude": 30.5069,
-      "latitude": -1.7815
+      "longitude": 30.5044,
+      "latitude": -1.7768
     },
     {
       "block_id": "a4e942501f57-419",
@@ -13664,8 +13673,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:35:42",
-      "longitude": 30.5225,
-      "latitude": -1.8071
+      "longitude": 30.5235,
+      "latitude": -1.7996
     },
     {
       "block_id": "a4e942501f57-420",
@@ -13795,8 +13804,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-09 15:16:28",
-      "longitude": 30.5163,
-      "latitude": -1.7866
+      "longitude": 30.4942,
+      "latitude": -1.7781
     },
     {
       "block_id": "a4e942501f57-421",
@@ -13930,8 +13939,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-09 14:19:51",
-      "longitude": 30.5089,
-      "latitude": -1.7707
+      "longitude": 30.5153,
+      "latitude": -1.7666
     },
     {
       "block_id": "a4e942501f57-422",
@@ -14063,8 +14072,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-03 06:14:45",
-      "longitude": 30.5301,
-      "latitude": -1.7629
+      "longitude": 30.526,
+      "latitude": -1.7595
     },
     {
       "block_id": "a4e942501f57-423",
@@ -14195,8 +14204,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:55:42",
-      "longitude": 30.5111,
-      "latitude": -1.7891
+      "longitude": 30.5122,
+      "latitude": -1.7835
     },
     {
       "block_id": "a4e942501f57-424",
@@ -14330,8 +14339,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-14 07:56:07",
-      "longitude": 30.4972,
-      "latitude": -1.7983
+      "longitude": 30.5112,
+      "latitude": -1.7935
     },
     {
       "block_id": "a4e942501f57-425",
@@ -14452,8 +14461,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 18:06:07",
-      "longitude": 30.1866,
-      "latitude": -2.1199
+      "longitude": 30.1912,
+      "latitude": -2.0974
     },
     {
       "block_id": "a4e942501f57-426",
@@ -14574,8 +14583,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 16:36:49",
-      "longitude": 30.1806,
-      "latitude": -2.1213
+      "longitude": 30.1929,
+      "latitude": -2.099
     },
     {
       "block_id": "a4e942501f57-427",
@@ -14699,8 +14708,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-20 17:10:46",
-      "longitude": 30.199,
-      "latitude": -2.1195
+      "longitude": 30.1987,
+      "latitude": -2.1174
     },
     {
       "block_id": "a4e942501f57-428",
@@ -14823,8 +14832,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-20 15:45:24",
-      "longitude": 30.1837,
-      "latitude": -2.1147
+      "longitude": 30.1912,
+      "latitude": -2.1078
     },
     {
       "block_id": "a4e942501f57-429",
@@ -14947,8 +14956,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 22:37:14",
-      "longitude": 30.1884,
-      "latitude": -2.1191
+      "longitude": 30.1773,
+      "latitude": -2.1165
     },
     {
       "block_id": "a4e942501f57-430",
@@ -15070,8 +15079,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 17:44:23",
-      "longitude": 30.1878,
-      "latitude": -2.0979
+      "longitude": 30.1929,
+      "latitude": -2.1182
     },
     {
       "block_id": "a4e942501f57-431",
@@ -15193,8 +15202,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-04 12:27:11",
-      "longitude": 30.1834,
-      "latitude": -2.116
+      "longitude": 30.1841,
+      "latitude": -2.0969
     },
     {
       "block_id": "a4e942501f57-432",
@@ -15317,8 +15326,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 16:33:15",
-      "longitude": 30.1714,
-      "latitude": -2.1106
+      "longitude": 30.1832,
+      "latitude": -2.103
     },
     {
       "block_id": "a4e942501f57-433",
@@ -15440,8 +15449,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 14:53:27",
-      "longitude": 30.1657,
-      "latitude": -2.1148
+      "longitude": 30.1698,
+      "latitude": -2.1122
     },
     {
       "block_id": "a4e942501f57-434",
@@ -15563,8 +15572,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 13:00:00",
-      "longitude": 30.1827,
-      "latitude": -2.126
+      "longitude": 30.1882,
+      "latitude": -2.1204
     },
     {
       "block_id": "a4e942501f57-435",
@@ -15685,8 +15694,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-10 13:09:05",
-      "longitude": 30.1799,
-      "latitude": -2.1191
+      "longitude": 30.1778,
+      "latitude": -2.1228
     },
     {
       "block_id": "a4e942501f57-436",
@@ -15808,8 +15817,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 17:30:31",
-      "longitude": 30.1711,
-      "latitude": -2.1162
+      "longitude": 30.1902,
+      "latitude": -2.1215
     },
     {
       "block_id": "a4e942501f57-437",
@@ -15907,8 +15916,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-20 17:27:35",
-      "longitude": 30.1809,
-      "latitude": -2.1319
+      "longitude": 30.1714,
+      "latitude": -2.1129
     },
     {
       "block_id": "a4e942501f57-438",
@@ -16041,8 +16050,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-30 13:11:35",
-      "longitude": 30.1839,
-      "latitude": -2.101
+      "longitude": 30.1795,
+      "latitude": -2.1008
     },
     {
       "block_id": "a4e942501f57-439",
@@ -16164,8 +16173,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 15:34:39",
-      "longitude": 30.1827,
-      "latitude": -2.1012
+      "longitude": 30.1836,
+      "latitude": -2.1125
     },
     {
       "block_id": "a4e942501f57-440",
@@ -16287,8 +16296,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 11:19:25",
-      "longitude": 30.1695,
-      "latitude": -2.1151
+      "longitude": 30.1867,
+      "latitude": -2.1021
     },
     {
       "block_id": "a4e942501f57-441",
@@ -16396,8 +16405,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-17 13:03:47",
-      "longitude": 30.1972,
-      "latitude": -2.1281
+      "longitude": 30.1937,
+      "latitude": -2.117
     },
     {
       "block_id": "a4e942501f57-442",
@@ -16495,8 +16504,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-17 15:45:51",
-      "longitude": 30.2124,
-      "latitude": -2.1297
+      "longitude": 30.2129,
+      "latitude": -2.1163
     },
     {
       "block_id": "a4e942501f57-443",
@@ -16593,8 +16602,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-21 13:36:17",
-      "longitude": 30.2167,
-      "latitude": -2.1316
+      "longitude": 30.2056,
+      "latitude": -2.1398
     },
     {
       "block_id": "a4e942501f57-444",
@@ -16702,8 +16711,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-21 13:21:45",
-      "longitude": 30.2157,
-      "latitude": -2.1298
+      "longitude": 30.2147,
+      "latitude": -2.1238
     },
     {
       "block_id": "a4e942501f57-445",
@@ -16826,8 +16835,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 11:59:31",
-      "longitude": 30.1998,
-      "latitude": -2.1349
+      "longitude": 30.2049,
+      "latitude": -2.13
     },
     {
       "block_id": "a4e942501f57-446",
@@ -16950,8 +16959,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 08:51:07",
-      "longitude": 30.1968,
-      "latitude": -2.1203
+      "longitude": 30.2009,
+      "latitude": -2.135
     },
     {
       "block_id": "a4e942501f57-447",
@@ -17074,8 +17083,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-17 15:07:49",
-      "longitude": 30.1967,
-      "latitude": -2.1276
+      "longitude": 30.2081,
+      "latitude": -2.1165
     },
     {
       "block_id": "a4e942501f57-448",
@@ -17183,8 +17192,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-17 16:40:01",
-      "longitude": 30.2202,
-      "latitude": -2.1134
+      "longitude": 30.1979,
+      "latitude": -2.1234
     },
     {
       "block_id": "a4e942501f57-449",
@@ -17282,8 +17291,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-25 14:10:47",
-      "longitude": 30.2148,
-      "latitude": -2.1353
+      "longitude": 30.2129,
+      "latitude": -2.1249
     },
     {
       "block_id": "a4e942501f57-450",
@@ -17391,8 +17400,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-17 13:20:15",
-      "longitude": 30.2026,
-      "latitude": -2.1296
+      "longitude": 30.2015,
+      "latitude": -2.1223
     },
     {
       "block_id": "a4e942501f57-451",
@@ -17514,8 +17523,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 10:32:20",
-      "longitude": 30.1882,
-      "latitude": -2.1143
+      "longitude": 30.1913,
+      "latitude": -2.1123
     },
     {
       "block_id": "a4e942501f57-452",
@@ -17623,8 +17632,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-25 14:24:15",
-      "longitude": 30.2126,
-      "latitude": -2.1261
+      "longitude": 30.209,
+      "latitude": -2.1353
     },
     {
       "block_id": "a4e942501f57-453",
@@ -17754,8 +17763,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-25 14:45:46",
-      "longitude": 30.2339,
-      "latitude": -2.1256
+      "longitude": 30.2167,
+      "latitude": -2.1361
     },
     {
       "block_id": "a4e942501f57-456",
@@ -17851,8 +17860,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-25 14:02:30",
-      "longitude": 30.216,
-      "latitude": -2.1295
+      "longitude": 30.2137,
+      "latitude": -2.1305
     },
     {
       "block_id": "a4e942501f57-457",
@@ -17958,8 +17967,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 14:34:19",
-      "longitude": 30.2624,
-      "latitude": -1.39
+      "longitude": 30.2642,
+      "latitude": -1.3787
     },
     {
       "block_id": "a4e942501f57-458",
@@ -18005,8 +18014,8 @@
       "vegetative_plantdamag": "Yes",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-10-28 10:38:19",
-      "longitude": 30.2466,
-      "latitude": -1.3735
+      "longitude": 30.2423,
+      "latitude": -1.3807
     },
     {
       "block_id": "a4e942501f57-459",
@@ -18125,8 +18134,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-24 14:31:57",
-      "longitude": 30.2486,
-      "latitude": -1.3882
+      "longitude": 30.267,
+      "latitude": -1.3866
     },
     {
       "block_id": "a4e942501f57-460",
@@ -18247,8 +18256,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-27 14:50:41",
-      "longitude": 30.2559,
-      "latitude": -1.3872
+      "longitude": 30.2494,
+      "latitude": -1.3807
     },
     {
       "block_id": "a4e942501f57-461",
@@ -18368,8 +18377,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-30 12:41:25",
-      "longitude": 30.252,
-      "latitude": -1.377
+      "longitude": 30.2584,
+      "latitude": -1.3783
     },
     {
       "block_id": "a4e942501f57-462",
@@ -18475,8 +18484,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 15:01:18",
-      "longitude": 30.2633,
-      "latitude": -1.3845
+      "longitude": 30.2666,
+      "latitude": -1.3863
     },
     {
       "block_id": "a4e942501f57-463",
@@ -18595,8 +18604,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-30 12:53:37",
-      "longitude": 30.2585,
-      "latitude": -1.3717
+      "longitude": 30.2656,
+      "latitude": -1.3768
     },
     {
       "block_id": "a4e942501f57-464",
@@ -18715,8 +18724,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-30 12:48:48",
-      "longitude": 30.2502,
-      "latitude": -1.3908
+      "longitude": 30.261,
+      "latitude": -1.3761
     },
     {
       "block_id": "a4e942501f57-465",
@@ -18835,8 +18844,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 13:56:34",
-      "longitude": 30.2654,
-      "latitude": -1.3921
+      "longitude": 30.2691,
+      "latitude": -1.3806
     },
     {
       "block_id": "a4e942501f57-466",
@@ -18959,8 +18968,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-02-23 15:48:45",
-      "longitude": 30.2595,
-      "latitude": -1.3729
+      "longitude": 30.2578,
+      "latitude": -1.3826
     },
     {
       "block_id": "a4e942501f57-467",
@@ -19079,8 +19088,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-20 12:01:25",
-      "longitude": 30.2532,
-      "latitude": -1.3922
+      "longitude": 30.2552,
+      "latitude": -1.3698
     },
     {
       "block_id": "a4e942501f57-468",
@@ -19185,8 +19194,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 14:13:21",
-      "longitude": 30.2564,
-      "latitude": -1.3915
+      "longitude": 30.2678,
+      "latitude": -1.3928
     },
     {
       "block_id": "a4e942501f57-469",
@@ -19305,8 +19314,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 11:20:26",
-      "longitude": 30.2562,
-      "latitude": -1.3938
+      "longitude": 30.2527,
+      "latitude": -1.3928
     },
     {
       "block_id": "a4e942501f57-470",
@@ -19412,8 +19421,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-28 15:27:32",
-      "longitude": 30.2504,
-      "latitude": -1.3853
+      "longitude": 30.2506,
+      "latitude": -1.3922
     },
     {
       "block_id": "a4e942501f57-471",
@@ -19534,8 +19543,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 11:50:41",
-      "longitude": 30.2598,
-      "latitude": -1.3724
+      "longitude": 30.255,
+      "latitude": -1.3844
     },
     {
       "block_id": "a4e942501f57-472",
@@ -19582,8 +19591,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-10-26 10:51:43",
-      "longitude": 30.3052,
-      "latitude": -1.4362
+      "longitude": 30.295,
+      "latitude": -1.4396
     },
     {
       "block_id": "a4e942501f57-473",
@@ -19703,8 +19712,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-02-24 13:09:22",
-      "longitude": 30.302,
-      "latitude": -1.4397
+      "longitude": 30.3094,
+      "latitude": -1.426
     },
     {
       "block_id": "a4e942501f57-474",
@@ -19824,8 +19833,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-24 08:45:59",
-      "longitude": 30.2931,
-      "latitude": -1.4329
+      "longitude": 30.2933,
+      "latitude": -1.4323
     },
     {
       "block_id": "a4e942501f57-475",
@@ -19874,8 +19883,8 @@
       "vegetative_plantdamag": "Yes",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-11-10 10:52:16",
-      "longitude": 30.304,
-      "latitude": -1.4169
+      "longitude": 30.3059,
+      "latitude": -1.4358
     },
     {
       "block_id": "a4e942501f57-476",
@@ -19996,8 +20005,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-02-22 15:24:09",
-      "longitude": 30.301,
-      "latitude": -1.417
+      "longitude": 30.2984,
+      "latitude": -1.4233
     },
     {
       "block_id": "a4e942501f57-478",
@@ -20117,8 +20126,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-28 10:54:27",
-      "longitude": 30.3061,
-      "latitude": -1.4391
+      "longitude": 30.3121,
+      "latitude": -1.4359
     },
     {
       "block_id": "a4e942501f57-479",
@@ -20241,8 +20250,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-24 11:16:40",
-      "longitude": 30.2987,
-      "latitude": -1.4379
+      "longitude": 30.3137,
+      "latitude": -1.4283
     },
     {
       "block_id": "a4e942501f57-480",
@@ -20290,8 +20299,8 @@
       "vegetative_plantdamag": "Yes",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-11-10 10:45:16",
-      "longitude": 30.294,
-      "latitude": -1.4323
+      "longitude": 30.2899,
+      "latitude": -1.4222
     },
     {
       "block_id": "a4e942501f57-481",
@@ -20411,8 +20420,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-24 09:09:57",
-      "longitude": 30.287,
-      "latitude": -1.416
+      "longitude": 30.291,
+      "latitude": -1.4211
     },
     {
       "block_id": "a4e942501f57-482",
@@ -20537,8 +20546,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-24 09:45:54",
-      "longitude": 30.2947,
-      "latitude": -1.4166
+      "longitude": 30.2996,
+      "latitude": -1.4239
     },
     {
       "block_id": "a4e942501f57-483",
@@ -20659,8 +20668,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-02-24 10:40:19",
-      "longitude": 30.2895,
-      "latitude": -1.4289
+      "longitude": 30.296,
+      "latitude": -1.4252
     },
     {
       "block_id": "a4e942501f57-484",
@@ -20783,8 +20792,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-23 15:57:29",
-      "longitude": 30.3088,
-      "latitude": -1.4303
+      "longitude": 30.2926,
+      "latitude": -1.4365
     },
     {
       "block_id": "a4e942501f57-485",
@@ -20906,8 +20915,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-28 11:10:10",
-      "longitude": 30.2964,
-      "latitude": -1.4153
+      "longitude": 30.3034,
+      "latitude": -1.4208
     },
     {
       "block_id": "a4e942501f57-486",
@@ -21026,8 +21035,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-02-24 12:12:45",
-      "longitude": 30.2927,
-      "latitude": -1.4242
+      "longitude": 30.2902,
+      "latitude": -1.4401
     },
     {
       "block_id": "a4e942501f57-487",
@@ -21154,8 +21163,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-04 12:41:37",
-      "longitude": 29.9033,
-      "latitude": -2.4644
+      "longitude": 29.9122,
+      "latitude": -2.454
     },
     {
       "block_id": "a4e942501f57-488",
@@ -21282,8 +21291,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 16:54:04",
-      "longitude": 29.9078,
-      "latitude": -2.4697
+      "longitude": 29.9008,
+      "latitude": -2.4657
     },
     {
       "block_id": "a4e942501f57-489",
@@ -21408,8 +21417,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-31 09:00:17",
-      "longitude": 29.9238,
-      "latitude": -2.4623
+      "longitude": 29.9244,
+      "latitude": -2.4717
     },
     {
       "block_id": "a4e942501f57-490",
@@ -21527,8 +21536,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 13:32:40",
-      "longitude": 29.8998,
-      "latitude": -2.455
+      "longitude": 29.9234,
+      "latitude": -2.4588
     },
     {
       "block_id": "a4e942501f57-491",
@@ -21655,8 +21664,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-19 11:46:49",
-      "longitude": 29.9104,
-      "latitude": -2.4695
+      "longitude": 29.9029,
+      "latitude": -2.473
     },
     {
       "block_id": "a4e942501f57-492",
@@ -21773,8 +21782,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 10:23:49",
-      "longitude": 29.9141,
-      "latitude": -2.4742
+      "longitude": 29.9226,
+      "latitude": -2.4597
     },
     {
       "block_id": "a4e942501f57-493",
@@ -21891,8 +21900,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 12:48:34",
-      "longitude": 29.9214,
-      "latitude": -2.478
+      "longitude": 29.907,
+      "latitude": -2.4625
     },
     {
       "block_id": "a4e942501f57-494",
@@ -22005,8 +22014,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 13:42:15",
-      "longitude": 29.9015,
-      "latitude": -2.4634
+      "longitude": 29.9249,
+      "latitude": -2.4699
     },
     {
       "block_id": "a4e942501f57-495",
@@ -22131,8 +22140,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-31 07:49:41",
-      "longitude": 29.9007,
-      "latitude": -2.4671
+      "longitude": 29.9035,
+      "latitude": -2.4686
     },
     {
       "block_id": "a4e942501f57-496",
@@ -22260,7 +22269,7 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-19 07:50:14",
-      "longitude": 29.9246,
+      "longitude": 29.9016,
       "latitude": -2.4677
     },
     {
@@ -22378,8 +22387,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-16 11:41:24",
-      "longitude": 29.9116,
-      "latitude": -2.4711
+      "longitude": 29.9149,
+      "latitude": -2.4722
     },
     {
       "block_id": "a4e942501f57-498",
@@ -22505,8 +22514,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-04 09:14:39",
-      "longitude": 29.9085,
-      "latitude": -2.4718
+      "longitude": 29.9193,
+      "latitude": -2.4659
     },
     {
       "block_id": "a4e942501f57-499",
@@ -22622,8 +22631,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 11:50:25",
-      "longitude": 29.9163,
-      "latitude": -2.4651
+      "longitude": 29.9029,
+      "latitude": -2.4583
     },
     {
       "block_id": "a4e942501f57-500",
@@ -22749,8 +22758,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 14:32:45",
-      "longitude": 29.91,
-      "latitude": -2.4787
+      "longitude": 29.9209,
+      "latitude": -2.4785
     },
     {
       "block_id": "a4e942501f57-501",
@@ -22878,8 +22887,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-04 08:52:33",
-      "longitude": 29.9212,
-      "latitude": -2.4629
+      "longitude": 29.9274,
+      "latitude": -2.4869
     },
     {
       "block_id": "a4e942501f57-502",
@@ -23004,8 +23013,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 14:49:45",
-      "longitude": 29.9243,
-      "latitude": -2.4635
+      "longitude": 29.9098,
+      "latitude": -2.4616
     },
     {
       "block_id": "a4e942501f57-503",
@@ -23117,8 +23126,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-19 15:50:48",
-      "longitude": 29.9158,
-      "latitude": -2.4494
+      "longitude": 29.9109,
+      "latitude": -2.4432
     },
     {
       "block_id": "a4e942501f57-504",
@@ -23244,8 +23253,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 14:26:10",
-      "longitude": 29.9144,
-      "latitude": -2.4843
+      "longitude": 29.9049,
+      "latitude": -2.4867
     },
     {
       "block_id": "a4e942501f57-505",
@@ -23372,8 +23381,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 14:44:58",
-      "longitude": 29.8918,
-      "latitude": -2.4788
+      "longitude": 29.909,
+      "latitude": -2.4933
     },
     {
       "block_id": "a4e942501f57-506",
@@ -23499,8 +23508,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-03 10:01:47",
-      "longitude": 29.8918,
-      "latitude": -2.4676
+      "longitude": 29.9105,
+      "latitude": -2.47
     },
     {
       "block_id": "a4e942501f57-507",
@@ -23627,8 +23636,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-03 11:48:14",
-      "longitude": 29.9145,
-      "latitude": -2.4828
+      "longitude": 29.8961,
+      "latitude": -2.4728
     },
     {
       "block_id": "a4e942501f57-508",
@@ -23745,8 +23754,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-14 13:00:22",
-      "longitude": 29.9061,
-      "latitude": -2.4713
+      "longitude": 29.8932,
+      "latitude": -2.4825
     },
     {
       "block_id": "a4e942501f57-509",
@@ -23862,8 +23871,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-14 13:57:16",
-      "longitude": 29.9066,
-      "latitude": -2.4774
+      "longitude": 29.9122,
+      "latitude": -2.4796
     },
     {
       "block_id": "a4e942501f57-510",
@@ -23991,8 +24000,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-30 11:39:44",
-      "longitude": 29.9017,
-      "latitude": -2.4785
+      "longitude": 29.9052,
+      "latitude": -2.4888
     },
     {
       "block_id": "a4e942501f57-511",
@@ -24118,8 +24127,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-30 09:40:39",
-      "longitude": 29.8942,
-      "latitude": -2.4915
+      "longitude": 29.9134,
+      "latitude": -2.4768
     },
     {
       "block_id": "a4e942501f57-512",
@@ -24247,8 +24256,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 07:45:35",
-      "longitude": 29.912,
-      "latitude": -2.487
+      "longitude": 29.9002,
+      "latitude": -2.4803
     },
     {
       "block_id": "a4e942501f57-513",
@@ -24374,8 +24383,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 13:47:20",
-      "longitude": 29.908,
-      "latitude": -2.4956
+      "longitude": 29.8917,
+      "latitude": -2.4975
     },
     {
       "block_id": "a4e942501f57-514",
@@ -24502,8 +24511,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 07:25:50",
-      "longitude": 29.898,
-      "latitude": -2.4791
+      "longitude": 29.8944,
+      "latitude": -2.4725
     },
     {
       "block_id": "a4e942501f57-515",
@@ -24629,8 +24638,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-01 07:18:12",
-      "longitude": 29.9045,
-      "latitude": -2.4689
+      "longitude": 29.9024,
+      "latitude": -2.4879
     },
     {
       "block_id": "a4e942501f57-516",
@@ -24756,8 +24765,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 10:25:31",
-      "longitude": 29.9076,
-      "latitude": -2.4816
+      "longitude": 29.8953,
+      "latitude": -2.4822
     },
     {
       "block_id": "a4e942501f57-517",
@@ -24884,8 +24893,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 13:28:06",
-      "longitude": 29.9121,
-      "latitude": -2.4815
+      "longitude": 29.8997,
+      "latitude": -2.4786
     },
     {
       "block_id": "a4e942501f57-518",
@@ -25012,8 +25021,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-03 11:30:29",
-      "longitude": 29.9099,
-      "latitude": -2.4899
+      "longitude": 29.8918,
+      "latitude": -2.4714
     },
     {
       "block_id": "a4e942501f57-519",
@@ -25140,8 +25149,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-01 07:30:26",
-      "longitude": 29.9134,
-      "latitude": -2.4781
+      "longitude": 29.8937,
+      "latitude": -2.4677
     },
     {
       "block_id": "a4e942501f57-520",
@@ -25245,8 +25254,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 07:37:46",
-      "longitude": 29.7481,
-      "latitude": -2.5531
+      "longitude": 29.7664,
+      "latitude": -2.5477
     },
     {
       "block_id": "a4e942501f57-521",
@@ -25375,8 +25384,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-17 13:26:33",
-      "longitude": 29.7449,
-      "latitude": -2.5592
+      "longitude": 29.7664,
+      "latitude": -2.5564
     },
     {
       "block_id": "a4e942501f57-522",
@@ -25502,8 +25511,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-15 14:26:11",
-      "longitude": 29.7626,
-      "latitude": -2.5721
+      "longitude": 29.7664,
+      "latitude": -2.5562
     },
     {
       "block_id": "a4e942501f57-523",
@@ -25630,8 +25639,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 09:54:02",
-      "longitude": 29.7733,
-      "latitude": -2.5486
+      "longitude": 29.7566,
+      "latitude": -2.5674
     },
     {
       "block_id": "a4e942501f57-524",
@@ -25758,8 +25767,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-17 07:33:43",
-      "longitude": 29.7641,
-      "latitude": -2.5685
+      "longitude": 29.7643,
+      "latitude": -2.5719
     },
     {
       "block_id": "a4e942501f57-525",
@@ -25887,8 +25896,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-11 22:21:49",
-      "longitude": 29.7507,
-      "latitude": -2.5432
+      "longitude": 29.7532,
+      "latitude": -2.5588
     },
     {
       "block_id": "a4e942501f57-526",
@@ -26015,8 +26024,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-13 12:00:32",
-      "longitude": 29.753,
-      "latitude": -2.5437
+      "longitude": 29.7543,
+      "latitude": -2.5602
     },
     {
       "block_id": "a4e942501f57-527",
@@ -26144,8 +26153,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-11 22:25:48",
-      "longitude": 29.753,
-      "latitude": -2.5568
+      "longitude": 29.7588,
+      "latitude": -2.5563
     },
     {
       "block_id": "a4e942501f57-528",
@@ -26273,8 +26282,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-11 22:30:34",
-      "longitude": 29.7558,
-      "latitude": -2.5467
+      "longitude": 29.7495,
+      "latitude": -2.5528
     },
     {
       "block_id": "a4e942501f57-529",
@@ -26402,8 +26411,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-11 22:32:02",
-      "longitude": 29.7558,
-      "latitude": -2.5655
+      "longitude": 29.7687,
+      "latitude": -2.5717
     },
     {
       "block_id": "a4e942501f57-530",
@@ -26532,8 +26541,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-10 16:11:18",
-      "longitude": 29.7644,
-      "latitude": -2.5636
+      "longitude": 29.7641,
+      "latitude": -2.5519
     },
     {
       "block_id": "a4e942501f57-531",
@@ -26662,8 +26671,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-10 17:01:00",
-      "longitude": 29.7511,
-      "latitude": -2.5597
+      "longitude": 29.7584,
+      "latitude": -2.5463
     },
     {
       "block_id": "a4e942501f57-532",
@@ -26791,8 +26800,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-15 09:43:01",
-      "longitude": 29.7594,
-      "latitude": -2.5503
+      "longitude": 29.7609,
+      "latitude": -2.5612
     },
     {
       "block_id": "a4e942501f57-533",
@@ -26919,8 +26928,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-11 22:56:51",
-      "longitude": 29.7592,
-      "latitude": -2.5451
+      "longitude": 29.7498,
+      "latitude": -2.5549
     },
     {
       "block_id": "a4e942501f57-534",
@@ -27047,8 +27056,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-08 12:44:43",
-      "longitude": 29.7517,
-      "latitude": -2.5665
+      "longitude": 29.7522,
+      "latitude": -2.5627
     },
     {
       "block_id": "a4e942501f57-535",
@@ -27176,8 +27185,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 14:53:13",
-      "longitude": 29.7526,
-      "latitude": -2.5667
+      "longitude": 29.7538,
+      "latitude": -2.5564
     },
     {
       "block_id": "a4e942501f57-536",
@@ -27306,8 +27315,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 08:10:58",
-      "longitude": 29.7532,
-      "latitude": -2.5541
+      "longitude": 29.7668,
+      "latitude": -2.5622
     },
     {
       "block_id": "a4e942501f57-537",
@@ -27436,8 +27445,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-15 08:43:00",
-      "longitude": 29.7576,
-      "latitude": -2.5492
+      "longitude": 29.7498,
+      "latitude": -2.5519
     },
     {
       "block_id": "a4e942501f57-538",
@@ -27565,8 +27574,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-10 15:46:54",
-      "longitude": 29.757,
-      "latitude": -2.5489
+      "longitude": 29.7563,
+      "latitude": -2.5419
     },
     {
       "block_id": "a4e942501f57-539",
@@ -27694,8 +27703,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-11 22:52:32",
-      "longitude": 29.7655,
-      "latitude": -2.5493
+      "longitude": 29.7632,
+      "latitude": -2.5486
     },
     {
       "block_id": "a4e942501f57-540",
@@ -27822,8 +27831,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 11:15:51",
-      "longitude": 29.7535,
-      "latitude": -2.5746
+      "longitude": 29.7551,
+      "latitude": -2.5657
     },
     {
       "block_id": "a4e942501f57-541",
@@ -27951,8 +27960,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-17 09:51:38",
-      "longitude": 29.7584,
-      "latitude": -2.5666
+      "longitude": 29.7619,
+      "latitude": -2.563
     },
     {
       "block_id": "a4e942501f57-542",
@@ -28080,8 +28089,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-10 17:58:54",
-      "longitude": 29.7408,
-      "latitude": -2.5454
+      "longitude": 29.7468,
+      "latitude": -2.5609
     },
     {
       "block_id": "a4e942501f57-543",
@@ -28209,8 +28218,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-11 22:46:40",
-      "longitude": 29.7606,
-      "latitude": -2.5487
+      "longitude": 29.7487,
+      "latitude": -2.5534
     },
     {
       "block_id": "a4e942501f57-544",
@@ -28338,8 +28347,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-15 07:21:50",
-      "longitude": 29.7637,
-      "latitude": -2.5649
+      "longitude": 29.76,
+      "latitude": -2.547
     },
     {
       "block_id": "a4e942501f57-545",
@@ -28466,7 +28475,7 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 16:04:36",
-      "longitude": 29.8654,
+      "longitude": 29.8796,
       "latitude": -2.3245
     },
     {
@@ -28571,8 +28580,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 16:32:37",
-      "longitude": 29.88,
-      "latitude": -2.3338
+      "longitude": 29.8606,
+      "latitude": -2.3326
     },
     {
       "block_id": "a4e942501f57-547",
@@ -28700,8 +28709,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 12:10:25",
-      "longitude": 29.8757,
-      "latitude": -2.3293
+      "longitude": 29.8676,
+      "latitude": -2.3165
     },
     {
       "block_id": "a4e942501f57-548",
@@ -28829,8 +28838,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 09:16:31",
-      "longitude": 29.8737,
-      "latitude": -2.3196
+      "longitude": 29.8731,
+      "latitude": -2.3219
     },
     {
       "block_id": "a4e942501f57-549",
@@ -28958,8 +28967,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 12:33:30",
-      "longitude": 29.8803,
-      "latitude": -2.3359
+      "longitude": 29.8662,
+      "latitude": -2.3396
     },
     {
       "block_id": "a4e942501f57-550",
@@ -29087,8 +29096,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 16:55:34",
-      "longitude": 29.8702,
-      "latitude": -2.3358
+      "longitude": 29.8811,
+      "latitude": -2.3271
     },
     {
       "block_id": "a4e942501f57-551",
@@ -29216,8 +29225,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 14:22:53",
-      "longitude": 29.8717,
-      "latitude": -2.3213
+      "longitude": 29.8713,
+      "latitude": -2.3244
     },
     {
       "block_id": "a4e942501f57-552",
@@ -29346,8 +29355,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 14:44:41",
-      "longitude": 29.8601,
-      "latitude": -2.3286
+      "longitude": 29.8565,
+      "latitude": -2.3307
     },
     {
       "block_id": "a4e942501f57-553",
@@ -29461,8 +29470,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-30 15:53:28",
-      "longitude": 29.8735,
-      "latitude": -2.3184
+      "longitude": 29.8681,
+      "latitude": -2.3365
     },
     {
       "block_id": "a4e942501f57-554",
@@ -29591,8 +29600,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-30 17:35:15",
-      "longitude": 29.8802,
-      "latitude": -2.3283
+      "longitude": 29.8671,
+      "latitude": -2.3217
     },
     {
       "block_id": "a4e942501f57-555",
@@ -29721,8 +29730,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-30 17:17:22",
-      "longitude": 29.8804,
-      "latitude": -2.3158
+      "longitude": 29.8701,
+      "latitude": -2.3331
     },
     {
       "block_id": "a4e942501f57-556",
@@ -29858,8 +29867,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 08:26:42",
-      "longitude": 29.8701,
-      "latitude": -2.3187
+      "longitude": 29.8663,
+      "latitude": -2.314
     },
     {
       "block_id": "a4e942501f57-557",
@@ -29987,8 +29996,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-31 06:40:37",
-      "longitude": 29.8432,
-      "latitude": -2.3222
+      "longitude": 29.8575,
+      "latitude": -2.3372
     },
     {
       "block_id": "a4e942501f57-558",
@@ -30115,8 +30124,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 11:46:41",
-      "longitude": 29.8546,
-      "latitude": -2.3367
+      "longitude": 29.862,
+      "latitude": -2.3246
     },
     {
       "block_id": "a4e942501f57-559",
@@ -30244,8 +30253,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 14:57:26",
-      "longitude": 29.8669,
-      "latitude": -2.3371
+      "longitude": 29.8626,
+      "latitude": -2.3362
     },
     {
       "block_id": "a4e942501f57-560",
@@ -30374,8 +30383,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-31 14:11:36",
-      "longitude": 29.8599,
-      "latitude": -2.3512
+      "longitude": 29.8402,
+      "latitude": -2.3364
     },
     {
       "block_id": "a4e942501f57-561",
@@ -30503,8 +30512,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 16:22:32",
-      "longitude": 29.8656,
-      "latitude": -2.3113
+      "longitude": 29.8494,
+      "latitude": -2.3149
     },
     {
       "block_id": "a4e942501f57-562",
@@ -30631,8 +30640,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 18:04:43",
-      "longitude": 29.8544,
-      "latitude": -2.3212
+      "longitude": 29.8655,
+      "latitude": -2.3297
     },
     {
       "block_id": "a4e942501f57-563",
@@ -30759,8 +30768,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 12:53:24",
-      "longitude": 29.864,
-      "latitude": -2.315
+      "longitude": 29.8703,
+      "latitude": -2.3266
     },
     {
       "block_id": "a4e942501f57-564",
@@ -30887,8 +30896,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-30 15:10:03",
-      "longitude": 29.8893,
-      "latitude": -2.3364
+      "longitude": 29.8771,
+      "latitude": -2.3361
     },
     {
       "block_id": "a4e942501f57-565",
@@ -31020,8 +31029,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-30 18:30:55",
-      "longitude": 29.8661,
-      "latitude": -2.3316
+      "longitude": 29.8531,
+      "latitude": -2.3312
     },
     {
       "block_id": "a4e942501f57-566",
@@ -31149,8 +31158,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 14:04:36",
-      "longitude": 29.8554,
-      "latitude": -2.313
+      "longitude": 29.8735,
+      "latitude": -2.3323
     },
     {
       "block_id": "a4e942501f57-567",
@@ -31279,8 +31288,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-15 14:02:40",
-      "longitude": 29.865,
-      "latitude": -2.3163
+      "longitude": 29.8636,
+      "latitude": -2.3191
     },
     {
       "block_id": "a4e942501f57-568",
@@ -31409,8 +31418,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-19 14:49:47",
-      "longitude": 29.8716,
-      "latitude": -2.3247
+      "longitude": 29.8712,
+      "latitude": -2.3199
     },
     {
       "block_id": "a4e942501f57-569",
@@ -31538,8 +31547,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-16 16:16:58",
-      "longitude": 29.8501,
-      "latitude": -2.3104
+      "longitude": 29.8397,
+      "latitude": -2.3267
     },
     {
       "block_id": "a4e942501f57-570",
@@ -31667,8 +31676,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-03 12:52:25",
-      "longitude": 29.8458,
-      "latitude": -2.3175
+      "longitude": 29.8587,
+      "latitude": -2.318
     },
     {
       "block_id": "a4e942501f57-571",
@@ -31796,8 +31805,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-03 12:35:19",
-      "longitude": 29.8373,
-      "latitude": -2.3125
+      "longitude": 29.8382,
+      "latitude": -2.3343
     },
     {
       "block_id": "a4e942501f57-572",
@@ -31924,8 +31933,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 10:54:16",
-      "longitude": 29.8613,
-      "latitude": -2.3121
+      "longitude": 29.8633,
+      "latitude": -2.3137
     },
     {
       "block_id": "a4e942501f57-573",
@@ -32038,8 +32047,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 15:13:42",
-      "longitude": 29.8663,
-      "latitude": -2.3231
+      "longitude": 29.8661,
+      "latitude": -2.3312
     },
     {
       "block_id": "a4e942501f57-574",
@@ -32168,8 +32177,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-17 15:04:32",
-      "longitude": 29.8608,
-      "latitude": -2.3067
+      "longitude": 29.8556,
+      "latitude": -2.3279
     },
     {
       "block_id": "a4e942501f57-575",
@@ -32297,8 +32306,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 16:01:06",
-      "longitude": 29.8425,
-      "latitude": -2.3008
+      "longitude": 29.8508,
+      "latitude": -2.3045
     },
     {
       "block_id": "a4e942501f57-576",
@@ -32425,8 +32434,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 17:48:30",
-      "longitude": 29.8422,
-      "latitude": -2.3173
+      "longitude": 29.8434,
+      "latitude": -2.3225
     },
     {
       "block_id": "a4e942501f57-577",
@@ -32553,8 +32562,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 12:54:27",
-      "longitude": 29.8472,
-      "latitude": -2.331
+      "longitude": 29.8585,
+      "latitude": -2.3183
     },
     {
       "block_id": "a4e942501f57-578",
@@ -32669,8 +32678,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-19 15:08:33",
-      "longitude": 29.8623,
-      "latitude": -2.3267
+      "longitude": 29.8602,
+      "latitude": -2.3206
     },
     {
       "block_id": "a4e942501f57-579",
@@ -32797,7 +32806,7 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-01 07:59:43",
-      "longitude": 29.8488,
+      "longitude": 29.8511,
       "latitude": -2.3135
     },
     {
@@ -32927,8 +32936,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 10:07:19",
-      "longitude": 29.8456,
-      "latitude": -2.3195
+      "longitude": 29.8469,
+      "latitude": -2.3285
     },
     {
       "block_id": "a4e942501f57-581",
@@ -33056,8 +33065,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 09:23:48",
-      "longitude": 29.8539,
-      "latitude": -2.3217
+      "longitude": 29.8409,
+      "latitude": -2.3193
     },
     {
       "block_id": "a4e942501f57-582",
@@ -33185,8 +33194,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 10:01:16",
-      "longitude": 29.8536,
-      "latitude": -2.3194
+      "longitude": 29.8448,
+      "latitude": -2.3269
     },
     {
       "block_id": "a4e942501f57-583",
@@ -33313,8 +33322,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 17:39:40",
-      "longitude": 29.8451,
-      "latitude": -2.3177
+      "longitude": 29.8495,
+      "latitude": -2.315
     },
     {
       "block_id": "a4e942501f57-584",
@@ -33447,8 +33456,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 10:38:27",
-      "longitude": 29.8596,
-      "latitude": -2.3235
+      "longitude": 29.84,
+      "latitude": -2.3256
     },
     {
       "block_id": "a4e942501f57-585",
@@ -33576,8 +33585,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 12:44:40",
-      "longitude": 29.8656,
-      "latitude": -2.3072
+      "longitude": 29.8603,
+      "latitude": -2.315
     },
     {
       "block_id": "a4e942501f57-586",
@@ -33694,8 +33703,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-06 16:15:47",
-      "longitude": 29.8418,
-      "latitude": -2.3215
+      "longitude": 29.8384,
+      "latitude": -2.3144
     },
     {
       "block_id": "a4e942501f57-587",
@@ -33824,8 +33833,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 12:48:15",
-      "longitude": 29.8504,
-      "latitude": -2.3071
+      "longitude": 29.8567,
+      "latitude": -2.3165
     },
     {
       "block_id": "a4e942501f57-588",
@@ -33940,8 +33949,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-25 13:56:44",
-      "longitude": 29.849,
-      "latitude": -2.3065
+      "longitude": 29.8434,
+      "latitude": -2.33
     },
     {
       "block_id": "a4e942501f57-589",
@@ -34069,8 +34078,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 14:07:33",
-      "longitude": 29.8574,
-      "latitude": -2.3091
+      "longitude": 29.8595,
+      "latitude": -2.3206
     },
     {
       "block_id": "a4e942501f57-590",
@@ -34198,8 +34207,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-04 06:52:13",
-      "longitude": 29.8426,
-      "latitude": -2.3208
+      "longitude": 29.8489,
+      "latitude": -2.3231
     },
     {
       "block_id": "a4e942501f57-591",
@@ -34327,8 +34336,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 11:38:00",
-      "longitude": 29.8386,
-      "latitude": -2.3148
+      "longitude": 29.846,
+      "latitude": -2.3037
     },
     {
       "block_id": "a4e942501f57-592",
@@ -34451,8 +34460,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-24 12:41:19",
-      "longitude": 29.0888,
-      "latitude": -2.3472
+      "longitude": 29.0912,
+      "latitude": -2.3612
     },
     {
       "block_id": "a4e942501f57-593",
@@ -34568,8 +34577,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-01 09:26:31",
-      "longitude": 29.1318,
-      "latitude": -2.3519
+      "longitude": 29.1311,
+      "latitude": -2.3467
     },
     {
       "block_id": "a4e942501f57-594",
@@ -34684,8 +34693,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-31 14:17:27",
-      "longitude": 29.0939,
-      "latitude": -2.3513
+      "longitude": 29.0868,
+      "latitude": -2.3452
     },
     {
       "block_id": "a4e942501f57-595",
@@ -34807,8 +34816,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-21 10:07:14",
-      "longitude": 29.1045,
-      "latitude": -2.3588
+      "longitude": 29.0865,
+      "latitude": -2.3625
     },
     {
       "block_id": "a4e942501f57-596",
@@ -34926,8 +34935,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-01 10:11:51",
-      "longitude": 29.0913,
-      "latitude": -2.3647
+      "longitude": 29.1071,
+      "latitude": -2.361
     },
     {
       "block_id": "a4e942501f57-597",
@@ -35043,8 +35052,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-22 13:08:04",
-      "longitude": 29.0756,
-      "latitude": -2.3542
+      "longitude": 29.0779,
+      "latitude": -2.3598
     },
     {
       "block_id": "a4e942501f57-598",
@@ -35162,8 +35171,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-20 15:33:16",
-      "longitude": 29.092,
-      "latitude": -2.3527
+      "longitude": 29.0902,
+      "latitude": -2.3595
     },
     {
       "block_id": "a4e942501f57-599",
@@ -35279,8 +35288,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-01 13:07:23",
-      "longitude": 29.0724,
-      "latitude": -2.355
+      "longitude": 29.0796,
+      "latitude": -2.3487
     },
     {
       "block_id": "a4e942501f57-600",
@@ -35382,8 +35391,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-22 12:46:48",
-      "longitude": 29.0979,
-      "latitude": -2.3669
+      "longitude": 29.0842,
+      "latitude": -2.3593
     },
     {
       "block_id": "a4e942501f57-601",
@@ -35501,8 +35510,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-31 12:14:01",
-      "longitude": 29.1026,
-      "latitude": -2.347
+      "longitude": 29.0912,
+      "latitude": -2.3684
     },
     {
       "block_id": "a4e942501f57-602",
@@ -35604,8 +35613,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-01 12:41:18",
-      "longitude": 29.0906,
-      "latitude": -2.3639
+      "longitude": 29.087,
+      "latitude": -2.3552
     },
     {
       "block_id": "a4e942501f57-603",
@@ -35721,8 +35730,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-22 16:11:02",
-      "longitude": 29.0867,
-      "latitude": -2.3649
+      "longitude": 29.087,
+      "latitude": -2.3692
     },
     {
       "block_id": "a4e942501f57-604",
@@ -35838,8 +35847,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-22 16:26:10",
-      "longitude": 28.972,
-      "latitude": -2.4767
+      "longitude": 28.9597,
+      "latitude": -2.4709
     },
     {
       "block_id": "a4e942501f57-605",
@@ -35955,8 +35964,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-22 16:21:42",
-      "longitude": 29.0812,
-      "latitude": -2.3663
+      "longitude": 29.0726,
+      "latitude": -2.3513
     },
     {
       "block_id": "a4e942501f57-606",
@@ -36081,8 +36090,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-31 10:24:21",
-      "longitude": 29.0885,
-      "latitude": -2.3749
+      "longitude": 29.0825,
+      "latitude": -2.3672
     },
     {
       "block_id": "a4e942501f57-607",
@@ -36210,8 +36219,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-29 14:32:20",
-      "longitude": 29.1697,
-      "latitude": -2.2787
+      "longitude": 29.1815,
+      "latitude": -2.2815
     },
     {
       "block_id": "a4e942501f57-608",
@@ -36339,8 +36348,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-10 15:39:16",
-      "longitude": 29.1363,
-      "latitude": -2.3136
+      "longitude": 29.149,
+      "latitude": -2.3274
     },
     {
       "block_id": "a4e942501f57-609",
@@ -36468,8 +36477,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-16 15:05:16",
-      "longitude": 29.1362,
-      "latitude": -2.2813
+      "longitude": 29.1383,
+      "latitude": -2.2878
     },
     {
       "block_id": "a4e942501f57-610",
@@ -36597,8 +36606,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-16 15:35:30",
-      "longitude": 29.1523,
-      "latitude": -2.2863
+      "longitude": 29.1396,
+      "latitude": -2.2761
     },
     {
       "block_id": "a4e942501f57-611",
@@ -36726,8 +36735,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-21 16:26:46",
-      "longitude": 29.152,
-      "latitude": -2.2858
+      "longitude": 29.1675,
+      "latitude": -2.284
     },
     {
       "block_id": "a4e942501f57-612",
@@ -36854,8 +36863,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-22 11:42:11",
-      "longitude": 29.1402,
-      "latitude": -2.2919
+      "longitude": 29.155,
+      "latitude": -2.2816
     },
     {
       "block_id": "a4e942501f57-613",
@@ -36983,8 +36992,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-07 15:06:44",
-      "longitude": 29.1702,
-      "latitude": -2.2878
+      "longitude": 29.1805,
+      "latitude": -2.2754
     },
     {
       "block_id": "a4e942501f57-614",
@@ -37112,8 +37121,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-07 16:25:52",
-      "longitude": 29.1651,
-      "latitude": -2.2964
+      "longitude": 29.1709,
+      "latitude": -2.2767
     },
     {
       "block_id": "a4e942501f57-615",
@@ -37241,8 +37250,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-22 15:17:10",
-      "longitude": 29.1362,
-      "latitude": -2.2796
+      "longitude": 29.1391,
+      "latitude": -2.2849
     },
     {
       "block_id": "a4e942501f57-616",
@@ -37370,8 +37379,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-05 10:45:14",
-      "longitude": 29.1641,
-      "latitude": -2.2696
+      "longitude": 29.1643,
+      "latitude": -2.2604
     },
     {
       "block_id": "a4e942501f57-617",
@@ -37499,8 +37508,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-14 09:19:43",
-      "longitude": 29.159,
-      "latitude": -2.2996
+      "longitude": 29.1582,
+      "latitude": -2.2805
     },
     {
       "block_id": "a4e942501f57-618",
@@ -37629,8 +37638,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-14 16:33:23",
-      "longitude": 29.1548,
-      "latitude": -2.2909
+      "longitude": 29.1635,
+      "latitude": -2.2843
     },
     {
       "block_id": "a4e942501f57-619",
@@ -37758,8 +37767,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-26 10:00:48",
-      "longitude": 29.1634,
-      "latitude": -2.2685
+      "longitude": 29.1605,
+      "latitude": -2.2759
     },
     {
       "block_id": "a4e942501f57-620",
@@ -37887,8 +37896,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-05 12:48:33",
-      "longitude": 29.155,
-      "latitude": -2.2718
+      "longitude": 29.159,
+      "latitude": -2.2625
     },
     {
       "block_id": "a4e942501f57-621",
@@ -38015,8 +38024,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-21 12:35:44",
-      "longitude": 29.153,
-      "latitude": -2.2667
+      "longitude": 29.1663,
+      "latitude": -2.2798
     },
     {
       "block_id": "a4e942501f57-622",
@@ -38144,8 +38153,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-10 16:44:38",
-      "longitude": 29.1512,
-      "latitude": -2.2847
+      "longitude": 29.1583,
+      "latitude": -2.2907
     },
     {
       "block_id": "a4e942501f57-623",
@@ -38273,8 +38282,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-13 09:41:22",
-      "longitude": 29.1531,
-      "latitude": -2.2638
+      "longitude": 29.1718,
+      "latitude": -2.2774
     },
     {
       "block_id": "a4e942501f57-624",
@@ -38403,8 +38412,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-26 10:11:08",
-      "longitude": 29.1547,
-      "latitude": -2.2807
+      "longitude": 29.15,
+      "latitude": -2.2735
     },
     {
       "block_id": "a4e942501f57-625",
@@ -38532,8 +38541,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-05 14:13:13",
-      "longitude": 29.1655,
-      "latitude": -2.2623
+      "longitude": 29.1674,
+      "latitude": -2.2747
     },
     {
       "block_id": "a4e942501f57-626",
@@ -38661,8 +38670,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-22 17:19:36",
-      "longitude": 29.1417,
-      "latitude": -2.278
+      "longitude": 29.1355,
+      "latitude": -2.2835
     },
     {
       "block_id": "a4e942501f57-627",
@@ -38775,8 +38784,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 13:33:44",
-      "longitude": 29.2212,
-      "latitude": -2.2232
+      "longitude": 29.2104,
+      "latitude": -2.2308
     },
     {
       "block_id": "a4e942501f57-628",
@@ -38904,8 +38913,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-12 14:50:59",
-      "longitude": 29.2304,
-      "latitude": -2.2319
+      "longitude": 29.2162,
+      "latitude": -2.2251
     },
     {
       "block_id": "a4e942501f57-629",
@@ -39033,8 +39042,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-20 09:55:58",
-      "longitude": 29.2372,
-      "latitude": -2.2359
+      "longitude": 29.24,
+      "latitude": -2.2209
     },
     {
       "block_id": "a4e942501f57-630",
@@ -39162,8 +39171,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-06 14:37:23",
-      "longitude": 29.2372,
-      "latitude": -2.2135
+      "longitude": 29.2251,
+      "latitude": -2.2288
     },
     {
       "block_id": "a4e942501f57-631",
@@ -39292,8 +39301,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-06 12:30:51",
-      "longitude": 29.1447,
-      "latitude": -2.3246
+      "longitude": 29.1464,
+      "latitude": -2.3184
     },
     {
       "block_id": "a4e942501f57-632",
@@ -39421,8 +39430,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-12 10:01:30",
-      "longitude": 29.2287,
-      "latitude": -2.2178
+      "longitude": 29.2238,
+      "latitude": -2.2154
     },
     {
       "block_id": "a4e942501f57-633",
@@ -39466,8 +39475,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2023-02-21 17:17:12",
-      "longitude": 29.2397,
-      "latitude": -2.2225
+      "longitude": 29.2282,
+      "latitude": -2.2387
     },
     {
       "block_id": "a4e942501f57-634",
@@ -39593,8 +39602,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-27 14:10:30",
-      "longitude": 29.1544,
-      "latitude": -2.3015
+      "longitude": 29.1371,
+      "latitude": -2.2939
     },
     {
       "block_id": "a4e942501f57-635",
@@ -39721,8 +39730,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-06 15:58:32",
-      "longitude": 29.2247,
-      "latitude": -2.2386
+      "longitude": 29.2303,
+      "latitude": -2.2252
     },
     {
       "block_id": "a4e942501f57-636",
@@ -39849,8 +39858,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-06 15:30:42",
-      "longitude": 29.2407,
-      "latitude": -2.2359
+      "longitude": 29.239,
+      "latitude": -2.228
     },
     {
       "block_id": "a4e942501f57-637",
@@ -39978,8 +39987,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-17 14:27:18",
-      "longitude": 29.211,
-      "latitude": -2.2194
+      "longitude": 29.2236,
+      "latitude": -2.2354
     },
     {
       "block_id": "a4e942501f57-638",
@@ -40107,8 +40116,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-12 08:44:23",
-      "longitude": 29.2158,
-      "latitude": -2.2275
+      "longitude": 29.2271,
+      "latitude": -2.2334
     },
     {
       "block_id": "a4e942501f57-639",
@@ -40236,8 +40245,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-05-30 19:23:26",
-      "longitude": 29.2088,
-      "latitude": -2.2185
+      "longitude": 29.2298,
+      "latitude": -2.2348
     },
     {
       "block_id": "a4e942501f57-640",
@@ -40366,8 +40375,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-06 09:31:36",
-      "longitude": 29.2188,
-      "latitude": -2.225
+      "longitude": 29.2328,
+      "latitude": -2.2382
     },
     {
       "block_id": "a4e942501f57-641",
@@ -40495,7 +40504,7 @@
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-06 14:02:33",
       "longitude": 29.239,
-      "latitude": -2.2298
+      "latitude": -2.2335
     },
     {
       "block_id": "a4e942501f57-642",
@@ -40623,8 +40632,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-12 13:01:47",
-      "longitude": 29.233,
-      "latitude": -2.215
+      "longitude": 29.2125,
+      "latitude": -2.2257
     },
     {
       "block_id": "a4e942501f57-643",
@@ -40752,8 +40761,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-20 15:31:48",
-      "longitude": 29.2173,
-      "latitude": -2.243
+      "longitude": 29.2262,
+      "latitude": -2.2215
     },
     {
       "block_id": "a4e942501f57-644",
@@ -40880,8 +40889,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-27 13:13:04",
-      "longitude": 29.2262,
-      "latitude": -2.2308
+      "longitude": 29.2268,
+      "latitude": -2.2352
     },
     {
       "block_id": "a4e942501f57-645",
@@ -41009,8 +41018,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-27 15:16:41",
-      "longitude": 29.2191,
-      "latitude": -2.2135
+      "longitude": 29.2299,
+      "latitude": -2.2249
     },
     {
       "block_id": "a4e942501f57-646",
@@ -41136,8 +41145,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-03-27 12:07:32",
-      "longitude": 29.2087,
-      "latitude": -2.2312
+      "longitude": 29.2064,
+      "latitude": -2.226
     },
     {
       "block_id": "a4e942501f57-647",
@@ -41270,8 +41279,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-02 09:36:08",
-      "longitude": 29.014,
-      "latitude": -2.6206
+      "longitude": 29.003,
+      "latitude": -2.6126
     },
     {
       "block_id": "a4e942501f57-648",
@@ -41318,8 +41327,8 @@
       "vegetative_plantdamag": "Yes",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-12-31 16:41:50",
-      "longitude": 29.0184,
-      "latitude": -2.632
+      "longitude": 29.0164,
+      "latitude": -2.6273
     },
     {
       "block_id": "a4e942501f57-649",
@@ -41452,8 +41461,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-02 15:23:27",
-      "longitude": 29.0119,
-      "latitude": -2.6322
+      "longitude": 29.0063,
+      "latitude": -2.62
     },
     {
       "block_id": "a4e942501f57-650",
@@ -41585,8 +41594,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-28 07:46:47",
-      "longitude": 29.0119,
-      "latitude": -2.6153
+      "longitude": 29.0094,
+      "latitude": -2.6336
     },
     {
       "block_id": "a4e942501f57-651",
@@ -41719,8 +41728,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-28 08:35:59",
-      "longitude": 29.0012,
-      "latitude": -2.6347
+      "longitude": 29.0035,
+      "latitude": -2.6321
     },
     {
       "block_id": "a4e942501f57-652",
@@ -41850,8 +41859,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-09 16:17:25",
-      "longitude": 29.0077,
-      "latitude": -2.6359
+      "longitude": 29.0046,
+      "latitude": -2.6346
     },
     {
       "block_id": "a4e942501f57-653",
@@ -41984,8 +41993,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-02 08:53:24",
-      "longitude": 29.0025,
-      "latitude": -2.6269
+      "longitude": 29.0126,
+      "latitude": -2.6415
     },
     {
       "block_id": "a4e942501f57-654",
@@ -42118,8 +42127,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-28 08:52:13",
-      "longitude": 29.0009,
-      "latitude": -2.6197
+      "longitude": 29.0103,
+      "latitude": -2.6273
     },
     {
       "block_id": "a4e942501f57-655",
@@ -42241,8 +42250,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 08:46:14",
-      "longitude": 28.9999,
-      "latitude": -2.6284
+      "longitude": 28.9937,
+      "latitude": -2.6135
     },
     {
       "block_id": "a4e942501f57-656",
@@ -42361,8 +42370,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-02 17:55:21",
-      "longitude": 29.0054,
-      "latitude": -2.6325
+      "longitude": 28.9933,
+      "latitude": -2.6339
     },
     {
       "block_id": "a4e942501f57-657",
@@ -42494,8 +42503,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-28 08:04:34",
-      "longitude": 29.0101,
-      "latitude": -2.6349
+      "longitude": 29.0132,
+      "latitude": -2.6234
     },
     {
       "block_id": "a4e942501f57-658",
@@ -42618,8 +42627,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 09:44:12",
-      "longitude": 28.9942,
-      "latitude": -2.6296
+      "longitude": 29.0025,
+      "latitude": -2.6206
     },
     {
       "block_id": "a4e942501f57-659",
@@ -42752,8 +42761,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-25 18:41:05",
-      "longitude": 29.0039,
-      "latitude": -2.6251
+      "longitude": 29.0182,
+      "latitude": -2.6294
     },
     {
       "block_id": "a4e942501f57-660",
@@ -42887,8 +42896,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-03 09:04:19",
-      "longitude": 29.0138,
-      "latitude": -2.6263
+      "longitude": 28.9981,
+      "latitude": -2.6122
     },
     {
       "block_id": "a4e942501f57-661",
@@ -43021,8 +43030,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-26 18:21:00",
-      "longitude": 29.0032,
-      "latitude": -2.6373
+      "longitude": 28.9907,
+      "latitude": -2.621
     },
     {
       "block_id": "a4e942501f57-662",
@@ -43141,8 +43150,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-05-29 16:28:22",
-      "longitude": 29.0519,
-      "latitude": -2.675
+      "longitude": 29.0471,
+      "latitude": -2.6827
     },
     {
       "block_id": "a4e942501f57-663",
@@ -43274,8 +43283,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 13:09:37",
-      "longitude": 29.0442,
-      "latitude": -2.6767
+      "longitude": 29.0546,
+      "latitude": -2.6829
     },
     {
       "block_id": "a4e942501f57-664",
@@ -43408,8 +43417,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 09:41:36",
-      "longitude": 29.0514,
-      "latitude": -2.6651
+      "longitude": 29.0404,
+      "latitude": -2.6588
     },
     {
       "block_id": "a4e942501f57-665",
@@ -43540,8 +43549,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 11:03:38",
-      "longitude": 29.0406,
-      "latitude": -2.6916
+      "longitude": 29.0459,
+      "latitude": -2.683
     },
     {
       "block_id": "a4e942501f57-666",
@@ -43614,8 +43623,8 @@
       "harvest_managementpriorit": "Treated Equally",
       "harvest_managementwhy": "Ok",
       "harvest_survey_end": "2023-04-04 07:34:18",
-      "longitude": 29.0017,
-      "latitude": -2.6372
+      "longitude": 29.0226,
+      "latitude": -2.6388
     },
     {
       "block_id": "a4e942501f57-667",
@@ -43748,8 +43757,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 13:20:53",
-      "longitude": 29.0578,
-      "latitude": -2.6875
+      "longitude": 29.0532,
+      "latitude": -2.6827
     },
     {
       "block_id": "a4e942501f57-668",
@@ -43883,8 +43892,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 10:31:27",
-      "longitude": 29.043,
-      "latitude": -2.6681
+      "longitude": 29.05,
+      "latitude": -2.6599
     },
     {
       "block_id": "a4e942501f57-669",
@@ -44018,8 +44027,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 08:47:53",
-      "longitude": 29.0536,
-      "latitude": -2.6883
+      "longitude": 29.0449,
+      "latitude": -2.6994
     },
     {
       "block_id": "a4e942501f57-670",
@@ -44152,8 +44161,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-27 14:40:07",
-      "longitude": 29.0395,
-      "latitude": -2.6935
+      "longitude": 29.0461,
+      "latitude": -2.6846
     },
     {
       "block_id": "a4e942501f57-671",
@@ -44286,8 +44295,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-19 11:05:58",
-      "longitude": 29.0327,
-      "latitude": -2.6808
+      "longitude": 29.0345,
+      "latitude": -2.6725
     },
     {
       "block_id": "a4e942501f57-672",
@@ -44333,8 +44342,8 @@
       "vegetative_plantdamag": "Yes",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-12-05 08:34:40",
-      "longitude": 29.0374,
-      "latitude": -2.6522
+      "longitude": 29.0201,
+      "latitude": -2.6471
     },
     {
       "block_id": "a4e942501f57-673",
@@ -44468,8 +44477,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-04 12:40:36",
-      "longitude": 29.0501,
-      "latitude": -2.6834
+      "longitude": 29.0397,
+      "latitude": -2.6918
     },
     {
       "block_id": "a4e942501f57-674",
@@ -44602,8 +44611,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-19 11:50:23",
-      "longitude": 29.0434,
-      "latitude": -2.6909
+      "longitude": 29.0512,
+      "latitude": -2.688
     },
     {
       "block_id": "a4e942501f57-675",
@@ -44736,8 +44745,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 10:57:21",
-      "longitude": 29.0507,
-      "latitude": -2.6646
+      "longitude": 29.0319,
+      "latitude": -2.6767
     },
     {
       "block_id": "a4e942501f57-676",
@@ -44870,8 +44879,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-19 10:38:22",
-      "longitude": 29.0553,
-      "latitude": -2.6657
+      "longitude": 29.041,
+      "latitude": -2.6613
     },
     {
       "block_id": "a4e942501f57-677",
@@ -45002,8 +45011,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-29 15:28:44",
-      "longitude": 29.0374,
-      "latitude": -2.6787
+      "longitude": 29.0343,
+      "latitude": -2.6812
     },
     {
       "block_id": "a4e942501f57-678",
@@ -45120,8 +45129,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 13:22:09",
-      "longitude": 29.0262,
-      "latitude": -2.3849
+      "longitude": 29.0139,
+      "latitude": -2.3831
     },
     {
       "block_id": "a4e942501f57-679",
@@ -45238,8 +45247,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-03 14:09:02",
-      "longitude": 29.0067,
-      "latitude": -2.386
+      "longitude": 29.0146,
+      "latitude": -2.3823
     },
     {
       "block_id": "a4e942501f57-680",
@@ -45355,8 +45364,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-13 12:01:11",
-      "longitude": 29.0338,
-      "latitude": -2.3845
+      "longitude": 29.0299,
+      "latitude": -2.3722
     },
     {
       "block_id": "a4e942501f57-681",
@@ -45482,8 +45491,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-28 17:14:30",
-      "longitude": 29.0101,
-      "latitude": -2.3907
+      "longitude": 29.0204,
+      "latitude": -2.3982
     },
     {
       "block_id": "a4e942501f57-682",
@@ -45550,8 +45559,8 @@
       "harvest_management": "None; Planting Date",
       "harvest_managementpriorit": "Treated Equally",
       "harvest_survey_end": "2023-05-30 09:37:58",
-      "longitude": 29.0228,
-      "latitude": -2.4078
+      "longitude": 29.0144,
+      "latitude": -2.4026
     },
     {
       "block_id": "a4e942501f57-683",
@@ -45669,8 +45678,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-05 16:09:38",
-      "longitude": 29.0217,
-      "latitude": -2.3703
+      "longitude": 29.0204,
+      "latitude": -2.3636
     },
     {
       "block_id": "a4e942501f57-684",
@@ -45714,8 +45723,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-11-30 09:49:01",
-      "longitude": 29.0122,
-      "latitude": -2.3925
+      "longitude": 29.0158,
+      "latitude": -2.3782
     },
     {
       "block_id": "a4e942501f57-685",
@@ -45836,8 +45845,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-28 14:18:15",
-      "longitude": 29.0294,
-      "latitude": -2.394
+      "longitude": 29.0155,
+      "latitude": -2.3784
     },
     {
       "block_id": "a4e942501f57-686",
@@ -45955,8 +45964,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 14:20:02",
-      "longitude": 29.0087,
-      "latitude": -2.3811
+      "longitude": 29.0247,
+      "latitude": -2.3865
     },
     {
       "block_id": "a4e942501f57-687",
@@ -46072,8 +46081,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-05-02 14:49:28",
-      "longitude": 29.0984,
-      "latitude": -2.4245
+      "longitude": 29.084,
+      "latitude": -2.4203
     },
     {
       "block_id": "a4e942501f57-688",
@@ -46193,8 +46202,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 15:48:46",
-      "longitude": 29.0419,
-      "latitude": -2.4854
+      "longitude": 29.0365,
+      "latitude": -2.4798
     },
     {
       "block_id": "a4e942501f57-689",
@@ -46313,8 +46322,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-05-02 13:42:15",
-      "longitude": 29.0251,
-      "latitude": -2.3986
+      "longitude": 29.0266,
+      "latitude": -2.3943
     },
     {
       "block_id": "a4e942501f57-690",
@@ -46438,8 +46447,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 12:02:46",
-      "longitude": 29.0247,
-      "latitude": -2.3632
+      "longitude": 29.0299,
+      "latitude": -2.3744
     },
     {
       "block_id": "a4e942501f57-691",
@@ -46522,8 +46531,8 @@
       "threshingupdated_item_C_vs_local": "Better",
       "threshingupdated_grownexttricot": "B",
       "threshingupdated_survey_end": "2023-04-27 10:29:01",
-      "longitude": 29.0248,
-      "latitude": -2.3906
+      "longitude": 29.0343,
+      "latitude": -2.3874
     },
     {
       "block_id": "a4e942501f57-692",
@@ -46567,8 +46576,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-11-29 13:43:31",
-      "longitude": 29.0189,
-      "latitude": -2.3762
+      "longitude": 29.0228,
+      "latitude": -2.3699
     },
     {
       "block_id": "a4e942501f57-693",
@@ -46688,8 +46697,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 18:01:41",
-      "longitude": 29.0416,
-      "latitude": -2.4685
+      "longitude": 29.025,
+      "latitude": -2.4818
     },
     {
       "block_id": "a4e942501f57-694",
@@ -46808,8 +46817,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 14:37:35",
-      "longitude": 29.0363,
-      "latitude": -2.4857
+      "longitude": 29.0252,
+      "latitude": -2.4951
     },
     {
       "block_id": "a4e942501f57-695",
@@ -46925,8 +46934,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 16:34:48",
-      "longitude": 29.0858,
-      "latitude": -2.428
+      "longitude": 29.0841,
+      "latitude": -2.4162
     },
     {
       "block_id": "a4e942501f57-696",
@@ -47043,8 +47052,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-18 15:08:01",
-      "longitude": 29.04,
-      "latitude": -2.4882
+      "longitude": 29.0369,
+      "latitude": -2.4742
     },
     {
       "block_id": "a4e942501f57-697",
@@ -47160,8 +47169,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 18:00:19",
-      "longitude": 29.0254,
-      "latitude": -2.4692
+      "longitude": 29.0356,
+      "latitude": -2.4808
     },
     {
       "block_id": "a4e942501f57-698",
@@ -47229,8 +47238,8 @@
       "harvest_managementpriorit": "Trial Plot",
       "harvest_managementwhy": "Kugirangondebekonabonumusaruro nubwontawubonye",
       "harvest_survey_end": "2023-04-04 14:35:42",
-      "longitude": 29.0319,
-      "latitude": -2.4802
+      "longitude": 29.028,
+      "latitude": -2.4782
     },
     {
       "block_id": "a4e942501f57-699",
@@ -47346,8 +47355,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-18 14:23:39",
-      "longitude": 29.037,
-      "latitude": -2.4761
+      "longitude": 29.044,
+      "latitude": -2.4989
     },
     {
       "block_id": "a4e942501f57-700",
@@ -47390,8 +47399,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-12-12 07:59:57",
-      "longitude": 29.087,
-      "latitude": -2.4217
+      "longitude": 29.0723,
+      "latitude": -2.4122
     },
     {
       "block_id": "a4e942501f57-701",
@@ -47509,8 +47518,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-17 11:42:32",
-      "longitude": 29.0919,
-      "latitude": -2.4145
+      "longitude": 29.0758,
+      "latitude": -2.4233
     },
     {
       "block_id": "a4e942501f57-702",
@@ -47626,8 +47635,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-17 15:08:43",
-      "longitude": 29.034,
-      "latitude": -2.4828
+      "longitude": 29.0316,
+      "latitude": -2.4702
     },
     {
       "block_id": "a4e942501f57-703",
@@ -47670,8 +47679,8 @@
       "vegetative_plantdamag": "Yes",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-12-08 13:22:20",
-      "longitude": 29.03,
-      "latitude": -2.4785
+      "longitude": 29.0446,
+      "latitude": -2.4813
     },
     {
       "block_id": "a4e942501f57-704",
@@ -47786,8 +47795,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 18:42:35",
-      "longitude": 29.0236,
-      "latitude": -2.4928
+      "longitude": 29.0453,
+      "latitude": -2.4969
     },
     {
       "block_id": "a4e942501f57-705",
@@ -47906,8 +47915,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-23 20:44:03",
-      "longitude": 29.0294,
-      "latitude": -2.4776
+      "longitude": 29.0291,
+      "latitude": -2.4757
     },
     {
       "block_id": "a4e942501f57-706",
@@ -47974,8 +47983,8 @@
       "harvest_management": "None",
       "harvest_managementpriorit": "Treated Equally",
       "harvest_survey_end": "2023-04-05 12:43:12",
-      "longitude": 29.0815,
-      "latitude": -2.425
+      "longitude": 29.0859,
+      "latitude": -2.4319
     },
     {
       "block_id": "a4e942501f57-707",
@@ -48094,8 +48103,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-12 13:07:01",
-      "longitude": 29.0388,
-      "latitude": -2.4816
+      "longitude": 29.0449,
+      "latitude": -2.4847
     },
     {
       "block_id": "a4e942501f57-708",
@@ -48148,8 +48157,8 @@
       "harvest_management": "None",
       "harvest_managementpriorit": "Treated Equally",
       "harvest_survey_end": "2023-04-25 13:52:00",
-      "longitude": 28.8974,
-      "latitude": -2.483
+      "longitude": 28.885,
+      "latitude": -2.4942
     },
     {
       "block_id": "a4e942501f57-709",
@@ -48208,8 +48217,8 @@
       "reproductive_herbicidesuse": "No",
       "reproductive_herbicidefreq": 0,
       "reproductive_survey_end": "2023-02-06 09:57:43",
-      "longitude": 28.8872,
-      "latitude": -2.4945
+      "longitude": 28.8925,
+      "latitude": -2.4992
     },
     {
       "block_id": "a4e942501f57-710",
@@ -48328,8 +48337,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-17 17:32:32",
-      "longitude": 28.8845,
-      "latitude": -2.4971
+      "longitude": 28.891,
+      "latitude": -2.5124
     },
     {
       "block_id": "a4e942501f57-711",
@@ -48448,8 +48457,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-17 14:17:16",
-      "longitude": 28.9122,
-      "latitude": -2.4978
+      "longitude": 28.8984,
+      "latitude": -2.5062
     },
     {
       "block_id": "a4e942501f57-712",
@@ -48494,8 +48503,8 @@
       "vegetative_plantdamag": "Yes",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-11-25 09:12:06",
-      "longitude": 28.8827,
-      "latitude": -2.5051
+      "longitude": 28.9068,
+      "latitude": -2.5054
     },
     {
       "block_id": "a4e942501f57-713",
@@ -48613,8 +48622,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-04 13:45:33",
-      "longitude": 28.8895,
-      "latitude": -2.5052
+      "longitude": 28.9015,
+      "latitude": -2.5065
     },
     {
       "block_id": "a4e942501f57-714",
@@ -48683,8 +48692,8 @@
       "harvest_management": "None",
       "harvest_managementpriorit": "Treated Equally",
       "harvest_survey_end": "2023-04-25 13:34:17",
-      "longitude": 28.9125,
-      "latitude": -2.4954
+      "longitude": 28.9088,
+      "latitude": -2.5021
     },
     {
       "block_id": "a4e942501f57-715",
@@ -48743,8 +48752,8 @@
       "reproductive_herbicidesuse": "No",
       "reproductive_herbicidefreq": 0,
       "reproductive_survey_end": "2023-02-06 09:46:08",
-      "longitude": 28.8945,
-      "latitude": -2.5069
+      "longitude": 28.8822,
+      "latitude": -2.5108
     },
     {
       "block_id": "a4e942501f57-716",
@@ -48861,8 +48870,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-13 12:29:57",
-      "longitude": 28.8913,
-      "latitude": -2.4988
+      "longitude": 28.8882,
+      "latitude": -2.4953
     },
     {
       "block_id": "a4e942501f57-717",
@@ -48981,8 +48990,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-04-17 12:41:59",
-      "longitude": 28.9044,
-      "latitude": -2.504
+      "longitude": 28.8882,
+      "latitude": -2.4927
     },
     {
       "block_id": "a4e942501f57-718",
@@ -49081,8 +49090,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-27 09:52:50",
-      "longitude": 29.3838,
-      "latitude": -2.0264
+      "longitude": 29.3849,
+      "latitude": -2.0202
     },
     {
       "block_id": "a4e942501f57-719",
@@ -49195,8 +49204,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-15 13:46:54",
-      "longitude": 29.3775,
-      "latitude": -2.0176
+      "longitude": 29.3721,
+      "latitude": -2.0123
     },
     {
       "block_id": "a4e942501f57-720",
@@ -49309,8 +49318,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-20 16:03:28",
-      "longitude": 29.3728,
-      "latitude": -2.0188
+      "longitude": 29.3768,
+      "latitude": -2.0251
     },
     {
       "block_id": "a4e942501f57-721",
@@ -49354,8 +49363,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-10-31 09:19:27",
-      "longitude": 29.3912,
-      "latitude": -2.0149
+      "longitude": 29.3846,
+      "latitude": -1.9974
     },
     {
       "block_id": "a4e942501f57-722",
@@ -49468,8 +49477,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-15 19:21:24",
-      "longitude": 29.3748,
-      "latitude": -2.0221
+      "longitude": 29.3656,
+      "latitude": -2.0183
     },
     {
       "block_id": "a4e942501f57-723",
@@ -49583,8 +49592,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 15:37:07",
-      "longitude": 29.385,
-      "latitude": -2.0149
+      "longitude": 29.3717,
+      "latitude": -2.0209
     },
     {
       "block_id": "a4e942501f57-724",
@@ -49685,8 +49694,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-27 09:30:33",
-      "longitude": 29.3683,
-      "latitude": -2.0163
+      "longitude": 29.3792,
+      "latitude": -2.0225
     },
     {
       "block_id": "a4e942501f57-725",
@@ -49728,8 +49737,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2022-11-02 11:24:01",
-      "longitude": 29.3902,
-      "latitude": -2.0119
+      "longitude": 29.3675,
+      "latitude": -2.005
     },
     {
       "block_id": "a4e942501f57-726",
@@ -49771,8 +49780,8 @@
       "vegetative_plantdamag": "Yes",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2022-11-22 11:06:58",
-      "longitude": 29.3873,
-      "latitude": -2.0233
+      "longitude": 29.3826,
+      "latitude": -2.0032
     },
     {
       "block_id": "a4e942501f57-727",
@@ -49889,8 +49898,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 16:26:34",
-      "longitude": 29.3683,
-      "latitude": -1.9988
+      "longitude": 29.3744,
+      "latitude": -2.0219
     },
     {
       "block_id": "a4e942501f57-728",
@@ -49990,8 +49999,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-27 09:56:32",
-      "longitude": 29.3617,
-      "latitude": -2.0067
+      "longitude": 29.388,
+      "latitude": -2.0053
     },
     {
       "block_id": "a4e942501f57-729",
@@ -50105,8 +50114,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-02 12:14:59",
-      "longitude": 29.3788,
-      "latitude": -2.0134
+      "longitude": 29.3902,
+      "latitude": -1.9938
     },
     {
       "block_id": "a4e942501f57-730",
@@ -50219,8 +50228,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-20 14:21:17",
-      "longitude": 29.3791,
-      "latitude": -2.0252
+      "longitude": 29.3684,
+      "latitude": -2.0208
     },
     {
       "block_id": "a4e942501f57-731",
@@ -50334,8 +50343,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 14:07:52",
-      "longitude": 29.3816,
-      "latitude": -2.0092
+      "longitude": 29.389,
+      "latitude": -2.0141
     },
     {
       "block_id": "a4e942501f57-732",
@@ -50449,8 +50458,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-04-02 16:29:39",
-      "longitude": 29.3758,
-      "latitude": -2.0125
+      "longitude": 29.3849,
+      "latitude": -2.0283
     },
     {
       "block_id": "a4e942501f57-733",
@@ -50566,7 +50575,7 @@
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 11:13:29",
       "longitude": 29.3755,
-      "latitude": -2.0077
+      "latitude": -1.9967
     },
     {
       "block_id": "a4e942501f57-734",
@@ -50679,8 +50688,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-03-24 12:47:14",
-      "longitude": 29.3935,
-      "latitude": -2.0035
+      "longitude": 29.3753,
+      "latitude": -2.006
     }
   ],
   "plot_data": [

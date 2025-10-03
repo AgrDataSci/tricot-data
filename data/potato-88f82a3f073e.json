@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-02",
+      "version": "v2025-10-03",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -49,6 +49,13 @@
       "men": 217,
       "women": 81
     },
+    "funder": [
+      {
+        "funderName": "CGIAR",
+        "funderIdentifier": "https://ror.org/04c4bm785",
+        "awardTitle": "CGIAR Initiatives Funding: SeedEqual and Excellence in Agronomy"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "Babban",
@@ -1074,8 +1081,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:10:10",
-      "longitude": 8.759,
-      "latitude": 9.8771
+      "longitude": 8.7573,
+      "latitude": 9.8673
     },
     {
       "block_id": "88f82a3f073e-2",
@@ -1165,8 +1172,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:12:18",
-      "longitude": 8.7277,
-      "latitude": 9.877
+      "longitude": 8.7304,
+      "latitude": 9.8747
     },
     {
       "block_id": "88f82a3f073e-3",
@@ -1256,8 +1263,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:15:46",
-      "longitude": 8.7611,
-      "latitude": 9.8877
+      "longitude": 8.7507,
+      "latitude": 9.8899
     },
     {
       "block_id": "88f82a3f073e-4",
@@ -1347,8 +1354,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:17:42",
-      "longitude": 8.7484,
-      "latitude": 9.8674
+      "longitude": 8.7629,
+      "latitude": 9.864
     },
     {
       "block_id": "88f82a3f073e-5",
@@ -1438,8 +1445,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:20:00",
-      "longitude": 8.7557,
-      "latitude": 9.8572
+      "longitude": 8.7633,
+      "latitude": 9.8764
     },
     {
       "block_id": "88f82a3f073e-6",
@@ -1530,8 +1537,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:21:20",
-      "longitude": 8.762,
-      "latitude": 9.8591
+      "longitude": 8.7518,
+      "latitude": 9.856
     },
     {
       "block_id": "88f82a3f073e-7",
@@ -1621,8 +1628,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:22:37",
-      "longitude": 8.7085,
-      "latitude": 9.878
+      "longitude": 8.699,
+      "latitude": 9.8853
     },
     {
       "block_id": "88f82a3f073e-8",
@@ -1712,8 +1719,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:24:09",
-      "longitude": 8.7163,
-      "latitude": 9.8902
+      "longitude": 8.7233,
+      "latitude": 9.8751
     },
     {
       "block_id": "88f82a3f073e-9",
@@ -1803,8 +1810,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:25:19",
-      "longitude": 8.7236,
-      "latitude": 9.8813
+      "longitude": 8.7209,
+      "latitude": 9.8951
     },
     {
       "block_id": "88f82a3f073e-10",
@@ -1894,8 +1901,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:26:26",
-      "longitude": 8.7241,
-      "latitude": 9.8789
+      "longitude": 8.7319,
+      "latitude": 9.8774
     },
     {
       "block_id": "88f82a3f073e-11",
@@ -1985,8 +1992,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:27:49",
-      "longitude": 8.7376,
-      "latitude": 9.8846
+      "longitude": 8.719,
+      "latitude": 9.8709
     },
     {
       "block_id": "88f82a3f073e-12",
@@ -2076,8 +2083,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:28:56",
-      "longitude": 8.7258,
-      "latitude": 9.8754
+      "longitude": 8.7112,
+      "latitude": 9.8857
     },
     {
       "block_id": "88f82a3f073e-13",
@@ -2167,8 +2174,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:30:04",
-      "longitude": 8.7341,
-      "latitude": 9.8864
+      "longitude": 8.7283,
+      "latitude": 9.8773
     },
     {
       "block_id": "88f82a3f073e-14",
@@ -2258,8 +2265,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:31:13",
-      "longitude": 8.7122,
-      "latitude": 9.8767
+      "longitude": 8.7106,
+      "latitude": 9.882
     },
     {
       "block_id": "88f82a3f073e-15",
@@ -2350,8 +2357,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:32:29",
-      "longitude": 8.7088,
-      "latitude": 9.8062
+      "longitude": 8.7077,
+      "latitude": 9.7996
     },
     {
       "block_id": "88f82a3f073e-16",
@@ -2442,8 +2449,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:33:41",
-      "longitude": 8.643,
-      "latitude": 9.8028
+      "longitude": 8.649,
+      "latitude": 9.8169
     },
     {
       "block_id": "88f82a3f073e-17",
@@ -2533,8 +2540,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:34:56",
-      "longitude": 8.7131,
-      "latitude": 9.8778
+      "longitude": 8.7236,
+      "latitude": 9.8704
     },
     {
       "block_id": "88f82a3f073e-18",
@@ -2624,8 +2631,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:36:24",
-      "longitude": 8.7775,
-      "latitude": 9.8815
+      "longitude": 8.7606,
+      "latitude": 9.8808
     },
     {
       "block_id": "88f82a3f073e-19",
@@ -2715,8 +2722,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:37:45",
-      "longitude": 8.7485,
-      "latitude": 9.8974
+      "longitude": 8.752,
+      "latitude": 9.8912
     },
     {
       "block_id": "88f82a3f073e-20",
@@ -2806,8 +2813,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 14:39:14",
-      "longitude": 8.7102,
-      "latitude": 9.8815
+      "longitude": 8.7087,
+      "latitude": 9.8885
     },
     {
       "block_id": "88f82a3f073e-21",
@@ -2907,8 +2914,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:36:07",
-      "longitude": 8.7725,
-      "latitude": 9.6803
+      "longitude": 8.7748,
+      "latitude": 9.686
     },
     {
       "block_id": "88f82a3f073e-22",
@@ -3009,8 +3016,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:36:15",
-      "longitude": 8.7653,
-      "latitude": 9.704
+      "longitude": 8.7621,
+      "latitude": 9.6888
     },
     {
       "block_id": "88f82a3f073e-23",
@@ -3112,8 +3119,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-17 06:36:22",
-      "longitude": 8.7726,
-      "latitude": 9.6809
+      "longitude": 8.7837,
+      "latitude": 9.6815
     },
     {
       "block_id": "88f82a3f073e-24",
@@ -3214,8 +3221,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:36:28",
-      "longitude": 8.7832,
-      "latitude": 9.6646
+      "longitude": 8.7813,
+      "latitude": 9.6816
     },
     {
       "block_id": "88f82a3f073e-25",
@@ -3314,8 +3321,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:36:34",
-      "longitude": 8.7945,
-      "latitude": 9.668
+      "longitude": 8.78,
+      "latitude": 9.6806
     },
     {
       "block_id": "88f82a3f073e-26",
@@ -3416,8 +3423,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:36:41",
-      "longitude": 8.7892,
-      "latitude": 9.6845
+      "longitude": 8.7835,
+      "latitude": 9.6659
     },
     {
       "block_id": "88f82a3f073e-27",
@@ -3516,8 +3523,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:36:47",
-      "longitude": 8.7793,
-      "latitude": 9.6849
+      "longitude": 8.777,
+      "latitude": 9.7117
     },
     {
       "block_id": "88f82a3f073e-28",
@@ -3617,8 +3624,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:36:53",
-      "longitude": 8.7932,
-      "latitude": 9.6999
+      "longitude": 8.775,
+      "latitude": 9.6889
     },
     {
       "block_id": "88f82a3f073e-29",
@@ -3719,8 +3726,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:36:59",
-      "longitude": 8.7922,
-      "latitude": 9.7014
+      "longitude": 8.7816,
+      "latitude": 9.6983
     },
     {
       "block_id": "88f82a3f073e-30",
@@ -3822,8 +3829,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:37:04",
-      "longitude": 8.7859,
-      "latitude": 9.7041
+      "longitude": 8.8013,
+      "latitude": 9.7027
     },
     {
       "block_id": "88f82a3f073e-31",
@@ -3924,8 +3931,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-17 06:37:13",
-      "longitude": 8.8834,
-      "latitude": 9.7656
+      "longitude": 8.8818,
+      "latitude": 9.7494
     },
     {
       "block_id": "88f82a3f073e-32",
@@ -4028,8 +4035,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:37:19",
-      "longitude": 8.8743,
-      "latitude": 9.7608
+      "longitude": 8.8719,
+      "latitude": 9.7631
     },
     {
       "block_id": "88f82a3f073e-33",
@@ -4130,8 +4137,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:37:27",
-      "longitude": 8.9189,
-      "latitude": 9.7547
+      "longitude": 8.9163,
+      "latitude": 9.7498
     },
     {
       "block_id": "88f82a3f073e-34",
@@ -4233,8 +4240,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:37:32",
-      "longitude": 8.901,
-      "latitude": 9.7687
+      "longitude": 8.9116,
+      "latitude": 9.7642
     },
     {
       "block_id": "88f82a3f073e-35",
@@ -4336,8 +4343,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:37:39",
-      "longitude": 8.9034,
-      "latitude": 9.7281
+      "longitude": 8.8933,
+      "latitude": 9.7234
     },
     {
       "block_id": "88f82a3f073e-36",
@@ -4438,8 +4445,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-17 06:37:44",
-      "longitude": 8.9096,
-      "latitude": 9.7493
+      "longitude": 8.9081,
+      "latitude": 9.7284
     },
     {
       "block_id": "88f82a3f073e-37",
@@ -4542,8 +4549,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:37:51",
-      "longitude": 8.8996,
-      "latitude": 9.7884
+      "longitude": 8.9,
+      "latitude": 9.7802
     },
     {
       "block_id": "88f82a3f073e-38",
@@ -4644,8 +4651,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:37:57",
-      "longitude": 8.9021,
-      "latitude": 9.782
+      "longitude": 8.9128,
+      "latitude": 9.7868
     },
     {
       "block_id": "88f82a3f073e-39",
@@ -4746,8 +4753,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:38:03",
-      "longitude": 8.8711,
-      "latitude": 9.7551
+      "longitude": 8.8771,
+      "latitude": 9.7629
     },
     {
       "block_id": "88f82a3f073e-40",
@@ -4849,8 +4856,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 06:38:09",
-      "longitude": 8.8643,
-      "latitude": 9.7692
+      "longitude": 8.8676,
+      "latitude": 9.7624
     },
     {
       "block_id": "88f82a3f073e-41",
@@ -4946,8 +4953,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 15:50:36",
-      "longitude": 8.8614,
-      "latitude": 9.7685
+      "longitude": 8.8771,
+      "latitude": 9.7699
     },
     {
       "block_id": "88f82a3f073e-42",
@@ -5039,8 +5046,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 12:35:43",
-      "longitude": 8.8673,
-      "latitude": 9.785
+      "longitude": 8.8706,
+      "latitude": 9.7796
     },
     {
       "block_id": "88f82a3f073e-43",
@@ -5136,8 +5143,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 13:10:10",
-      "longitude": 8.8602,
-      "latitude": 9.762
+      "longitude": 8.8599,
+      "latitude": 9.7721
     },
     {
       "block_id": "88f82a3f073e-44",
@@ -5230,8 +5237,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 11:52:34",
-      "longitude": 8.8565,
-      "latitude": 9.7852
+      "longitude": 8.8717,
+      "latitude": 9.7772
     },
     {
       "block_id": "88f82a3f073e-45",
@@ -5322,8 +5329,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 14:51:59",
-      "longitude": 8.8758,
-      "latitude": 9.7823
+      "longitude": 8.8719,
+      "latitude": 9.7653
     },
     {
       "block_id": "88f82a3f073e-46",
@@ -5415,8 +5422,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 08:57:27",
-      "longitude": 8.8561,
-      "latitude": 9.7792
+      "longitude": 8.8537,
+      "latitude": 9.7649
     },
     {
       "block_id": "88f82a3f073e-47",
@@ -5509,8 +5516,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 12:42:37",
-      "longitude": 8.8675,
-      "latitude": 9.7678
+      "longitude": 8.8598,
+      "latitude": 9.7592
     },
     {
       "block_id": "88f82a3f073e-48",
@@ -5607,8 +5614,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 12:52:12",
-      "longitude": 8.9676,
-      "latitude": 9.9133
+      "longitude": 8.9672,
+      "latitude": 9.9141
     },
     {
       "block_id": "88f82a3f073e-49",
@@ -5698,8 +5705,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 12:56:02",
-      "longitude": 8.8644,
-      "latitude": 9.7697
+      "longitude": 8.8496,
+      "latitude": 9.7711
     },
     {
       "block_id": "88f82a3f073e-50",
@@ -5800,8 +5807,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 15:11:34",
-      "longitude": 8.8246,
-      "latitude": 9.7173
+      "longitude": 8.8301,
+      "latitude": 9.7088
     },
     {
       "block_id": "88f82a3f073e-51",
@@ -5901,8 +5908,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 15:17:14",
-      "longitude": 8.8439,
-      "latitude": 9.7228
+      "longitude": 8.84,
+      "latitude": 9.7097
     },
     {
       "block_id": "88f82a3f073e-52",
@@ -6003,8 +6010,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 08:32:39",
-      "longitude": 8.8451,
-      "latitude": 9.7156
+      "longitude": 8.8294,
+      "latitude": 9.7117
     },
     {
       "block_id": "88f82a3f073e-53",
@@ -6104,8 +6111,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 12:30:09",
-      "longitude": 8.8299,
-      "latitude": 9.7144
+      "longitude": 8.8344,
+      "latitude": 9.7311
     },
     {
       "block_id": "88f82a3f073e-54",
@@ -6207,8 +6214,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 12:24:27",
-      "longitude": 8.8453,
-      "latitude": 9.7115
+      "longitude": 8.8525,
+      "latitude": 9.7276
     },
     {
       "block_id": "88f82a3f073e-55",
@@ -6308,8 +6315,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 11:25:31",
-      "longitude": 8.8427,
-      "latitude": 9.7134
+      "longitude": 8.844,
+      "latitude": 9.6983
     },
     {
       "block_id": "88f82a3f073e-56",
@@ -6410,8 +6417,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 12:17:20",
-      "longitude": 8.8358,
-      "latitude": 9.7605
+      "longitude": 8.8314,
+      "latitude": 9.7477
     },
     {
       "block_id": "88f82a3f073e-57",
@@ -6512,8 +6519,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 08:28:05",
-      "longitude": 8.8531,
-      "latitude": 9.7086
+      "longitude": 8.8385,
+      "latitude": 9.704
     },
     {
       "block_id": "88f82a3f073e-58",
@@ -6614,8 +6621,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 15:34:58",
-      "longitude": 8.8496,
-      "latitude": 9.7223
+      "longitude": 8.8472,
+      "latitude": 9.6994
     },
     {
       "block_id": "88f82a3f073e-59",
@@ -6716,8 +6723,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 09:14:06",
-      "longitude": 8.8367,
-      "latitude": 9.7573
+      "longitude": 8.8417,
+      "latitude": 9.7601
     },
     {
       "block_id": "88f82a3f073e-60",
@@ -6817,8 +6824,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 15:41:35",
-      "longitude": 8.852,
-      "latitude": 9.7193
+      "longitude": 8.8374,
+      "latitude": 9.7247
     },
     {
       "block_id": "88f82a3f073e-61",
@@ -6906,8 +6913,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:28:05",
-      "longitude": 8.936,
-      "latitude": 9.6301
+      "longitude": 8.9252,
+      "latitude": 9.6339
     },
     {
       "block_id": "88f82a3f073e-62",
@@ -6995,8 +7002,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:30:03",
-      "longitude": 8.921,
-      "latitude": 9.5703
+      "longitude": 8.9178,
+      "latitude": 9.5762
     },
     {
       "block_id": "88f82a3f073e-63",
@@ -7084,8 +7091,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:31:35",
-      "longitude": 8.9276,
-      "latitude": 9.6318
+      "longitude": 8.9342,
+      "latitude": 9.6258
     },
     {
       "block_id": "88f82a3f073e-64",
@@ -7174,8 +7181,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:33:15",
-      "longitude": 8.9931,
-      "latitude": 9.5243
+      "longitude": 8.9794,
+      "latitude": 9.513
     },
     {
       "block_id": "88f82a3f073e-65",
@@ -7263,8 +7270,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:34:24",
-      "longitude": 8.887,
-      "latitude": 9.5993
+      "longitude": 8.8862,
+      "latitude": 9.6007
     },
     {
       "block_id": "88f82a3f073e-66",
@@ -7352,8 +7359,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:35:51",
-      "longitude": 8.9581,
-      "latitude": 9.5144
+      "longitude": 8.972,
+      "latitude": 9.5215
     },
     {
       "block_id": "88f82a3f073e-67",
@@ -7441,8 +7448,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:37:00",
-      "longitude": 8.9046,
-      "latitude": 9.6956
+      "longitude": 8.9138,
+      "latitude": 9.691
     },
     {
       "block_id": "88f82a3f073e-68",
@@ -7531,8 +7538,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:38:40",
-      "longitude": 8.9295,
-      "latitude": 9.5946
+      "longitude": 8.9409,
+      "latitude": 9.5799
     },
     {
       "block_id": "88f82a3f073e-69",
@@ -7620,8 +7627,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:40:17",
-      "longitude": 8.9364,
-      "latitude": 9.639
+      "longitude": 8.9195,
+      "latitude": 9.6319
     },
     {
       "block_id": "88f82a3f073e-70",
@@ -7711,8 +7718,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:41:53",
-      "longitude": 9.0021,
-      "latitude": 9.5077
+      "longitude": 9.0068,
+      "latitude": 9.5075
     },
     {
       "block_id": "88f82a3f073e-71",
@@ -7800,8 +7807,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:43:05",
-      "longitude": 8.8982,
-      "latitude": 9.6874
+      "longitude": 8.902,
+      "latitude": 9.6769
     },
     {
       "block_id": "88f82a3f073e-72",
@@ -7888,8 +7895,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:44:38",
-      "longitude": 8.8969,
-      "latitude": 9.556
+      "longitude": 8.9114,
+      "latitude": 9.5446
     },
     {
       "block_id": "88f82a3f073e-73",
@@ -7978,8 +7985,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:45:59",
-      "longitude": 8.9498,
-      "latitude": 9.5996
+      "longitude": 8.9341,
+      "latitude": 9.5998
     },
     {
       "block_id": "88f82a3f073e-74",
@@ -8070,8 +8077,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:47:03",
-      "longitude": 8.9825,
-      "latitude": 9.5068
+      "longitude": 8.9906,
+      "latitude": 9.5319
     },
     {
       "block_id": "88f82a3f073e-75",
@@ -8159,8 +8166,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:48:23",
-      "longitude": 8.9116,
-      "latitude": 9.569
+      "longitude": 8.9082,
+      "latitude": 9.5719
     },
     {
       "block_id": "88f82a3f073e-76",
@@ -8248,8 +8255,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:49:46",
-      "longitude": 8.8919,
-      "latitude": 9.5828
+      "longitude": 8.8845,
+      "latitude": 9.5824
     },
     {
       "block_id": "88f82a3f073e-77",
@@ -8337,8 +8344,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:52:02",
-      "longitude": 8.9579,
-      "latitude": 9.5899
+      "longitude": 8.9633,
+      "latitude": 9.5894
     },
     {
       "block_id": "88f82a3f073e-78",
@@ -8426,8 +8433,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:53:52",
-      "longitude": 8.922,
-      "latitude": 9.5802
+      "longitude": 8.9136,
+      "latitude": 9.5691
     },
     {
       "block_id": "88f82a3f073e-79",
@@ -8515,8 +8522,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:55:22",
-      "longitude": 8.9075,
-      "latitude": 9.6905
+      "longitude": 8.9143,
+      "latitude": 9.6741
     },
     {
       "block_id": "88f82a3f073e-80",
@@ -8604,8 +8611,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:57:47",
-      "longitude": 8.9026,
-      "latitude": 9.6895
+      "longitude": 8.9036,
+      "latitude": 9.6764
     },
     {
       "block_id": "88f82a3f073e-81",
@@ -8695,8 +8702,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 12:59:00",
-      "longitude": 8.9902,
-      "latitude": 9.5112
+      "longitude": 8.9974,
+      "latitude": 9.5246
     },
     {
       "block_id": "88f82a3f073e-82",
@@ -8785,8 +8792,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 13:00:41",
-      "longitude": 8.9579,
-      "latitude": 9.5983
+      "longitude": 8.9427,
+      "latitude": 9.5809
     },
     {
       "block_id": "88f82a3f073e-83",
@@ -8875,8 +8882,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 13:02:34",
-      "longitude": 8.9276,
-      "latitude": 9.597
+      "longitude": 8.9509,
+      "latitude": 9.5993
     },
     {
       "block_id": "88f82a3f073e-84",
@@ -8964,8 +8971,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 13:04:29",
-      "longitude": 8.9009,
-      "latitude": 9.5678
+      "longitude": 8.9122,
+      "latitude": 9.5707
     },
     {
       "block_id": "88f82a3f073e-85",
@@ -9053,8 +9060,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 13:05:50",
-      "longitude": 8.8985,
-      "latitude": 9.6795
+      "longitude": 8.9115,
+      "latitude": 9.6732
     },
     {
       "block_id": "88f82a3f073e-86",
@@ -9142,8 +9149,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:42:10",
-      "longitude": 8.9532,
-      "latitude": 9.626
+      "longitude": 8.9463,
+      "latitude": 9.6358
     },
     {
       "block_id": "88f82a3f073e-87",
@@ -9231,8 +9238,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:53:59",
-      "longitude": 8.9211,
-      "latitude": 9.7096
+      "longitude": 8.9142,
+      "latitude": 9.7157
     },
     {
       "block_id": "88f82a3f073e-88",
@@ -9320,8 +9327,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:38:16",
-      "longitude": 8.8847,
-      "latitude": 9.5987
+      "longitude": 8.8918,
+      "latitude": 9.5794
     },
     {
       "block_id": "88f82a3f073e-89",
@@ -9411,8 +9418,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:23:47",
-      "longitude": 9.0032,
-      "latitude": 9.4629
+      "longitude": 8.9945,
+      "latitude": 9.4657
     },
     {
       "block_id": "88f82a3f073e-90",
@@ -9500,8 +9507,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:56:11",
-      "longitude": 8.9071,
-      "latitude": 9.7096
+      "longitude": 8.9205,
+      "latitude": 9.699
     },
     {
       "block_id": "88f82a3f073e-91",
@@ -9589,8 +9596,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:46:01",
-      "longitude": 8.9471,
-      "latitude": 9.6237
+      "longitude": 8.9341,
+      "latitude": 9.6311
     },
     {
       "block_id": "88f82a3f073e-92",
@@ -9678,8 +9685,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:44:16",
-      "longitude": 8.9331,
-      "latitude": 9.6178
+      "longitude": 8.9455,
+      "latitude": 9.6347
     },
     {
       "block_id": "88f82a3f073e-93",
@@ -9767,8 +9774,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:57:50",
-      "longitude": 8.9062,
-      "latitude": 9.7248
+      "longitude": 8.9118,
+      "latitude": 9.7288
     },
     {
       "block_id": "88f82a3f073e-94",
@@ -9861,8 +9868,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:25:53",
-      "longitude": 9.0077,
-      "latitude": 9.4739
+      "longitude": 8.9976,
+      "latitude": 9.4741
     },
     {
       "block_id": "88f82a3f073e-95",
@@ -9951,8 +9958,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:30:14",
-      "longitude": 8.9674,
-      "latitude": 9.4836
+      "longitude": 8.9774,
+      "latitude": 9.4839
     },
     {
       "block_id": "88f82a3f073e-96",
@@ -10041,8 +10048,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:31:54",
-      "longitude": 8.9993,
-      "latitude": 9.4689
+      "longitude": 9.0083,
+      "latitude": 9.4777
     },
     {
       "block_id": "88f82a3f073e-97",
@@ -10130,8 +10137,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 19:52:12",
-      "longitude": 8.9294,
-      "latitude": 9.6285
+      "longitude": 8.9497,
+      "latitude": 9.6194
     },
     {
       "block_id": "88f82a3f073e-98",
@@ -10219,8 +10226,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:59:19",
-      "longitude": 8.8954,
-      "latitude": 9.7197
+      "longitude": 8.8988,
+      "latitude": 9.729
     },
     {
       "block_id": "88f82a3f073e-99",
@@ -10309,8 +10316,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 20:02:52",
-      "longitude": 8.8995,
-      "latitude": 9.5476
+      "longitude": 8.9092,
+      "latitude": 9.5436
     },
     {
       "block_id": "88f82a3f073e-100",
@@ -10398,8 +10405,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:33:59",
-      "longitude": 8.9016,
-      "latitude": 9.6066
+      "longitude": 8.9061,
+      "latitude": 9.6061
     },
     {
       "block_id": "88f82a3f073e-101",
@@ -10487,8 +10494,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:48:32",
-      "longitude": 8.9334,
-      "latitude": 9.6288
+      "longitude": 8.9461,
+      "latitude": 9.626
     },
     {
       "block_id": "88f82a3f073e-102",
@@ -10578,8 +10585,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:27:42",
-      "longitude": 8.9759,
-      "latitude": 9.4776
+      "longitude": 8.9877,
+      "latitude": 9.49
     },
     {
       "block_id": "88f82a3f073e-103",
@@ -10668,8 +10675,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 20:01:14",
-      "longitude": 8.902,
-      "latitude": 9.5504
+      "longitude": 8.8869,
+      "latitude": 9.5492
     },
     {
       "block_id": "88f82a3f073e-104",
@@ -10757,8 +10764,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:18:37",
-      "longitude": 8.9143,
-      "latitude": 9.585
+      "longitude": 8.9107,
+      "latitude": 9.5777
     },
     {
       "block_id": "88f82a3f073e-105",
@@ -10846,8 +10853,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:20:47",
-      "longitude": 8.9343,
-      "latitude": 9.5826
+      "longitude": 8.9299,
+      "latitude": 9.5896
     },
     {
       "block_id": "88f82a3f073e-106",
@@ -10935,7 +10942,7 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 20:04:27",
-      "longitude": 8.9062,
+      "longitude": 8.912,
       "latitude": 9.5477
     },
     {
@@ -11024,8 +11031,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 18:57:12",
-      "longitude": 8.9062,
-      "latitude": 9.5964
+      "longitude": 8.9033,
+      "latitude": 9.594
     },
     {
       "block_id": "88f82a3f073e-108",
@@ -11114,8 +11121,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:36:21",
-      "longitude": 8.8892,
-      "latitude": 9.6028
+      "longitude": 8.8821,
+      "latitude": 9.6031
     },
     {
       "block_id": "88f82a3f073e-109",
@@ -11203,8 +11210,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:16:01",
-      "longitude": 8.9169,
-      "latitude": 9.564
+      "longitude": 8.9213,
+      "latitude": 9.572
     },
     {
       "block_id": "88f82a3f073e-110",
@@ -11292,8 +11299,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 19:40:02",
-      "longitude": 8.8957,
-      "latitude": 9.612
+      "longitude": 8.9059,
+      "latitude": 9.611
     },
     {
       "block_id": "88f82a3f073e-111",
@@ -11389,8 +11396,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 10:52:37",
-      "longitude": 9.0917,
-      "latitude": 9.5004
+      "longitude": 9.1145,
+      "latitude": 9.5013
     },
     {
       "block_id": "88f82a3f073e-112",
@@ -11485,8 +11492,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 10:54:33",
-      "longitude": 9.1645,
-      "latitude": 9.4712
+      "longitude": 9.1616,
+      "latitude": 9.481
     },
     {
       "block_id": "88f82a3f073e-113",
@@ -11581,8 +11588,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 10:56:11",
-      "longitude": 9.1589,
-      "latitude": 9.4958
+      "longitude": 9.1447,
+      "latitude": 9.5009
     },
     {
       "block_id": "88f82a3f073e-114",
@@ -11677,8 +11684,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:03:47",
-      "longitude": 9.1395,
-      "latitude": 9.4815
+      "longitude": 9.1535,
+      "latitude": 9.4892
     },
     {
       "block_id": "88f82a3f073e-115",
@@ -11772,8 +11779,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 11:27:42",
-      "longitude": 9.1926,
-      "latitude": 9.3347
+      "longitude": 9.204,
+      "latitude": 9.316
     },
     {
       "block_id": "88f82a3f073e-116",
@@ -11877,8 +11884,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:29:34",
-      "longitude": 9.1407,
-      "latitude": 9.2593
+      "longitude": 9.1563,
+      "latitude": 9.2733
     },
     {
       "block_id": "88f82a3f073e-117",
@@ -11974,8 +11981,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:06:24",
-      "longitude": 9.1466,
-      "latitude": 9.5205
+      "longitude": 9.1583,
+      "latitude": 9.534
     },
     {
       "block_id": "88f82a3f073e-118",
@@ -12073,8 +12080,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:20:14",
-      "longitude": 9.2163,
-      "latitude": 9.3375
+      "longitude": 9.2271,
+      "latitude": 9.3463
     },
     {
       "block_id": "88f82a3f073e-119",
@@ -12170,8 +12177,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:22:24",
-      "longitude": 9.193,
-      "latitude": 9.3946
+      "longitude": 9.2131,
+      "latitude": 9.403
     },
     {
       "block_id": "88f82a3f073e-120",
@@ -12269,8 +12276,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:24:04",
-      "longitude": 9.2143,
-      "latitude": 9.3195
+      "longitude": 9.2045,
+      "latitude": 9.3072
     },
     {
       "block_id": "88f82a3f073e-121",
@@ -12379,8 +12386,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:08:03",
-      "longitude": 9.1493,
-      "latitude": 9.5029
+      "longitude": 9.1392,
+      "latitude": 9.5096
     },
     {
       "block_id": "88f82a3f073e-123",
@@ -12474,8 +12481,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 11:09:31",
-      "longitude": 9.1401,
-      "latitude": 9.4957
+      "longitude": 9.1378,
+      "latitude": 9.4915
     },
     {
       "block_id": "88f82a3f073e-124",
@@ -12571,8 +12578,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 11:10:47",
-      "longitude": 9.1458,
-      "latitude": 9.4812
+      "longitude": 9.1383,
+      "latitude": 9.4874
     },
     {
       "block_id": "88f82a3f073e-125",
@@ -12667,8 +12674,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:27:03",
-      "longitude": 9.1939,
-      "latitude": 9.2782
+      "longitude": 9.1894,
+      "latitude": 9.3005
     },
     {
       "block_id": "88f82a3f073e-126",
@@ -12765,8 +12772,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:12:09",
-      "longitude": 9.1513,
-      "latitude": 9.4839
+      "longitude": 9.16,
+      "latitude": 9.4814
     },
     {
       "block_id": "88f82a3f073e-127",
@@ -12863,8 +12870,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:31:03",
-      "longitude": 9.1897,
-      "latitude": 9.3878
+      "longitude": 9.19,
+      "latitude": 9.382
     },
     {
       "block_id": "88f82a3f073e-128",
@@ -12961,8 +12968,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 11:13:36",
-      "longitude": 9.142,
-      "latitude": 9.4957
+      "longitude": 9.1578,
+      "latitude": 9.4874
     },
     {
       "block_id": "88f82a3f073e-129",
@@ -13061,8 +13068,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:16:42",
-      "longitude": 9.1432,
-      "latitude": 9.4807
+      "longitude": 9.1604,
+      "latitude": 9.48
     },
     {
       "block_id": "88f82a3f073e-130",
@@ -13162,8 +13169,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 19:17:25",
-      "longitude": 9.1701,
-      "latitude": 9.2839
+      "longitude": 9.1716,
+      "latitude": 9.2723
     },
     {
       "block_id": "88f82a3f073e-131",
@@ -13260,8 +13267,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 11:18:01",
-      "longitude": 9.1226,
-      "latitude": 9.4565
+      "longitude": 9.1246,
+      "latitude": 9.4506
     },
     {
       "block_id": "88f82a3f073e-132",
@@ -13357,8 +13364,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 11:32:40",
-      "longitude": 9.2134,
-      "latitude": 9.3445
+      "longitude": 9.228,
+      "latitude": 9.3436
     },
     {
       "block_id": "88f82a3f073e-133",
@@ -13454,8 +13461,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 11:34:39",
-      "longitude": 9.2337,
-      "latitude": 9.3632
+      "longitude": 9.2138,
+      "latitude": 9.3452
     },
     {
       "block_id": "88f82a3f073e-134",
@@ -13552,8 +13559,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 11:19:31",
-      "longitude": 9.1645,
-      "latitude": 9.4819
+      "longitude": 9.1479,
+      "latitude": 9.4858
     },
     {
       "block_id": "88f82a3f073e-135",
@@ -13648,8 +13655,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:36:53",
-      "longitude": 9.2993,
-      "latitude": 9.4112
+      "longitude": 9.3219,
+      "latitude": 9.4133
     },
     {
       "block_id": "88f82a3f073e-136",
@@ -13751,8 +13758,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 19:04:45",
-      "longitude": 9.1868,
-      "latitude": 9.2951
+      "longitude": 9.1897,
+      "latitude": 9.2737
     },
     {
       "block_id": "88f82a3f073e-137",
@@ -13853,8 +13860,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 19:35:47",
-      "longitude": 9.1795,
-      "latitude": 9.2914
+      "longitude": 9.1731,
+      "latitude": 9.283
     },
     {
       "block_id": "88f82a3f073e-138",
@@ -13953,8 +13960,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 14:32:15",
-      "longitude": 9.1968,
-      "latitude": 9.3319
+      "longitude": 9.2062,
+      "latitude": 9.3218
     },
     {
       "block_id": "88f82a3f073e-139",
@@ -14050,8 +14057,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 19:56:34",
-      "longitude": 9.2142,
-      "latitude": 9.3062
+      "longitude": 9.2071,
+      "latitude": 9.3023
     },
     {
       "block_id": "88f82a3f073e-140",
@@ -14152,8 +14159,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 14:44:09",
-      "longitude": 9.1719,
-      "latitude": 9.2595
+      "longitude": 9.1747,
+      "latitude": 9.2423
     },
     {
       "block_id": "88f82a3f073e-141",
@@ -14256,8 +14263,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 20:17:10",
-      "longitude": 9.1799,
-      "latitude": 9.2828
+      "longitude": 9.1645,
+      "latitude": 9.2914
     },
     {
       "block_id": "88f82a3f073e-142",
@@ -14359,8 +14366,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 19:52:57",
-      "longitude": 9.167,
-      "latitude": 9.3236
+      "longitude": 9.1906,
+      "latitude": 9.3241
     },
     {
       "block_id": "88f82a3f073e-143",
@@ -14462,8 +14469,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 20:11:17",
-      "longitude": 9.2103,
-      "latitude": 9.3345
+      "longitude": 9.199,
+      "latitude": 9.334
     },
     {
       "block_id": "88f82a3f073e-144",
@@ -14560,8 +14567,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 19:12:19",
-      "longitude": 9.1823,
-      "latitude": 9.3403
+      "longitude": 9.1747,
+      "latitude": 9.3281
     },
     {
       "block_id": "88f82a3f073e-145",
@@ -14662,8 +14669,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 19:31:31",
-      "longitude": 9.2047,
-      "latitude": 9.3415
+      "longitude": 9.1869,
+      "latitude": 9.3553
     },
     {
       "block_id": "88f82a3f073e-146",
@@ -14761,8 +14768,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 14:16:55",
-      "longitude": 9.1976,
-      "latitude": 9.3246
+      "longitude": 9.1942,
+      "latitude": 9.3457
     },
     {
       "block_id": "88f82a3f073e-147",
@@ -14863,8 +14870,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 14:26:01",
-      "longitude": 9.1832,
-      "latitude": 9.2868
+      "longitude": 9.1841,
+      "latitude": 9.3052
     },
     {
       "block_id": "88f82a3f073e-148",
@@ -14960,8 +14967,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 19:08:49",
-      "longitude": 9.1747,
-      "latitude": 9.3448
+      "longitude": 9.1881,
+      "latitude": 9.3282
     },
     {
       "block_id": "88f82a3f073e-149",
@@ -15064,8 +15071,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 20:29:20",
-      "longitude": 9.2309,
-      "latitude": 9.3488
+      "longitude": 9.2416,
+      "latitude": 9.3441
     },
     {
       "block_id": "88f82a3f073e-150",
@@ -15163,8 +15170,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 19:49:25",
-      "longitude": 9.1995,
-      "latitude": 9.3417
+      "longitude": 9.2192,
+      "latitude": 9.3403
     },
     {
       "block_id": "88f82a3f073e-151",
@@ -15265,8 +15272,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 20:21:58",
-      "longitude": 9.1528,
-      "latitude": 9.4965
+      "longitude": 9.1542,
+      "latitude": 9.4721
     },
     {
       "block_id": "88f82a3f073e-152",
@@ -15367,8 +15374,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 19:22:04",
-      "longitude": 9.1631,
-      "latitude": 9.3507
+      "longitude": 9.1623,
+      "latitude": 9.353
     },
     {
       "block_id": "88f82a3f073e-153",
@@ -15451,8 +15458,8 @@
       "harvest_management": "None",
       "harvest_managementprioritized": "Treated Equally",
       "harvest_survey_end": "2023-10-27 10:48:08",
-      "longitude": 9.1667,
-      "latitude": 9.2547
+      "longitude": 9.1717,
+      "latitude": 9.2678
     },
     {
       "block_id": "88f82a3f073e-154",
@@ -15547,8 +15554,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 14:21:42",
-      "longitude": 9.1697,
-      "latitude": 9.3077
+      "longitude": 9.1651,
+      "latitude": 9.3246
     },
     {
       "block_id": "88f82a3f073e-155",
@@ -15646,8 +15653,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 19:44:07",
-      "longitude": 9.2032,
-      "latitude": 9.3051
+      "longitude": 9.1923,
+      "latitude": 9.3072
     },
     {
       "block_id": "88f82a3f073e-156",
@@ -15741,8 +15748,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:39:02",
-      "longitude": 9.2201,
-      "latitude": 9.4167
+      "longitude": 9.2295,
+      "latitude": 9.4064
     },
     {
       "block_id": "88f82a3f073e-157",
@@ -15836,8 +15843,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:40:36",
-      "longitude": 9.2822,
-      "latitude": 9.411
+      "longitude": 9.2918,
+      "latitude": 9.4229
     },
     {
       "block_id": "88f82a3f073e-158",
@@ -15934,8 +15941,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:42:57",
-      "longitude": 9.2899,
-      "latitude": 9.4141
+      "longitude": 9.3065,
+      "latitude": 9.4282
     },
     {
       "block_id": "88f82a3f073e-159",
@@ -16029,8 +16036,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:44:34",
-      "longitude": 9.2828,
-      "latitude": 9.4006
+      "longitude": 9.2787,
+      "latitude": 9.4121
     },
     {
       "block_id": "88f82a3f073e-160",
@@ -16129,8 +16136,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:46:26",
-      "longitude": 9.2875,
-      "latitude": 9.4061
+      "longitude": 9.2947,
+      "latitude": 9.4038
     },
     {
       "block_id": "88f82a3f073e-161",
@@ -16227,8 +16234,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:20:45",
-      "longitude": 9.151,
-      "latitude": 9.498
+      "longitude": 9.1559,
+      "latitude": 9.4907
     },
     {
       "block_id": "88f82a3f073e-162",
@@ -16323,8 +16330,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 11:51:15",
-      "longitude": 9.2814,
-      "latitude": 9.4002
+      "longitude": 9.2771,
+      "latitude": 9.4004
     },
     {
       "block_id": "88f82a3f073e-163",
@@ -16498,8 +16505,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:52:37",
-      "longitude": 9.2796,
-      "latitude": 9.4045
+      "longitude": 9.2617,
+      "latitude": 9.4081
     },
     {
       "block_id": "88f82a3f073e-165",
@@ -16594,8 +16601,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:55:45",
-      "longitude": 9.255,
-      "latitude": 9.4226
+      "longitude": 9.236,
+      "latitude": 9.4256
     },
     {
       "block_id": "88f82a3f073e-166",
@@ -16690,8 +16697,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:57:00",
-      "longitude": 9.1841,
-      "latitude": 9.3992
+      "longitude": 9.1983,
+      "latitude": 9.3921
     },
     {
       "block_id": "88f82a3f073e-167",
@@ -16785,8 +16792,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 11:58:22",
-      "longitude": 9.2454,
-      "latitude": 9.4248
+      "longitude": 9.2251,
+      "latitude": 9.4145
     },
     {
       "block_id": "88f82a3f073e-168",
@@ -16881,8 +16888,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 11:59:47",
-      "longitude": 9.2301,
-      "latitude": 9.4255
+      "longitude": 9.2329,
+      "latitude": 9.4253
     },
     {
       "block_id": "88f82a3f073e-169",
@@ -16978,8 +16985,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:22:14",
-      "longitude": 9.1539,
-      "latitude": 9.4976
+      "longitude": 9.138,
+      "latitude": 9.4884
     },
     {
       "block_id": "88f82a3f073e-170",
@@ -17075,8 +17082,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 11:23:29",
-      "longitude": 9.1807,
-      "latitude": 9.438
+      "longitude": 9.1793,
+      "latitude": 9.4418
     },
     {
       "block_id": "88f82a3f073e-171",
@@ -17171,8 +17178,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 12:01:32",
-      "longitude": 9.2168,
-      "latitude": 9.4046
+      "longitude": 9.2142,
+      "latitude": 9.3958
     },
     {
       "block_id": "88f82a3f073e-172",
@@ -17231,8 +17238,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 12:02:51",
-      "longitude": 9.2086,
-      "latitude": 9.4237
+      "longitude": 9.2061,
+      "latitude": 9.4259
     },
     {
       "block_id": "88f82a3f073e-173",
@@ -17322,8 +17329,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 12:04:17",
-      "longitude": 9.188,
-      "latitude": 9.2913
+      "longitude": 9.1896,
+      "latitude": 9.3171
     },
     {
       "block_id": "88f82a3f073e-174",
@@ -17418,8 +17425,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:24:49",
-      "longitude": 9.1184,
-      "latitude": 9.4394
+      "longitude": 9.1277,
+      "latitude": 9.4596
     },
     {
       "block_id": "88f82a3f073e-175",
@@ -17516,8 +17523,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:26:47",
-      "longitude": 9.1557,
-      "latitude": 9.4422
+      "longitude": 9.1498,
+      "latitude": 9.453
     },
     {
       "block_id": "88f82a3f073e-176",
@@ -17612,8 +17619,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:28:06",
-      "longitude": 9.1386,
-      "latitude": 9.4439
+      "longitude": 9.1578,
+      "latitude": 9.436
     },
     {
       "block_id": "88f82a3f073e-177",
@@ -17708,8 +17715,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:29:12",
-      "longitude": 9.2405,
-      "latitude": 9.5845
+      "longitude": 9.2236,
+      "latitude": 9.5974
     },
     {
       "block_id": "88f82a3f073e-178",
@@ -17805,8 +17812,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-19 11:30:20",
-      "longitude": 9.2305,
-      "latitude": 9.5867
+      "longitude": 9.2251,
+      "latitude": 9.5793
     },
     {
       "block_id": "88f82a3f073e-179",
@@ -17901,8 +17908,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 11:31:16",
-      "longitude": 9.2433,
-      "latitude": 9.5659
+      "longitude": 9.2355,
+      "latitude": 9.575
     },
     {
       "block_id": "88f82a3f073e-180",
@@ -17999,8 +18006,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-19 11:32:05",
-      "longitude": 9.1497,
-      "latitude": 9.4394
+      "longitude": 9.1406,
+      "latitude": 9.4436
     },
     {
       "block_id": "88f82a3f073e-181",
@@ -18101,8 +18108,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:04:37",
-      "longitude": 8.9761,
-      "latitude": 9.335
+      "longitude": 8.9677,
+      "latitude": 9.3329
     },
     {
       "block_id": "88f82a3f073e-182",
@@ -18200,8 +18207,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 14:04:58",
-      "longitude": 8.9603,
-      "latitude": 9.3344
+      "longitude": 8.9746,
+      "latitude": 9.3423
     },
     {
       "block_id": "88f82a3f073e-183",
@@ -18302,8 +18309,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:05:17",
-      "longitude": 8.9832,
-      "latitude": 9.3235
+      "longitude": 8.9802,
+      "latitude": 9.3369
     },
     {
       "block_id": "88f82a3f073e-184",
@@ -18403,8 +18410,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:05:58",
-      "longitude": 8.962,
-      "latitude": 9.3546
+      "longitude": 8.9817,
+      "latitude": 9.3514
     },
     {
       "block_id": "88f82a3f073e-185",
@@ -18504,8 +18511,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 14:06:25",
-      "longitude": 8.9581,
-      "latitude": 9.3435
+      "longitude": 8.9632,
+      "latitude": 9.3291
     },
     {
       "block_id": "88f82a3f073e-186",
@@ -18607,8 +18614,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:06:53",
-      "longitude": 8.9628,
-      "latitude": 9.311
+      "longitude": 8.9698,
+      "latitude": 9.3139
     },
     {
       "block_id": "88f82a3f073e-187",
@@ -18710,8 +18717,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 15:11:43",
-      "longitude": 8.9713,
-      "latitude": 9.3579
+      "longitude": 8.9723,
+      "latitude": 9.364
     },
     {
       "block_id": "88f82a3f073e-188",
@@ -18812,8 +18819,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:07:28",
-      "longitude": 8.9756,
-      "latitude": 9.3484
+      "longitude": 8.9656,
+      "latitude": 9.3604
     },
     {
       "block_id": "88f82a3f073e-189",
@@ -18913,8 +18920,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:07:48",
-      "longitude": 8.9745,
-      "latitude": 9.312
+      "longitude": 8.9821,
+      "latitude": 9.3093
     },
     {
       "block_id": "88f82a3f073e-190",
@@ -19014,8 +19021,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:08:09",
-      "longitude": 8.9745,
-      "latitude": 9.3388
+      "longitude": 8.9751,
+      "latitude": 9.3285
     },
     {
       "block_id": "88f82a3f073e-191",
@@ -19116,8 +19123,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:08:46",
-      "longitude": 8.9415,
-      "latitude": 9.355
+      "longitude": 8.9536,
+      "latitude": 9.3491
     },
     {
       "block_id": "88f82a3f073e-192",
@@ -19218,8 +19225,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:09:11",
-      "longitude": 8.9754,
-      "latitude": 9.3462
+      "longitude": 8.9681,
+      "latitude": 9.3507
     },
     {
       "block_id": "88f82a3f073e-193",
@@ -19321,8 +19328,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:09:55",
-      "longitude": 8.9685,
-      "latitude": 9.341
+      "longitude": 8.9649,
+      "latitude": 9.3233
     },
     {
       "block_id": "88f82a3f073e-194",
@@ -19423,8 +19430,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:10:34",
-      "longitude": 8.9527,
-      "latitude": 9.3474
+      "longitude": 8.9714,
+      "latitude": 9.3478
     },
     {
       "block_id": "88f82a3f073e-195",
@@ -19526,8 +19533,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 14:10:59",
-      "longitude": 8.9418,
-      "latitude": 9.328
+      "longitude": 8.9475,
+      "latitude": 9.3342
     },
     {
       "block_id": "88f82a3f073e-196",
@@ -19628,8 +19635,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 14:12:18",
-      "longitude": 8.9674,
-      "latitude": 9.3594
+      "longitude": 8.954,
+      "latitude": 9.3579
     },
     {
       "block_id": "88f82a3f073e-197",
@@ -19730,8 +19737,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:13:12",
-      "longitude": 8.9602,
-      "latitude": 9.3566
+      "longitude": 8.9653,
+      "latitude": 9.3469
     },
     {
       "block_id": "88f82a3f073e-198",
@@ -19832,8 +19839,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:13:35",
-      "longitude": 8.9683,
-      "latitude": 9.4038
+      "longitude": 8.9646,
+      "latitude": 9.4012
     },
     {
       "block_id": "88f82a3f073e-199",
@@ -19934,8 +19941,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:13:56",
-      "longitude": 8.9428,
-      "latitude": 9.3356
+      "longitude": 8.9419,
+      "latitude": 9.3558
     },
     {
       "block_id": "88f82a3f073e-200",
@@ -20037,8 +20044,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:14:27",
-      "longitude": 8.9671,
-      "latitude": 9.3451
+      "longitude": 8.9542,
+      "latitude": 9.3501
     },
     {
       "block_id": "88f82a3f073e-201",
@@ -20139,8 +20146,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:15:00",
-      "longitude": 8.9788,
-      "latitude": 9.3291
+      "longitude": 8.9688,
+      "latitude": 9.3261
     },
     {
       "block_id": "88f82a3f073e-202",
@@ -20241,8 +20248,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:15:21",
-      "longitude": 8.9557,
-      "latitude": 9.4117
+      "longitude": 8.9476,
+      "latitude": 9.4131
     },
     {
       "block_id": "88f82a3f073e-203",
@@ -20342,8 +20349,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:16:53",
-      "longitude": 8.9619,
-      "latitude": 9.3442
+      "longitude": 8.9581,
+      "latitude": 9.3501
     },
     {
       "block_id": "88f82a3f073e-204",
@@ -20445,8 +20452,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:17:25",
-      "longitude": 8.9632,
-      "latitude": 9.3318
+      "longitude": 8.9726,
+      "latitude": 9.3153
     },
     {
       "block_id": "88f82a3f073e-205",
@@ -20546,8 +20553,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:18:06",
-      "longitude": 8.9409,
-      "latitude": 9.3369
+      "longitude": 8.9526,
+      "latitude": 9.3524
     },
     {
       "block_id": "88f82a3f073e-206",
@@ -20648,8 +20655,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-21 17:02:25",
-      "longitude": 8.9849,
-      "latitude": 9.3553
+      "longitude": 8.9809,
+      "latitude": 9.3519
     },
     {
       "block_id": "88f82a3f073e-207",
@@ -20750,8 +20757,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 14:19:01",
-      "longitude": 8.9653,
-      "latitude": 9.3409
+      "longitude": 8.9793,
+      "latitude": 9.3343
     },
     {
       "block_id": "88f82a3f073e-208",
@@ -20852,8 +20859,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:19:22",
-      "longitude": 8.9794,
-      "latitude": 9.4133
+      "longitude": 8.9824,
+      "latitude": 9.4183
     },
     {
       "block_id": "88f82a3f073e-209",
@@ -20954,8 +20961,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 14:19:42",
-      "longitude": 8.9595,
-      "latitude": 9.3283
+      "longitude": 8.9561,
+      "latitude": 9.3287
     },
     {
       "block_id": "88f82a3f073e-210",
@@ -21056,8 +21063,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 14:20:07",
-      "longitude": 8.9523,
-      "latitude": 9.3411
+      "longitude": 8.9604,
+      "latitude": 9.3426
     },
     {
       "block_id": "88f82a3f073e-211",
@@ -21153,8 +21160,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 21:22:38",
-      "longitude": 8.9922,
-      "latitude": 9.299
+      "longitude": 8.9971,
+      "latitude": 9.2991
     },
     {
       "block_id": "88f82a3f073e-212",
@@ -21244,8 +21251,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 21:23:14",
-      "longitude": 9.0207,
-      "latitude": 9.3737
+      "longitude": 9.0116,
+      "latitude": 9.3576
     },
     {
       "block_id": "88f82a3f073e-213",
@@ -21335,8 +21342,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 21:24:23",
-      "longitude": 8.9585,
-      "latitude": 9.3878
+      "longitude": 8.9564,
+      "latitude": 9.3941
     },
     {
       "block_id": "88f82a3f073e-214",
@@ -21430,8 +21437,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:32:37",
-      "longitude": 8.9189,
-      "latitude": 9.3331
+      "longitude": 8.9422,
+      "latitude": 9.3437
     },
     {
       "block_id": "88f82a3f073e-215",
@@ -21521,8 +21528,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 21:24:58",
-      "longitude": 8.9382,
-      "latitude": 9.3399
+      "longitude": 8.9389,
+      "latitude": 9.3265
     },
     {
       "block_id": "88f82a3f073e-216",
@@ -21612,8 +21619,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 21:23:49",
-      "longitude": 8.8899,
-      "latitude": 9.3643
+      "longitude": 8.8902,
+      "latitude": 9.3743
     },
     {
       "block_id": "88f82a3f073e-217",
@@ -21705,8 +21712,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 21:25:29",
-      "longitude": 8.8926,
-      "latitude": 9.3562
+      "longitude": 8.8775,
+      "latitude": 9.3737
     },
     {
       "block_id": "88f82a3f073e-218",
@@ -21798,8 +21805,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 21:26:11",
-      "longitude": 8.8963,
-      "latitude": 9.2596
+      "longitude": 8.8959,
+      "latitude": 9.2657
     },
     {
       "block_id": "88f82a3f073e-219",
@@ -21895,8 +21902,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:13:06",
-      "longitude": 8.906,
-      "latitude": 9.2475
+      "longitude": 8.9097,
+      "latitude": 9.2414
     },
     {
       "block_id": "88f82a3f073e-220",
@@ -21993,8 +22000,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:14:30",
-      "longitude": 8.8962,
-      "latitude": 9.2565
+      "longitude": 8.9077,
+      "latitude": 9.2622
     },
     {
       "block_id": "88f82a3f073e-221",
@@ -22086,8 +22093,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:15:09",
-      "longitude": 8.8953,
-      "latitude": 9.2335
+      "longitude": 8.9203,
+      "latitude": 9.2406
     },
     {
       "block_id": "88f82a3f073e-222",
@@ -22178,8 +22185,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:15:47",
-      "longitude": 9.0859,
-      "latitude": 9.3348
+      "longitude": 9.0826,
+      "latitude": 9.3279
     },
     {
       "block_id": "88f82a3f073e-223",
@@ -22269,8 +22276,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 22:16:40",
-      "longitude": 9.0743,
-      "latitude": 9.3488
+      "longitude": 9.0762,
+      "latitude": 9.3463
     },
     {
       "block_id": "88f82a3f073e-224",
@@ -22359,8 +22366,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:17:14",
-      "longitude": 9.0439,
-      "latitude": 9.3233
+      "longitude": 9.0385,
+      "latitude": 9.3156
     },
     {
       "block_id": "88f82a3f073e-225",
@@ -22451,7 +22458,7 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:17:50",
-      "longitude": 9.0185,
+      "longitude": 9.0114,
       "latitude": 9.2061
     },
     {
@@ -22543,8 +22550,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:18:22",
-      "longitude": 9.0573,
-      "latitude": 9.2027
+      "longitude": 9.0686,
+      "latitude": 9.2031
     },
     {
       "block_id": "88f82a3f073e-227",
@@ -22634,8 +22641,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:19:02",
-      "longitude": 8.8837,
-      "latitude": 9.3575
+      "longitude": 8.8824,
+      "latitude": 9.3536
     },
     {
       "block_id": "88f82a3f073e-228",
@@ -22729,8 +22736,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-15 22:20:19",
-      "longitude": 8.9719,
-      "latitude": 9.3483
+      "longitude": 8.9714,
+      "latitude": 9.3468
     },
     {
       "block_id": "88f82a3f073e-229",
@@ -22821,8 +22828,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:21:50",
-      "longitude": 8.9099,
-      "latitude": 9.2422
+      "longitude": 8.9129,
+      "latitude": 9.2493
     },
     {
       "block_id": "88f82a3f073e-230",
@@ -22911,8 +22918,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:22:32",
-      "longitude": 8.9058,
-      "latitude": 9.2491
+      "longitude": 8.915,
+      "latitude": 9.2527
     },
     {
       "block_id": "88f82a3f073e-231",
@@ -23004,8 +23011,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:23:13",
-      "longitude": 8.9123,
-      "latitude": 9.3229
+      "longitude": 8.9121,
+      "latitude": 9.3234
     },
     {
       "block_id": "88f82a3f073e-232",
@@ -23097,8 +23104,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:23:47",
-      "longitude": 9.0324,
-      "latitude": 9.3018
+      "longitude": 9.0225,
+      "latitude": 9.299
     },
     {
       "block_id": "88f82a3f073e-233",
@@ -23188,8 +23195,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:24:49",
-      "longitude": 8.9674,
-      "latitude": 9.3302
+      "longitude": 8.9539,
+      "latitude": 9.3491
     },
     {
       "block_id": "88f82a3f073e-234",
@@ -23280,8 +23287,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 21:12:14",
-      "longitude": 9.0025,
-      "latitude": 9.3059
+      "longitude": 8.9854,
+      "latitude": 9.2953
     },
     {
       "block_id": "88f82a3f073e-235",
@@ -23374,8 +23381,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-15 22:25:30",
-      "longitude": 9.0129,
-      "latitude": 9.3103
+      "longitude": 9.0207,
+      "latitude": 9.3212
     },
     {
       "block_id": "88f82a3f073e-236",
@@ -23465,8 +23472,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:26:47",
-      "longitude": 8.9019,
-      "latitude": 9.2435
+      "longitude": 8.9134,
+      "latitude": 9.2497
     },
     {
       "block_id": "88f82a3f073e-237",
@@ -23556,8 +23563,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 19:02:35",
-      "longitude": 9.0375,
-      "latitude": 9.3142
+      "longitude": 9.0234,
+      "latitude": 9.3181
     },
     {
       "block_id": "88f82a3f073e-238",
@@ -23647,8 +23654,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:28:30",
-      "longitude": 8.9966,
-      "latitude": 9.3235
+      "longitude": 8.9887,
+      "latitude": 9.3088
     },
     {
       "block_id": "88f82a3f073e-239",
@@ -23737,8 +23744,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:31:51",
-      "longitude": 8.9713,
-      "latitude": 9.3421
+      "longitude": 8.9537,
+      "latitude": 9.3422
     },
     {
       "block_id": "88f82a3f073e-240",
@@ -23838,8 +23845,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:35:07",
-      "longitude": 8.9649,
-      "latitude": 9.349
+      "longitude": 8.9662,
+      "latitude": 9.3476
     },
     {
       "block_id": "88f82a3f073e-241",
@@ -23929,8 +23936,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:36:50",
-      "longitude": 8.9213,
-      "latitude": 9.3143
+      "longitude": 8.9226,
+      "latitude": 9.3298
     },
     {
       "block_id": "88f82a3f073e-242",
@@ -24020,8 +24027,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:42:00",
-      "longitude": 8.9691,
-      "latitude": 9.3538
+      "longitude": 8.971,
+      "latitude": 9.3494
     },
     {
       "block_id": "88f82a3f073e-243",
@@ -24110,8 +24117,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 13:46:10",
-      "longitude": 8.8646,
-      "latitude": 9.2317
+      "longitude": 8.8715,
+      "latitude": 9.2377
     },
     {
       "block_id": "88f82a3f073e-244",
@@ -24201,8 +24208,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:47:23",
-      "longitude": 8.9666,
-      "latitude": 9.3318
+      "longitude": 8.9658,
+      "latitude": 9.3343
     },
     {
       "block_id": "88f82a3f073e-245",
@@ -24291,8 +24298,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:48:48",
-      "longitude": 8.9733,
-      "latitude": 9.3477
+      "longitude": 8.9606,
+      "latitude": 9.3382
     },
     {
       "block_id": "88f82a3f073e-246",
@@ -24382,8 +24389,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 13:51:10",
-      "longitude": 8.8222,
-      "latitude": 9.205
+      "longitude": 8.8388,
+      "latitude": 9.1926
     },
     {
       "block_id": "88f82a3f073e-247",
@@ -24473,8 +24480,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:54:52",
-      "longitude": 8.9668,
-      "latitude": 9.358
+      "longitude": 8.9707,
+      "latitude": 9.3457
     },
     {
       "block_id": "88f82a3f073e-248",
@@ -24563,8 +24570,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 13:56:37",
-      "longitude": 8.9771,
-      "latitude": 9.3371
+      "longitude": 8.963,
+      "latitude": 9.3396
     },
     {
       "block_id": "88f82a3f073e-249",
@@ -24654,8 +24661,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-16 14:01:10",
-      "longitude": 8.9614,
-      "latitude": 9.3332
+      "longitude": 8.9532,
+      "latitude": 9.3289
     },
     {
       "block_id": "88f82a3f073e-250",
@@ -24744,8 +24751,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-16 14:02:45",
-      "longitude": 9.0236,
-      "latitude": 9.3681
+      "longitude": 9.0241,
+      "latitude": 9.3709
     },
     {
       "block_id": "88f82a3f073e-251",
@@ -24834,8 +24841,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 18:41:43",
-      "longitude": 8.9552,
-      "latitude": 9.3402
+      "longitude": 8.9664,
+      "latitude": 9.336
     },
     {
       "block_id": "88f82a3f073e-252",
@@ -24925,8 +24932,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 18:43:45",
-      "longitude": 8.9477,
-      "latitude": 9.3396
+      "longitude": 8.9595,
+      "latitude": 9.3458
     },
     {
       "block_id": "88f82a3f073e-253",
@@ -25016,8 +25023,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 18:45:31",
-      "longitude": 8.8887,
-      "latitude": 9.355
+      "longitude": 8.8849,
+      "latitude": 9.3587
     },
     {
       "block_id": "88f82a3f073e-254",
@@ -25107,8 +25114,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 18:46:42",
-      "longitude": 9.0248,
-      "latitude": 9.2485
+      "longitude": 9.0308,
+      "latitude": 9.2243
     },
     {
       "block_id": "88f82a3f073e-255",
@@ -25198,8 +25205,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-17 18:48:21",
-      "longitude": 8.9772,
-      "latitude": 9.336
+      "longitude": 8.9577,
+      "latitude": 9.3323
     },
     {
       "block_id": "88f82a3f073e-256",
@@ -25270,8 +25277,8 @@
       "vegetative2_pesticide": "Yes",
       "vegetative2_pesticidefreq": 4,
       "vegetative2_survey_end": "2023-08-10 08:14:14",
-      "longitude": 8.9591,
-      "latitude": 9.3688
+      "longitude": 8.9758,
+      "latitude": 9.3747
     },
     {
       "block_id": "88f82a3f073e-257",
@@ -25362,8 +25369,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 17:56:30",
-      "longitude": 8.959,
-      "latitude": 9.3238
+      "longitude": 8.9696,
+      "latitude": 9.335
     },
     {
       "block_id": "88f82a3f073e-258",
@@ -25452,8 +25459,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 17:58:11",
-      "longitude": 8.9826,
-      "latitude": 9.3289
+      "longitude": 8.9624,
+      "latitude": 9.3209
     },
     {
       "block_id": "88f82a3f073e-259",
@@ -25542,8 +25549,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 17:59:30",
-      "longitude": 9.0364,
-      "latitude": 9.3309
+      "longitude": 9.0292,
+      "latitude": 9.3364
     },
     {
       "block_id": "88f82a3f073e-260",
@@ -25632,8 +25639,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-18 18:00:48",
-      "longitude": 8.9374,
-      "latitude": 9.2984
+      "longitude": 8.9463,
+      "latitude": 9.2979
     },
     {
       "block_id": "88f82a3f073e-261",
@@ -25738,8 +25745,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-20 10:09:27",
-      "longitude": 9.3355,
-      "latitude": 9.3856
+      "longitude": 9.3238,
+      "latitude": 9.3922
     },
     {
       "block_id": "88f82a3f073e-262",
@@ -25844,8 +25851,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-20 10:15:36",
-      "longitude": 9.3446,
-      "latitude": 9.401
+      "longitude": 9.349,
+      "latitude": 9.4007
     },
     {
       "block_id": "88f82a3f073e-263",
@@ -25950,8 +25957,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:20:52",
-      "longitude": 9.3773,
-      "latitude": 9.4156
+      "longitude": 9.3655,
+      "latitude": 9.4055
     },
     {
       "block_id": "88f82a3f073e-264",
@@ -26056,8 +26063,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:24:00",
-      "longitude": 9.3454,
-      "latitude": 9.4108
+      "longitude": 9.3421,
+      "latitude": 9.3942
     },
     {
       "block_id": "88f82a3f073e-265",
@@ -26161,8 +26168,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:29:55",
-      "longitude": 9.3324,
-      "latitude": 9.3971
+      "longitude": 9.3462,
+      "latitude": 9.3922
     },
     {
       "block_id": "88f82a3f073e-266",
@@ -26267,8 +26274,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:33:14",
-      "longitude": 9.3777,
-      "latitude": 9.4129
+      "longitude": 9.3961,
+      "latitude": 9.4137
     },
     {
       "block_id": "88f82a3f073e-267",
@@ -26373,8 +26380,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:35:40",
-      "longitude": 9.3941,
-      "latitude": 9.3955
+      "longitude": 9.3887,
+      "latitude": 9.4157
     },
     {
       "block_id": "88f82a3f073e-268",
@@ -26478,8 +26485,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:37:51",
-      "longitude": 9.4003,
-      "latitude": 9.3962
+      "longitude": 9.3996,
+      "latitude": 9.3897
     },
     {
       "block_id": "88f82a3f073e-269",
@@ -26584,8 +26591,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:39:26",
-      "longitude": 9.3856,
-      "latitude": 9.4337
+      "longitude": 9.3738,
+      "latitude": 9.4366
     },
     {
       "block_id": "88f82a3f073e-270",
@@ -26690,8 +26697,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:41:52",
-      "longitude": 9.3875,
-      "latitude": 9.395
+      "longitude": 9.3971,
+      "latitude": 9.3841
     },
     {
       "block_id": "88f82a3f073e-271",
@@ -26796,7 +26803,7 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:43:55",
-      "longitude": 9.3291,
+      "longitude": 9.349,
       "latitude": 9.3917
     },
     {
@@ -26901,8 +26908,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:45:48",
-      "longitude": 9.3418,
-      "latitude": 9.4039
+      "longitude": 9.3465,
+      "latitude": 9.393
     },
     {
       "block_id": "88f82a3f073e-273",
@@ -27006,8 +27013,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:48:16",
-      "longitude": 9.3514,
-      "latitude": 9.3841
+      "longitude": 9.3257,
+      "latitude": 9.3878
     },
     {
       "block_id": "88f82a3f073e-274",
@@ -27112,8 +27119,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:49:51",
-      "longitude": 9.3623,
-      "latitude": 9.3775
+      "longitude": 9.3694,
+      "latitude": 9.3649
     },
     {
       "block_id": "88f82a3f073e-275",
@@ -27218,8 +27225,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:51:06",
-      "longitude": 9.3716,
-      "latitude": 9.3268
+      "longitude": 9.3845,
+      "latitude": 9.3238
     },
     {
       "block_id": "88f82a3f073e-276",
@@ -27323,8 +27330,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:52:35",
-      "longitude": 9.35,
-      "latitude": 9.3635
+      "longitude": 9.3332,
+      "latitude": 9.3741
     },
     {
       "block_id": "88f82a3f073e-277",
@@ -27429,8 +27436,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:53:53",
-      "longitude": 9.3693,
-      "latitude": 9.3207
+      "longitude": 9.3714,
+      "latitude": 9.3256
     },
     {
       "block_id": "88f82a3f073e-278",
@@ -27535,8 +27542,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:55:18",
-      "longitude": 9.3419,
-      "latitude": 9.4081
+      "longitude": 9.355,
+      "latitude": 9.3993
     },
     {
       "block_id": "88f82a3f073e-279",
@@ -27640,8 +27647,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:57:08",
-      "longitude": 9.443,
-      "latitude": 9.3038
+      "longitude": 9.4319,
+      "latitude": 9.3017
     },
     {
       "block_id": "88f82a3f073e-280",
@@ -27746,8 +27753,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 10:58:24",
-      "longitude": 9.4905,
-      "latitude": 9.3108
+      "longitude": 9.4757,
+      "latitude": 9.3057
     },
     {
       "block_id": "88f82a3f073e-281",
@@ -27844,8 +27851,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-20 16:11:43",
-      "longitude": 9.3714,
-      "latitude": 9.3699
+      "longitude": 9.3552,
+      "latitude": 9.3716
     },
     {
       "block_id": "88f82a3f073e-282",
@@ -27942,8 +27949,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 16:21:23",
-      "longitude": 9.3351,
-      "latitude": 9.3894
+      "longitude": 9.3372,
+      "latitude": 9.3775
     },
     {
       "block_id": "88f82a3f073e-283",
@@ -28041,8 +28048,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-20 16:03:51",
-      "longitude": 9.3408,
-      "latitude": 9.3903
+      "longitude": 9.3573,
+      "latitude": 9.3772
     },
     {
       "block_id": "88f82a3f073e-284",
@@ -28138,8 +28145,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 15:30:01",
-      "longitude": 9.3419,
-      "latitude": 9.3747
+      "longitude": 9.3582,
+      "latitude": 9.3887
     },
     {
       "block_id": "88f82a3f073e-285",
@@ -28236,8 +28243,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-20 16:18:06",
-      "longitude": 9.3933,
-      "latitude": 9.3395
+      "longitude": 9.3801,
+      "latitude": 9.3571
     },
     {
       "block_id": "88f82a3f073e-286",
@@ -28336,8 +28343,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 16:06:04",
-      "longitude": 9.3761,
-      "latitude": 9.3787
+      "longitude": 9.3552,
+      "latitude": 9.3804
     },
     {
       "block_id": "88f82a3f073e-287",
@@ -28439,8 +28446,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 16:08:09",
-      "longitude": 9.3766,
-      "latitude": 9.3736
+      "longitude": 9.3723,
+      "latitude": 9.3712
     },
     {
       "block_id": "88f82a3f073e-288",
@@ -28544,8 +28551,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-20 16:19:55",
-      "longitude": 9.3383,
-      "latitude": 9.3776
+      "longitude": 9.3285,
+      "latitude": 9.369
     },
     {
       "block_id": "88f82a3f073e-289",
@@ -28643,8 +28650,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-20 15:44:01",
-      "longitude": 9.3538,
-      "latitude": 9.3754
+      "longitude": 9.3454,
+      "latitude": 9.3795
     },
     {
       "block_id": "88f82a3f073e-290",
@@ -28743,8 +28750,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-20 16:09:54",
-      "longitude": 9.3841,
-      "latitude": 9.3523
+      "longitude": 9.3845,
+      "latitude": 9.3407
     },
     {
       "block_id": "88f82a3f073e-291",
@@ -28843,8 +28850,8 @@
       "postharvest2_item_B_vs_local": "Worse",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 15:39:47",
-      "longitude": 9.338,
-      "latitude": 9.3728
+      "longitude": 9.337,
+      "latitude": 9.3744
     },
     {
       "block_id": "88f82a3f073e-292",
@@ -28942,8 +28949,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 15:57:25",
-      "longitude": 9.37,
-      "latitude": 9.3494
+      "longitude": 9.3788,
+      "latitude": 9.3392
     },
     {
       "block_id": "88f82a3f073e-293",
@@ -29041,8 +29048,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 15:19:29",
-      "longitude": 9.3874,
-      "latitude": 9.347
+      "longitude": 9.3708,
+      "latitude": 9.3503
     },
     {
       "block_id": "88f82a3f073e-294",
@@ -29139,8 +29146,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 15:46:38",
-      "longitude": 9.386,
-      "latitude": 9.3557
+      "longitude": 9.3999,
+      "latitude": 9.3572
     },
     {
       "block_id": "88f82a3f073e-295",
@@ -29239,8 +29246,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 16:15:33",
-      "longitude": 9.4223,
-      "latitude": 9.3299
+      "longitude": 9.4082,
+      "latitude": 9.33
     },
     {
       "block_id": "88f82a3f073e-296",
@@ -29337,8 +29344,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Worse",
       "postharvest2_survey_end": "2023-11-20 15:32:43",
-      "longitude": 9.4444,
-      "latitude": 9.3274
+      "longitude": 9.4396,
+      "latitude": 9.3182
     },
     {
       "block_id": "88f82a3f073e-297",
@@ -29436,8 +29443,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 16:24:03",
-      "longitude": 9.3641,
-      "latitude": 9.3649
+      "longitude": 9.3629,
+      "latitude": 9.36
     },
     {
       "block_id": "88f82a3f073e-298",
@@ -29534,8 +29541,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 16:01:31",
-      "longitude": 9.418,
-      "latitude": 9.3354
+      "longitude": 9.3937,
+      "latitude": 9.345
     },
     {
       "block_id": "88f82a3f073e-299",
@@ -29632,8 +29639,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-20 15:42:12",
-      "longitude": 9.3939,
-      "latitude": 9.332
+      "longitude": 9.3938,
+      "latitude": 9.331
     },
     {
       "block_id": "88f82a3f073e-300",
@@ -29729,8 +29736,8 @@
       "postharvest2_item_B_vs_local": "Better",
       "postharvest2_item_C_vs_local": "Better",
       "postharvest2_survey_end": "2023-11-21 15:06:08",
-      "longitude": 9.4214,
-      "latitude": 9.3236
+      "longitude": 9.4315,
+      "latitude": 9.3276
     }
   ],
   "plot_data": [

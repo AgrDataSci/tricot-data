@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-02",
+      "version": "v2025-10-03",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -49,6 +49,15 @@
       "men": "No information provided",
       "women": "No information provided"
     },
+    "funder": [
+      {
+        "funderName": "Gates Foundation",
+        "funderIdentifier": "https://ror.org/0456r8d26",
+        "awardTitle": "1000FARMS",
+        "awardNumber": "L22ROM222",
+        "5": "We recevied this grant as sub-grantees of the main grant given to Bioversity-CIAT alliance"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "CIP394611.112",
@@ -597,8 +606,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-06-28 08:18:49",
-      "longitude": 29.6199,
-      "latitude": -1.9267
+      "longitude": 29.6241,
+      "latitude": -1.9149
     },
     {
       "block_id": "e0e5ad24c360-2",
@@ -630,8 +639,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Yego ",
       "postharvest360daysafterharvest_survey_end": "2021-09-21 12:56:58",
-      "longitude": 29.6276,
-      "latitude": -1.9298
+      "longitude": 29.629,
+      "latitude": -1.9358
     },
     {
       "block_id": "e0e5ad24c360-3",
@@ -649,8 +658,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-11 14:08:48",
-      "longitude": 29.6168,
-      "latitude": -1.928
+      "longitude": 29.6295,
+      "latitude": -1.9381
     },
     {
       "block_id": "e0e5ad24c360-4",
@@ -685,8 +694,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Yego ",
       "postharvest360daysafterharvest_survey_end": "2021-09-20 17:20:05",
-      "longitude": 29.6301,
-      "latitude": -1.9344
+      "longitude": 29.6287,
+      "latitude": -1.9319
     },
     {
       "block_id": "e0e5ad24c360-5",
@@ -708,8 +717,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-06-26 12:44:55",
-      "longitude": 29.6224,
-      "latitude": -1.9332
+      "longitude": 29.6329,
+      "latitude": -1.9281
     },
     {
       "block_id": "e0e5ad24c360-6",
@@ -741,8 +750,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Yes ",
       "postharvest360daysafterharvest_survey_end": "2021-09-16 08:34:37",
-      "longitude": 29.6168,
-      "latitude": -1.9372
+      "longitude": 29.6234,
+      "latitude": -1.9283
     },
     {
       "block_id": "e0e5ad24c360-7",
@@ -777,8 +786,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Yego ",
       "postharvest360daysafterharvest_survey_end": "2021-09-21 12:22:55",
-      "longitude": 29.6149,
-      "latitude": -1.9264
+      "longitude": 29.6104,
+      "latitude": -1.9273
     },
     {
       "block_id": "e0e5ad24c360-8",
@@ -810,8 +819,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Yego ",
       "postharvest360daysafterharvest_survey_end": "2021-09-20 17:11:43",
-      "longitude": 29.6269,
-      "latitude": -1.9282
+      "longitude": 29.627,
+      "latitude": -1.9286
     },
     {
       "block_id": "e0e5ad24c360-9",
@@ -828,8 +837,8 @@
       "vegetative275days_survey_start": "2021-06-23 07:36:46",
       "vegetative275days_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "vegetative275days_survey_end": "2021-06-23 07:37:54",
-      "longitude": 29.6263,
-      "latitude": -1.9379
+      "longitude": 29.6322,
+      "latitude": -1.9241
     },
     {
       "block_id": "e0e5ad24c360-10",
@@ -864,8 +873,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Yego ",
       "postharvest360daysafterharvest_survey_end": "2021-09-21 12:09:50",
-      "longitude": 29.6189,
-      "latitude": -1.9349
+      "longitude": 29.6117,
+      "latitude": -1.9262
     },
     {
       "block_id": "e0e5ad24c360-11",
@@ -887,8 +896,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-07 12:25:02",
-      "longitude": 29.6097,
-      "latitude": -1.9264
+      "longitude": 29.6025,
+      "latitude": -1.9147
     },
     {
       "block_id": "e0e5ad24c360-12",
@@ -910,8 +919,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-02 09:09:37",
-      "longitude": 29.6159,
-      "latitude": -1.9186
+      "longitude": 29.6089,
+      "latitude": -1.9181
     },
     {
       "block_id": "e0e5ad24c360-13",
@@ -933,8 +942,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-02 12:50:18",
-      "longitude": 29.6072,
-      "latitude": -1.9159
+      "longitude": 29.6079,
+      "latitude": -1.9084
     },
     {
       "block_id": "e0e5ad24c360-14",
@@ -953,8 +962,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-02 12:35:52",
-      "longitude": 29.6146,
-      "latitude": -1.9268
+      "longitude": 29.6159,
+      "latitude": -1.926
     },
     {
       "block_id": "e0e5ad24c360-15",
@@ -990,8 +999,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Yego ",
       "postharvest360daysafterharvest_survey_end": "2021-09-21 11:59:04",
-      "longitude": 29.6149,
-      "latitude": -1.9055
+      "longitude": 29.6053,
+      "latitude": -1.9114
     },
     {
       "block_id": "e0e5ad24c360-16",
@@ -1024,8 +1033,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Yego ",
       "postharvest360daysafterharvest_survey_end": "2021-09-20 17:34:54",
-      "longitude": 29.6104,
-      "latitude": -1.9058
+      "longitude": 29.609,
+      "latitude": -1.9138
     },
     {
       "block_id": "e0e5ad24c360-17",
@@ -1047,8 +1056,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-12 08:04:45",
-      "longitude": 29.62,
-      "latitude": -1.907
+      "longitude": 29.6137,
+      "latitude": -1.9083
     },
     {
       "block_id": "e0e5ad24c360-18",
@@ -1070,8 +1079,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-07 12:47:46",
-      "longitude": 29.6221,
-      "latitude": -1.9286
+      "longitude": 29.6165,
+      "latitude": -1.9289
     },
     {
       "block_id": "e0e5ad24c360-19",
@@ -1093,8 +1102,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-07 11:26:20",
-      "longitude": 29.6238,
-      "latitude": -1.9186
+      "longitude": 29.6202,
+      "latitude": -1.9075
     },
     {
       "block_id": "e0e5ad24c360-20",
@@ -1116,8 +1125,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-02 10:18:00",
-      "longitude": 29.6254,
-      "latitude": -1.9123
+      "longitude": 29.608,
+      "latitude": -1.9184
     },
     {
       "block_id": "e0e5ad24c360-21",
@@ -1141,8 +1150,8 @@
       "postharvest15daysafterharvest_tuberstoobserve_oth": "Varieties A and B nasangaga ibyinshi ntabiriho",
       "postharvest15daysafterharvest_problemexplain": "Ntambuto yavuyeho",
       "postharvest15daysafterharvest_survey_end": "2021-07-02 18:09:56",
-      "longitude": 29.8508,
-      "latitude": -2.3363
+      "longitude": 29.8527,
+      "latitude": -2.3334
     },
     {
       "block_id": "e0e5ad24c360-22",
@@ -1171,8 +1180,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-03 13:45:45",
-      "longitude": 29.8434,
-      "latitude": -2.3222
+      "longitude": 29.8461,
+      "latitude": -2.3127
     },
     {
       "block_id": "e0e5ad24c360-23",
@@ -1199,8 +1208,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-06-28 03:21:16",
       "yieldrecordingatharvest_survey_start": "2021-06-28 10:54:55",
       "yieldrecordingatharvest_survey_end": "2021-06-28 11:05:21",
-      "longitude": 29.8381,
-      "latitude": -2.3335
+      "longitude": 29.8343,
+      "latitude": -2.3268
     },
     {
       "block_id": "e0e5ad24c360-24",
@@ -1225,8 +1234,8 @@
       "postharvest15daysafterharvest_tuberstoobserve_oth": "Ntambuto yavuyeho ",
       "postharvest15daysafterharvest_problemexplain": "Ntambuto ",
       "postharvest15daysafterharvest_survey_end": "2021-07-12 11:23:45",
-      "longitude": 29.8404,
-      "latitude": -2.3183
+      "longitude": 29.8579,
+      "latitude": -2.3286
     },
     {
       "block_id": "e0e5ad24c360-25",
@@ -1253,8 +1262,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-06-28 03:21:15",
       "yieldrecordingatharvest_survey_start": "2021-06-25 13:30:18",
       "yieldrecordingatharvest_survey_end": "2021-06-25 13:39:06",
-      "longitude": 29.8397,
-      "latitude": -2.3185
+      "longitude": 29.8455,
+      "latitude": -2.33
     },
     {
       "block_id": "e0e5ad24c360-26",
@@ -1286,8 +1295,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-03 16:04:06",
-      "longitude": 29.8583,
-      "latitude": -2.3315
+      "longitude": 29.8401,
+      "latitude": -2.3198
     },
     {
       "block_id": "e0e5ad24c360-27",
@@ -1314,8 +1323,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-06-28 03:21:15",
       "yieldrecordingatharvest_survey_start": "2021-06-24 13:45:42",
       "yieldrecordingatharvest_survey_end": "2021-06-25 13:43:15",
-      "longitude": 29.8474,
-      "latitude": -2.3337
+      "longitude": 29.8537,
+      "latitude": -2.3198
     },
     {
       "block_id": "e0e5ad24c360-28",
@@ -1340,8 +1349,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-06-28 03:21:14",
       "yieldrecordingatharvest_survey_start": "2021-06-24 13:03:39",
       "yieldrecordingatharvest_survey_end": "2021-06-24 13:10:17",
-      "longitude": 29.8426,
-      "latitude": -2.3227
+      "longitude": 29.8534,
+      "latitude": -2.3172
     },
     {
       "block_id": "e0e5ad24c360-29",
@@ -1373,8 +1382,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-20 16:07:10",
-      "longitude": 29.8389,
-      "latitude": -2.3323
+      "longitude": 29.8595,
+      "latitude": -2.3235
     },
     {
       "block_id": "e0e5ad24c360-30",
@@ -1409,8 +1418,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Yes",
       "postharvest360daysafterharvest_survey_end": "2021-09-06 13:17:31",
-      "longitude": 29.8505,
-      "latitude": -2.3229
+      "longitude": 29.8522,
+      "latitude": -2.3369
     },
     {
       "block_id": "e0e5ad24c360-31",
@@ -1438,8 +1447,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-07-05 10:09:56",
       "yieldrecordingatharvest_survey_start": "2021-07-02 14:36:58",
       "yieldrecordingatharvest_survey_end": "2021-07-02 14:40:32",
-      "longitude": 29.8714,
-      "latitude": -2.3088
+      "longitude": 29.8574,
+      "latitude": -2.3236
     },
     {
       "block_id": "e0e5ad24c360-32",
@@ -1467,8 +1476,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-07-05 10:09:55",
       "yieldrecordingatharvest_survey_start": "2021-06-28 17:58:54",
       "yieldrecordingatharvest_survey_end": "2021-07-05 15:06:11",
-      "longitude": 29.8677,
-      "latitude": -2.3255
+      "longitude": 29.8712,
+      "latitude": -2.325
     },
     {
       "block_id": "e0e5ad24c360-33",
@@ -1496,8 +1505,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-07-05 10:09:57",
       "yieldrecordingatharvest_survey_start": "2021-07-02 17:11:42",
       "yieldrecordingatharvest_survey_end": "2021-07-02 17:13:56",
-      "longitude": 29.8698,
-      "latitude": -2.3239
+      "longitude": 29.8704,
+      "latitude": -2.3189
     },
     {
       "block_id": "e0e5ad24c360-34",
@@ -1519,8 +1528,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-02 13:19:32",
-      "longitude": 29.8583,
-      "latitude": -2.3186
+      "longitude": 29.8547,
+      "latitude": -2.3258
     },
     {
       "block_id": "e0e5ad24c360-35",
@@ -1543,8 +1552,8 @@
       "postharvest15daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest15daysafterharvest_tuberstoobserve_oth": "Variete C ntambuto yavuyeho kuko yatinze kumera ntiyatanga umusaruro",
       "postharvest15daysafterharvest_survey_end": "2021-07-15 16:02:33",
-      "longitude": 29.8541,
-      "latitude": -2.315
+      "longitude": 29.8604,
+      "latitude": -2.3077
     },
     {
       "block_id": "e0e5ad24c360-36",
@@ -1580,8 +1589,8 @@
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Hasigaye 2 indi yatinze kumera ntiyabasha kwera",
       "postharvest360daysafterharvest_problemexplain": "Yes",
       "postharvest360daysafterharvest_survey_end": "2021-09-10 08:37:38",
-      "longitude": 29.8545,
-      "latitude": -2.3214
+      "longitude": 29.8543,
+      "latitude": -2.3184
     },
     {
       "block_id": "e0e5ad24c360-37",
@@ -1603,8 +1612,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-06-28 17:36:54",
-      "longitude": 29.8788,
-      "latitude": -2.3174
+      "longitude": 29.8655,
+      "latitude": -2.3341
     },
     {
       "block_id": "e0e5ad24c360-38",
@@ -1631,8 +1640,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-07-08 05:43:50",
       "yieldrecordingatharvest_survey_start": "2021-07-07 11:17:37",
       "yieldrecordingatharvest_survey_end": "2021-07-08 13:34:39",
-      "longitude": 29.8661,
-      "latitude": -2.3147
+      "longitude": 29.8575,
+      "latitude": -2.3132
     },
     {
       "block_id": "e0e5ad24c360-39",
@@ -1655,8 +1664,8 @@
       "postharvest15daysafterharvest_tuberstoobserve": "No, The Farmer Cannot Make Observations Due To Another Reason",
       "postharvest15daysafterharvest_problemexplain": "Ntambuto kuko ntabwo byeze",
       "postharvest15daysafterharvest_survey_end": "2021-07-06 15:28:19",
-      "longitude": 29.8736,
-      "latitude": -2.3161
+      "longitude": 29.8593,
+      "latitude": -2.3288
     },
     {
       "block_id": "e0e5ad24c360-40",
@@ -1691,8 +1700,8 @@
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Hari 2 indi ntabwo twabitse imbuto kuko ntamusaruro itanga ",
       "postharvest360daysafterharvest_problemexplain": "Yes",
       "postharvest360daysafterharvest_survey_end": "2021-09-10 08:36:18",
-      "longitude": 29.857,
-      "latitude": -2.3144
+      "longitude": 29.8687,
+      "latitude": -2.3157
     },
     {
       "block_id": "e0e5ad24c360-41",
@@ -1726,8 +1735,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-13 08:44:35",
-      "longitude": 29.8152,
-      "latitude": -2.4813
+      "longitude": 29.8095,
+      "latitude": -2.47
     },
     {
       "block_id": "e0e5ad24c360-42",
@@ -1758,8 +1767,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-23 19:50:31",
-      "longitude": 29.8025,
-      "latitude": -2.4772
+      "longitude": 29.805,
+      "latitude": -2.4752
     },
     {
       "block_id": "e0e5ad24c360-43",
@@ -1793,8 +1802,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-10 10:53:51",
-      "longitude": 29.8066,
-      "latitude": -2.469
+      "longitude": 29.8073,
+      "latitude": -2.4849
     },
     {
       "block_id": "e0e5ad24c360-44",
@@ -1811,8 +1820,8 @@
       "vegetative275days_survey_start": "2021-06-17 08:11:33",
       "vegetative275days_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "vegetative275days_survey_end": "2021-06-17 08:12:48",
-      "longitude": 29.8017,
-      "latitude": -2.4707
+      "longitude": 29.8123,
+      "latitude": -2.475
     },
     {
       "block_id": "e0e5ad24c360-45",
@@ -1847,8 +1856,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "afite imbuto imwe yo muri A ibindi byaraboze byose nimbuto yabyo afite",
       "postharvest360daysafterharvest_survey_end": "2021-09-10 14:24:01",
-      "longitude": 29.8176,
-      "latitude": -2.4726
+      "longitude": 29.7956,
+      "latitude": -2.4766
     },
     {
       "block_id": "e0e5ad24c360-46",
@@ -1879,8 +1888,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-10 11:36:04",
-      "longitude": 29.8103,
-      "latitude": -2.4719
+      "longitude": 29.8026,
+      "latitude": -2.4717
     },
     {
       "block_id": "e0e5ad24c360-47",
@@ -1914,8 +1923,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-13 09:38:20",
-      "longitude": 29.7969,
-      "latitude": -2.4789
+      "longitude": 29.8125,
+      "latitude": -2.4638
     },
     {
       "block_id": "e0e5ad24c360-48",
@@ -1946,8 +1955,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-13 09:41:33",
-      "longitude": 29.7965,
-      "latitude": -2.4854
+      "longitude": 29.8083,
+      "latitude": -2.4838
     },
     {
       "block_id": "e0e5ad24c360-49",
@@ -1984,8 +1993,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Afite imbuto 1 yo muri A,muri C ntanakimwe twasaruye ntabyari birazaho muri B havuyeho dukes turabora",
       "postharvest360daysafterharvest_survey_end": "2021-09-23 19:55:31",
-      "longitude": 29.8097,
-      "latitude": -2.4717
+      "longitude": 29.8142,
+      "latitude": -2.4745
     },
     {
       "block_id": "e0e5ad24c360-50",
@@ -2016,8 +2025,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-13 09:19:47",
-      "longitude": 29.8098,
-      "latitude": -2.4736
+      "longitude": 29.8115,
+      "latitude": -2.4849
     },
     {
       "block_id": "e0e5ad24c360-51",
@@ -2051,8 +2060,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-09 09:59:51",
-      "longitude": 29.7454,
-      "latitude": -2.5532
+      "longitude": 29.7449,
+      "latitude": -2.5497
     },
     {
       "block_id": "e0e5ad24c360-52",
@@ -2086,8 +2095,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-09 09:40:22",
-      "longitude": 29.7631,
-      "latitude": -2.5614
+      "longitude": 29.772,
+      "latitude": -2.5531
     },
     {
       "block_id": "e0e5ad24c360-53",
@@ -2122,8 +2131,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "No, The Farmer Cannot Make Observations Due To Another Reason",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Ibyo muri A byaraboze birarangira asigaranye imbuto 2 B na C",
       "postharvest360daysafterharvest_survey_end": "2021-09-15 10:26:50",
-      "longitude": 29.7567,
-      "latitude": -2.5579
+      "longitude": 29.7643,
+      "latitude": -2.5516
     },
     {
       "block_id": "e0e5ad24c360-54",
@@ -2154,8 +2163,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-15 10:59:10",
-      "longitude": 29.7495,
-      "latitude": -2.5497
+      "longitude": 29.7514,
+      "latitude": -2.5596
     },
     {
       "block_id": "e0e5ad24c360-55",
@@ -2186,8 +2195,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-07 07:14:22",
-      "longitude": 29.7508,
-      "latitude": -2.5594
+      "longitude": 29.7619,
+      "latitude": -2.5443
     },
     {
       "block_id": "e0e5ad24c360-56",
@@ -2222,8 +2231,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "No, The Farmer Cannot Make Observations Due To Another Reason",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Afite imbuto imwe ibindi twabisaruye byaraboze B na C",
       "postharvest360daysafterharvest_survey_end": "2021-09-09 08:33:42",
-      "longitude": 29.7479,
-      "latitude": -2.5434
+      "longitude": 29.7458,
+      "latitude": -2.5558
     },
     {
       "block_id": "e0e5ad24c360-57",
@@ -2257,8 +2266,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "No, The Farmer Cannot Make Observations Due To Another Reason",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Afite imbuto 1 ibindi byarwaye kirabiranya birabora birashira",
       "postharvest360daysafterharvest_survey_end": "2021-09-09 07:12:53",
-      "longitude": 29.7594,
-      "latitude": -2.5472
+      "longitude": 29.7679,
+      "latitude": -2.5554
     },
     {
       "block_id": "e0e5ad24c360-58",
@@ -2290,8 +2299,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "ntacyo",
       "postharvest360daysafterharvest_survey_end": "2021-09-09 08:04:56",
-      "longitude": 29.7573,
-      "latitude": -2.5564
+      "longitude": 29.754,
+      "latitude": -2.5646
     },
     {
       "block_id": "e0e5ad24c360-59",
@@ -2327,8 +2336,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Afite imbuto 2 ibindi ntiyayisaruye byaraboze",
       "postharvest360daysafterharvest_survey_end": "2021-09-09 06:40:09",
-      "longitude": 29.7667,
-      "latitude": -2.5504
+      "longitude": 29.7683,
+      "latitude": -2.551
     },
     {
       "block_id": "e0e5ad24c360-60",
@@ -2361,8 +2370,8 @@
       "postharvest360daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest360daysafterharvest_tuberstoobserve_oth": "Afite imbuto 2 BnaC,ibindi ntibyasaruwe",
       "postharvest360daysafterharvest_survey_end": "2021-09-09 08:51:06",
-      "longitude": 29.7694,
-      "latitude": -2.5606
+      "longitude": 29.7675,
+      "latitude": -2.5524
     },
     {
       "block_id": "e0e5ad24c360-61",
@@ -2396,8 +2405,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-07 13:38:41",
-      "longitude": 29.5794,
-      "latitude": -2.7271
+      "longitude": 29.5679,
+      "latitude": -2.7276
     },
     {
       "block_id": "e0e5ad24c360-62",
@@ -2414,8 +2423,8 @@
       "vegetative275days_survey_start": "2021-06-21 16:31:21",
       "vegetative275days_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "vegetative275days_survey_end": "2021-06-21 16:48:36",
-      "longitude": 29.5684,
-      "latitude": -2.7137
+      "longitude": 29.5627,
+      "latitude": -2.7182
     },
     {
       "block_id": "e0e5ad24c360-63",
@@ -2440,8 +2449,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-06-24 03:03:22",
       "yieldrecordingatharvest_survey_start": "2021-06-24 10:37:24",
       "yieldrecordingatharvest_survey_end": "2021-06-24 11:02:08",
-      "longitude": 29.5792,
-      "latitude": -2.7307
+      "longitude": 29.5646,
+      "latitude": -2.7154
     },
     {
       "block_id": "e0e5ad24c360-64",
@@ -2466,8 +2475,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-06-28 02:43:31",
       "yieldrecordingatharvest_survey_start": "2021-06-28 10:30:56",
       "yieldrecordingatharvest_survey_end": "2021-06-28 10:43:13",
-      "longitude": 29.5596,
-      "latitude": -2.7235
+      "longitude": 29.5681,
+      "latitude": -2.7145
     },
     {
       "block_id": "e0e5ad24c360-65",
@@ -2498,8 +2507,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-07 15:17:32",
-      "longitude": 29.5814,
-      "latitude": -2.7242
+      "longitude": 29.5764,
+      "latitude": -2.7273
     },
     {
       "block_id": "e0e5ad24c360-66",
@@ -2530,8 +2539,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-07 14:29:43",
-      "longitude": 29.5812,
-      "latitude": -2.7275
+      "longitude": 29.5554,
+      "latitude": -2.7225
     },
     {
       "block_id": "e0e5ad24c360-67",
@@ -2562,8 +2571,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-07 13:46:26",
-      "longitude": 29.5685,
-      "latitude": -2.7121
+      "longitude": 29.5578,
+      "latitude": -2.7163
     },
     {
       "block_id": "e0e5ad24c360-68",
@@ -2597,8 +2606,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "No, Because The Farmer Does Not Possess Sufficient Quantities Of Tubers Of One Or More Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-07 16:02:42",
-      "longitude": 29.5672,
-      "latitude": -2.7144
+      "longitude": 29.5753,
+      "latitude": -2.7128
     },
     {
       "block_id": "e0e5ad24c360-69",
@@ -2623,8 +2632,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-07-05 23:21:57",
       "yieldrecordingatharvest_survey_start": "2021-07-06 07:08:06",
       "yieldrecordingatharvest_survey_end": "2021-07-06 07:13:05",
-      "longitude": 29.576,
-      "latitude": -2.7344
+      "longitude": 29.5557,
+      "latitude": -2.7261
     },
     {
       "block_id": "e0e5ad24c360-70",
@@ -2655,8 +2664,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-07 13:58:24",
-      "longitude": 29.5706,
-      "latitude": -2.7365
+      "longitude": 29.5684,
+      "latitude": -2.7138
     },
     {
       "block_id": "e0e5ad24c360-71",
@@ -2687,8 +2696,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-20 19:00:58",
-      "longitude": 29.5789,
-      "latitude": -2.7222
+      "longitude": 29.5744,
+      "latitude": -2.7109
     },
     {
       "block_id": "e0e5ad24c360-72",
@@ -2713,8 +2722,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-07-01 11:29:33",
       "yieldrecordingatharvest_survey_start": "2021-07-01 12:07:48",
       "yieldrecordingatharvest_survey_end": "2021-07-01 12:19:16",
-      "longitude": 29.5919,
-      "latitude": -2.7126
+      "longitude": 29.5792,
+      "latitude": -2.7144
     },
     {
       "block_id": "e0e5ad24c360-73",
@@ -2739,8 +2748,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-06-27 07:11:53",
       "yieldrecordingatharvest_survey_start": "2021-06-26 14:41:08",
       "yieldrecordingatharvest_survey_end": "2021-06-26 14:52:52",
-      "longitude": 29.5873,
-      "latitude": -2.7246
+      "longitude": 29.585,
+      "latitude": -2.7272
     },
     {
       "block_id": "e0e5ad24c360-74",
@@ -2765,8 +2774,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-06-27 07:11:53",
       "yieldrecordingatharvest_survey_start": "2021-06-26 15:47:01",
       "yieldrecordingatharvest_survey_end": "2021-06-26 15:55:22",
-      "longitude": 29.5929,
-      "latitude": -2.7097
+      "longitude": 29.5912,
+      "latitude": -2.7265
     },
     {
       "block_id": "e0e5ad24c360-75",
@@ -2788,8 +2797,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-12 15:24:00",
-      "longitude": 29.5952,
-      "latitude": -2.7142
+      "longitude": 29.5907,
+      "latitude": -2.727
     },
     {
       "block_id": "e0e5ad24c360-76",
@@ -2814,8 +2823,8 @@
       "yieldrecordingatharvest_submitted_date": "2021-06-24 03:03:21",
       "yieldrecordingatharvest_survey_start": "2021-06-24 08:58:32",
       "yieldrecordingatharvest_survey_end": "2021-06-24 09:09:13",
-      "longitude": 29.588,
-      "latitude": -2.7269
+      "longitude": 29.5989,
+      "latitude": -2.722
     },
     {
       "block_id": "e0e5ad24c360-77",
@@ -2837,8 +2846,8 @@
       "postharvest15daysafterharvest_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "postharvest15daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest15daysafterharvest_survey_end": "2021-07-09 12:21:18",
-      "longitude": 29.5988,
-      "latitude": -2.7192
+      "longitude": 29.5842,
+      "latitude": -2.7195
     },
     {
       "block_id": "e0e5ad24c360-78",
@@ -2872,8 +2881,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-23 20:33:25",
-      "longitude": 29.5865,
-      "latitude": -2.709
+      "longitude": 29.5838,
+      "latitude": -2.7194
     },
     {
       "block_id": "e0e5ad24c360-79",
@@ -2904,8 +2913,8 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest360daysafterharvest_survey_end": "2021-09-09 10:47:49",
-      "longitude": 29.5792,
-      "latitude": -2.7129
+      "longitude": 29.585,
+      "latitude": -2.7204
     },
     {
       "block_id": "e0e5ad24c360-80",
@@ -2922,8 +2931,8 @@
       "vegetative275days_survey_start": "2021-06-22 07:55:40",
       "vegetative275days_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "vegetative275days_survey_end": "2021-06-22 07:58:04",
-      "longitude": 29.5945,
-      "latitude": -2.7113
+      "longitude": 29.5918,
+      "latitude": -2.7147
     }
   ],
   "plot_data": [

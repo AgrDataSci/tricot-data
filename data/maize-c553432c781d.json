@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-02",
+      "version": "v2025-10-03",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -49,6 +49,15 @@
       "men": "No information provided",
       "women": "No information provided"
     },
+    "funder": [
+      {
+        "funderName": "Gates Foundation",
+        "funderIdentifier": "https://ror.org/0456r8d26",
+        "awardTitle": "1000FARMS",
+        "awardNumber": "L22ROM222",
+        "5": "We recevied this grant as sub-grantees of the main grant given to Bioversity-CIAT alliance"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "APIS 630",
@@ -728,8 +737,8 @@
       "visit4cobscheck50_survey_start": "2022-04-04 15:32:01",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-04-04 15:32:27",
-      "longitude": 30.5049,
-      "latitude": -2.0745
+      "longitude": 30.5006,
+      "latitude": -2.0821
     },
     {
       "block_id": "c553432c781d-2",
@@ -774,8 +783,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-04-13 06:30:12",
-      "longitude": 30.5129,
-      "latitude": -2.0681
+      "longitude": 30.5068,
+      "latitude": -2.0679
     },
     {
       "block_id": "c553432c781d-3",
@@ -827,8 +836,8 @@
       "visit4cobscheck50_survey_start": "2022-03-27 13:04:48",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-27 13:05:34",
-      "longitude": 30.5496,
-      "latitude": -2.132
+      "longitude": 30.5413,
+      "latitude": -2.1334
     },
     {
       "block_id": "c553432c781d-4",
@@ -872,8 +881,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-31 15:24:40",
-      "longitude": 30.4869,
-      "latitude": -2.0567
+      "longitude": 30.4977,
+      "latitude": -2.0601
     },
     {
       "block_id": "c553432c781d-5",
@@ -926,8 +935,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-13 08:05:40",
-      "longitude": 30.5009,
-      "latitude": -2.0661
+      "longitude": 30.5095,
+      "latitude": -2.0721
     },
     {
       "block_id": "c553432c781d-6",
@@ -976,8 +985,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yego",
       "visit4cobscheck50_survey_end": "2022-03-27 09:51:15",
-      "longitude": 30.4914,
-      "latitude": -2.057
+      "longitude": 30.4953,
+      "latitude": -2.0708
     },
     {
       "block_id": "c553432c781d-7",
@@ -1030,8 +1039,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-04 08:39:52",
-      "longitude": 30.5128,
-      "latitude": -2.073
+      "longitude": 30.5008,
+      "latitude": -2.0804
     },
     {
       "block_id": "c553432c781d-8",
@@ -1076,8 +1085,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-04-11 14:07:24",
-      "longitude": 30.5206,
-      "latitude": -2.066
+      "longitude": 30.5095,
+      "latitude": -2.0686
     },
     {
       "block_id": "c553432c781d-9",
@@ -1129,8 +1138,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-10 12:19:37",
-      "longitude": 30.4913,
-      "latitude": -2.0694
+      "longitude": 30.4985,
+      "latitude": -2.08
     },
     {
       "block_id": "c553432c781d-10",
@@ -1160,8 +1169,8 @@
       "visit2freshmaturity_trialsuccess_oth": "No",
       "visit2freshmaturity_problemexplain": "Umuhinzi yateye nyuma bituma ibihingwa bitagera kuri maturite kuko byarapfuye byose ,Ntamusaruro uzahaboneka kuruwomuhinzi.",
       "visit2freshmaturity_survey_end": "2022-03-25 07:05:40",
-      "longitude": 30.5,
-      "latitude": -2.0824
+      "longitude": 30.5087,
+      "latitude": -2.0866
     },
     {
       "block_id": "c553432c781d-11",
@@ -1212,8 +1221,8 @@
       "visit4cobscheck50_survey_start": "2022-04-11 21:34:50",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-04-11 21:35:19",
-      "longitude": 30.4899,
-      "latitude": -2.0728
+      "longitude": 30.4874,
+      "latitude": -2.0709
     },
     {
       "block_id": "c553432c781d-12",
@@ -1258,8 +1267,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-04-27 12:32:37",
-      "longitude": 30.5468,
-      "latitude": -2.0703
+      "longitude": 30.5576,
+      "latitude": -2.0809
     },
     {
       "block_id": "c553432c781d-13",
@@ -1309,8 +1318,8 @@
       "visit4cobscheck50_survey_start": "2022-04-02 14:27:20",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-04-02 14:28:05",
-      "longitude": 30.5602,
-      "latitude": -2.0614
+      "longitude": 30.5497,
+      "latitude": -2.0674
     },
     {
       "block_id": "c553432c781d-14",
@@ -1356,8 +1365,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-04-01 12:26:15",
-      "longitude": 30.5625,
-      "latitude": -2.0633
+      "longitude": 30.5496,
+      "latitude": -2.0726
     },
     {
       "block_id": "c553432c781d-15",
@@ -1409,8 +1418,8 @@
       "visit4cobscheck50_survey_start": "2022-04-19 13:11:56",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-04-19 13:12:23",
-      "longitude": 30.5604,
-      "latitude": -2.0668
+      "longitude": 30.5557,
+      "latitude": -2.0811
     },
     {
       "block_id": "c553432c781d-16",
@@ -1454,8 +1463,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-04-14 08:39:30",
-      "longitude": 30.5494,
-      "latitude": -2.0598
+      "longitude": 30.5461,
+      "latitude": -2.0706
     },
     {
       "block_id": "c553432c781d-17",
@@ -1507,8 +1516,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-01 14:15:36",
-      "longitude": 30.5473,
-      "latitude": -2.0711
+      "longitude": 30.5492,
+      "latitude": -2.0594
     },
     {
       "block_id": "c553432c781d-18",
@@ -1553,8 +1562,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-04-14 07:43:10",
-      "longitude": 30.5542,
-      "latitude": -2.0756
+      "longitude": 30.5353,
+      "latitude": -2.0947
     },
     {
       "block_id": "c553432c781d-19",
@@ -1607,8 +1616,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-09 14:03:44",
-      "longitude": 30.5689,
-      "latitude": -2.0607
+      "longitude": 30.5515,
+      "latitude": -2.0504
     },
     {
       "block_id": "c553432c781d-20",
@@ -1652,8 +1661,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-04-26 11:34:02",
-      "longitude": 30.551,
-      "latitude": -2.0683
+      "longitude": 30.5426,
+      "latitude": -2.0655
     },
     {
       "block_id": "c553432c781d-21",
@@ -1706,8 +1715,8 @@
       "visit4cobscheck50_cobstothresh_oth": "No",
       "visit4cobscheck50_problemexplain": "Umubare wibyo twahunitse ntago ungana nibyo twavunguye",
       "visit4cobscheck50_survey_end": "2022-04-09 16:18:45",
-      "longitude": 30.542,
-      "latitude": -2.0642
+      "longitude": 30.5644,
+      "latitude": -2.0713
     },
     {
       "block_id": "c553432c781d-22",
@@ -1752,8 +1761,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-11 10:29:14",
-      "longitude": 30.258,
-      "latitude": -1.601
+      "longitude": 30.262,
+      "latitude": -1.5949
     },
     {
       "block_id": "c553432c781d-23",
@@ -1807,8 +1816,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-19 15:06:00",
-      "longitude": 30.2695,
-      "latitude": -1.6107
+      "longitude": 30.2931,
+      "latitude": -1.6158
     },
     {
       "block_id": "c553432c781d-24",
@@ -1851,8 +1860,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-19 14:54:17",
-      "longitude": 30.2943,
-      "latitude": -1.613
+      "longitude": 30.2779,
+      "latitude": -1.6132
     },
     {
       "block_id": "c553432c781d-25",
@@ -1905,8 +1914,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-17 12:18:34",
-      "longitude": 30.281,
-      "latitude": -1.6134
+      "longitude": 30.2823,
+      "latitude": -1.6183
     },
     {
       "block_id": "c553432c781d-26",
@@ -1960,8 +1969,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-16 15:45:22",
-      "longitude": 30.2945,
-      "latitude": -1.6031
+      "longitude": 30.2969,
+      "latitude": -1.619
     },
     {
       "block_id": "c553432c781d-27",
@@ -2015,8 +2024,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes ariko amahundo 7 yo mukarima ka A yaraboze naho amahundo 5 yo mukarima ka B nayo yaraboze",
       "visit4cobscheck50_survey_end": "2022-03-19 15:17:12",
-      "longitude": 30.2677,
-      "latitude": -1.5987
+      "longitude": 30.2754,
+      "latitude": -1.5971
     },
     {
       "block_id": "c553432c781d-28",
@@ -2061,8 +2070,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-19 14:31:50",
-      "longitude": 30.2828,
-      "latitude": -1.614
+      "longitude": 30.2683,
+      "latitude": -1.6047
     },
     {
       "block_id": "c553432c781d-29",
@@ -2115,8 +2124,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-16 13:38:09",
-      "longitude": 30.2856,
-      "latitude": -1.6206
+      "longitude": 30.2876,
+      "latitude": -1.607
     },
     {
       "block_id": "c553432c781d-30",
@@ -2141,8 +2150,8 @@
       "visit1vegetativev6_survey_end": "2021-11-11 15:42:55",
       "visit1vegetativev6_farm_geo_elevation": 1452.1755,
       "visit1vegetativev6_farm_geo_gps_precision": 4.759,
-      "longitude": 30.2836,
-      "latitude": -1.6137
+      "longitude": 30.2772,
+      "latitude": -1.6158
     },
     {
       "block_id": "c553432c781d-31",
@@ -2196,8 +2205,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yego ariko muri A amahundo 6 twasanze yaraboze",
       "visit4cobscheck50_survey_end": "2022-03-11 15:18:57",
-      "longitude": 30.2626,
-      "latitude": -1.6156
+      "longitude": 30.2786,
+      "latitude": -1.614
     },
     {
       "block_id": "c553432c781d-32",
@@ -2242,8 +2251,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-11 15:46:55",
-      "longitude": 30.259,
-      "latitude": -1.613
+      "longitude": 30.2586,
+      "latitude": -1.6098
     },
     {
       "block_id": "c553432c781d-33",
@@ -2288,8 +2297,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-17 12:12:52",
-      "longitude": 30.2756,
-      "latitude": -1.6132
+      "longitude": 30.2667,
+      "latitude": -1.6012
     },
     {
       "block_id": "c553432c781d-34",
@@ -2318,8 +2327,8 @@
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit2freshmaturity_trialsuccess_oth": "Yes",
       "visit2freshmaturity_survey_end": "2022-01-07 16:27:23",
-      "longitude": 30.2698,
-      "latitude": -1.5952
+      "longitude": 30.2819,
+      "latitude": -1.5996
     },
     {
       "block_id": "c553432c781d-35",
@@ -2373,8 +2382,8 @@
       "visit4cobscheck50_cobstothresh": "No, The Number Of Cobs Reduced On One Or More Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes ariko umuhinzi yivunguriye akarima ka C.",
       "visit4cobscheck50_survey_end": "2022-03-18 11:54:05",
-      "longitude": 30.2614,
-      "latitude": -1.6005
+      "longitude": 30.2684,
+      "latitude": -1.6114
     },
     {
       "block_id": "c553432c781d-36",
@@ -2427,8 +2436,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-14 08:35:27",
-      "longitude": 30.2886,
-      "latitude": -1.6275
+      "longitude": 30.2833,
+      "latitude": -1.6054
     },
     {
       "block_id": "c553432c781d-37",
@@ -2481,8 +2490,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-14 08:31:02",
-      "longitude": 30.2918,
-      "latitude": -1.5919
+      "longitude": 30.2827,
+      "latitude": -1.6107
     },
     {
       "block_id": "c553432c781d-38",
@@ -2527,8 +2536,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-19 14:12:49",
-      "longitude": 30.272,
-      "latitude": -1.6036
+      "longitude": 30.2766,
+      "latitude": -1.6039
     },
     {
       "block_id": "c553432c781d-39",
@@ -2582,8 +2591,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-16 14:46:33",
-      "longitude": 30.2642,
-      "latitude": -1.5996
+      "longitude": 30.2602,
+      "latitude": -1.6083
     },
     {
       "block_id": "c553432c781d-40",
@@ -2628,8 +2637,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-19 14:40:14",
-      "longitude": 30.273,
-      "latitude": -1.5946
+      "longitude": 30.2767,
+      "latitude": -1.6015
     },
     {
       "block_id": "c553432c781d-41",
@@ -2683,8 +2692,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-05-31 12:22:10",
-      "longitude": 30.2744,
-      "latitude": -1.5949
+      "longitude": 30.2718,
+      "latitude": -1.595
     },
     {
       "block_id": "c553432c781d-42",
@@ -2729,8 +2738,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-09 12:00:53",
-      "longitude": 30.3085,
-      "latitude": -1.6366
+      "longitude": 30.2882,
+      "latitude": -1.6476
     },
     {
       "block_id": "c553432c781d-43",
@@ -2783,8 +2792,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes Ariko amahundo 6yo mukarima ka A yaraboze. Naho amahundo 4 yo mukarima ka B nayo yaraboze. Ndetse namahundo 10 yo mukarima ka C nayo yaraboze",
       "visit4cobscheck50_survey_end": "2022-03-19 16:02:35",
-      "longitude": 30.312,
-      "latitude": -1.6453
+      "longitude": 30.3204,
+      "latitude": -1.6538
     },
     {
       "block_id": "c553432c781d-44",
@@ -2829,8 +2838,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-15 23:40:35",
-      "longitude": 30.2999,
-      "latitude": -1.6443
+      "longitude": 30.3137,
+      "latitude": -1.6398
     },
     {
       "block_id": "c553432c781d-45",
@@ -2884,8 +2893,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-17 13:31:46",
-      "longitude": 30.295,
-      "latitude": -1.65
+      "longitude": 30.3153,
+      "latitude": -1.6455
     },
     {
       "block_id": "c553432c781d-46",
@@ -2930,8 +2939,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-10 12:32:46",
-      "longitude": 30.2943,
-      "latitude": -1.6504
+      "longitude": 30.2952,
+      "latitude": -1.6517
     },
     {
       "block_id": "c553432c781d-47",
@@ -2985,8 +2994,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-17 22:41:49",
-      "longitude": 30.3262,
-      "latitude": -1.668
+      "longitude": 30.3073,
+      "latitude": -1.6618
     },
     {
       "block_id": "c553432c781d-48",
@@ -3029,8 +3038,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-09 12:39:07",
-      "longitude": 30.3079,
-      "latitude": -1.6396
+      "longitude": 30.3048,
+      "latitude": -1.6546
     },
     {
       "block_id": "c553432c781d-49",
@@ -3084,8 +3093,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes ariko habayeho ikibazo cyo kubora kwa mahumdo bituma amahundo agabanuka",
       "visit4cobscheck50_survey_end": "2022-03-10 23:27:52",
-      "longitude": 30.3004,
-      "latitude": -1.6273
+      "longitude": 30.2947,
+      "latitude": -1.6379
     },
     {
       "block_id": "c553432c781d-50",
@@ -3130,8 +3139,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-15 23:00:13",
-      "longitude": 30.3194,
-      "latitude": -1.6597
+      "longitude": 30.3155,
+      "latitude": -1.6545
     },
     {
       "block_id": "c553432c781d-51",
@@ -3185,8 +3194,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-10 23:12:21",
-      "longitude": 30.3086,
-      "latitude": -1.6613
+      "longitude": 30.3099,
+      "latitude": -1.6425
     },
     {
       "block_id": "c553432c781d-52",
@@ -3232,8 +3241,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-09 15:17:36",
-      "longitude": 30.3225,
-      "latitude": -1.6279
+      "longitude": 30.3264,
+      "latitude": -1.651
     },
     {
       "block_id": "c553432c781d-53",
@@ -3287,8 +3296,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-17 08:39:45",
-      "longitude": 30.3008,
-      "latitude": -1.6442
+      "longitude": 30.3155,
+      "latitude": -1.6347
     },
     {
       "block_id": "c553432c781d-54",
@@ -3323,8 +3332,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess_oth": "Yes",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-19 15:31:34",
-      "longitude": 30.3153,
-      "latitude": -1.6513
+      "longitude": 30.297,
+      "latitude": -1.6393
     },
     {
       "block_id": "c553432c781d-55",
@@ -3378,8 +3387,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-15 11:46:13",
-      "longitude": 30.3133,
-      "latitude": -1.6397
+      "longitude": 30.3029,
+      "latitude": -1.6384
     },
     {
       "block_id": "c553432c781d-56",
@@ -3424,8 +3433,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-15 23:20:46",
-      "longitude": 30.314,
-      "latitude": -1.6483
+      "longitude": 30.3241,
+      "latitude": -1.6461
     },
     {
       "block_id": "c553432c781d-57",
@@ -3479,8 +3488,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-17 15:45:28",
-      "longitude": 30.3053,
-      "latitude": -1.6616
+      "longitude": 30.2963,
+      "latitude": -1.6447
     },
     {
       "block_id": "c553432c781d-58",
@@ -3525,8 +3534,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-09 22:54:51",
-      "longitude": 30.3147,
-      "latitude": -1.6431
+      "longitude": 30.317,
+      "latitude": -1.643
     },
     {
       "block_id": "c553432c781d-59",
@@ -3579,8 +3588,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yego. ariko kuri buri karima, hari amahundo yagiye abora. Muri A haboze amahundo 7. Muri B haboze amahundo 3. Muri C haboze amahundo 5.",
       "visit4cobscheck50_survey_end": "2022-03-10 23:17:15",
-      "longitude": 30.3084,
-      "latitude": -1.6325
+      "longitude": 30.3175,
+      "latitude": -1.6491
     },
     {
       "block_id": "c553432c781d-60",
@@ -3634,8 +3643,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-15 12:55:17",
-      "longitude": 30.3091,
-      "latitude": -1.66
+      "longitude": 30.2935,
+      "latitude": -1.6504
     },
     {
       "block_id": "c553432c781d-61",
@@ -3680,8 +3689,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-09 14:50:30",
-      "longitude": 30.2893,
-      "latitude": -1.6493
+      "longitude": 30.309,
+      "latitude": -1.6591
     },
     {
       "block_id": "c553432c781d-62",
@@ -3717,8 +3726,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ntabwo ubushakashatsi buzakomeze kuko ,ibigori bimaze guhisha abajura barabitemye barabyiba nsanga babimazeho kudukaro twose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-18 13:24:22",
-      "longitude": 30.6004,
-      "latitude": -1.8045
+      "longitude": 30.6038,
+      "latitude": -1.8106
     },
     {
       "block_id": "c553432c781d-63",
@@ -3770,8 +3779,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-29 21:18:09",
-      "longitude": 30.5707,
-      "latitude": -1.8063
+      "longitude": 30.577,
+      "latitude": -1.8095
     },
     {
       "block_id": "c553432c781d-64",
@@ -3821,8 +3830,8 @@
       "visit4cobscheck50_survey_start": "2022-04-26 11:52:04",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-04-26 11:52:29",
-      "longitude": 30.5887,
-      "latitude": -1.8163
+      "longitude": 30.5829,
+      "latitude": -1.8192
     },
     {
       "block_id": "c553432c781d-65",
@@ -3872,8 +3881,8 @@
       "visit4cobscheck50_survey_start": "2022-04-26 11:47:32",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-04-26 11:47:58",
-      "longitude": 30.5921,
-      "latitude": -1.8049
+      "longitude": 30.5848,
+      "latitude": -1.8179
     },
     {
       "block_id": "c553432c781d-66",
@@ -3925,8 +3934,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-29 21:18:51",
-      "longitude": 30.5908,
-      "latitude": -1.8016
+      "longitude": 30.5843,
+      "latitude": -1.8189
     },
     {
       "block_id": "c553432c781d-67",
@@ -3970,8 +3979,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-31 14:49:58",
-      "longitude": 30.5806,
-      "latitude": -1.7877
+      "longitude": 30.5857,
+      "latitude": -1.7954
     },
     {
       "block_id": "c553432c781d-68",
@@ -4019,8 +4028,8 @@
       "visit4cobscheck50_survey_start": "2022-03-28 15:35:00",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-28 15:35:47",
-      "longitude": 30.5881,
-      "latitude": -1.814
+      "longitude": 30.5788,
+      "latitude": -1.798
     },
     {
       "block_id": "c553432c781d-69",
@@ -4063,8 +4072,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-04-11 16:02:50",
-      "longitude": 30.5901,
-      "latitude": -1.8123
+      "longitude": 30.5746,
+      "latitude": -1.8154
     },
     {
       "block_id": "c553432c781d-70",
@@ -4107,8 +4116,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-04-11 16:46:53",
-      "longitude": 30.5834,
-      "latitude": -1.8132
+      "longitude": 30.5804,
+      "latitude": -1.8018
     },
     {
       "block_id": "c553432c781d-71",
@@ -4159,8 +4168,8 @@
       "visit4cobscheck50_survey_start": "2022-04-26 11:36:52",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-04-26 11:37:16",
-      "longitude": 30.573,
-      "latitude": -1.7972
+      "longitude": 30.5727,
+      "latitude": -1.8172
     },
     {
       "block_id": "c553432c781d-72",
@@ -4203,8 +4212,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-04-11 13:41:23",
-      "longitude": 30.5739,
-      "latitude": -1.8005
+      "longitude": 30.5692,
+      "latitude": -1.8112
     },
     {
       "block_id": "c553432c781d-73",
@@ -4246,8 +4255,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-28 13:31:05",
-      "longitude": 30.574,
-      "latitude": -1.8184
+      "longitude": 30.5828,
+      "latitude": -1.8014
     },
     {
       "block_id": "c553432c781d-74",
@@ -4291,8 +4300,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-31 13:01:16",
-      "longitude": 30.5951,
-      "latitude": -1.8229
+      "longitude": 30.5759,
+      "latitude": -1.8282
     },
     {
       "block_id": "c553432c781d-75",
@@ -4317,8 +4326,8 @@
       "visit1vegetativev6_survey_end": "2021-11-29 15:25:51",
       "visit1vegetativev6_farm_geo_elevation": 1647.6437,
       "visit1vegetativev6_farm_geo_gps_precision": 4.029,
-      "longitude": 30.581,
-      "latitude": -1.8347
+      "longitude": 30.5949,
+      "latitude": -1.8185
     },
     {
       "block_id": "c553432c781d-76",
@@ -4369,7 +4378,7 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-29 21:20:06",
-      "longitude": 30.5766,
+      "longitude": 30.585,
       "latitude": -1.8119
     },
     {
@@ -4411,8 +4420,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-05-15 20:39:53",
-      "longitude": 30.46,
-      "latitude": -1.8256
+      "longitude": 30.4461,
+      "latitude": -1.8294
     },
     {
       "block_id": "c553432c781d-78",
@@ -4464,8 +4473,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-29 21:21:49",
-      "longitude": 30.4687,
-      "latitude": -1.8282
+      "longitude": 30.4609,
+      "latitude": -1.8346
     },
     {
       "block_id": "c553432c781d-79",
@@ -4508,8 +4517,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-04-26 11:27:28",
-      "longitude": 30.4488,
-      "latitude": -1.829
+      "longitude": 30.4595,
+      "latitude": -1.8397
     },
     {
       "block_id": "c553432c781d-80",
@@ -4559,8 +4568,8 @@
       "visit4cobscheck50_survey_start": "2022-04-26 11:29:52",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-04-26 11:30:17",
-      "longitude": 30.467,
-      "latitude": -1.8368
+      "longitude": 30.4749,
+      "latitude": -1.8238
     },
     {
       "block_id": "c553432c781d-81",
@@ -4602,8 +4611,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-30 19:11:51",
-      "longitude": 30.4548,
-      "latitude": -1.8335
+      "longitude": 30.4689,
+      "latitude": -1.838
     },
     {
       "block_id": "c553432c781d-82",
@@ -4646,8 +4655,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-04-28 08:39:48",
-      "longitude": 30.4704,
-      "latitude": -1.8256
+      "longitude": 30.4493,
+      "latitude": -1.8317
     },
     {
       "block_id": "c553432c781d-83",
@@ -4699,8 +4708,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-29 21:22:45",
-      "longitude": 30.4564,
-      "latitude": -1.8274
+      "longitude": 30.461,
+      "latitude": -1.8374
     },
     {
       "block_id": "c553432c781d-84",
@@ -4750,8 +4759,8 @@
       "visit4cobscheck50_survey_start": "2022-05-03 23:53:54",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-05-03 23:54:22",
-      "longitude": 30.4652,
-      "latitude": -1.8456
+      "longitude": 30.4655,
+      "latitude": -1.839
     },
     {
       "block_id": "c553432c781d-85",
@@ -4800,8 +4809,8 @@
       "visit4cobscheck50_survey_start": "2022-04-25 09:52:28",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-04-25 09:52:55",
-      "longitude": 30.4579,
-      "latitude": -1.8269
+      "longitude": 30.4619,
+      "latitude": -1.8249
     },
     {
       "block_id": "c553432c781d-86",
@@ -4845,8 +4854,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-04-01 10:18:04",
-      "longitude": 30.4691,
-      "latitude": -1.8441
+      "longitude": 30.4569,
+      "latitude": -1.8377
     },
     {
       "block_id": "c553432c781d-87",
@@ -4895,8 +4904,8 @@
       "visit4cobscheck50_survey_start": "2022-03-26 17:10:33",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-26 17:12:43",
-      "longitude": 30.3392,
-      "latitude": -2.0362
+      "longitude": 30.3476,
+      "latitude": -2.0313
     },
     {
       "block_id": "c553432c781d-88",
@@ -4938,8 +4947,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-24 12:49:34",
-      "longitude": 30.337,
-      "latitude": -2.028
+      "longitude": 30.3345,
+      "latitude": -2.0288
     },
     {
       "block_id": "c553432c781d-89",
@@ -4989,8 +4998,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-23 10:59:46",
-      "longitude": 30.3388,
-      "latitude": -2.0159
+      "longitude": 30.3441,
+      "latitude": -2.0349
     },
     {
       "block_id": "c553432c781d-90",
@@ -5031,8 +5040,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-24 18:19:31",
-      "longitude": 30.3419,
-      "latitude": -2.0268
+      "longitude": 30.3236,
+      "latitude": -2.029
     },
     {
       "block_id": "c553432c781d-91",
@@ -5082,8 +5091,8 @@
       "visit4cobscheck50_cobstothresh_oth": "No",
       "visit4cobscheck50_problemexplain": "Twasanze harimo I yabonekamo muri variation zose",
       "visit4cobscheck50_survey_end": "2022-03-24 10:19:13",
-      "longitude": 30.344,
-      "latitude": -2.023
+      "longitude": 30.3333,
+      "latitude": -2.0232
     },
     {
       "block_id": "c553432c781d-92",
@@ -5125,8 +5134,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-25 08:59:21",
-      "longitude": 30.3277,
-      "latitude": -2.0128
+      "longitude": 30.3408,
+      "latitude": -2.0147
     },
     {
       "block_id": "c553432c781d-93",
@@ -5174,8 +5183,8 @@
       "visit4cobscheck50_survey_start": "2022-03-23 16:54:40",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-23 16:56:03",
-      "longitude": 30.3319,
-      "latitude": -2.0355
+      "longitude": 30.3277,
+      "latitude": -2.0256
     },
     {
       "block_id": "c553432c781d-94",
@@ -5217,8 +5226,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-24 12:41:54",
-      "longitude": 30.33,
-      "latitude": -2.0119
+      "longitude": 30.3368,
+      "latitude": -2.0153
     },
     {
       "block_id": "c553432c781d-95",
@@ -5269,8 +5278,8 @@
       "visit4cobscheck50_cobstothresh_oth": "No",
       "visit4cobscheck50_problemexplain": "Kuri variation ya B dusanze barakuyeho 1 bajya kugitera",
       "visit4cobscheck50_survey_end": "2022-03-23 14:16:31",
-      "longitude": 30.3188,
-      "latitude": -2.0298
+      "longitude": 30.3234,
+      "latitude": -2.0254
     },
     {
       "block_id": "c553432c781d-96",
@@ -5312,8 +5321,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-24 15:46:34",
-      "longitude": 30.3315,
-      "latitude": -2.0197
+      "longitude": 30.3286,
+      "latitude": -2.0327
     },
     {
       "block_id": "c553432c781d-97",
@@ -5364,8 +5373,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-03 13:03:20",
-      "longitude": 30.2698,
-      "latitude": -1.3787
+      "longitude": 30.2583,
+      "latitude": -1.3825
     },
     {
       "block_id": "c553432c781d-98",
@@ -5388,8 +5397,8 @@
       "visit1vegetativev6_survey_end": "2021-11-19 08:22:33",
       "visit1vegetativev6_farm_geo_elevation": 1412.2802,
       "visit1vegetativev6_farm_geo_gps_precision": 4.288,
-      "longitude": 30.2746,
-      "latitude": -1.3745
+      "longitude": 30.2729,
+      "latitude": -1.3682
     },
     {
       "block_id": "c553432c781d-99",
@@ -5440,8 +5449,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Muri A harimo amahundo 3 yaboze Muri B harimo amahundo 2 yaboze Muri C harimo amahundo 3 yaboze \n\n",
       "visit4cobscheck50_survey_end": "2022-03-04 12:31:08",
-      "longitude": 30.2539,
-      "latitude": -1.3781
+      "longitude": 30.2734,
+      "latitude": -1.3688
     },
     {
       "block_id": "c553432c781d-100",
@@ -5484,8 +5493,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-03 15:49:00",
-      "longitude": 30.2673,
-      "latitude": -1.3781
+      "longitude": 30.2707,
+      "latitude": -1.367
     },
     {
       "block_id": "c553432c781d-101",
@@ -5534,8 +5543,8 @@
       "visit4cobscheck50_cobstothresh": "No, The Number Of Cobs Reduced On One Or More Varieties",
       "visit4cobscheck50_cobstothresh_oth": "MuriB habozemo amahundo",
       "visit4cobscheck50_survey_end": "2022-03-15 17:22:52",
-      "longitude": 30.2729,
-      "latitude": -1.3878
+      "longitude": 30.2637,
+      "latitude": -1.3898
     },
     {
       "block_id": "c553432c781d-102",
@@ -5578,8 +5587,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-17 18:40:57",
-      "longitude": 30.2464,
-      "latitude": -1.3751
+      "longitude": 30.256,
+      "latitude": -1.3708
     },
     {
       "block_id": "c553432c781d-103",
@@ -5630,8 +5639,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-15 16:31:09",
-      "longitude": 30.2818,
-      "latitude": -1.3721
+      "longitude": 30.2564,
+      "latitude": -1.3716
     },
     {
       "block_id": "c553432c781d-104",
@@ -5674,8 +5683,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-03 14:44:20",
-      "longitude": 30.2737,
-      "latitude": -1.3803
+      "longitude": 30.2818,
+      "latitude": -1.3775
     },
     {
       "block_id": "c553432c781d-105",
@@ -5726,8 +5735,8 @@
       "visit4cobscheck50_cobstothresh": "No, The Number Of Cobs Reduced On One Or More Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Abana barabitetse amahundo kuri buri gakaro",
       "visit4cobscheck50_survey_end": "2022-03-17 18:03:23",
-      "longitude": 30.2582,
-      "latitude": -1.3972
+      "longitude": 30.2514,
+      "latitude": -1.3868
     },
     {
       "block_id": "c553432c781d-106",
@@ -5770,7 +5779,7 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-17 16:27:56",
-      "longitude": 30.2462,
+      "longitude": 30.2651,
       "latitude": -1.3872
     },
     {
@@ -5817,8 +5826,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-17 16:41:11",
-      "longitude": 30.2749,
-      "latitude": -1.3765
+      "longitude": 30.2617,
+      "latitude": -1.388
     },
     {
       "block_id": "c553432c781d-108",
@@ -5861,8 +5870,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-17 16:54:30",
-      "longitude": 30.273,
-      "latitude": -1.3805
+      "longitude": 30.2696,
+      "latitude": -1.3869
     },
     {
       "block_id": "c553432c781d-109",
@@ -5913,8 +5922,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-04 07:07:13",
-      "longitude": 30.2677,
-      "latitude": -1.3856
+      "longitude": 30.2643,
+      "latitude": -1.39
     },
     {
       "block_id": "c553432c781d-110",
@@ -5957,8 +5966,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-21 06:05:01",
-      "longitude": 30.262,
-      "latitude": -1.3766
+      "longitude": 30.2503,
+      "latitude": -1.3799
     },
     {
       "block_id": "c553432c781d-111",
@@ -6009,8 +6018,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-03 17:31:53",
-      "longitude": 30.2682,
-      "latitude": -1.3719
+      "longitude": 30.2569,
+      "latitude": -1.3734
     },
     {
       "block_id": "c553432c781d-112",
@@ -6053,8 +6062,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-15 18:03:10",
-      "longitude": 30.2552,
-      "latitude": -1.376
+      "longitude": 30.2642,
+      "latitude": -1.3689
     },
     {
       "block_id": "c553432c781d-113",
@@ -6096,8 +6105,8 @@
       "visit4cobscheck50_cobstothresh_oth": "No",
       "visit4cobscheck50_problemexplain": "Umuhinzi bamwibye ibigori byose bya buri gakaro",
       "visit4cobscheck50_survey_end": "2022-03-15 14:37:26",
-      "longitude": 30.2557,
-      "latitude": -1.3848
+      "longitude": 30.2679,
+      "latitude": -1.3864
     },
     {
       "block_id": "c553432c781d-114",
@@ -6140,8 +6149,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-03 11:01:23",
-      "longitude": 30.2681,
-      "latitude": -1.3764
+      "longitude": 30.2685,
+      "latitude": -1.3902
     },
     {
       "block_id": "c553432c781d-115",
@@ -6191,8 +6200,8 @@
       "visit4cobscheck50_survey_start": "2022-03-02 13:25:12",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-02 13:27:44",
-      "longitude": 30.2556,
-      "latitude": -1.3715
+      "longitude": 30.2656,
+      "latitude": -1.3867
     },
     {
       "block_id": "c553432c781d-116",
@@ -6235,8 +6244,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-15 15:59:22",
-      "longitude": 30.2589,
-      "latitude": -1.3691
+      "longitude": 30.2778,
+      "latitude": -1.3802
     },
     {
       "block_id": "c553432c781d-117",
@@ -6288,8 +6297,8 @@
       "visit4cobscheck50_cobstothresh_oth": "No",
       "visit4cobscheck50_problemexplain": "Muri A havuyemo amahundo 4, muriB havuyemo amahundo 2 muri C havuyemo amahundo 4",
       "visit4cobscheck50_survey_end": "2022-03-04 12:21:36",
-      "longitude": 30.2682,
-      "latitude": -1.373
+      "longitude": 30.2518,
+      "latitude": -1.3728
     },
     {
       "block_id": "c553432c781d-118",
@@ -6331,8 +6340,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-02 17:36:33",
-      "longitude": 30.2644,
-      "latitude": -1.3777
+      "longitude": 30.2615,
+      "latitude": -1.3853
     },
     {
       "block_id": "c553432c781d-119",
@@ -6383,8 +6392,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-17 17:10:01",
-      "longitude": 30.2663,
-      "latitude": -1.3637
+      "longitude": 30.2643,
+      "latitude": -1.3726
     },
     {
       "block_id": "c553432c781d-120",
@@ -6427,8 +6436,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-03 10:00:48",
-      "longitude": 30.2495,
-      "latitude": -1.3796
+      "longitude": 30.2513,
+      "latitude": -1.3742
     },
     {
       "block_id": "c553432c781d-121",
@@ -6479,8 +6488,8 @@
       "visit4cobscheck50_cobstothresh": "No, The Number Of Cobs Reduced On One Or More Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Muri A -havuyemo amahundo 2,muriB havuyemo amahundo 13,muriC havuyemo amahundo 10",
       "visit4cobscheck50_survey_end": "2022-03-02 15:33:11",
-      "longitude": 30.2612,
-      "latitude": -1.3773
+      "longitude": 30.2705,
+      "latitude": -1.3633
     },
     {
       "block_id": "c553432c781d-122",
@@ -6523,8 +6532,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-18 11:06:36",
-      "longitude": 30.3081,
-      "latitude": -1.423
+      "longitude": 30.2965,
+      "latitude": -1.4359
     },
     {
       "block_id": "c553432c781d-123",
@@ -6575,8 +6584,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-24 07:29:48",
-      "longitude": 30.2948,
-      "latitude": -1.424
+      "longitude": 30.2855,
+      "latitude": -1.4252
     },
     {
       "block_id": "c553432c781d-124",
@@ -6619,8 +6628,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-24 10:29:38",
-      "longitude": 30.3088,
-      "latitude": -1.4186
+      "longitude": 30.2939,
+      "latitude": -1.4327
     },
     {
       "block_id": "c553432c781d-125",
@@ -6670,8 +6679,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-16 16:27:27",
-      "longitude": 30.2959,
-      "latitude": -1.4256
+      "longitude": 30.2849,
+      "latitude": -1.4273
     },
     {
       "block_id": "c553432c781d-126",
@@ -6714,8 +6723,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-14 18:37:11",
-      "longitude": 30.2843,
-      "latitude": -1.4272
+      "longitude": 30.2895,
+      "latitude": -1.4342
     },
     {
       "block_id": "c553432c781d-127",
@@ -6766,8 +6775,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-18 17:18:13",
-      "longitude": 30.2891,
-      "latitude": -1.4194
+      "longitude": 30.3032,
+      "latitude": -1.4151
     },
     {
       "block_id": "c553432c781d-128",
@@ -6810,8 +6819,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-16 14:56:41",
-      "longitude": 30.305,
-      "latitude": -1.4321
+      "longitude": 30.31,
+      "latitude": -1.4302
     },
     {
       "block_id": "c553432c781d-129",
@@ -6862,8 +6871,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Hagiye habora amahundo kuri buri gakaro",
       "visit4cobscheck50_survey_end": "2022-03-14 18:10:55",
-      "longitude": 30.2953,
-      "latitude": -1.4311
+      "longitude": 30.3026,
+      "latitude": -1.4304
     },
     {
       "block_id": "c553432c781d-130",
@@ -6906,8 +6915,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-18 10:57:32",
-      "longitude": 30.3086,
-      "latitude": -1.4233
+      "longitude": 30.2947,
+      "latitude": -1.4298
     },
     {
       "block_id": "c553432c781d-131",
@@ -6957,8 +6966,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Ibigori byaraminzwe bituma bita ibiro buri karima",
       "visit4cobscheck50_survey_end": "2022-03-18 10:08:18",
-      "longitude": 30.2862,
-      "latitude": -1.4308
+      "longitude": 30.2872,
+      "latitude": -1.4387
     },
     {
       "block_id": "c553432c781d-132",
@@ -7001,8 +7010,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-18 12:11:09",
-      "longitude": 30.2886,
-      "latitude": -1.4375
+      "longitude": 30.2873,
+      "latitude": -1.4311
     },
     {
       "block_id": "c553432c781d-133",
@@ -7053,8 +7062,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-16 14:17:39",
-      "longitude": 30.2971,
-      "latitude": -1.4254
+      "longitude": 30.2931,
+      "latitude": -1.4349
     },
     {
       "block_id": "c553432c781d-134",
@@ -7097,8 +7106,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-14 15:26:52",
-      "longitude": 30.2986,
-      "latitude": -1.4436
+      "longitude": 30.3062,
+      "latitude": -1.4419
     },
     {
       "block_id": "c553432c781d-135",
@@ -7149,8 +7158,8 @@
       "visit4cobscheck50_cobstothresh": "No, The Number Of Cobs Reduced On One Or More Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Ihene zariye amahundo",
       "visit4cobscheck50_survey_end": "2022-03-18 11:34:54",
-      "longitude": 30.3046,
-      "latitude": -1.425
+      "longitude": 30.2908,
+      "latitude": -1.441
     },
     {
       "block_id": "c553432c781d-136",
@@ -7193,8 +7202,8 @@
       "visit4threshingi100_item_B_vs_local": "Worse",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-18 17:04:31",
-      "longitude": 30.3047,
-      "latitude": -1.4222
+      "longitude": 30.2967,
+      "latitude": -1.4375
     },
     {
       "block_id": "c553432c781d-137",
@@ -7245,8 +7254,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-18 15:18:48",
-      "longitude": 30.285,
-      "latitude": -1.4232
+      "longitude": 30.3061,
+      "latitude": -1.4198
     },
     {
       "block_id": "c553432c781d-138",
@@ -7289,8 +7298,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-14 15:39:18",
-      "longitude": 30.2861,
-      "latitude": -1.4413
+      "longitude": 30.3084,
+      "latitude": -1.4279
     },
     {
       "block_id": "c553432c781d-139",
@@ -7333,8 +7342,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-24 10:18:06",
-      "longitude": 30.2879,
-      "latitude": -1.4291
+      "longitude": 30.307,
+      "latitude": -1.4468
     },
     {
       "block_id": "c553432c781d-140",
@@ -7377,8 +7386,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-16 17:11:42",
-      "longitude": 30.2922,
-      "latitude": -1.4294
+      "longitude": 30.2975,
+      "latitude": -1.442
     },
     {
       "block_id": "c553432c781d-141",
@@ -7429,8 +7438,8 @@
       "visit4cobscheck50_cobstothresh": "No, The Number Of Cobs Reduced On One Or More Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Twasanze buri gakaro harimo amahundo yaboze",
       "visit4cobscheck50_survey_end": "2022-03-14 17:35:00",
-      "longitude": 30.3087,
-      "latitude": -1.4269
+      "longitude": 30.3062,
+      "latitude": -1.4242
     },
     {
       "block_id": "c553432c781d-142",
@@ -7481,8 +7490,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-14 17:02:55",
-      "longitude": 30.2929,
-      "latitude": -1.4315
+      "longitude": 30.2895,
+      "latitude": -1.4244
     },
     {
       "block_id": "c553432c781d-143",
@@ -7533,8 +7542,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-16 16:05:27",
-      "longitude": 30.2969,
-      "latitude": -1.4358
+      "longitude": 30.3049,
+      "latitude": -1.4284
     },
     {
       "block_id": "c553432c781d-144",
@@ -7577,8 +7586,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Better",
       "visit4threshingi100_survey_end": "2022-03-16 18:04:23",
-      "longitude": 30.2863,
-      "latitude": -1.4218
+      "longitude": 30.3066,
+      "latitude": -1.4332
     },
     {
       "block_id": "c553432c781d-145",
@@ -7619,8 +7628,8 @@
       "visit4cobscheck50_cobstothresh": "No, The Number Of Cobs Reduced On One Or More Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Umuhinzi yavanze uturima twose bituma tutabasha kubivangura",
       "visit4cobscheck50_survey_end": "2022-03-20 20:41:33",
-      "longitude": 30.2848,
-      "latitude": -1.4256
+      "longitude": 30.2988,
+      "latitude": -1.4343
     },
     {
       "block_id": "c553432c781d-146",
@@ -7663,8 +7672,8 @@
       "visit4threshingi100_item_B_vs_local": "Better",
       "visit4threshingi100_item_C_vs_local": "Worse",
       "visit4threshingi100_survey_end": "2022-03-18 18:28:24",
-      "longitude": 30.2951,
-      "latitude": -1.4395
+      "longitude": 30.3043,
+      "latitude": -1.4172
     },
     {
       "block_id": "c553432c781d-147",
@@ -7716,8 +7725,8 @@
       "visit4cobscheck50_survey_start": "2022-03-25 17:58:02",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-25 17:59:16",
-      "longitude": 29.9159,
-      "latitude": -2.476
+      "longitude": 29.9099,
+      "latitude": -2.4836
     },
     {
       "block_id": "c553432c781d-148",
@@ -7767,8 +7776,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-07 08:14:46",
-      "longitude": 29.8994,
-      "latitude": -2.4608
+      "longitude": 29.9003,
+      "latitude": -2.4718
     },
     {
       "block_id": "c553432c781d-149",
@@ -7821,8 +7830,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-07 07:20:19",
-      "longitude": 29.8989,
-      "latitude": -2.4615
+      "longitude": 29.9067,
+      "latitude": -2.4613
     },
     {
       "block_id": "c553432c781d-150",
@@ -7872,8 +7881,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-09 17:57:43",
-      "longitude": 29.914,
-      "latitude": -2.4539
+      "longitude": 29.919,
+      "latitude": -2.4678
     },
     {
       "block_id": "c553432c781d-151",
@@ -7926,8 +7935,8 @@
       "visit4cobscheck50_cobstothresh_oth": "Imbeba zarabiriye",
       "visit4cobscheck50_problemexplain": "Imbeba zarabiriye ariko ibisigaye ntibyatubuza kubiha agaciro",
       "visit4cobscheck50_survey_end": "2022-03-29 16:45:58",
-      "longitude": 29.9244,
-      "latitude": -2.4736
+      "longitude": 29.9193,
+      "latitude": -2.477
     },
     {
       "block_id": "c553432c781d-152",
@@ -7977,8 +7986,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-29 17:06:23",
-      "longitude": 29.9019,
-      "latitude": -2.4713
+      "longitude": 29.9138,
+      "latitude": -2.4745
     },
     {
       "block_id": "c553432c781d-153",
@@ -8031,8 +8040,8 @@
       "visit4cobscheck50_cobstothresh": "Other",
       "visit4cobscheck50_cobstothresh_oth": "Twabisaruye barabyibye",
       "visit4cobscheck50_survey_end": "2022-03-29 17:19:56",
-      "longitude": 29.925,
-      "latitude": -2.4651
+      "longitude": 29.9137,
+      "latitude": -2.4671
     },
     {
       "block_id": "c553432c781d-154",
@@ -8081,8 +8090,8 @@
       "visit4cobscheck50_survey_start": "2022-03-25 17:56:00",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-25 17:57:29",
-      "longitude": 29.899,
-      "latitude": -2.4801
+      "longitude": 29.9046,
+      "latitude": -2.4802
     },
     {
       "block_id": "c553432c781d-155",
@@ -8135,8 +8144,8 @@
       "visit4cobscheck50_cobstothresh": "Other",
       "visit4cobscheck50_cobstothresh_oth": "Imbeba zarabiriye",
       "visit4cobscheck50_survey_end": "2022-04-06 11:47:53",
-      "longitude": 29.924,
-      "latitude": -2.4726
+      "longitude": 29.9163,
+      "latitude": -2.4856
     },
     {
       "block_id": "c553432c781d-156",
@@ -8186,8 +8195,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Uyu muhinzi ibigori byo byariwe n,umuswa bikini mu umurima niyo mpamvu umusaruro ari muke",
       "visit4cobscheck50_survey_end": "2022-04-07 07:45:13",
-      "longitude": 29.914,
-      "latitude": -2.4759
+      "longitude": 29.908,
+      "latitude": -2.4751
     },
     {
       "block_id": "c553432c781d-157",
@@ -8240,8 +8249,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-07 18:00:31",
-      "longitude": 29.913,
-      "latitude": -2.4618
+      "longitude": 29.9075,
+      "latitude": -2.4621
     },
     {
       "block_id": "c553432c781d-158",
@@ -8264,8 +8273,8 @@
       "visit1vegetativev6_survey_end": "2021-11-26 15:07:03",
       "visit1vegetativev6_farm_geo_elevation": 1440.6937,
       "visit1vegetativev6_farm_geo_gps_precision": 3.216,
-      "longitude": 29.9307,
-      "latitude": -2.468
+      "longitude": 29.9066,
+      "latitude": -2.4766
     },
     {
       "block_id": "c553432c781d-159",
@@ -8317,8 +8326,8 @@
       "visit4cobscheck50_survey_start": "2022-03-26 16:20:15",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-26 16:21:27",
-      "longitude": 29.9185,
-      "latitude": -2.4646
+      "longitude": 29.9236,
+      "latitude": -2.4704
     },
     {
       "block_id": "c553432c781d-160",
@@ -8366,8 +8375,8 @@
       "visit4cobscheck50_survey_start": "2022-03-26 17:44:49",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-26 17:46:01",
-      "longitude": 29.9082,
-      "latitude": -2.4729
+      "longitude": 29.9051,
+      "latitude": -2.4697
     },
     {
       "block_id": "c553432c781d-161",
@@ -8418,8 +8427,8 @@
       "visit4cobscheck50_cobstothresh": "No, The Number Of Cobs Reduced On One Or More Varieties",
       "visit4cobscheck50_problemexplain": "Yes,ibigori barabyahiye",
       "visit4cobscheck50_survey_end": "2022-04-12 17:43:59",
-      "longitude": 29.9097,
-      "latitude": -2.4664
+      "longitude": 29.927,
+      "latitude": -2.4673
     },
     {
       "block_id": "c553432c781d-162",
@@ -8470,8 +8479,8 @@
       "visit4cobscheck50_cobstothresh_oth": "Imbeba zariye ibigori 8 byo muri B",
       "visit4cobscheck50_problemexplain": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-25 17:54:57",
-      "longitude": 29.9211,
-      "latitude": -2.4722
+      "longitude": 29.9135,
+      "latitude": -2.4578
     },
     {
       "block_id": "c553432c781d-163",
@@ -8524,8 +8533,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-07 07:57:34",
-      "longitude": 29.9072,
-      "latitude": -2.4559
+      "longitude": 29.9114,
+      "latitude": -2.4688
     },
     {
       "block_id": "c553432c781d-164",
@@ -8575,8 +8584,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-03 18:00:31",
-      "longitude": 29.9236,
-      "latitude": -2.4791
+      "longitude": 29.9042,
+      "latitude": -2.4685
     },
     {
       "block_id": "c553432c781d-165",
@@ -8629,8 +8638,8 @@
       "visit4cobscheck50_cobstothresh": "Other",
       "visit4cobscheck50_problemexplain": "Yes ibigori barabyibye bikiri mumurima",
       "visit4cobscheck50_survey_end": "2022-04-11 14:44:51",
-      "longitude": 29.9053,
-      "latitude": -2.4779
+      "longitude": 29.925,
+      "latitude": -2.4839
     },
     {
       "block_id": "c553432c781d-166",
@@ -8680,8 +8689,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-07 16:57:08",
-      "longitude": 29.9189,
-      "latitude": -2.4601
+      "longitude": 29.91,
+      "latitude": -2.4489
     },
     {
       "block_id": "c553432c781d-167",
@@ -8734,8 +8743,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-08 16:15:44",
-      "longitude": 29.8966,
-      "latitude": -2.4684
+      "longitude": 29.9037,
+      "latitude": -2.4881
     },
     {
       "block_id": "c553432c781d-168",
@@ -8786,7 +8795,7 @@
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-08 11:33:41",
       "longitude": 29.9029,
-      "latitude": -2.4868
+      "latitude": -2.4707
     },
     {
       "block_id": "c553432c781d-169",
@@ -8839,8 +8848,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-05 16:24:09",
-      "longitude": 29.9074,
-      "latitude": -2.4719
+      "longitude": 29.9058,
+      "latitude": -2.4685
     },
     {
       "block_id": "c553432c781d-170",
@@ -8890,8 +8899,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-09 16:19:33",
-      "longitude": 29.9164,
-      "latitude": -2.4717
+      "longitude": 29.8923,
+      "latitude": -2.4709
     },
     {
       "block_id": "c553432c781d-171",
@@ -8942,8 +8951,8 @@
       "visit4cobscheck50_survey_start": "2022-03-23 16:50:14",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-23 16:51:46",
-      "longitude": 29.8973,
-      "latitude": -2.4815
+      "longitude": 29.8903,
+      "latitude": -2.4752
     },
     {
       "block_id": "c553432c781d-172",
@@ -8993,8 +9002,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-31 17:00:32",
-      "longitude": 29.9062,
-      "latitude": -2.4891
+      "longitude": 29.8952,
+      "latitude": -2.4901
     },
     {
       "block_id": "c553432c781d-173",
@@ -9047,7 +9056,7 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-08 12:59:19",
-      "longitude": 29.9,
+      "longitude": 29.9178,
       "latitude": -2.4781
     },
     {
@@ -9098,8 +9107,8 @@
       "visit4cobscheck50_cobstothresh": "Other",
       "visit4cobscheck50_cobstothresh_oth": "Yes ,ariko variations ya B na C hagaragayemo kurisuka",
       "visit4cobscheck50_survey_end": "2022-04-09 16:31:23",
-      "longitude": 29.9043,
-      "latitude": -2.4633
+      "longitude": 29.9054,
+      "latitude": -2.4873
     },
     {
       "block_id": "c553432c781d-175",
@@ -9151,8 +9160,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-05 11:52:16",
-      "longitude": 29.8908,
-      "latitude": -2.4928
+      "longitude": 29.8972,
+      "latitude": -2.4743
     },
     {
       "block_id": "c553432c781d-176",
@@ -9202,8 +9211,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-31 16:48:52",
-      "longitude": 29.9144,
-      "latitude": -2.4895
+      "longitude": 29.9125,
+      "latitude": -2.4942
     },
     {
       "block_id": "c553432c781d-177",
@@ -9256,8 +9265,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-28 17:41:22",
-      "longitude": 29.8968,
-      "latitude": -2.4943
+      "longitude": 29.9023,
+      "latitude": -2.4965
     },
     {
       "block_id": "c553432c781d-178",
@@ -9307,8 +9316,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-05 11:13:30",
-      "longitude": 29.8947,
-      "latitude": -2.4924
+      "longitude": 29.89,
+      "latitude": -2.4862
     },
     {
       "block_id": "c553432c781d-179",
@@ -9361,8 +9370,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-09 16:06:30",
-      "longitude": 29.8943,
-      "latitude": -2.4781
+      "longitude": 29.8945,
+      "latitude": -2.4753
     },
     {
       "block_id": "c553432c781d-180",
@@ -9411,8 +9420,8 @@
       "visit4cobscheck50_cobstothresh": "Other",
       "visit4cobscheck50_cobstothresh_oth": "Yes,ariko umumero wabaye muke kuri variations zose",
       "visit4cobscheck50_survey_end": "2022-04-12 15:31:43",
-      "longitude": 29.8967,
-      "latitude": -2.4804
+      "longitude": 29.9025,
+      "latitude": -2.4837
     },
     {
       "block_id": "c553432c781d-181",
@@ -9465,8 +9474,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-04-09 09:52:23",
-      "longitude": 29.8869,
-      "latitude": -2.4691
+      "longitude": 29.892,
+      "latitude": -2.4698
     },
     {
       "block_id": "c553432c781d-182",
@@ -9516,8 +9525,8 @@
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_cobstothresh_oth": "Yes",
       "visit4cobscheck50_survey_end": "2022-03-30 17:11:29",
-      "longitude": 29.9007,
-      "latitude": -2.4731
+      "longitude": 29.9,
+      "latitude": -2.4642
     },
     {
       "block_id": "c553432c781d-183",
@@ -9569,8 +9578,8 @@
       "visit4cobscheck50_survey_start": "2022-03-30 16:57:10",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-30 16:58:19",
-      "longitude": 29.9062,
-      "latitude": -2.4656
+      "longitude": 29.8977,
+      "latitude": -2.4642
     },
     {
       "block_id": "c553432c781d-184",
@@ -9619,8 +9628,8 @@
       "visit4cobscheck50_survey_start": "2022-03-30 17:31:06",
       "visit4cobscheck50_cobstothresh": "Yes, The Farmer Threshed The Same Number Of Cobs On All Other Varieties",
       "visit4cobscheck50_survey_end": "2022-03-30 17:31:54",
-      "longitude": 29.8898,
-      "latitude": -2.4754
+      "longitude": 29.8971,
+      "latitude": -2.4648
     },
     {
       "block_id": "c553432c781d-185",
@@ -9673,8 +9682,8 @@
       "visit4cobscheck50_cobstothresh": "Other",
       "visit4cobscheck50_cobstothresh_oth": "Nasanze yarabihunguye imbuto karishyira umufuka wayo",
       "visit4cobscheck50_survey_end": "2022-03-30 17:23:24",
-      "longitude": 29.9004,
-      "latitude": -2.4676
+      "longitude": 29.9033,
+      "latitude": -2.4668
     },
     {
       "block_id": "c553432c781d-186",
@@ -9722,8 +9731,8 @@
       "visit4cobscheck50_cobstothresh": "Other",
       "visit4cobscheck50_cobstothresh_oth": "Uyu muhinzi yarwaje umuntu mubitaro amezi 3 akimara kuva murugo umukecuru ahita agurisha ibigori none nta amakuru tuzabona",
       "visit4cobscheck50_survey_end": "2022-05-02 14:21:58",
-      "longitude": 29.8929,
-      "latitude": -2.4858
+      "longitude": 29.9021,
+      "latitude": -2.4697
     }
   ],
   "plot_data": [

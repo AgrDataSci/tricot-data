@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-09-18",
+      "version": "v2025-10-03",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -73,7 +73,7 @@
       {
         "genotype_name": "Madiira 1",
         "role": "Historical check",
-        "release_year": "No information provided",
+        "release_year": "2011.0",
         "crossing_year": "No information provided",
         "target_trait": "Yield",
         "origin": "No information provided",
@@ -82,7 +82,7 @@
       {
         "genotype_name": "Nguruma",
         "role": "Historical check",
-        "release_year": "No information provided",
+        "release_year": "2018.0",
         "crossing_year": "No information provided",
         "target_trait": "Yield",
         "origin": "No information provided",
@@ -100,7 +100,7 @@
       {
         "genotype_name": "Madiira 2",
         "role": "Historical check",
-        "release_year": "No information provided",
+        "release_year": "2011.0",
         "crossing_year": "No information provided",
         "target_trait": "Yield",
         "origin": "No information provided",
@@ -108,8 +108,8 @@
       },
       {
         "genotype_name": "Akeri",
-        "role": "Genebank accession",
-        "release_year": "No information provided",
+        "role": "Comparative check",
+        "release_year": "2018.0",
         "crossing_year": "No information provided",
         "target_trait": "Yield",
         "origin": "WorldVeg",
@@ -126,8 +126,8 @@
       },
       {
         "genotype_name": "Poli",
-        "role": "Replacement candidate",
-        "release_year": "No information provided",
+        "role": "Comparative check",
+        "release_year": "2018.0",
         "crossing_year": "No information provided",
         "target_trait": "Yield",
         "origin": "No information provided",
@@ -1225,8 +1225,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 10:19:09",
-      "longitude": 38.9982,
-      "latitude": -10.6178
+      "longitude": 39.0013,
+      "latitude": -10.6255
     },
     {
       "block_id": "d2a6d0817bc8-2",
@@ -1310,8 +1310,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 10:34:17",
-      "longitude": 39.019,
-      "latitude": -10.6203
+      "longitude": 39.0108,
+      "latitude": -10.6232
     },
     {
       "block_id": "d2a6d0817bc8-3",
@@ -1382,8 +1382,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "C",
       "transplanting_survey_end": "2022-11-22 08:41:50",
-      "longitude": 39.0132,
-      "latitude": -10.5965
+      "longitude": 39.0282,
+      "latitude": -10.6079
     },
     {
       "block_id": "d2a6d0817bc8-4",
@@ -1467,8 +1467,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 09:48:32",
-      "longitude": 39.0093,
-      "latitude": -10.6111
+      "longitude": 39.0193,
+      "latitude": -10.6216
     },
     {
       "block_id": "d2a6d0817bc8-5",
@@ -1528,8 +1528,8 @@
       "nursery_plantingdate": "2022-10-20",
       "nursery_localvariety": "Amaranth",
       "nursery_survey_end": "2022-10-29 10:35:21",
-      "longitude": 38.9974,
-      "latitude": -10.6105
+      "longitude": 39.0164,
+      "latitude": -10.6122
     },
     {
       "block_id": "d2a6d0817bc8-6",
@@ -1600,8 +1600,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-22 08:26:07",
-      "longitude": 39.0178,
-      "latitude": -10.5934
+      "longitude": 39.0235,
+      "latitude": -10.6012
     },
     {
       "block_id": "d2a6d0817bc8-7",
@@ -1672,8 +1672,8 @@
       "transplanting_diseasesany": "Yes",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-22 07:55:44",
-      "longitude": 39.0247,
-      "latitude": -10.5959
+      "longitude": 39.0294,
+      "latitude": -10.602
     },
     {
       "block_id": "d2a6d0817bc8-8",
@@ -1757,8 +1757,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "B",
       "firstharvest_survey_end": "2022-12-10 13:12:55",
-      "longitude": 39.0254,
-      "latitude": -10.595
+      "longitude": 39.0375,
+      "latitude": -10.5864
     },
     {
       "block_id": "d2a6d0817bc8-9",
@@ -1818,8 +1818,8 @@
       "nursery_plantingdate": "2022-10-20",
       "nursery_localvariety": "Amaranth",
       "nursery_survey_end": "2022-10-29 10:29:20",
-      "longitude": 39,
-      "latitude": -10.6056
+      "longitude": 39.0008,
+      "latitude": -10.6189
     },
     {
       "block_id": "d2a6d0817bc8-10",
@@ -1903,8 +1903,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 12:30:21",
-      "longitude": 38.9987,
-      "latitude": -10.6059
+      "longitude": 39.0012,
+      "latitude": -10.6182
     },
     {
       "block_id": "d2a6d0817bc8-11",
@@ -1977,8 +1977,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-29 11:31:47",
-      "longitude": 39.0023,
-      "latitude": -10.6136
+      "longitude": 39.0222,
+      "latitude": -10.6125
     },
     {
       "block_id": "d2a6d0817bc8-12",
@@ -2062,8 +2062,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 10:44:58",
-      "longitude": 39.0123,
-      "latitude": -10.6311
+      "longitude": 39.0135,
+      "latitude": -10.6153
     },
     {
       "block_id": "d2a6d0817bc8-13",
@@ -2134,8 +2134,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-29 11:31:13",
-      "longitude": 39.0189,
-      "latitude": -10.599
+      "longitude": 39.0252,
+      "latitude": -10.6086
     },
     {
       "block_id": "d2a6d0817bc8-14",
@@ -2219,8 +2219,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 12:37:18",
-      "longitude": 38.9849,
-      "latitude": -10.6089
+      "longitude": 38.9936,
+      "latitude": -10.609
     },
     {
       "block_id": "d2a6d0817bc8-15",
@@ -2304,8 +2304,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 12:45:12",
-      "longitude": 39.0216,
-      "latitude": -10.5991
+      "longitude": 39.0282,
+      "latitude": -10.5851
     },
     {
       "block_id": "d2a6d0817bc8-16",
@@ -2389,8 +2389,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 12:53:25",
-      "longitude": 38.9965,
-      "latitude": -10.6235
+      "longitude": 38.9986,
+      "latitude": -10.6088
     },
     {
       "block_id": "d2a6d0817bc8-17",
@@ -2474,8 +2474,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-02 11:00:18",
-      "longitude": 39.0058,
-      "latitude": -10.614
+      "longitude": 39.0088,
+      "latitude": -10.6173
     },
     {
       "block_id": "d2a6d0817bc8-18",
@@ -2559,8 +2559,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-10 13:03:17",
-      "longitude": 39.0036,
-      "latitude": -10.6119
+      "longitude": 39,
+      "latitude": -10.6237
     },
     {
       "block_id": "d2a6d0817bc8-19",
@@ -2631,8 +2631,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-22 08:03:28",
-      "longitude": 39.0135,
-      "latitude": -10.598
+      "longitude": 39.0112,
+      "latitude": -10.5987
     },
     {
       "block_id": "d2a6d0817bc8-20",
@@ -2716,8 +2716,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-03 08:48:32",
-      "longitude": 39.0056,
-      "latitude": -10.6164
+      "longitude": 38.9947,
+      "latitude": -10.6077
     },
     {
       "block_id": "d2a6d0817bc8-21",
@@ -2801,8 +2801,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "A; B; C",
       "firstharvest_survey_end": "2022-11-29 11:12:53",
-      "longitude": 39.0103,
-      "latitude": -10.6194
+      "longitude": 39.0168,
+      "latitude": -10.6354
     },
     {
       "block_id": "d2a6d0817bc8-22",
@@ -2886,8 +2886,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "B",
       "firstharvest_survey_end": "2022-11-29 11:42:48",
-      "longitude": 38.9887,
-      "latitude": -10.6179
+      "longitude": 39.0031,
+      "latitude": -10.6214
     },
     {
       "block_id": "d2a6d0817bc8-23",
@@ -2947,8 +2947,8 @@
       "nursery_plantingdate": "2022-11-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:01:57",
-      "longitude": 38.9268,
-      "latitude": -10.5299
+      "longitude": 38.9334,
+      "latitude": -10.5313
     },
     {
       "block_id": "d2a6d0817bc8-24",
@@ -3007,8 +3007,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:22:10",
-      "longitude": 38.9293,
-      "latitude": -10.5313
+      "longitude": 38.9233,
+      "latitude": -10.5542
     },
     {
       "block_id": "d2a6d0817bc8-25",
@@ -3068,7 +3068,7 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:59:26",
-      "longitude": 38.906,
+      "longitude": 38.9116,
       "latitude": -10.5451
     },
     {
@@ -3129,8 +3129,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:05:49",
-      "longitude": 38.9193,
-      "latitude": -10.5496
+      "longitude": 38.91,
+      "latitude": -10.5335
     },
     {
       "block_id": "d2a6d0817bc8-27",
@@ -3190,8 +3190,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:07:13",
-      "longitude": 38.9223,
-      "latitude": -10.5465
+      "longitude": 38.9112,
+      "latitude": -10.5501
     },
     {
       "block_id": "d2a6d0817bc8-28",
@@ -3251,8 +3251,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:31:57",
-      "longitude": 38.9217,
-      "latitude": -10.5529
+      "longitude": 38.9402,
+      "latitude": -10.5608
     },
     {
       "block_id": "d2a6d0817bc8-29",
@@ -3312,8 +3312,8 @@
       "nursery_plantingdate": "2022-10-24",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 12:23:51",
-      "longitude": 38.9338,
-      "latitude": -10.5406
+      "longitude": 38.9137,
+      "latitude": -10.531
     },
     {
       "block_id": "d2a6d0817bc8-30",
@@ -3373,8 +3373,8 @@
       "nursery_plantingdate": "2022-10-24",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 12:47:17",
-      "longitude": 38.9353,
-      "latitude": -10.5397
+      "longitude": 38.9308,
+      "latitude": -10.5349
     },
     {
       "block_id": "d2a6d0817bc8-31",
@@ -3434,8 +3434,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:03:32",
-      "longitude": 38.9177,
-      "latitude": -10.5581
+      "longitude": 38.9039,
+      "latitude": -10.5509
     },
     {
       "block_id": "d2a6d0817bc8-32",
@@ -3495,8 +3495,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local Variety",
       "nursery_survey_end": "2022-11-03 07:04:14",
-      "longitude": 38.9184,
-      "latitude": -10.5316
+      "longitude": 38.9253,
+      "latitude": -10.5539
     },
     {
       "block_id": "d2a6d0817bc8-33",
@@ -3556,8 +3556,8 @@
       "nursery_plantingdate": "2022-10-24",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 13:02:09",
-      "longitude": 38.9359,
-      "latitude": -10.5329
+      "longitude": 38.9308,
+      "latitude": -10.5491
     },
     {
       "block_id": "d2a6d0817bc8-34",
@@ -3617,8 +3617,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:37:00",
-      "longitude": 38.9284,
-      "latitude": -10.551
+      "longitude": 38.9406,
+      "latitude": -10.553
     },
     {
       "block_id": "d2a6d0817bc8-35",
@@ -3678,8 +3678,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:30:45",
-      "longitude": 38.9437,
-      "latitude": -10.5583
+      "longitude": 38.9223,
+      "latitude": -10.548
     },
     {
       "block_id": "d2a6d0817bc8-36",
@@ -3739,8 +3739,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:35:31",
-      "longitude": 38.9228,
-      "latitude": -10.5561
+      "longitude": 38.9318,
+      "latitude": -10.5443
     },
     {
       "block_id": "d2a6d0817bc8-37",
@@ -3800,8 +3800,8 @@
       "nursery_plantingdate": "2022-10-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-08 19:54:38",
-      "longitude": 38.9217,
-      "latitude": -10.5612
+      "longitude": 38.9267,
+      "latitude": -10.5599
     },
     {
       "block_id": "d2a6d0817bc8-38",
@@ -3861,8 +3861,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 08:29:02",
-      "longitude": 38.9335,
-      "latitude": -10.5615
+      "longitude": 38.9288,
+      "latitude": -10.5483
     },
     {
       "block_id": "d2a6d0817bc8-39",
@@ -3922,8 +3922,8 @@
       "nursery_plantingdate": "2022-11-27",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-11-03 07:24:12",
-      "longitude": 38.9213,
-      "latitude": -10.5563
+      "longitude": 38.9343,
+      "latitude": -10.5534
     },
     {
       "block_id": "d2a6d0817bc8-40",
@@ -3983,8 +3983,8 @@
       "nursery_plantingdate": "2022-10-23",
       "nursery_localvariety": "No local variet",
       "nursery_survey_end": "2022-10-31 11:47:54",
-      "longitude": 38.9357,
-      "latitude": -10.5872
+      "longitude": 38.9397,
+      "latitude": -10.5657
     },
     {
       "block_id": "d2a6d0817bc8-41",
@@ -4044,8 +4044,8 @@
       "nursery_plantingdate": "2022-10-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:42:15",
-      "longitude": 38.9266,
-      "latitude": -10.5648
+      "longitude": 38.9428,
+      "latitude": -10.5759
     },
     {
       "block_id": "d2a6d0817bc8-42",
@@ -4106,7 +4106,7 @@
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:14:27",
       "longitude": 38.9211,
-      "latitude": -10.5408
+      "latitude": -10.5469
     },
     {
       "block_id": "d2a6d0817bc8-43",
@@ -4166,8 +4166,8 @@
       "nursery_plantingdate": "2022-10-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:39:48",
-      "longitude": 38.9304,
-      "latitude": -10.5733
+      "longitude": 38.9246,
+      "latitude": -10.5695
     },
     {
       "block_id": "d2a6d0817bc8-44",
@@ -4227,8 +4227,8 @@
       "nursery_plantingdate": "2022-10-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:37:11",
-      "longitude": 38.9252,
-      "latitude": -10.5797
+      "longitude": 38.9458,
+      "latitude": -10.5696
     },
     {
       "block_id": "d2a6d0817bc8-45",
@@ -4288,8 +4288,8 @@
       "nursery_plantingdate": "2022-10-22",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:17:32",
-      "longitude": 38.9192,
-      "latitude": -10.5409
+      "longitude": 38.9215,
+      "latitude": -10.5326
     },
     {
       "block_id": "d2a6d0817bc8-46",
@@ -4349,8 +4349,8 @@
       "nursery_plantingdate": "2022-10-25",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:34:55",
-      "longitude": 38.9298,
-      "latitude": -10.5747
+      "longitude": 38.9216,
+      "latitude": -10.5722
     },
     {
       "block_id": "d2a6d0817bc8-47",
@@ -4410,8 +4410,8 @@
       "nursery_plantingdate": "2022-10-22",
       "nursery_localvariety": "No local variety",
       "nursery_survey_end": "2022-10-31 17:16:08",
-      "longitude": 38.9031,
-      "latitude": -10.5448
+      "longitude": 38.9128,
+      "latitude": -10.5345
     },
     {
       "block_id": "d2a6d0817bc8-48",
@@ -4476,8 +4476,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 08:46:27",
-      "longitude": 39.7068,
-      "latitude": -10.348
+      "longitude": 39.7098,
+      "latitude": -10.3467
     },
     {
       "block_id": "d2a6d0817bc8-49",
@@ -4542,8 +4542,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:24:58",
-      "longitude": 39.6912,
-      "latitude": -10.3474
+      "longitude": 39.6913,
+      "latitude": -10.3519
     },
     {
       "block_id": "d2a6d0817bc8-50",
@@ -4639,8 +4639,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 12:11:26",
-      "longitude": 39.7177,
-      "latitude": -10.3541
+      "longitude": 39.704,
+      "latitude": -10.3727
     },
     {
       "block_id": "d2a6d0817bc8-51",
@@ -4704,8 +4704,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:20:32",
-      "longitude": 39.7043,
-      "latitude": -10.3588
+      "longitude": 39.6987,
+      "latitude": -10.3459
     },
     {
       "block_id": "d2a6d0817bc8-52",
@@ -4769,8 +4769,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:25:51",
-      "longitude": 39.6971,
-      "latitude": -10.3633
+      "longitude": 39.7045,
+      "latitude": -10.3478
     },
     {
       "block_id": "d2a6d0817bc8-53",
@@ -4834,8 +4834,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 08:34:11",
-      "longitude": 39.6963,
-      "latitude": -10.3518
+      "longitude": 39.6991,
+      "latitude": -10.37
     },
     {
       "block_id": "d2a6d0817bc8-54",
@@ -4937,8 +4937,8 @@
       "thirdharvest_diseasesany": "Not Applicable",
       "thirdharvest_whichlost": "None",
       "thirdharvest_survey_end": "2023-01-26 12:12:55",
-      "longitude": 39.7131,
-      "latitude": -10.3684
+      "longitude": 39.7065,
+      "latitude": -10.3465
     },
     {
       "block_id": "d2a6d0817bc8-55",
@@ -5002,8 +5002,8 @@
       "nursery_plantingdate": "2022-10-19",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 15:49:57",
-      "longitude": 39.7065,
-      "latitude": -10.3751
+      "longitude": 39.7223,
+      "latitude": -10.3769
     },
     {
       "block_id": "d2a6d0817bc8-56",
@@ -5068,8 +5068,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:26:41",
-      "longitude": 39.6954,
-      "latitude": -10.356
+      "longitude": 39.7059,
+      "latitude": -10.3697
     },
     {
       "block_id": "d2a6d0817bc8-57",
@@ -5134,8 +5134,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 21:27:21",
-      "longitude": 39.7017,
-      "latitude": -10.3695
+      "longitude": 39.6956,
+      "latitude": -10.3473
     },
     {
       "block_id": "d2a6d0817bc8-58",
@@ -5200,8 +5200,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 09:29:23",
-      "longitude": 39.6912,
-      "latitude": -10.366
+      "longitude": 39.7006,
+      "latitude": -10.352
     },
     {
       "block_id": "d2a6d0817bc8-59",
@@ -5297,8 +5297,8 @@
       "secondharvest_diseasesany": "No",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 12:14:16",
-      "longitude": 39.7138,
-      "latitude": -10.3806
+      "longitude": 39.7167,
+      "latitude": -10.3724
     },
     {
       "block_id": "d2a6d0817bc8-60",
@@ -5364,7 +5364,7 @@
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 12:03:19",
       "longitude": 39.7008,
-      "latitude": -10.3687
+      "latitude": -10.373
     },
     {
       "block_id": "d2a6d0817bc8-61",
@@ -5428,8 +5428,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 11:31:09",
-      "longitude": 39.7142,
-      "latitude": -10.3709
+      "longitude": 39.7031,
+      "latitude": -10.3665
     },
     {
       "block_id": "d2a6d0817bc8-62",
@@ -5493,8 +5493,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 11:53:34",
-      "longitude": 39.7111,
-      "latitude": -10.3732
+      "longitude": 39.7158,
+      "latitude": -10.3622
     },
     {
       "block_id": "d2a6d0817bc8-63",
@@ -5558,8 +5558,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 11:40:41",
-      "longitude": 39.7042,
-      "latitude": -10.3687
+      "longitude": 39.7007,
+      "latitude": -10.364
     },
     {
       "block_id": "d2a6d0817bc8-64",
@@ -5653,8 +5653,8 @@
       "secondharvest_diseasesany": "No",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 12:15:47",
-      "longitude": 39.7088,
-      "latitude": -10.381
+      "longitude": 39.7116,
+      "latitude": -10.3703
     },
     {
       "block_id": "d2a6d0817bc8-65",
@@ -5750,8 +5750,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 12:16:31",
-      "longitude": 39.7061,
-      "latitude": -10.3609
+      "longitude": 39.7202,
+      "latitude": -10.3662
     },
     {
       "block_id": "d2a6d0817bc8-66",
@@ -5816,8 +5816,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 10:08:46",
-      "longitude": 39.7006,
-      "latitude": -10.363
+      "longitude": 39.6936,
+      "latitude": -10.3529
     },
     {
       "block_id": "d2a6d0817bc8-67",
@@ -5883,8 +5883,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 10:12:18",
-      "longitude": 39.7093,
-      "latitude": -10.3465
+      "longitude": 39.7005,
+      "latitude": -10.3667
     },
     {
       "block_id": "d2a6d0817bc8-68",
@@ -5948,8 +5948,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 11:26:05",
-      "longitude": 39.691,
-      "latitude": -10.3553
+      "longitude": 39.7082,
+      "latitude": -10.3486
     },
     {
       "block_id": "d2a6d0817bc8-69",
@@ -6014,8 +6014,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-26 12:31:53",
-      "longitude": 39.7186,
-      "latitude": -10.3686
+      "longitude": 39.7191,
+      "latitude": -10.3753
     },
     {
       "block_id": "d2a6d0817bc8-70",
@@ -6079,8 +6079,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 12:31:40",
-      "longitude": 39.7092,
-      "latitude": -10.3664
+      "longitude": 39.7118,
+      "latitude": -10.3829
     },
     {
       "block_id": "d2a6d0817bc8-71",
@@ -6182,8 +6182,8 @@
       "thirdharvest_diseasesany": "Not Applicable",
       "thirdharvest_whichlost": "None",
       "thirdharvest_survey_end": "2023-01-26 12:17:14",
-      "longitude": 39.6981,
-      "latitude": -10.3539
+      "longitude": 39.6999,
+      "latitude": -10.3632
     },
     {
       "block_id": "d2a6d0817bc8-72",
@@ -6247,8 +6247,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-27 09:10:59",
-      "longitude": 39.7115,
-      "latitude": -10.3705
+      "longitude": 39.7065,
+      "latitude": -10.354
     },
     {
       "block_id": "d2a6d0817bc8-73",
@@ -6345,8 +6345,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 18:53:12",
-      "longitude": 39.6996,
-      "latitude": -10.3581
+      "longitude": 39.701,
+      "latitude": -10.3685
     },
     {
       "block_id": "d2a6d0817bc8-74",
@@ -6447,8 +6447,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 19:10:54",
-      "longitude": 39.707,
-      "latitude": -10.3586
+      "longitude": 39.7015,
+      "latitude": -10.3672
     },
     {
       "block_id": "d2a6d0817bc8-75",
@@ -6536,8 +6536,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-06 09:44:32",
-      "longitude": 40.1812,
-      "latitude": -10.2883
+      "longitude": 40.1915,
+      "latitude": -10.3056
     },
     {
       "block_id": "d2a6d0817bc8-76",
@@ -6600,8 +6600,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:43:02",
-      "longitude": 39.8509,
-      "latitude": -10.3687
+      "longitude": 39.8547,
+      "latitude": -10.3809
     },
     {
       "block_id": "d2a6d0817bc8-77",
@@ -6665,8 +6665,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:18:41",
-      "longitude": 39.7159,
-      "latitude": -10.3488
+      "longitude": 39.7112,
+      "latitude": -10.36
     },
     {
       "block_id": "d2a6d0817bc8-78",
@@ -6728,8 +6728,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:19:04",
-      "longitude": 39.6944,
-      "latitude": -10.3579
+      "longitude": 39.699,
+      "latitude": -10.368
     },
     {
       "block_id": "d2a6d0817bc8-79",
@@ -6792,8 +6792,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:21:57",
-      "longitude": 39.6945,
-      "latitude": -10.3606
+      "longitude": 39.7006,
+      "latitude": -10.36
     },
     {
       "block_id": "d2a6d0817bc8-80",
@@ -6861,8 +6861,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:20:11",
-      "longitude": 39.7046,
-      "latitude": -10.3556
+      "longitude": 39.7071,
+      "latitude": -10.3506
     },
     {
       "block_id": "d2a6d0817bc8-81",
@@ -6955,8 +6955,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 18:56:53",
-      "longitude": 39.7091,
-      "latitude": -10.3501
+      "longitude": 39.702,
+      "latitude": -10.3543
     },
     {
       "block_id": "d2a6d0817bc8-82",
@@ -7048,8 +7048,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 19:07:15",
-      "longitude": 39.7086,
-      "latitude": -10.3689
+      "longitude": 39.6994,
+      "latitude": -10.3706
     },
     {
       "block_id": "d2a6d0817bc8-83",
@@ -7111,8 +7111,8 @@
       "nursery_plantingdate": "2022-10-16",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:23:03",
-      "longitude": 39.7054,
-      "latitude": -10.3586
+      "longitude": 39.7053,
+      "latitude": -10.3705
     },
     {
       "block_id": "d2a6d0817bc8-84",
@@ -7174,8 +7174,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:44:20",
-      "longitude": 39.8464,
-      "latitude": -10.3742
+      "longitude": 39.8371,
+      "latitude": -10.3733
     },
     {
       "block_id": "d2a6d0817bc8-85",
@@ -7237,8 +7237,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:23:26",
-      "longitude": 39.7169,
-      "latitude": -10.3684
+      "longitude": 39.7013,
+      "latitude": -10.364
     },
     {
       "block_id": "d2a6d0817bc8-86",
@@ -7300,8 +7300,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:45:19",
-      "longitude": 39.8418,
-      "latitude": -10.3829
+      "longitude": 39.8388,
+      "latitude": -10.366
     },
     {
       "block_id": "d2a6d0817bc8-87",
@@ -7364,8 +7364,8 @@
       "nursery_plantingdate": "2022-10-28",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:46:20",
-      "longitude": 39.8336,
-      "latitude": -10.3666
+      "longitude": 39.842,
+      "latitude": -10.3907
     },
     {
       "block_id": "d2a6d0817bc8-88",
@@ -7428,8 +7428,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "Mchicha",
       "nursery_survey_end": "2022-10-24 15:12:28",
-      "longitude": 39.7026,
-      "latitude": -10.3723
+      "longitude": 39.7182,
+      "latitude": -10.3733
     },
     {
       "block_id": "d2a6d0817bc8-89",
@@ -7491,8 +7491,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:24:13",
-      "longitude": 39.7191,
-      "latitude": -10.375
+      "longitude": 39.7011,
+      "latitude": -10.357
     },
     {
       "block_id": "d2a6d0817bc8-90",
@@ -7555,8 +7555,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:25:54",
-      "longitude": 39.7107,
-      "latitude": -10.3696
+      "longitude": 39.7033,
+      "latitude": -10.3598
     },
     {
       "block_id": "d2a6d0817bc8-91",
@@ -7618,8 +7618,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:26:36",
-      "longitude": 39.7084,
-      "latitude": -10.3624
+      "longitude": 39.7192,
+      "latitude": -10.37
     },
     {
       "block_id": "d2a6d0817bc8-92",
@@ -7696,8 +7696,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-26 19:00:18",
-      "longitude": 39.6961,
-      "latitude": -10.35
+      "longitude": 39.7065,
+      "latitude": -10.3661
     },
     {
       "block_id": "d2a6d0817bc8-93",
@@ -7760,8 +7760,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:27:02",
-      "longitude": 39.7184,
-      "latitude": -10.3624
+      "longitude": 39.7132,
+      "latitude": -10.3588
     },
     {
       "block_id": "d2a6d0817bc8-94",
@@ -7822,8 +7822,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:27:29",
-      "longitude": 39.703,
-      "latitude": -10.3529
+      "longitude": 39.7076,
+      "latitude": -10.3776
     },
     {
       "block_id": "d2a6d0817bc8-95",
@@ -7885,8 +7885,8 @@
       "nursery_plantingdate": "2022-10-24",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:27:53",
-      "longitude": 39.7012,
-      "latitude": -10.3588
+      "longitude": 39.71,
+      "latitude": -10.352
     },
     {
       "block_id": "d2a6d0817bc8-96",
@@ -7951,8 +7951,8 @@
       "nursery_plantingdate": "2022-10-17",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-10-24 20:28:16",
-      "longitude": 39.7162,
-      "latitude": -10.3601
+      "longitude": 39.7072,
+      "latitude": -10.3635
     },
     {
       "block_id": "d2a6d0817bc8-97",
@@ -8013,8 +8013,8 @@
       "nursery_plantingdate": "2022-10-28",
       "nursery_localvariety": "None",
       "nursery_survey_end": "2022-11-02 15:47:46",
-      "longitude": 39.8328,
-      "latitude": -10.3847
+      "longitude": 39.8412,
+      "latitude": -10.368
     },
     {
       "block_id": "d2a6d0817bc8-98",
@@ -8120,8 +8120,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:39:11",
-      "longitude": 39.3229,
-      "latitude": -10.4612
+      "longitude": 39.3066,
+      "latitude": -10.448
     },
     {
       "block_id": "d2a6d0817bc8-99",
@@ -8230,8 +8230,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:42:27",
-      "longitude": 39.3115,
-      "latitude": -10.4476
+      "longitude": 39.3269,
+      "latitude": -10.449
     },
     {
       "block_id": "d2a6d0817bc8-100",
@@ -8331,8 +8331,8 @@
       "thirdharvest_diseasesany": "No",
       "thirdharvest_whichlost": "None",
       "thirdharvest_survey_end": "2023-01-21 16:34:48",
-      "longitude": 39.3053,
-      "latitude": -10.4635
+      "longitude": 39.3209,
+      "latitude": -10.459
     },
     {
       "block_id": "d2a6d0817bc8-101",
@@ -8440,8 +8440,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:49:41",
-      "longitude": 39.3263,
-      "latitude": -10.4596
+      "longitude": 39.314,
+      "latitude": -10.4555
     },
     {
       "block_id": "d2a6d0817bc8-102",
@@ -8547,8 +8547,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:54:18",
-      "longitude": 39.3158,
-      "latitude": -10.4638
+      "longitude": 39.3173,
+      "latitude": -10.4604
     },
     {
       "block_id": "d2a6d0817bc8-103",
@@ -8655,8 +8655,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 12:02:46",
-      "longitude": 39.3194,
-      "latitude": -10.4637
+      "longitude": 39.3095,
+      "latitude": -10.4543
     },
     {
       "block_id": "d2a6d0817bc8-104",
@@ -8763,8 +8763,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:56:18",
-      "longitude": 39.3104,
-      "latitude": -10.4657
+      "longitude": 39.3171,
+      "latitude": -10.4444
     },
     {
       "block_id": "d2a6d0817bc8-105",
@@ -8870,8 +8870,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:59:27",
-      "longitude": 39.3146,
-      "latitude": -10.468
+      "longitude": 39.3226,
+      "latitude": -10.4573
     },
     {
       "block_id": "d2a6d0817bc8-106",
@@ -8969,8 +8969,8 @@
       "thirdharvest_diseasesany": "No",
       "thirdharvest_whichlost": "None",
       "thirdharvest_survey_end": "2023-01-23 13:56:12",
-      "longitude": 39.3039,
-      "latitude": -10.4542
+      "longitude": 39.2963,
+      "latitude": -10.4676
     },
     {
       "block_id": "d2a6d0817bc8-107",
@@ -9077,8 +9077,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:08:09",
-      "longitude": 39.3042,
-      "latitude": -10.4624
+      "longitude": 39.318,
+      "latitude": -10.4644
     },
     {
       "block_id": "d2a6d0817bc8-108",
@@ -9185,8 +9185,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:10:52",
-      "longitude": 39.3144,
-      "latitude": -10.464
+      "longitude": 39.3146,
+      "latitude": -10.4526
     },
     {
       "block_id": "d2a6d0817bc8-109",
@@ -9292,8 +9292,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:14:54",
-      "longitude": 39.3212,
-      "latitude": -10.4616
+      "longitude": 39.3083,
+      "latitude": -10.4543
     },
     {
       "block_id": "d2a6d0817bc8-110",
@@ -9389,8 +9389,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:17:54",
-      "longitude": 39.3242,
-      "latitude": -10.4478
+      "longitude": 39.3178,
+      "latitude": -10.4611
     },
     {
       "block_id": "d2a6d0817bc8-111",
@@ -9497,8 +9497,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:21:16",
-      "longitude": 39.3048,
-      "latitude": -10.4582
+      "longitude": 39.327,
+      "latitude": -10.4623
     },
     {
       "block_id": "d2a6d0817bc8-112",
@@ -9605,8 +9605,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:24:33",
-      "longitude": 39.3273,
-      "latitude": -10.4502
+      "longitude": 39.3018,
+      "latitude": -10.4552
     },
     {
       "block_id": "d2a6d0817bc8-113",
@@ -9713,8 +9713,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:27:15",
-      "longitude": 39.3135,
-      "latitude": -10.4641
+      "longitude": 39.3033,
+      "latitude": -10.4496
     },
     {
       "block_id": "d2a6d0817bc8-114",
@@ -9820,8 +9820,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:30:21",
-      "longitude": 39.3153,
-      "latitude": -10.4556
+      "longitude": 39.3265,
+      "latitude": -10.4511
     },
     {
       "block_id": "d2a6d0817bc8-115",
@@ -9923,8 +9923,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:34:01",
-      "longitude": 39.3097,
-      "latitude": -10.4475
+      "longitude": 39.3139,
+      "latitude": -10.4528
     },
     {
       "block_id": "d2a6d0817bc8-116",
@@ -10031,8 +10031,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:38:31",
-      "longitude": 39.3202,
-      "latitude": -10.4481
+      "longitude": 39.3057,
+      "latitude": -10.4598
     },
     {
       "block_id": "d2a6d0817bc8-117",
@@ -10138,8 +10138,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:42:48",
-      "longitude": 39.3287,
-      "latitude": -10.4589
+      "longitude": 39.3086,
+      "latitude": -10.4452
     },
     {
       "block_id": "d2a6d0817bc8-118",
@@ -10246,8 +10246,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:45:49",
-      "longitude": 39.3061,
-      "latitude": -10.4631
+      "longitude": 39.3177,
+      "latitude": -10.4666
     },
     {
       "block_id": "d2a6d0817bc8-119",
@@ -10353,8 +10353,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 16:54:32",
-      "longitude": 39.3008,
-      "latitude": -10.4572
+      "longitude": 39.3083,
+      "latitude": -10.4595
     },
     {
       "block_id": "d2a6d0817bc8-120",
@@ -10461,8 +10461,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 17:00:27",
-      "longitude": 39.3288,
-      "latitude": -10.4525
+      "longitude": 39.3178,
+      "latitude": -10.4653
     },
     {
       "block_id": "d2a6d0817bc8-121",
@@ -10569,8 +10569,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 11:33:14",
-      "longitude": 39.3043,
-      "latitude": -10.4451
+      "longitude": 39.3228,
+      "latitude": -10.4491
     },
     {
       "block_id": "d2a6d0817bc8-122",
@@ -10676,8 +10676,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 10:45:51",
-      "longitude": 39.3022,
-      "latitude": -10.4726
+      "longitude": 39.3059,
+      "latitude": -10.4591
     },
     {
       "block_id": "d2a6d0817bc8-123",
@@ -10784,8 +10784,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 13:38:33",
-      "longitude": 39.2813,
-      "latitude": -10.3567
+      "longitude": 39.2811,
+      "latitude": -10.3557
     },
     {
       "block_id": "d2a6d0817bc8-124",
@@ -10893,8 +10893,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 14:11:24",
-      "longitude": 39.2756,
-      "latitude": -10.3565
+      "longitude": 39.272,
+      "latitude": -10.3487
     },
     {
       "block_id": "d2a6d0817bc8-125",
@@ -11001,8 +11001,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 20:20:28",
-      "longitude": 39.2741,
-      "latitude": -10.3584
+      "longitude": 39.2732,
+      "latitude": -10.3461
     },
     {
       "block_id": "d2a6d0817bc8-126",
@@ -11109,8 +11109,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 22:17:50",
-      "longitude": 39.2789,
-      "latitude": -10.3461
+      "longitude": 39.2685,
+      "latitude": -10.3542
     },
     {
       "block_id": "d2a6d0817bc8-127",
@@ -11220,8 +11220,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:08:49",
-      "longitude": 39.2736,
-      "latitude": -10.3584
+      "longitude": 39.2818,
+      "latitude": -10.3665
     },
     {
       "block_id": "d2a6d0817bc8-128",
@@ -11329,8 +11329,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:10:07",
-      "longitude": 39.2833,
-      "latitude": -10.3642
+      "longitude": 39.2859,
+      "latitude": -10.3679
     },
     {
       "block_id": "d2a6d0817bc8-129",
@@ -11440,7 +11440,7 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-21 13:33:52",
-      "longitude": 39.2827,
+      "longitude": 39.2853,
       "latitude": -10.3673
     },
     {
@@ -11549,8 +11549,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 19:48:50",
-      "longitude": 39.2734,
-      "latitude": -10.3509
+      "longitude": 39.2775,
+      "latitude": -10.3608
     },
     {
       "block_id": "d2a6d0817bc8-131",
@@ -11661,7 +11661,7 @@
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:34:08",
       "longitude": 39.2718,
-      "latitude": -10.3565
+      "latitude": -10.3485
     },
     {
       "block_id": "d2a6d0817bc8-132",
@@ -11769,8 +11769,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-24 14:12:11",
-      "longitude": 39.2778,
-      "latitude": -10.3545
+      "longitude": 39.2846,
+      "latitude": -10.3461
     },
     {
       "block_id": "d2a6d0817bc8-133",
@@ -11884,8 +11884,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:13:01",
-      "longitude": 39.278,
-      "latitude": -10.3466
+      "longitude": 39.2697,
+      "latitude": -10.3539
     },
     {
       "block_id": "d2a6d0817bc8-134",
@@ -11993,8 +11993,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:15:11",
-      "longitude": 39.2791,
-      "latitude": -10.3582
+      "longitude": 39.283,
+      "latitude": -10.3461
     },
     {
       "block_id": "d2a6d0817bc8-135",
@@ -12102,8 +12102,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 18:51:59",
-      "longitude": 39.2798,
-      "latitude": -10.3681
+      "longitude": 39.2794,
+      "latitude": -10.3607
     },
     {
       "block_id": "d2a6d0817bc8-136",
@@ -12211,8 +12211,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 22:19:14",
-      "longitude": 39.2695,
-      "latitude": -10.3521
+      "longitude": 39.2635,
+      "latitude": -10.3575
     },
     {
       "block_id": "d2a6d0817bc8-137",
@@ -12322,8 +12322,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:30:20",
-      "longitude": 39.2688,
-      "latitude": -10.369
+      "longitude": 39.2781,
+      "latitude": -10.3439
     },
     {
       "block_id": "d2a6d0817bc8-138",
@@ -12432,8 +12432,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:16:21",
-      "longitude": 39.2722,
-      "latitude": -10.3468
+      "longitude": 39.2645,
+      "latitude": -10.3568
     },
     {
       "block_id": "d2a6d0817bc8-139",
@@ -12541,8 +12541,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:17:43",
-      "longitude": 39.2821,
-      "latitude": -10.3653
+      "longitude": 39.2665,
+      "latitude": -10.3602
     },
     {
       "block_id": "d2a6d0817bc8-140",
@@ -12651,8 +12651,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:18:18",
-      "longitude": 39.2831,
-      "latitude": -10.3457
+      "longitude": 39.2758,
+      "latitude": -10.3712
     },
     {
       "block_id": "d2a6d0817bc8-141",
@@ -12764,8 +12764,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:19:28",
-      "longitude": 39.2796,
-      "latitude": -10.3576
+      "longitude": 39.2695,
+      "latitude": -10.3512
     },
     {
       "block_id": "d2a6d0817bc8-142",
@@ -12872,8 +12872,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-19 13:47:49",
-      "longitude": 39.2789,
-      "latitude": -10.3673
+      "longitude": 39.2776,
+      "latitude": -10.3541
     },
     {
       "block_id": "d2a6d0817bc8-143",
@@ -12981,8 +12981,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 22:21:10",
-      "longitude": 39.2669,
-      "latitude": -10.3554
+      "longitude": 39.2764,
+      "latitude": -10.3483
     },
     {
       "block_id": "d2a6d0817bc8-144",
@@ -13090,8 +13090,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:53:13",
-      "longitude": 39.2737,
-      "latitude": -10.3593
+      "longitude": 39.2818,
+      "latitude": -10.3533
     },
     {
       "block_id": "d2a6d0817bc8-145",
@@ -13201,8 +13201,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:20:58",
-      "longitude": 39.276,
-      "latitude": -10.3515
+      "longitude": 39.27,
+      "latitude": -10.3667
     },
     {
       "block_id": "d2a6d0817bc8-146",
@@ -13311,8 +13311,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:22:10",
-      "longitude": 39.2671,
-      "latitude": -10.3612
+      "longitude": 39.2695,
+      "latitude": -10.3579
     },
     {
       "block_id": "d2a6d0817bc8-147",
@@ -13419,8 +13419,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 14:43:56",
-      "longitude": 39.2665,
-      "latitude": -10.3534
+      "longitude": 39.2771,
+      "latitude": -10.3618
     },
     {
       "block_id": "d2a6d0817bc8-148",
@@ -13512,8 +13512,8 @@
       "secondharvest_diseasesany": "No",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2022-12-31 11:42:20",
-      "longitude": 39.3081,
-      "latitude": -10.327
+      "longitude": 39.2961,
+      "latitude": -10.32
     },
     {
       "block_id": "d2a6d0817bc8-149",
@@ -13604,8 +13604,8 @@
       "secondharvest_diseasesany": "Not Applicable",
       "secondharvest_whichlost": "None",
       "secondharvest_survey_end": "2023-01-05 08:50:34",
-      "longitude": 39.3119,
-      "latitude": -10.3327
+      "longitude": 39.2995,
+      "latitude": -10.3379
     },
     {
       "block_id": "d2a6d0817bc8-150",
@@ -13689,8 +13689,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-09 09:31:07",
-      "longitude": 39.2909,
-      "latitude": -10.3267
+      "longitude": 39.3012,
+      "latitude": -10.3408
     },
     {
       "block_id": "d2a6d0817bc8-151",
@@ -13774,8 +13774,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-09 15:58:33",
-      "longitude": 39.2936,
-      "latitude": -10.3346
+      "longitude": 39.2971,
+      "latitude": -10.3286
     },
     {
       "block_id": "d2a6d0817bc8-152",
@@ -13859,8 +13859,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-09 16:12:52",
-      "longitude": 39.3033,
-      "latitude": -10.3403
+      "longitude": 39.2885,
+      "latitude": -10.341
     },
     {
       "block_id": "d2a6d0817bc8-153",
@@ -13943,8 +13943,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-12 11:54:58",
-      "longitude": 39.3108,
-      "latitude": -10.3327
+      "longitude": 39.3015,
+      "latitude": -10.336
     },
     {
       "block_id": "d2a6d0817bc8-154",
@@ -14028,8 +14028,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-12 11:57:42",
-      "longitude": 39.2921,
-      "latitude": -10.3439
+      "longitude": 39.289,
+      "latitude": -10.3306
     },
     {
       "block_id": "d2a6d0817bc8-155",
@@ -14112,8 +14112,8 @@
       "firstharvest_diseasesany": "No",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-14 17:02:17",
-      "longitude": 39.3091,
-      "latitude": -10.3355
+      "longitude": 39.3013,
+      "latitude": -10.3329
     },
     {
       "block_id": "d2a6d0817bc8-156",
@@ -14196,8 +14196,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-19 18:37:28",
-      "longitude": 39.2962,
-      "latitude": -10.3383
+      "longitude": 39.3123,
+      "latitude": -10.3385
     },
     {
       "block_id": "d2a6d0817bc8-157",
@@ -14280,8 +14280,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-21 09:52:58",
-      "longitude": 39.3111,
-      "latitude": -10.3364
+      "longitude": 39.2964,
+      "latitude": -10.3291
     },
     {
       "block_id": "d2a6d0817bc8-158",
@@ -14365,8 +14365,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-21 15:14:33",
-      "longitude": 39.3085,
-      "latitude": -10.3291
+      "longitude": 39.2846,
+      "latitude": -10.3339
     },
     {
       "block_id": "d2a6d0817bc8-159",
@@ -14450,8 +14450,8 @@
       "firstharvest_diseasesany": "Not Applicable",
       "firstharvest_whichlost": "None",
       "firstharvest_survey_end": "2022-12-23 11:35:37",
-      "longitude": 39.2627,
-      "latitude": -10.3485
+      "longitude": 39.2658,
+      "latitude": -10.3444
     },
     {
       "block_id": "d2a6d0817bc8-160",
@@ -14521,8 +14521,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-11-30 10:18:14",
-      "longitude": 39.307,
-      "latitude": -10.3312
+      "longitude": 39.2929,
+      "latitude": -10.339
     },
     {
       "block_id": "d2a6d0817bc8-161",
@@ -14592,8 +14592,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 08:59:30",
-      "longitude": 39.2811,
-      "latitude": -10.3302
+      "longitude": 39.2807,
+      "latitude": -10.336
     },
     {
       "block_id": "d2a6d0817bc8-162",
@@ -14663,8 +14663,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 09:02:25",
-      "longitude": 39.2854,
-      "latitude": -10.3276
+      "longitude": 39.2916,
+      "latitude": -10.3286
     },
     {
       "block_id": "d2a6d0817bc8-163",
@@ -14734,8 +14734,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 09:05:03",
-      "longitude": 39.2927,
-      "latitude": -10.3179
+      "longitude": 39.2901,
+      "latitude": -10.3266
     },
     {
       "block_id": "d2a6d0817bc8-164",
@@ -14805,8 +14805,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 09:07:14",
-      "longitude": 39.2902,
-      "latitude": -10.3393
+      "longitude": 39.2859,
+      "latitude": -10.3196
     },
     {
       "block_id": "d2a6d0817bc8-165",
@@ -14877,8 +14877,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 15:38:12",
-      "longitude": 39.2912,
-      "latitude": -10.3323
+      "longitude": 39.2866,
+      "latitude": -10.3314
     },
     {
       "block_id": "d2a6d0817bc8-166",
@@ -14949,8 +14949,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 15:40:53",
-      "longitude": 39.2803,
-      "latitude": -10.3264
+      "longitude": 39.3046,
+      "latitude": -10.3304
     },
     {
       "block_id": "d2a6d0817bc8-167",
@@ -15020,8 +15020,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-02 15:42:51",
-      "longitude": 39.2794,
-      "latitude": -10.3323
+      "longitude": 39.2945,
+      "latitude": -10.3379
     },
     {
       "block_id": "d2a6d0817bc8-168",
@@ -15090,8 +15090,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 18:03:38",
-      "longitude": 39.2975,
-      "latitude": -10.3388
+      "longitude": 39.2986,
+      "latitude": -10.3208
     },
     {
       "block_id": "d2a6d0817bc8-169",
@@ -15161,8 +15161,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 18:02:02",
-      "longitude": 39.306,
-      "latitude": -10.337
+      "longitude": 39.3067,
+      "latitude": -10.3381
     },
     {
       "block_id": "d2a6d0817bc8-170",
@@ -15232,8 +15232,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 17:44:24",
-      "longitude": 39.2962,
-      "latitude": -10.3435
+      "longitude": 39.2939,
+      "latitude": -10.339
     },
     {
       "block_id": "d2a6d0817bc8-171",
@@ -15304,8 +15304,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 17:42:24",
-      "longitude": 39.3098,
-      "latitude": -10.3385
+      "longitude": 39.3125,
+      "latitude": -10.3296
     },
     {
       "block_id": "d2a6d0817bc8-172",
@@ -15376,8 +15376,8 @@
       "transplanting_diseasesany": "No",
       "transplanting_whichlost": "None",
       "transplanting_survey_end": "2022-12-03 17:40:52",
-      "longitude": 39.2978,
-      "latitude": -10.3277
+      "longitude": 39.3021,
+      "latitude": -10.3417
     },
     {
       "block_id": "d2a6d0817bc8-173",
@@ -15484,8 +15484,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-13 07:16:39",
-      "longitude": 39.4243,
-      "latitude": -10.2838
+      "longitude": 39.4239,
+      "latitude": -10.2689
     },
     {
       "block_id": "d2a6d0817bc8-174",
@@ -15592,8 +15592,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-13 07:29:37",
-      "longitude": 39.4435,
-      "latitude": -10.2623
+      "longitude": 39.4323,
+      "latitude": -10.2755
     },
     {
       "block_id": "d2a6d0817bc8-175",
@@ -15700,8 +15700,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-13 07:36:16",
-      "longitude": 39.4399,
-      "latitude": -10.2707
+      "longitude": 39.4279,
+      "latitude": -10.2659
     },
     {
       "block_id": "d2a6d0817bc8-176",
@@ -15808,8 +15808,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:56:39",
-      "longitude": 39.4453,
-      "latitude": -10.2478
+      "longitude": 39.4221,
+      "latitude": -10.2473
     },
     {
       "block_id": "d2a6d0817bc8-177",
@@ -15916,8 +15916,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 16:47:44",
-      "longitude": 39.426,
-      "latitude": -10.2465
+      "longitude": 39.4337,
+      "latitude": -10.2536
     },
     {
       "block_id": "d2a6d0817bc8-178",
@@ -16024,8 +16024,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-20 15:17:55",
-      "longitude": 39.4183,
-      "latitude": -10.2693
+      "longitude": 39.4108,
+      "latitude": -10.2599
     },
     {
       "block_id": "d2a6d0817bc8-179",
@@ -16132,8 +16132,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-14 07:34:20",
-      "longitude": 39.4322,
-      "latitude": -10.2586
+      "longitude": 39.4343,
+      "latitude": -10.2484
     },
     {
       "block_id": "d2a6d0817bc8-180",
@@ -16240,8 +16240,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-14 07:57:33",
-      "longitude": 39.4158,
-      "latitude": -10.2468
+      "longitude": 39.4222,
+      "latitude": -10.2556
     },
     {
       "block_id": "d2a6d0817bc8-181",
@@ -16348,8 +16348,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-20 15:29:20",
-      "longitude": 39.4193,
-      "latitude": -10.2454
+      "longitude": 39.4122,
+      "latitude": -10.2539
     },
     {
       "block_id": "d2a6d0817bc8-182",
@@ -16456,8 +16456,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-13 07:57:53",
-      "longitude": 39.4399,
-      "latitude": -10.291
+      "longitude": 39.4223,
+      "latitude": -10.2785
     },
     {
       "block_id": "d2a6d0817bc8-183",
@@ -16564,8 +16564,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-13 08:24:21",
-      "longitude": 39.4262,
-      "latitude": -10.2495
+      "longitude": 39.4326,
+      "latitude": -10.2698
     },
     {
       "block_id": "d2a6d0817bc8-184",
@@ -16672,8 +16672,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-20 15:41:53",
-      "longitude": 39.4287,
-      "latitude": -10.2635
+      "longitude": 39.4241,
+      "latitude": -10.2574
     },
     {
       "block_id": "d2a6d0817bc8-185",
@@ -16780,8 +16780,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-20 15:10:51",
-      "longitude": 39.4189,
-      "latitude": -10.2574
+      "longitude": 39.418,
+      "latitude": -10.2577
     },
     {
       "block_id": "d2a6d0817bc8-186",
@@ -16887,8 +16887,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-20 14:43:46",
-      "longitude": 39.4204,
-      "latitude": -10.2788
+      "longitude": 39.4055,
+      "latitude": -10.2624
     },
     {
       "block_id": "d2a6d0817bc8-187",
@@ -16995,8 +16995,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-23 17:31:00",
-      "longitude": 39.4373,
-      "latitude": -10.2473
+      "longitude": 39.446,
+      "latitude": -10.2483
     },
     {
       "block_id": "d2a6d0817bc8-188",
@@ -17103,8 +17103,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:46:10",
-      "longitude": 39.4207,
-      "latitude": -10.2515
+      "longitude": 39.422,
+      "latitude": -10.2605
     },
     {
       "block_id": "d2a6d0817bc8-189",
@@ -17211,8 +17211,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:51:09",
-      "longitude": 39.4384,
-      "latitude": -10.2488
+      "longitude": 39.4373,
+      "latitude": -10.2533
     },
     {
       "block_id": "d2a6d0817bc8-190",
@@ -17318,8 +17318,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:40:34",
-      "longitude": 39.4458,
-      "latitude": -10.2475
+      "longitude": 39.4423,
+      "latitude": -10.2611
     },
     {
       "block_id": "d2a6d0817bc8-191",
@@ -17426,8 +17426,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-14 07:46:02",
-      "longitude": 39.4408,
-      "latitude": -10.2427
+      "longitude": 39.4393,
+      "latitude": -10.251
     },
     {
       "block_id": "d2a6d0817bc8-192",
@@ -17534,8 +17534,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-13 08:29:11",
-      "longitude": 39.4218,
-      "latitude": -10.2589
+      "longitude": 39.4344,
+      "latitude": -10.2508
     },
     {
       "block_id": "d2a6d0817bc8-193",
@@ -17642,8 +17642,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-14 07:41:08",
-      "longitude": 39.4257,
-      "latitude": -10.244
+      "longitude": 39.4292,
+      "latitude": -10.2507
     },
     {
       "block_id": "d2a6d0817bc8-194",
@@ -17750,8 +17750,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-14 06:47:25",
-      "longitude": 39.4158,
-      "latitude": -10.2349
+      "longitude": 39.4186,
+      "latitude": -10.2429
     },
     {
       "block_id": "d2a6d0817bc8-195",
@@ -17858,8 +17858,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-23 16:40:23",
-      "longitude": 39.4414,
-      "latitude": -10.2511
+      "longitude": 39.4235,
+      "latitude": -10.2458
     },
     {
       "block_id": "d2a6d0817bc8-196",
@@ -17966,8 +17966,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-23 17:21:51",
-      "longitude": 39.4332,
-      "latitude": -10.2667
+      "longitude": 39.4421,
+      "latitude": -10.2628
     },
     {
       "block_id": "d2a6d0817bc8-197",
@@ -18074,8 +18074,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-14 07:51:55",
-      "longitude": 39.4206,
-      "latitude": -10.2423
+      "longitude": 39.4339,
+      "latitude": -10.2518
     },
     {
       "block_id": "d2a6d0817bc8-198",
@@ -18181,8 +18181,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:25:45",
-      "longitude": 39.6552,
-      "latitude": -10.1218
+      "longitude": 39.6504,
+      "latitude": -10.1408
     },
     {
       "block_id": "d2a6d0817bc8-199",
@@ -18288,8 +18288,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:27:43",
-      "longitude": 39.6571,
-      "latitude": -10.1366
+      "longitude": 39.6607,
+      "latitude": -10.1303
     },
     {
       "block_id": "d2a6d0817bc8-200",
@@ -18396,8 +18396,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:29:42",
-      "longitude": 39.6549,
-      "latitude": -10.1255
+      "longitude": 39.6453,
+      "latitude": -10.1242
     },
     {
       "block_id": "d2a6d0817bc8-201",
@@ -18504,8 +18504,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:31:36",
-      "longitude": 39.6597,
-      "latitude": -10.1289
+      "longitude": 39.6462,
+      "latitude": -10.1309
     },
     {
       "block_id": "d2a6d0817bc8-202",
@@ -18612,8 +18612,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:33:15",
-      "longitude": 39.6617,
-      "latitude": -10.1366
+      "longitude": 39.6421,
+      "latitude": -10.1281
     },
     {
       "block_id": "d2a6d0817bc8-203",
@@ -18720,8 +18720,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:35:35",
-      "longitude": 39.6653,
-      "latitude": -10.1362
+      "longitude": 39.6496,
+      "latitude": -10.138
     },
     {
       "block_id": "d2a6d0817bc8-204",
@@ -18828,8 +18828,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:37:01",
-      "longitude": 39.6603,
-      "latitude": -10.1297
+      "longitude": 39.6483,
+      "latitude": -10.1308
     },
     {
       "block_id": "d2a6d0817bc8-205",
@@ -18936,8 +18936,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:38:47",
-      "longitude": 39.6591,
-      "latitude": -10.1448
+      "longitude": 39.6654,
+      "latitude": -10.1355
     },
     {
       "block_id": "d2a6d0817bc8-206",
@@ -19044,8 +19044,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-15 12:40:08",
-      "longitude": 39.6429,
-      "latitude": -10.1332
+      "longitude": 39.6501,
+      "latitude": -10.1215
     },
     {
       "block_id": "d2a6d0817bc8-207",
@@ -19152,8 +19152,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:41:32",
-      "longitude": 39.6574,
-      "latitude": -10.1309
+      "longitude": 39.6516,
+      "latitude": -10.141
     },
     {
       "block_id": "d2a6d0817bc8-208",
@@ -19259,8 +19259,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:42:39",
-      "longitude": 39.6618,
-      "latitude": -10.1405
+      "longitude": 39.6656,
+      "latitude": -10.1261
     },
     {
       "block_id": "d2a6d0817bc8-209",
@@ -19367,8 +19367,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:43:42",
-      "longitude": 39.6677,
-      "latitude": -10.1337
+      "longitude": 39.6596,
+      "latitude": -10.1307
     },
     {
       "block_id": "d2a6d0817bc8-210",
@@ -19475,8 +19475,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:44:55",
-      "longitude": 39.6487,
-      "latitude": -10.1331
+      "longitude": 39.6551,
+      "latitude": -10.132
     },
     {
       "block_id": "d2a6d0817bc8-211",
@@ -19583,8 +19583,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:46:03",
-      "longitude": 39.6509,
-      "latitude": -10.1264
+      "longitude": 39.6667,
+      "latitude": -10.1335
     },
     {
       "block_id": "d2a6d0817bc8-212",
@@ -19691,8 +19691,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:47:33",
-      "longitude": 39.6433,
-      "latitude": -10.1354
+      "longitude": 39.655,
+      "latitude": -10.1241
     },
     {
       "block_id": "d2a6d0817bc8-213",
@@ -19798,8 +19798,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:48:38",
-      "longitude": 39.6477,
-      "latitude": -10.1228
+      "longitude": 39.6575,
+      "latitude": -10.1455
     },
     {
       "block_id": "d2a6d0817bc8-214",
@@ -19906,8 +19906,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:49:58",
-      "longitude": 39.6617,
-      "latitude": -10.1335
+      "longitude": 39.665,
+      "latitude": -10.1346
     },
     {
       "block_id": "d2a6d0817bc8-215",
@@ -20014,8 +20014,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:51:15",
-      "longitude": 39.6482,
-      "latitude": -10.1437
+      "longitude": 39.6402,
+      "latitude": -10.1321
     },
     {
       "block_id": "d2a6d0817bc8-216",
@@ -20121,8 +20121,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:52:26",
-      "longitude": 39.641,
-      "latitude": -10.1315
+      "longitude": 39.6501,
+      "latitude": -10.1354
     },
     {
       "block_id": "d2a6d0817bc8-217",
@@ -20228,8 +20228,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:53:36",
-      "longitude": 39.6565,
-      "latitude": -10.1378
+      "longitude": 39.6607,
+      "latitude": -10.1271
     },
     {
       "block_id": "d2a6d0817bc8-218",
@@ -20336,8 +20336,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-15 12:54:54",
-      "longitude": 39.6582,
-      "latitude": -10.129
+      "longitude": 39.6655,
+      "latitude": -10.1364
     },
     {
       "block_id": "d2a6d0817bc8-219",
@@ -20444,8 +20444,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:56:31",
-      "longitude": 39.6552,
-      "latitude": -10.1299
+      "longitude": 39.6429,
+      "latitude": -10.1287
     },
     {
       "block_id": "d2a6d0817bc8-220",
@@ -20551,8 +20551,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 12:57:56",
-      "longitude": 39.6415,
-      "latitude": -10.1299
+      "longitude": 39.6437,
+      "latitude": -10.1275
     },
     {
       "block_id": "d2a6d0817bc8-221",
@@ -20658,8 +20658,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-15 12:59:00",
-      "longitude": 39.664,
-      "latitude": -10.1395
+      "longitude": 39.652,
+      "latitude": -10.1201
     },
     {
       "block_id": "d2a6d0817bc8-222",
@@ -20765,8 +20765,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 13:00:07",
-      "longitude": 39.6494,
-      "latitude": -10.1456
+      "longitude": 39.65,
+      "latitude": -10.1217
     },
     {
       "block_id": "d2a6d0817bc8-223",
@@ -20873,8 +20873,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 13:01:09",
-      "longitude": 39.6447,
-      "latitude": -10.1307
+      "longitude": 39.6612,
+      "latitude": -10.1268
     },
     {
       "block_id": "d2a6d0817bc8-224",
@@ -20980,8 +20980,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 13:02:31",
-      "longitude": 39.6577,
-      "latitude": -10.1391
+      "longitude": 39.6666,
+      "latitude": -10.1314
     },
     {
       "block_id": "d2a6d0817bc8-225",
@@ -21088,8 +21088,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-15 13:03:42",
-      "longitude": 39.6489,
-      "latitude": -10.1417
+      "longitude": 39.6607,
+      "latitude": -10.1295
     },
     {
       "block_id": "d2a6d0817bc8-226",
@@ -21196,8 +21196,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:32:09",
-      "longitude": 39.5818,
-      "latitude": -10.0993
+      "longitude": 39.5833,
+      "latitude": -10.0947
     },
     {
       "block_id": "d2a6d0817bc8-227",
@@ -21304,8 +21304,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:34:06",
-      "longitude": 39.5735,
-      "latitude": -10.0859
+      "longitude": 39.5749,
+      "latitude": -10.0815
     },
     {
       "block_id": "d2a6d0817bc8-228",
@@ -21411,8 +21411,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:35:55",
-      "longitude": 39.5747,
-      "latitude": -10.087
+      "longitude": 39.5822,
+      "latitude": -10.0963
     },
     {
       "block_id": "d2a6d0817bc8-229",
@@ -21518,8 +21518,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:37:13",
-      "longitude": 39.5899,
-      "latitude": -10.0997
+      "longitude": 39.5712,
+      "latitude": -10.0912
     },
     {
       "block_id": "d2a6d0817bc8-230",
@@ -21624,8 +21624,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:38:32",
-      "longitude": 39.5934,
-      "latitude": -10.0905
+      "longitude": 39.5755,
+      "latitude": -10.0987
     },
     {
       "block_id": "d2a6d0817bc8-231",
@@ -21730,8 +21730,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:39:57",
-      "longitude": 39.5832,
-      "latitude": -10.0884
+      "longitude": 39.5914,
+      "latitude": -10.079
     },
     {
       "block_id": "d2a6d0817bc8-232",
@@ -21836,8 +21836,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:41:15",
-      "longitude": 39.5799,
-      "latitude": -10.0888
+      "longitude": 39.5819,
+      "latitude": -10.0912
     },
     {
       "block_id": "d2a6d0817bc8-233",
@@ -21943,8 +21943,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:42:27",
-      "longitude": 39.5802,
-      "latitude": -10.0808
+      "longitude": 39.5807,
+      "latitude": -10.1022
     },
     {
       "block_id": "d2a6d0817bc8-234",
@@ -22049,8 +22049,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:43:36",
-      "longitude": 39.5887,
-      "latitude": -10.0821
+      "longitude": 39.5905,
+      "latitude": -10.093
     },
     {
       "block_id": "d2a6d0817bc8-235",
@@ -22157,8 +22157,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:44:46",
-      "longitude": 39.5951,
-      "latitude": -10.0993
+      "longitude": 39.5936,
+      "latitude": -10.096
     },
     {
       "block_id": "d2a6d0817bc8-236",
@@ -22264,8 +22264,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:46:01",
-      "longitude": 39.5941,
-      "latitude": -10.0958
+      "longitude": 39.5898,
+      "latitude": -10.085
     },
     {
       "block_id": "d2a6d0817bc8-237",
@@ -22370,8 +22370,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:47:15",
-      "longitude": 39.5742,
-      "latitude": -10.0835
+      "longitude": 39.5732,
+      "latitude": -10.0993
     },
     {
       "block_id": "d2a6d0817bc8-238",
@@ -22477,8 +22477,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:48:41",
-      "longitude": 39.5793,
-      "latitude": -10.1001
+      "longitude": 39.5877,
+      "latitude": -10.0907
     },
     {
       "block_id": "d2a6d0817bc8-239",
@@ -22583,8 +22583,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:50:19",
-      "longitude": 39.5852,
-      "latitude": -10.1034
+      "longitude": 39.5902,
+      "latitude": -10.0866
     },
     {
       "block_id": "d2a6d0817bc8-240",
@@ -22690,8 +22690,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:51:42",
-      "longitude": 39.5836,
-      "latitude": -10.0797
+      "longitude": 39.5729,
+      "latitude": -10.0832
     },
     {
       "block_id": "d2a6d0817bc8-241",
@@ -22798,8 +22798,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:52:39",
-      "longitude": 39.5705,
-      "latitude": -10.0903
+      "longitude": 39.5831,
+      "latitude": -10.0839
     },
     {
       "block_id": "d2a6d0817bc8-242",
@@ -22906,8 +22906,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:53:46",
-      "longitude": 39.5754,
-      "latitude": -10.0837
+      "longitude": 39.5738,
+      "latitude": -10.1009
     },
     {
       "block_id": "d2a6d0817bc8-243",
@@ -23012,8 +23012,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:54:46",
-      "longitude": 39.5727,
-      "latitude": -10.0958
+      "longitude": 39.5915,
+      "latitude": -10.0886
     },
     {
       "block_id": "d2a6d0817bc8-244",
@@ -23119,8 +23119,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:56:07",
-      "longitude": 39.5919,
-      "latitude": -10.0911
+      "longitude": 39.5838,
+      "latitude": -10.0935
     },
     {
       "block_id": "d2a6d0817bc8-245",
@@ -23227,8 +23227,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:57:17",
-      "longitude": 39.5798,
-      "latitude": -10.0905
+      "longitude": 39.5744,
+      "latitude": -10.0844
     },
     {
       "block_id": "d2a6d0817bc8-246",
@@ -23333,8 +23333,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:58:31",
-      "longitude": 39.5751,
-      "latitude": -10.0858
+      "longitude": 39.5718,
+      "latitude": -10.0912
     },
     {
       "block_id": "d2a6d0817bc8-247",
@@ -23440,8 +23440,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 12:59:38",
-      "longitude": 39.5744,
-      "latitude": -10.0863
+      "longitude": 39.591,
+      "latitude": -10.1006
     },
     {
       "block_id": "d2a6d0817bc8-248",
@@ -23548,8 +23548,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 13:00:35",
-      "longitude": 39.5794,
-      "latitude": -10.0923
+      "longitude": 39.5935,
+      "latitude": -10.0966
     },
     {
       "block_id": "d2a6d0817bc8-249",
@@ -23654,8 +23654,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 13:01:33",
-      "longitude": 39.574,
-      "latitude": -10.0982
+      "longitude": 39.5807,
+      "latitude": -10.0904
     },
     {
       "block_id": "d2a6d0817bc8-250",
@@ -23761,8 +23761,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Worse",
       "fourthharvest_survey_end": "2023-01-16 13:02:59",
-      "longitude": 39.5955,
-      "latitude": -10.095
+      "longitude": 39.5856,
+      "latitude": -10.0951
     },
     {
       "block_id": "d2a6d0817bc8-251",
@@ -23869,8 +23869,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 17:54:13",
-      "longitude": 39.3284,
-      "latitude": -9.09
+      "longitude": 39.3201,
+      "latitude": -9.0758
     },
     {
       "block_id": "d2a6d0817bc8-252",
@@ -23977,8 +23977,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-24 20:44:41",
-      "longitude": 39.326,
-      "latitude": -9.0878
+      "longitude": 39.3281,
+      "latitude": -9.0901
     },
     {
       "block_id": "d2a6d0817bc8-253",
@@ -24085,8 +24085,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 17:39:45",
-      "longitude": 39.3267,
-      "latitude": -9.067
+      "longitude": 39.3272,
+      "latitude": -9.0768
     },
     {
       "block_id": "d2a6d0817bc8-254",
@@ -24193,8 +24193,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:01:45",
-      "longitude": 39.3163,
-      "latitude": -9.0923
+      "longitude": 39.3062,
+      "latitude": -9.0783
     },
     {
       "block_id": "d2a6d0817bc8-255",
@@ -24301,8 +24301,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:22:47",
-      "longitude": 39.3156,
-      "latitude": -9.0892
+      "longitude": 39.3189,
+      "latitude": -9.0751
     },
     {
       "block_id": "d2a6d0817bc8-256",
@@ -24409,8 +24409,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-09 14:35:18",
-      "longitude": 39.3167,
-      "latitude": -9.0741
+      "longitude": 39.3175,
+      "latitude": -9.0905
     },
     {
       "block_id": "d2a6d0817bc8-257",
@@ -24516,8 +24516,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:08:58",
-      "longitude": 39.3099,
-      "latitude": -9.0769
+      "longitude": 39.3177,
+      "latitude": -9.0669
     },
     {
       "block_id": "d2a6d0817bc8-258",
@@ -24624,8 +24624,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:33:44",
-      "longitude": 39.3329,
-      "latitude": -9.0803
+      "longitude": 39.3189,
+      "latitude": -9.0695
     },
     {
       "block_id": "d2a6d0817bc8-259",
@@ -24732,8 +24732,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-27 18:43:55",
-      "longitude": 39.3187,
-      "latitude": -9.0701
+      "longitude": 39.3276,
+      "latitude": -9.0853
     },
     {
       "block_id": "d2a6d0817bc8-260",
@@ -24839,8 +24839,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-12 07:49:51",
-      "longitude": 39.3421,
-      "latitude": -8.7939
+      "longitude": 39.352,
+      "latitude": -8.8017
     },
     {
       "block_id": "d2a6d0817bc8-261",
@@ -24947,8 +24947,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-12 07:58:46",
-      "longitude": 39.3605,
-      "latitude": -8.7965
+      "longitude": 39.359,
+      "latitude": -8.7906
     },
     {
       "block_id": "d2a6d0817bc8-262",
@@ -25055,8 +25055,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-12 08:06:13",
-      "longitude": 39.352,
-      "latitude": -8.7886
+      "longitude": 39.3487,
+      "latitude": -8.7878
     },
     {
       "block_id": "d2a6d0817bc8-263",
@@ -25162,8 +25162,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-12 08:12:56",
-      "longitude": 39.3487,
-      "latitude": -8.8114
+      "longitude": 39.3357,
+      "latitude": -8.7959
     },
     {
       "block_id": "d2a6d0817bc8-264",
@@ -25270,8 +25270,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:08:49",
-      "longitude": 39.3111,
-      "latitude": -9.056
+      "longitude": 39.313,
+      "latitude": -9.051
     },
     {
       "block_id": "d2a6d0817bc8-265",
@@ -25378,8 +25378,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:15:34",
-      "longitude": 39.3184,
-      "latitude": -9.045
+      "longitude": 39.3282,
+      "latitude": -9.0533
     },
     {
       "block_id": "d2a6d0817bc8-266",
@@ -25486,8 +25486,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:22:23",
-      "longitude": 39.3186,
-      "latitude": -9.0519
+      "longitude": 39.3129,
+      "latitude": -9.0553
     },
     {
       "block_id": "d2a6d0817bc8-267",
@@ -25594,8 +25594,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:28:57",
-      "longitude": 39.3117,
-      "latitude": -9.059
+      "longitude": 39.3103,
+      "latitude": -9.064
     },
     {
       "block_id": "d2a6d0817bc8-268",
@@ -25702,8 +25702,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 14:54:24",
-      "longitude": 39.3181,
-      "latitude": -9.0449
+      "longitude": 39.3247,
+      "latitude": -9.0431
     },
     {
       "block_id": "d2a6d0817bc8-269",
@@ -25809,8 +25809,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:02:07",
-      "longitude": 39.3215,
-      "latitude": -9.0593
+      "longitude": 39.3206,
+      "latitude": -9.0439
     },
     {
       "block_id": "d2a6d0817bc8-270",
@@ -25917,8 +25917,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-09 14:27:03",
-      "longitude": 39.3217,
-      "latitude": -9.0745
+      "longitude": 39.3198,
+      "latitude": -9.0651
     },
     {
       "block_id": "d2a6d0817bc8-271",
@@ -26025,8 +26025,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:08:33",
-      "longitude": 39.3061,
-      "latitude": -9.06
+      "longitude": 39.3124,
+      "latitude": -9.0614
     },
     {
       "block_id": "d2a6d0817bc8-272",
@@ -26133,8 +26133,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:14:56",
-      "longitude": 39.3214,
-      "latitude": -9.0449
+      "longitude": 39.3174,
+      "latitude": -9.0644
     },
     {
       "block_id": "d2a6d0817bc8-273",
@@ -26240,8 +26240,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:23:57",
-      "longitude": 39.3249,
-      "latitude": -9.0596
+      "longitude": 39.3181,
+      "latitude": -9.0442
     },
     {
       "block_id": "d2a6d0817bc8-274",
@@ -26348,8 +26348,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:29:05",
-      "longitude": 39.3151,
-      "latitude": -9.0452
+      "longitude": 39.3115,
+      "latitude": -9.0559
     },
     {
       "block_id": "d2a6d0817bc8-275",
@@ -26455,8 +26455,8 @@
       "fourthharvest_item_B_vs_local": "Better",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-02-16 15:35:04",
-      "longitude": 39.3265,
-      "latitude": -9.0542
+      "longitude": 39.3267,
+      "latitude": -9.0466
     },
     {
       "block_id": "d2a6d0817bc8-276",
@@ -26565,8 +26565,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-20 07:21:42",
-      "longitude": 39.3224,
-      "latitude": -9.052
+      "longitude": 39.3157,
+      "latitude": -9.059
     },
     {
       "block_id": "d2a6d0817bc8-277",
@@ -26675,8 +26675,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-25 21:59:55",
-      "longitude": 39.3229,
-      "latitude": -9.099
+      "longitude": 39.3168,
+      "latitude": -9.0863
     },
     {
       "block_id": "d2a6d0817bc8-278",
@@ -26785,8 +26785,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-25 22:09:44",
-      "longitude": 39.3301,
-      "latitude": -9.094
+      "longitude": 39.3269,
+      "latitude": -9.0988
     },
     {
       "block_id": "d2a6d0817bc8-279",
@@ -26895,8 +26895,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-25 22:15:52",
-      "longitude": 39.3113,
-      "latitude": -9.0832
+      "longitude": 39.3283,
+      "latitude": -9.0922
     },
     {
       "block_id": "d2a6d0817bc8-280",
@@ -27005,8 +27005,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:31:44",
-      "longitude": 39.3162,
-      "latitude": -9.0639
+      "longitude": 39.3089,
+      "latitude": -9.0602
     },
     {
       "block_id": "d2a6d0817bc8-281",
@@ -27115,8 +27115,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:37:51",
-      "longitude": 39.3179,
-      "latitude": -9.0806
+      "longitude": 39.3231,
+      "latitude": -9.0766
     },
     {
       "block_id": "d2a6d0817bc8-282",
@@ -27225,8 +27225,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:43:09",
-      "longitude": 39.325,
-      "latitude": -9.0975
+      "longitude": 39.3265,
+      "latitude": -9.0788
     },
     {
       "block_id": "d2a6d0817bc8-283",
@@ -27335,8 +27335,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:49:51",
-      "longitude": 39.3137,
-      "latitude": -9.077
+      "longitude": 39.3212,
+      "latitude": -9.0906
     },
     {
       "block_id": "d2a6d0817bc8-284",
@@ -27445,8 +27445,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 05:59:01",
-      "longitude": 39.3131,
-      "latitude": -9.0848
+      "longitude": 39.3197,
+      "latitude": -9.0897
     },
     {
       "block_id": "d2a6d0817bc8-285",
@@ -27555,8 +27555,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:03:52",
-      "longitude": 39.319,
-      "latitude": -9.0738
+      "longitude": 39.3119,
+      "latitude": -9.0549
     },
     {
       "block_id": "d2a6d0817bc8-286",
@@ -27665,8 +27665,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:07:29",
-      "longitude": 39.3287,
-      "latitude": -9.0716
+      "longitude": 39.3155,
+      "latitude": -9.0749
     },
     {
       "block_id": "d2a6d0817bc8-287",
@@ -27775,8 +27775,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:11:14",
-      "longitude": 39.3092,
-      "latitude": -9.0635
+      "longitude": 39.3202,
+      "latitude": -9.0701
     },
     {
       "block_id": "d2a6d0817bc8-288",
@@ -27885,8 +27885,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:16:05",
-      "longitude": 39.3139,
-      "latitude": -9.064
+      "longitude": 39.3175,
+      "latitude": -9.0566
     },
     {
       "block_id": "d2a6d0817bc8-289",
@@ -27995,8 +27995,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:21:05",
-      "longitude": 39.3079,
-      "latitude": -9.0557
+      "longitude": 39.3207,
+      "latitude": -9.0548
     },
     {
       "block_id": "d2a6d0817bc8-290",
@@ -28099,8 +28099,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 06:30:55",
-      "longitude": 39.323,
-      "latitude": -9.06
+      "longitude": 39.3185,
+      "latitude": -9.0716
     },
     {
       "block_id": "d2a6d0817bc8-291",
@@ -28209,8 +28209,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:00:54",
-      "longitude": 39.3181,
-      "latitude": -9.0481
+      "longitude": 39.3216,
+      "latitude": -9.0736
     },
     {
       "block_id": "d2a6d0817bc8-292",
@@ -28319,8 +28319,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:05:28",
-      "longitude": 39.3075,
-      "latitude": -9.056
+      "longitude": 39.3184,
+      "latitude": -9.054
     },
     {
       "block_id": "d2a6d0817bc8-293",
@@ -28428,8 +28428,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:08:43",
-      "longitude": 39.3131,
-      "latitude": -9.0677
+      "longitude": 39.3305,
+      "latitude": -9.0678
     },
     {
       "block_id": "d2a6d0817bc8-294",
@@ -28538,8 +28538,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:12:26",
-      "longitude": 39.323,
-      "latitude": -9.0631
+      "longitude": 39.3301,
+      "latitude": -9.0557
     },
     {
       "block_id": "d2a6d0817bc8-295",
@@ -28648,8 +28648,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:15:47",
-      "longitude": 39.3134,
-      "latitude": -9.0716
+      "longitude": 39.3188,
+      "latitude": -9.0579
     },
     {
       "block_id": "d2a6d0817bc8-296",
@@ -28758,8 +28758,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:19:28",
-      "longitude": 39.3296,
-      "latitude": -9.0617
+      "longitude": 39.3105,
+      "latitude": -9.0719
     },
     {
       "block_id": "d2a6d0817bc8-297",
@@ -28868,8 +28868,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:24:16",
-      "longitude": 39.3265,
-      "latitude": -9.053
+      "longitude": 39.3297,
+      "latitude": -9.0697
     },
     {
       "block_id": "d2a6d0817bc8-298",
@@ -28971,8 +28971,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:29:34",
-      "longitude": 39.3061,
-      "latitude": -9.0624
+      "longitude": 39.3204,
+      "latitude": -9.0598
     },
     {
       "block_id": "d2a6d0817bc8-299",
@@ -29081,8 +29081,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:39:25",
-      "longitude": 39.3199,
-      "latitude": -9.0724
+      "longitude": 39.3286,
+      "latitude": -9.0606
     },
     {
       "block_id": "d2a6d0817bc8-300",
@@ -29191,8 +29191,8 @@
       "fourthharvest_item_B_vs_local": "Worse",
       "fourthharvest_item_C_vs_local": "Better",
       "fourthharvest_survey_end": "2023-01-26 15:42:26",
-      "longitude": 39.3122,
-      "latitude": -9.0615
+      "longitude": 39.3257,
+      "latitude": -9.05
     }
   ],
   "plot_data": [
@@ -226139,10 +226139,37 @@
     {
       "collection_moment": "nursery",
       "trait": "germination",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.1639,
+      "quasiVar": 0.0268
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "germination",
+      "genotype_name": "Nguruma",
+      "estimate": 0.1144,
+      "SE": 0.2289,
+      "quasiSE": 0.1668,
+      "quasiVar": 0.0278
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "germination",
       "genotype_name": "AC-NL",
       "estimate": 0.2494,
       "SE": 0.2306,
       "quasiSE": 0.1615,
+      "quasiVar": 0.0261
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "germination",
+      "genotype_name": "Madiira 2",
+      "estimate": 0.0692,
+      "SE": 0.2295,
+      "quasiSE": 0.1616,
       "quasiVar": 0.0261
     },
     {
@@ -226153,6 +226180,24 @@
       "SE": 0.2361,
       "quasiSE": 0.1655,
       "quasiVar": 0.0274
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "germination",
+      "genotype_name": "AVAM1941",
+      "estimate": 0.3046,
+      "SE": 0.2312,
+      "quasiSE": 0.1613,
+      "quasiVar": 0.026
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "germination",
+      "genotype_name": "Poli",
+      "estimate": 0.6765,
+      "SE": 0.2321,
+      "quasiSE": 0.1609,
+      "quasiVar": 0.0259
     },
     {
       "collection_moment": "nursery",
@@ -226174,48 +226219,21 @@
     },
     {
       "collection_moment": "nursery",
-      "trait": "germination",
-      "genotype_name": "AVAM1941",
-      "estimate": 0.3046,
-      "SE": 0.2312,
-      "quasiSE": 0.1613,
-      "quasiVar": 0.026
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "germination",
+      "trait": "vigor",
       "genotype_name": "Madiira 1",
       "estimate": 0,
       "SE": 0,
-      "quasiSE": 0.1639,
-      "quasiVar": 0.0268
+      "quasiSE": 0.1807,
+      "quasiVar": 0.0326
     },
     {
       "collection_moment": "nursery",
-      "trait": "germination",
-      "genotype_name": "Madiira 2",
-      "estimate": 0.0692,
-      "SE": 0.2295,
-      "quasiSE": 0.1616,
-      "quasiVar": 0.0261
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "germination",
+      "trait": "vigor",
       "genotype_name": "Nguruma",
-      "estimate": 0.1144,
-      "SE": 0.2289,
-      "quasiSE": 0.1668,
-      "quasiVar": 0.0278
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "germination",
-      "genotype_name": "Poli",
-      "estimate": 0.6765,
-      "SE": 0.2321,
-      "quasiSE": 0.1609,
-      "quasiVar": 0.0259
+      "estimate": 0.3774,
+      "SE": 0.2516,
+      "quasiSE": 0.1794,
+      "quasiVar": 0.0322
     },
     {
       "collection_moment": "nursery",
@@ -226229,11 +226247,38 @@
     {
       "collection_moment": "nursery",
       "trait": "vigor",
+      "genotype_name": "Madiira 2",
+      "estimate": 0.1637,
+      "SE": 0.2488,
+      "quasiSE": 0.1787,
+      "quasiVar": 0.0319
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "vigor",
       "genotype_name": "Akeri",
       "estimate": 1.6311,
       "SE": 0.2706,
       "quasiSE": 0.1947,
       "quasiVar": 0.0379
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "vigor",
+      "genotype_name": "AVAM1941",
+      "estimate": 0.8468,
+      "SE": 0.2534,
+      "quasiSE": 0.1734,
+      "quasiVar": 0.0301
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "vigor",
+      "genotype_name": "Poli",
+      "estimate": 1.4718,
+      "SE": 0.2648,
+      "quasiSE": 0.1862,
+      "quasiVar": 0.0347
     },
     {
       "collection_moment": "nursery",
@@ -226255,84 +226300,12 @@
     },
     {
       "collection_moment": "nursery",
-      "trait": "vigor",
-      "genotype_name": "AVAM1941",
-      "estimate": 0.8468,
-      "SE": 0.2534,
-      "quasiSE": 0.1734,
-      "quasiVar": 0.0301
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "vigor",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.1807,
-      "quasiVar": 0.0326
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "vigor",
-      "genotype_name": "Madiira 2",
-      "estimate": 0.1637,
-      "SE": 0.2488,
-      "quasiSE": 0.1787,
-      "quasiVar": 0.0319
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "vigor",
-      "genotype_name": "Nguruma",
-      "estimate": 0.3774,
-      "SE": 0.2516,
-      "quasiSE": 0.1794,
-      "quasiVar": 0.0322
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "vigor",
+      "trait": "pestresistance",
       "genotype_name": "Poli",
-      "estimate": 1.4718,
-      "SE": 0.2648,
-      "quasiSE": 0.1862,
-      "quasiVar": 0.0347
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "pestresistance",
-      "genotype_name": "AC-NL",
-      "estimate": 0.4571,
-      "SE": 0.3304,
-      "quasiSE": 0.2254,
-      "quasiVar": 0.0508
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "pestresistance",
-      "genotype_name": "Akeri",
-      "estimate": 1.043,
+      "estimate": 1.0488,
       "SE": 0.3366,
-      "quasiSE": 0.2315,
-      "quasiVar": 0.0536
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "pestresistance",
-      "genotype_name": "AVAM1938",
-      "estimate": 0.5064,
-      "SE": 0.3229,
-      "quasiSE": 0.2167,
-      "quasiVar": 0.047
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "pestresistance",
-      "genotype_name": "AVAM1939",
-      "estimate": 0.1981,
-      "SE": 0.3339,
-      "quasiSE": 0.2391,
-      "quasiVar": 0.0572
+      "quasiSE": 0.2232,
+      "quasiVar": 0.0498
     },
     {
       "collection_moment": "nursery",
@@ -226342,6 +226315,15 @@
       "SE": 0.3331,
       "quasiSE": 0.2207,
       "quasiVar": 0.0487
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "pestresistance",
+      "genotype_name": "Akeri",
+      "estimate": 1.043,
+      "SE": 0.3366,
+      "quasiSE": 0.2315,
+      "quasiVar": 0.0536
     },
     {
       "collection_moment": "nursery",
@@ -226364,6 +226346,15 @@
     {
       "collection_moment": "nursery",
       "trait": "pestresistance",
+      "genotype_name": "AC-NL",
+      "estimate": 0.4571,
+      "SE": 0.3304,
+      "quasiSE": 0.2254,
+      "quasiVar": 0.0508
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "pestresistance",
       "genotype_name": "Nguruma",
       "estimate": 0.6749,
       "SE": 0.3375,
@@ -226373,11 +226364,29 @@
     {
       "collection_moment": "nursery",
       "trait": "pestresistance",
-      "genotype_name": "Poli",
-      "estimate": 1.0488,
-      "SE": 0.3366,
-      "quasiSE": 0.2232,
-      "quasiVar": 0.0498
+      "genotype_name": "AVAM1939",
+      "estimate": 0.1981,
+      "SE": 0.3339,
+      "quasiSE": 0.2391,
+      "quasiVar": 0.0572
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "pestresistance",
+      "genotype_name": "AVAM1938",
+      "estimate": 0.5064,
+      "SE": 0.3229,
+      "quasiSE": 0.2167,
+      "quasiVar": 0.047
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "diseasesresistance",
+      "genotype_name": "AVAM1941",
+      "estimate": 0.3229,
+      "SE": 0.3932,
+      "quasiSE": 0.2691,
+      "quasiVar": 0.0724
     },
     {
       "collection_moment": "nursery",
@@ -226387,6 +226396,51 @@
       "SE": 0.4131,
       "quasiSE": 0.3016,
       "quasiVar": 0.091
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "diseasesresistance",
+      "genotype_name": "Madiira 2",
+      "estimate": 0.1599,
+      "SE": 0.3858,
+      "quasiSE": 0.2705,
+      "quasiVar": 0.0732
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "diseasesresistance",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2779,
+      "quasiVar": 0.0772
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "diseasesresistance",
+      "genotype_name": "Poli",
+      "estimate": 0.9574,
+      "SE": 0.4104,
+      "quasiSE": 0.2904,
+      "quasiVar": 0.0843
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "diseasesresistance",
+      "genotype_name": "Nguruma",
+      "estimate": 0.2046,
+      "SE": 0.3952,
+      "quasiSE": 0.2866,
+      "quasiVar": 0.0821
+    },
+    {
+      "collection_moment": "nursery",
+      "trait": "diseasesresistance",
+      "genotype_name": "AVAM1939",
+      "estimate": -0.0282,
+      "SE": 0.4158,
+      "quasiSE": 0.3084,
+      "quasiVar": 0.0951
     },
     {
       "collection_moment": "nursery",
@@ -226407,58 +226461,22 @@
       "quasiVar": 0.0851
     },
     {
-      "collection_moment": "nursery",
-      "trait": "diseasesresistance",
-      "genotype_name": "AVAM1939",
-      "estimate": -0.0282,
-      "SE": 0.4158,
-      "quasiSE": 0.3084,
-      "quasiVar": 0.0951
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "diseasesresistance",
-      "genotype_name": "AVAM1941",
-      "estimate": 0.3229,
-      "SE": 0.3932,
-      "quasiSE": 0.2691,
-      "quasiVar": 0.0724
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "diseasesresistance",
+      "collection_moment": "transplanting",
+      "trait": "vigor",
       "genotype_name": "Madiira 1",
       "estimate": 0,
       "SE": 0,
-      "quasiSE": 0.2779,
-      "quasiVar": 0.0772
+      "quasiSE": 0.2084,
+      "quasiVar": 0.0434
     },
     {
-      "collection_moment": "nursery",
-      "trait": "diseasesresistance",
-      "genotype_name": "Madiira 2",
-      "estimate": 0.1599,
-      "SE": 0.3858,
-      "quasiSE": 0.2705,
-      "quasiVar": 0.0732
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "diseasesresistance",
+      "collection_moment": "transplanting",
+      "trait": "vigor",
       "genotype_name": "Nguruma",
-      "estimate": 0.2046,
-      "SE": 0.3952,
-      "quasiSE": 0.2866,
-      "quasiVar": 0.0821
-    },
-    {
-      "collection_moment": "nursery",
-      "trait": "diseasesresistance",
-      "genotype_name": "Poli",
-      "estimate": 0.9574,
-      "SE": 0.4104,
-      "quasiSE": 0.2904,
-      "quasiVar": 0.0843
+      "estimate": 0.1088,
+      "SE": 0.2933,
+      "quasiSE": 0.2073,
+      "quasiVar": 0.043
     },
     {
       "collection_moment": "transplanting",
@@ -226472,11 +226490,38 @@
     {
       "collection_moment": "transplanting",
       "trait": "vigor",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.0256,
+      "SE": 0.294,
+      "quasiSE": 0.2063,
+      "quasiVar": 0.0426
+    },
+    {
+      "collection_moment": "transplanting",
+      "trait": "vigor",
       "genotype_name": "Akeri",
       "estimate": 0.9117,
       "SE": 0.3024,
       "quasiSE": 0.2132,
       "quasiVar": 0.0454
+    },
+    {
+      "collection_moment": "transplanting",
+      "trait": "vigor",
+      "genotype_name": "AVAM1941",
+      "estimate": -0.1286,
+      "SE": 0.3048,
+      "quasiSE": 0.2299,
+      "quasiVar": 0.0529
+    },
+    {
+      "collection_moment": "transplanting",
+      "trait": "vigor",
+      "genotype_name": "Poli",
+      "estimate": 0.8035,
+      "SE": 0.3033,
+      "quasiSE": 0.2193,
+      "quasiVar": 0.0481
     },
     {
       "collection_moment": "transplanting",
@@ -226498,84 +226543,12 @@
     },
     {
       "collection_moment": "transplanting",
-      "trait": "vigor",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.1286,
-      "SE": 0.3048,
-      "quasiSE": 0.2299,
-      "quasiVar": 0.0529
-    },
-    {
-      "collection_moment": "transplanting",
-      "trait": "vigor",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2084,
-      "quasiVar": 0.0434
-    },
-    {
-      "collection_moment": "transplanting",
-      "trait": "vigor",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.0256,
-      "SE": 0.294,
-      "quasiSE": 0.2063,
-      "quasiVar": 0.0426
-    },
-    {
-      "collection_moment": "transplanting",
-      "trait": "vigor",
+      "trait": "pestresistance",
       "genotype_name": "Nguruma",
-      "estimate": 0.1088,
-      "SE": 0.2933,
-      "quasiSE": 0.2073,
-      "quasiVar": 0.043
-    },
-    {
-      "collection_moment": "transplanting",
-      "trait": "vigor",
-      "genotype_name": "Poli",
-      "estimate": 0.8035,
-      "SE": 0.3033,
-      "quasiSE": 0.2193,
-      "quasiVar": 0.0481
-    },
-    {
-      "collection_moment": "transplanting",
-      "trait": "pestresistance",
-      "genotype_name": "AC-NL",
-      "estimate": 0.4718,
-      "SE": 0.4034,
-      "quasiSE": 0.275,
-      "quasiVar": 0.0756
-    },
-    {
-      "collection_moment": "transplanting",
-      "trait": "pestresistance",
-      "genotype_name": "Akeri",
-      "estimate": 0.8117,
-      "SE": 0.401,
-      "quasiSE": 0.2665,
-      "quasiVar": 0.071
-    },
-    {
-      "collection_moment": "transplanting",
-      "trait": "pestresistance",
-      "genotype_name": "AVAM1938",
-      "estimate": -0.1239,
-      "SE": 0.3965,
-      "quasiSE": 0.2752,
-      "quasiVar": 0.0757
-    },
-    {
-      "collection_moment": "transplanting",
-      "trait": "pestresistance",
-      "genotype_name": "AVAM1939",
-      "estimate": 0.1262,
-      "SE": 0.392,
-      "quasiSE": 0.2839,
-      "quasiVar": 0.0806
+      "estimate": 0.4107,
+      "SE": 0.4171,
+      "quasiSE": 0.2971,
+      "quasiVar": 0.0883
     },
     {
       "collection_moment": "transplanting",
@@ -226589,11 +226562,20 @@
     {
       "collection_moment": "transplanting",
       "trait": "pestresistance",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2882,
-      "quasiVar": 0.0831
+      "genotype_name": "AVAM1939",
+      "estimate": 0.1262,
+      "SE": 0.392,
+      "quasiSE": 0.2839,
+      "quasiVar": 0.0806
+    },
+    {
+      "collection_moment": "transplanting",
+      "trait": "pestresistance",
+      "genotype_name": "Akeri",
+      "estimate": 0.8117,
+      "SE": 0.401,
+      "quasiSE": 0.2665,
+      "quasiVar": 0.071
     },
     {
       "collection_moment": "transplanting",
@@ -226607,11 +226589,11 @@
     {
       "collection_moment": "transplanting",
       "trait": "pestresistance",
-      "genotype_name": "Nguruma",
-      "estimate": 0.4107,
-      "SE": 0.4171,
-      "quasiSE": 0.2971,
-      "quasiVar": 0.0883
+      "genotype_name": "AVAM1938",
+      "estimate": -0.1239,
+      "SE": 0.3965,
+      "quasiSE": 0.2752,
+      "quasiVar": 0.0757
     },
     {
       "collection_moment": "transplanting",
@@ -226621,6 +226603,42 @@
       "SE": 0.3869,
       "quasiSE": 0.259,
       "quasiVar": 0.0671
+    },
+    {
+      "collection_moment": "transplanting",
+      "trait": "pestresistance",
+      "genotype_name": "AC-NL",
+      "estimate": 0.4718,
+      "SE": 0.4034,
+      "quasiSE": 0.275,
+      "quasiVar": 0.0756
+    },
+    {
+      "collection_moment": "transplanting",
+      "trait": "pestresistance",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2882,
+      "quasiVar": 0.0831
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "vigor",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2148,
+      "quasiVar": 0.0461
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "vigor",
+      "genotype_name": "Nguruma",
+      "estimate": 0.0384,
+      "SE": 0.3117,
+      "quasiSE": 0.2285,
+      "quasiVar": 0.0522
     },
     {
       "collection_moment": "reproductive",
@@ -226634,11 +226652,29 @@
     {
       "collection_moment": "reproductive",
       "trait": "vigor",
+      "genotype_name": "Madiira 2",
+      "estimate": 0.3313,
+      "SE": 0.3061,
+      "quasiSE": 0.2121,
+      "quasiVar": 0.045
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "vigor",
       "genotype_name": "Akeri",
       "estimate": 0.035,
       "SE": 0.3089,
       "quasiSE": 0.2142,
       "quasiVar": 0.0459
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "vigor",
+      "genotype_name": "AVAM1941",
+      "estimate": -0.0809,
+      "SE": 0.3012,
+      "quasiSE": 0.2238,
+      "quasiVar": 0.0501
     },
     {
       "collection_moment": "reproductive",
@@ -226661,47 +226697,29 @@
     {
       "collection_moment": "reproductive",
       "trait": "vigor",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.0809,
-      "SE": 0.3012,
-      "quasiSE": 0.2238,
-      "quasiVar": 0.0501
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "vigor",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2148,
-      "quasiVar": 0.0461
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "vigor",
-      "genotype_name": "Madiira 2",
-      "estimate": 0.3313,
-      "SE": 0.3061,
-      "quasiSE": 0.2121,
-      "quasiVar": 0.045
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "vigor",
-      "genotype_name": "Nguruma",
-      "estimate": 0.0384,
-      "SE": 0.3117,
-      "quasiSE": 0.2285,
-      "quasiVar": 0.0522
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "vigor",
       "genotype_name": "Poli",
       "estimate": 0.4353,
       "SE": 0.3155,
       "quasiSE": 0.23,
       "quasiVar": 0.0529
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "flowering",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.3006,
+      "quasiVar": 0.0904
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "flowering",
+      "genotype_name": "Nguruma",
+      "estimate": -0.3063,
+      "SE": 0.4219,
+      "quasiSE": 0.2896,
+      "quasiVar": 0.0839
     },
     {
       "collection_moment": "reproductive",
@@ -226715,11 +226733,29 @@
     {
       "collection_moment": "reproductive",
       "trait": "flowering",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.3088,
+      "SE": 0.424,
+      "quasiSE": 0.2837,
+      "quasiVar": 0.0805
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "flowering",
       "genotype_name": "Akeri",
       "estimate": -0.7928,
       "SE": 0.4299,
       "quasiSE": 0.3058,
       "quasiVar": 0.0935
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "flowering",
+      "genotype_name": "AVAM1941",
+      "estimate": -0.2598,
+      "SE": 0.4194,
+      "quasiSE": 0.2937,
+      "quasiVar": 0.0863
     },
     {
       "collection_moment": "reproductive",
@@ -226742,42 +226778,6 @@
     {
       "collection_moment": "reproductive",
       "trait": "flowering",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.2598,
-      "SE": 0.4194,
-      "quasiSE": 0.2937,
-      "quasiVar": 0.0863
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "flowering",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.3006,
-      "quasiVar": 0.0904
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "flowering",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.3088,
-      "SE": 0.424,
-      "quasiSE": 0.2837,
-      "quasiVar": 0.0805
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "flowering",
-      "genotype_name": "Nguruma",
-      "estimate": -0.3063,
-      "SE": 0.4219,
-      "quasiSE": 0.2896,
-      "quasiVar": 0.0839
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "flowering",
       "genotype_name": "Poli",
       "estimate": 0.4224,
       "SE": 0.4253,
@@ -226787,20 +226787,11 @@
     {
       "collection_moment": "reproductive",
       "trait": "pestresistance",
-      "genotype_name": "AC-NL",
-      "estimate": 0.1216,
-      "SE": 0.4656,
-      "quasiSE": 0.3316,
-      "quasiVar": 0.11
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "pestresistance",
-      "genotype_name": "Akeri",
-      "estimate": -0.1721,
-      "SE": 0.4497,
-      "quasiSE": 0.309,
-      "quasiVar": 0.0955
+      "genotype_name": "AVAM1941",
+      "estimate": 0.1714,
+      "SE": 0.4298,
+      "quasiSE": 0.3144,
+      "quasiVar": 0.0989
     },
     {
       "collection_moment": "reproductive",
@@ -226814,6 +226805,24 @@
     {
       "collection_moment": "reproductive",
       "trait": "pestresistance",
+      "genotype_name": "Nguruma",
+      "estimate": 0.1282,
+      "SE": 0.4488,
+      "quasiSE": 0.3108,
+      "quasiVar": 0.0966
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "pestresistance",
+      "genotype_name": "Akeri",
+      "estimate": -0.1721,
+      "SE": 0.4497,
+      "quasiSE": 0.309,
+      "quasiVar": 0.0955
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "pestresistance",
       "genotype_name": "AVAM1939",
       "estimate": 0.1969,
       "SE": 0.4523,
@@ -226823,11 +226832,11 @@
     {
       "collection_moment": "reproductive",
       "trait": "pestresistance",
-      "genotype_name": "AVAM1941",
-      "estimate": 0.1714,
-      "SE": 0.4298,
-      "quasiSE": 0.3144,
-      "quasiVar": 0.0989
+      "genotype_name": "AC-NL",
+      "estimate": 0.1216,
+      "SE": 0.4656,
+      "quasiSE": 0.3316,
+      "quasiVar": 0.11
     },
     {
       "collection_moment": "reproductive",
@@ -226850,20 +226859,29 @@
     {
       "collection_moment": "reproductive",
       "trait": "pestresistance",
-      "genotype_name": "Nguruma",
-      "estimate": 0.1282,
-      "SE": 0.4488,
-      "quasiSE": 0.3108,
-      "quasiVar": 0.0966
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "pestresistance",
       "genotype_name": "Poli",
       "estimate": -0.0679,
       "SE": 0.4428,
       "quasiSE": 0.3047,
       "quasiVar": 0.0928
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "plantsurvival",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2271,
+      "quasiVar": 0.0516
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "plantsurvival",
+      "genotype_name": "Nguruma",
+      "estimate": 0.0597,
+      "SE": 0.3397,
+      "quasiSE": 0.2528,
+      "quasiVar": 0.0639
     },
     {
       "collection_moment": "reproductive",
@@ -226877,11 +226895,29 @@
     {
       "collection_moment": "reproductive",
       "trait": "plantsurvival",
+      "genotype_name": "Madiira 2",
+      "estimate": 0.1371,
+      "SE": 0.3417,
+      "quasiSE": 0.2439,
+      "quasiVar": 0.0595
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "plantsurvival",
       "genotype_name": "Akeri",
       "estimate": -0.0787,
       "SE": 0.3256,
       "quasiSE": 0.2319,
       "quasiVar": 0.0538
+    },
+    {
+      "collection_moment": "reproductive",
+      "trait": "plantsurvival",
+      "genotype_name": "AVAM1941",
+      "estimate": -0.0739,
+      "SE": 0.3214,
+      "quasiSE": 0.2436,
+      "quasiVar": 0.0594
     },
     {
       "collection_moment": "reproductive",
@@ -226904,47 +226940,29 @@
     {
       "collection_moment": "reproductive",
       "trait": "plantsurvival",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.0739,
-      "SE": 0.3214,
-      "quasiSE": 0.2436,
-      "quasiVar": 0.0594
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "plantsurvival",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2271,
-      "quasiVar": 0.0516
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "plantsurvival",
-      "genotype_name": "Madiira 2",
-      "estimate": 0.1371,
-      "SE": 0.3417,
-      "quasiSE": 0.2439,
-      "quasiVar": 0.0595
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "plantsurvival",
-      "genotype_name": "Nguruma",
-      "estimate": 0.0597,
-      "SE": 0.3397,
-      "quasiSE": 0.2528,
-      "quasiVar": 0.0639
-    },
-    {
-      "collection_moment": "reproductive",
-      "trait": "plantsurvival",
       "genotype_name": "Poli",
       "estimate": -0.207,
       "SE": 0.3432,
       "quasiSE": 0.2485,
       "quasiVar": 0.0618
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "plantheighttricot",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2107,
+      "quasiVar": 0.0444
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "plantheighttricot",
+      "genotype_name": "Nguruma",
+      "estimate": -0.4934,
+      "SE": 0.2975,
+      "quasiSE": 0.2122,
+      "quasiVar": 0.045
     },
     {
       "collection_moment": "firstharvest",
@@ -226958,11 +226976,29 @@
     {
       "collection_moment": "firstharvest",
       "trait": "plantheighttricot",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.3409,
+      "SE": 0.2891,
+      "quasiSE": 0.1968,
+      "quasiVar": 0.0387
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "plantheighttricot",
       "genotype_name": "Akeri",
       "estimate": 0.3294,
       "SE": 0.2947,
       "quasiSE": 0.2034,
       "quasiVar": 0.0414
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "plantheighttricot",
+      "genotype_name": "AVAM1941",
+      "estimate": -0.3091,
+      "SE": 0.2868,
+      "quasiSE": 0.2023,
+      "quasiVar": 0.0409
     },
     {
       "collection_moment": "firstharvest",
@@ -226985,47 +227021,29 @@
     {
       "collection_moment": "firstharvest",
       "trait": "plantheighttricot",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.3091,
-      "SE": 0.2868,
-      "quasiSE": 0.2023,
-      "quasiVar": 0.0409
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "plantheighttricot",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2107,
-      "quasiVar": 0.0444
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "plantheighttricot",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.3409,
-      "SE": 0.2891,
-      "quasiSE": 0.1968,
-      "quasiVar": 0.0387
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "plantheighttricot",
-      "genotype_name": "Nguruma",
-      "estimate": -0.4934,
-      "SE": 0.2975,
-      "quasiSE": 0.2122,
-      "quasiVar": 0.045
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "plantheighttricot",
       "genotype_name": "Poli",
       "estimate": -0.0801,
       "SE": 0.2996,
       "quasiSE": 0.2113,
       "quasiVar": 0.0446
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "branching",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2214,
+      "quasiVar": 0.049
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "branching",
+      "genotype_name": "Nguruma",
+      "estimate": 0.2092,
+      "SE": 0.3166,
+      "quasiSE": 0.2313,
+      "quasiVar": 0.0535
     },
     {
       "collection_moment": "firstharvest",
@@ -227039,11 +227057,29 @@
     {
       "collection_moment": "firstharvest",
       "trait": "branching",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.0491,
+      "SE": 0.3112,
+      "quasiSE": 0.2119,
+      "quasiVar": 0.0449
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "branching",
       "genotype_name": "Akeri",
       "estimate": -0.1236,
       "SE": 0.3152,
       "quasiSE": 0.2186,
       "quasiVar": 0.0478
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "branching",
+      "genotype_name": "AVAM1941",
+      "estimate": 0.0602,
+      "SE": 0.2967,
+      "quasiSE": 0.2108,
+      "quasiVar": 0.0444
     },
     {
       "collection_moment": "firstharvest",
@@ -227066,47 +227102,29 @@
     {
       "collection_moment": "firstharvest",
       "trait": "branching",
-      "genotype_name": "AVAM1941",
-      "estimate": 0.0602,
-      "SE": 0.2967,
-      "quasiSE": 0.2108,
-      "quasiVar": 0.0444
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "branching",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2214,
-      "quasiVar": 0.049
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "branching",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.0491,
-      "SE": 0.3112,
-      "quasiSE": 0.2119,
-      "quasiVar": 0.0449
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "branching",
-      "genotype_name": "Nguruma",
-      "estimate": 0.2092,
-      "SE": 0.3166,
-      "quasiSE": 0.2313,
-      "quasiVar": 0.0535
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "branching",
       "genotype_name": "Poli",
       "estimate": 0.1942,
       "SE": 0.32,
       "quasiSE": 0.2247,
       "quasiVar": 0.0505
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "leafsize",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2033,
+      "quasiVar": 0.0413
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "leafsize",
+      "genotype_name": "Nguruma",
+      "estimate": 0.3279,
+      "SE": 0.2984,
+      "quasiSE": 0.2256,
+      "quasiVar": 0.0509
     },
     {
       "collection_moment": "firstharvest",
@@ -227120,11 +227138,29 @@
     {
       "collection_moment": "firstharvest",
       "trait": "leafsize",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.0497,
+      "SE": 0.29,
+      "quasiSE": 0.2062,
+      "quasiVar": 0.0425
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "leafsize",
       "genotype_name": "Akeri",
       "estimate": 0.2974,
       "SE": 0.2942,
       "quasiSE": 0.2025,
       "quasiVar": 0.041
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "leafsize",
+      "genotype_name": "AVAM1941",
+      "estimate": -0.0881,
+      "SE": 0.2918,
+      "quasiSE": 0.2153,
+      "quasiVar": 0.0464
     },
     {
       "collection_moment": "firstharvest",
@@ -227147,92 +227183,11 @@
     {
       "collection_moment": "firstharvest",
       "trait": "leafsize",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.0881,
-      "SE": 0.2918,
-      "quasiSE": 0.2153,
-      "quasiVar": 0.0464
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "leafsize",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2033,
-      "quasiVar": 0.0413
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "leafsize",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.0497,
-      "SE": 0.29,
-      "quasiSE": 0.2062,
-      "quasiVar": 0.0425
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "leafsize",
-      "genotype_name": "Nguruma",
-      "estimate": 0.3279,
-      "SE": 0.2984,
-      "quasiSE": 0.2256,
-      "quasiVar": 0.0509
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "leafsize",
       "genotype_name": "Poli",
       "estimate": 0.0047,
       "SE": 0.3103,
       "quasiSE": 0.228,
       "quasiVar": 0.052
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "yield",
-      "genotype_name": "AC-NL",
-      "estimate": 0.3426,
-      "SE": 0.3373,
-      "quasiSE": 0.2523,
-      "quasiVar": 0.0637
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "yield",
-      "genotype_name": "Akeri",
-      "estimate": -0.3307,
-      "SE": 0.3357,
-      "quasiSE": 0.2431,
-      "quasiVar": 0.0591
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "yield",
-      "genotype_name": "AVAM1938",
-      "estimate": -0.0606,
-      "SE": 0.3257,
-      "quasiSE": 0.2247,
-      "quasiVar": 0.0505
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "yield",
-      "genotype_name": "AVAM1939",
-      "estimate": 0.0671,
-      "SE": 0.3375,
-      "quasiSE": 0.2498,
-      "quasiVar": 0.0624
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "yield",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.0602,
-      "SE": 0.3368,
-      "quasiSE": 0.2489,
-      "quasiVar": 0.0619
     },
     {
       "collection_moment": "firstharvest",
@@ -227246,11 +227201,20 @@
     {
       "collection_moment": "firstharvest",
       "trait": "yield",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.4231,
-      "SE": 0.3331,
-      "quasiSE": 0.2347,
-      "quasiVar": 0.0551
+      "genotype_name": "Akeri",
+      "estimate": -0.3307,
+      "SE": 0.3357,
+      "quasiSE": 0.2431,
+      "quasiVar": 0.0591
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "yield",
+      "genotype_name": "Poli",
+      "estimate": 0.0594,
+      "SE": 0.3418,
+      "quasiSE": 0.244,
+      "quasiVar": 0.0595
     },
     {
       "collection_moment": "firstharvest",
@@ -227264,11 +227228,65 @@
     {
       "collection_moment": "firstharvest",
       "trait": "yield",
-      "genotype_name": "Poli",
-      "estimate": 0.0594,
-      "SE": 0.3418,
-      "quasiSE": 0.244,
-      "quasiVar": 0.0595
+      "genotype_name": "AVAM1939",
+      "estimate": 0.0671,
+      "SE": 0.3375,
+      "quasiSE": 0.2498,
+      "quasiVar": 0.0624
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "yield",
+      "genotype_name": "AC-NL",
+      "estimate": 0.3426,
+      "SE": 0.3373,
+      "quasiSE": 0.2523,
+      "quasiVar": 0.0637
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "yield",
+      "genotype_name": "AVAM1941",
+      "estimate": -0.0602,
+      "SE": 0.3368,
+      "quasiSE": 0.2489,
+      "quasiVar": 0.0619
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "yield",
+      "genotype_name": "AVAM1938",
+      "estimate": -0.0606,
+      "SE": 0.3257,
+      "quasiSE": 0.2247,
+      "quasiVar": 0.0505
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "yield",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.4231,
+      "SE": 0.3331,
+      "quasiSE": 0.2347,
+      "quasiVar": 0.0551
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "taste",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.3972,
+      "quasiVar": 0.1578
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "taste",
+      "genotype_name": "Nguruma",
+      "estimate": 1.0811,
+      "SE": 0.5087,
+      "quasiSE": 0.3584,
+      "quasiVar": 0.1285
     },
     {
       "collection_moment": "firstharvest",
@@ -227282,11 +227300,29 @@
     {
       "collection_moment": "firstharvest",
       "trait": "taste",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.096,
+      "SE": 0.5247,
+      "quasiSE": 0.3227,
+      "quasiVar": 0.1041
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "taste",
       "genotype_name": "Akeri",
       "estimate": -0.0046,
       "SE": 0.54,
       "quasiSE": 0.3373,
       "quasiVar": 0.1138
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "taste",
+      "genotype_name": "AVAM1941",
+      "estimate": 1.1888,
+      "SE": 0.5245,
+      "quasiSE": 0.3549,
+      "quasiVar": 0.126
     },
     {
       "collection_moment": "firstharvest",
@@ -227309,92 +227345,11 @@
     {
       "collection_moment": "firstharvest",
       "trait": "taste",
-      "genotype_name": "AVAM1941",
-      "estimate": 1.1888,
-      "SE": 0.5245,
-      "quasiSE": 0.3549,
-      "quasiVar": 0.126
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "taste",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.3972,
-      "quasiVar": 0.1578
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "taste",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.096,
-      "SE": 0.5247,
-      "quasiSE": 0.3227,
-      "quasiVar": 0.1041
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "taste",
-      "genotype_name": "Nguruma",
-      "estimate": 1.0811,
-      "SE": 0.5087,
-      "quasiSE": 0.3584,
-      "quasiVar": 0.1285
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "taste",
       "genotype_name": "Poli",
       "estimate": 0.6067,
       "SE": 0.5264,
       "quasiSE": 0.3334,
       "quasiVar": 0.1112
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "marketability",
-      "genotype_name": "AC-NL",
-      "estimate": 0.7989,
-      "SE": 0.44,
-      "quasiSE": 0.3225,
-      "quasiVar": 0.104
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "marketability",
-      "genotype_name": "Akeri",
-      "estimate": -0.6256,
-      "SE": 0.4379,
-      "quasiSE": 0.3114,
-      "quasiVar": 0.0969
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "marketability",
-      "genotype_name": "AVAM1938",
-      "estimate": -0.272,
-      "SE": 0.4156,
-      "quasiSE": 0.298,
-      "quasiVar": 0.0888
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "marketability",
-      "genotype_name": "AVAM1939",
-      "estimate": 0.0971,
-      "SE": 0.4115,
-      "quasiSE": 0.3211,
-      "quasiVar": 0.1031
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "marketability",
-      "genotype_name": "AVAM1941",
-      "estimate": 0.3433,
-      "SE": 0.3925,
-      "quasiSE": 0.2829,
-      "quasiVar": 0.08
     },
     {
       "collection_moment": "firstharvest",
@@ -227417,6 +227372,15 @@
     {
       "collection_moment": "firstharvest",
       "trait": "marketability",
+      "genotype_name": "AVAM1938",
+      "estimate": -0.272,
+      "SE": 0.4156,
+      "quasiSE": 0.298,
+      "quasiVar": 0.0888
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "marketability",
       "genotype_name": "Nguruma",
       "estimate": 1.2552,
       "SE": 0.4369,
@@ -227426,11 +227390,65 @@
     {
       "collection_moment": "firstharvest",
       "trait": "marketability",
+      "genotype_name": "AC-NL",
+      "estimate": 0.7989,
+      "SE": 0.44,
+      "quasiSE": 0.3225,
+      "quasiVar": 0.104
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "marketability",
       "genotype_name": "Poli",
       "estimate": -0.121,
       "SE": 0.4616,
       "quasiSE": 0.3389,
       "quasiVar": 0.1148
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "marketability",
+      "genotype_name": "AVAM1941",
+      "estimate": 0.3433,
+      "SE": 0.3925,
+      "quasiSE": 0.2829,
+      "quasiVar": 0.08
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "marketability",
+      "genotype_name": "Akeri",
+      "estimate": -0.6256,
+      "SE": 0.4379,
+      "quasiSE": 0.3114,
+      "quasiVar": 0.0969
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "marketability",
+      "genotype_name": "AVAM1939",
+      "estimate": 0.0971,
+      "SE": 0.4115,
+      "quasiSE": 0.3211,
+      "quasiVar": 0.1031
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "plantsurvival",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2516,
+      "quasiVar": 0.0633
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "plantsurvival",
+      "genotype_name": "Nguruma",
+      "estimate": 0.0578,
+      "SE": 0.3461,
+      "quasiSE": 0.245,
+      "quasiVar": 0.06
     },
     {
       "collection_moment": "firstharvest",
@@ -227444,11 +227462,29 @@
     {
       "collection_moment": "firstharvest",
       "trait": "plantsurvival",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.1149,
+      "SE": 0.3598,
+      "quasiSE": 0.2423,
+      "quasiVar": 0.0587
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "plantsurvival",
       "genotype_name": "Akeri",
       "estimate": -0.113,
       "SE": 0.3426,
       "quasiSE": 0.2253,
       "quasiVar": 0.0508
+    },
+    {
+      "collection_moment": "firstharvest",
+      "trait": "plantsurvival",
+      "genotype_name": "AVAM1941",
+      "estimate": 0.1011,
+      "SE": 0.3495,
+      "quasiSE": 0.2534,
+      "quasiVar": 0.0642
     },
     {
       "collection_moment": "firstharvest",
@@ -227471,42 +227507,6 @@
     {
       "collection_moment": "firstharvest",
       "trait": "plantsurvival",
-      "genotype_name": "AVAM1941",
-      "estimate": 0.1011,
-      "SE": 0.3495,
-      "quasiSE": 0.2534,
-      "quasiVar": 0.0642
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "plantsurvival",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2516,
-      "quasiVar": 0.0633
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "plantsurvival",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.1149,
-      "SE": 0.3598,
-      "quasiSE": 0.2423,
-      "quasiVar": 0.0587
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "plantsurvival",
-      "genotype_name": "Nguruma",
-      "estimate": 0.0578,
-      "SE": 0.3461,
-      "quasiSE": 0.245,
-      "quasiVar": 0.06
-    },
-    {
-      "collection_moment": "firstharvest",
-      "trait": "plantsurvival",
       "genotype_name": "Poli",
       "estimate": 0.0891,
       "SE": 0.3667,
@@ -227525,11 +227525,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "plantheighttricot",
-      "genotype_name": "Akeri",
-      "estimate": 0.6997,
-      "SE": 0.3211,
-      "quasiSE": 0.2213,
-      "quasiVar": 0.049
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2248,
+      "quasiVar": 0.0505
     },
     {
       "collection_moment": "secondharvest",
@@ -227543,29 +227543,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "plantheighttricot",
-      "genotype_name": "AVAM1939",
-      "estimate": 0.1747,
-      "SE": 0.3098,
-      "quasiSE": 0.2203,
-      "quasiVar": 0.0485
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "plantheighttricot",
       "genotype_name": "AVAM1941",
       "estimate": -0.246,
       "SE": 0.3115,
       "quasiSE": 0.2288,
       "quasiVar": 0.0523
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "plantheighttricot",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2248,
-      "quasiVar": 0.0505
     },
     {
       "collection_moment": "secondharvest",
@@ -227579,6 +227561,24 @@
     {
       "collection_moment": "secondharvest",
       "trait": "plantheighttricot",
+      "genotype_name": "Poli",
+      "estimate": 0.2857,
+      "SE": 0.3306,
+      "quasiSE": 0.2368,
+      "quasiVar": 0.0561
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "plantheighttricot",
+      "genotype_name": "AVAM1939",
+      "estimate": 0.1747,
+      "SE": 0.3098,
+      "quasiSE": 0.2203,
+      "quasiVar": 0.0485
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "plantheighttricot",
       "genotype_name": "Nguruma",
       "estimate": -0.3116,
       "SE": 0.3141,
@@ -227588,11 +227588,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "plantheighttricot",
-      "genotype_name": "Poli",
-      "estimate": 0.2857,
-      "SE": 0.3306,
-      "quasiSE": 0.2368,
-      "quasiVar": 0.0561
+      "genotype_name": "Akeri",
+      "estimate": 0.6997,
+      "SE": 0.3211,
+      "quasiSE": 0.2213,
+      "quasiVar": 0.049
     },
     {
       "collection_moment": "secondharvest",
@@ -227606,11 +227606,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "branching",
-      "genotype_name": "Akeri",
-      "estimate": -0.2645,
-      "SE": 0.3374,
-      "quasiSE": 0.2342,
-      "quasiVar": 0.0548
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2383,
+      "quasiVar": 0.0568
     },
     {
       "collection_moment": "secondharvest",
@@ -227624,29 +227624,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "branching",
-      "genotype_name": "AVAM1939",
-      "estimate": -0.0215,
-      "SE": 0.331,
-      "quasiSE": 0.2275,
-      "quasiVar": 0.0518
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "branching",
       "genotype_name": "AVAM1941",
       "estimate": -0.199,
       "SE": 0.3283,
       "quasiSE": 0.2322,
       "quasiVar": 0.0539
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "branching",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2383,
-      "quasiVar": 0.0568
     },
     {
       "collection_moment": "secondharvest",
@@ -227660,6 +227642,24 @@
     {
       "collection_moment": "secondharvest",
       "trait": "branching",
+      "genotype_name": "Poli",
+      "estimate": 0.2401,
+      "SE": 0.3395,
+      "quasiSE": 0.2387,
+      "quasiVar": 0.057
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "branching",
+      "genotype_name": "AVAM1939",
+      "estimate": -0.0215,
+      "SE": 0.331,
+      "quasiSE": 0.2275,
+      "quasiVar": 0.0518
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "branching",
       "genotype_name": "Nguruma",
       "estimate": -0.0672,
       "SE": 0.3226,
@@ -227669,11 +227669,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "branching",
-      "genotype_name": "Poli",
-      "estimate": 0.2401,
-      "SE": 0.3395,
-      "quasiSE": 0.2387,
-      "quasiVar": 0.057
+      "genotype_name": "Akeri",
+      "estimate": -0.2645,
+      "SE": 0.3374,
+      "quasiSE": 0.2342,
+      "quasiVar": 0.0548
     },
     {
       "collection_moment": "secondharvest",
@@ -227687,11 +227687,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "leafsize",
-      "genotype_name": "Akeri",
-      "estimate": 0.3217,
-      "SE": 0.3181,
-      "quasiSE": 0.22,
-      "quasiVar": 0.0484
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2235,
+      "quasiVar": 0.0499
     },
     {
       "collection_moment": "secondharvest",
@@ -227705,29 +227705,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "leafsize",
-      "genotype_name": "AVAM1939",
-      "estimate": 0.0124,
-      "SE": 0.3183,
-      "quasiSE": 0.2291,
-      "quasiVar": 0.0525
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "leafsize",
       "genotype_name": "AVAM1941",
       "estimate": -0.333,
       "SE": 0.3184,
       "quasiSE": 0.237,
       "quasiVar": 0.0562
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "leafsize",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2235,
-      "quasiVar": 0.0499
     },
     {
       "collection_moment": "secondharvest",
@@ -227741,6 +227723,24 @@
     {
       "collection_moment": "secondharvest",
       "trait": "leafsize",
+      "genotype_name": "Poli",
+      "estimate": 0.1126,
+      "SE": 0.3388,
+      "quasiSE": 0.2495,
+      "quasiVar": 0.0622
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "leafsize",
+      "genotype_name": "AVAM1939",
+      "estimate": 0.0124,
+      "SE": 0.3183,
+      "quasiSE": 0.2291,
+      "quasiVar": 0.0525
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "leafsize",
       "genotype_name": "Nguruma",
       "estimate": 0.116,
       "SE": 0.3167,
@@ -227750,11 +227750,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "leafsize",
-      "genotype_name": "Poli",
-      "estimate": 0.1126,
-      "SE": 0.3388,
-      "quasiSE": 0.2495,
-      "quasiVar": 0.0622
+      "genotype_name": "Akeri",
+      "estimate": 0.3217,
+      "SE": 0.3181,
+      "quasiSE": 0.22,
+      "quasiVar": 0.0484
     },
     {
       "collection_moment": "secondharvest",
@@ -227768,11 +227768,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "yield",
-      "genotype_name": "Akeri",
-      "estimate": -0.1515,
-      "SE": 0.3438,
-      "quasiSE": 0.2448,
-      "quasiVar": 0.0599
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2431,
+      "quasiVar": 0.0591
     },
     {
       "collection_moment": "secondharvest",
@@ -227786,29 +227786,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "yield",
-      "genotype_name": "AVAM1939",
-      "estimate": 0.0295,
-      "SE": 0.3449,
-      "quasiSE": 0.2503,
-      "quasiVar": 0.0627
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "yield",
       "genotype_name": "AVAM1941",
       "estimate": -0.1446,
       "SE": 0.3414,
       "quasiSE": 0.2405,
       "quasiVar": 0.0578
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "yield",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2431,
-      "quasiVar": 0.0591
     },
     {
       "collection_moment": "secondharvest",
@@ -227822,6 +227804,24 @@
     {
       "collection_moment": "secondharvest",
       "trait": "yield",
+      "genotype_name": "Poli",
+      "estimate": 0.0752,
+      "SE": 0.3512,
+      "quasiSE": 0.2535,
+      "quasiVar": 0.0643
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "yield",
+      "genotype_name": "AVAM1939",
+      "estimate": 0.0295,
+      "SE": 0.3449,
+      "quasiSE": 0.2503,
+      "quasiVar": 0.0627
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "yield",
       "genotype_name": "Nguruma",
       "estimate": 0.102,
       "SE": 0.3458,
@@ -227831,11 +227831,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "yield",
-      "genotype_name": "Poli",
-      "estimate": 0.0752,
-      "SE": 0.3512,
-      "quasiSE": 0.2535,
-      "quasiVar": 0.0643
+      "genotype_name": "Akeri",
+      "estimate": -0.1515,
+      "SE": 0.3438,
+      "quasiSE": 0.2448,
+      "quasiVar": 0.0599
     },
     {
       "collection_moment": "secondharvest",
@@ -227849,11 +227849,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "taste",
-      "genotype_name": "Akeri",
-      "estimate": -0.1252,
-      "SE": 0.4698,
-      "quasiSE": 0.3301,
-      "quasiVar": 0.1089
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.3424,
+      "quasiVar": 0.1172
     },
     {
       "collection_moment": "secondharvest",
@@ -227867,29 +227867,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "taste",
-      "genotype_name": "AVAM1939",
-      "estimate": 0.0958,
-      "SE": 0.4897,
-      "quasiSE": 0.34,
-      "quasiVar": 0.1156
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "taste",
       "genotype_name": "AVAM1941",
       "estimate": -0.1817,
       "SE": 0.4725,
       "quasiSE": 0.3384,
       "quasiVar": 0.1145
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "taste",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.3424,
-      "quasiVar": 0.1172
     },
     {
       "collection_moment": "secondharvest",
@@ -227903,6 +227885,24 @@
     {
       "collection_moment": "secondharvest",
       "trait": "taste",
+      "genotype_name": "Poli",
+      "estimate": -0.0639,
+      "SE": 0.4663,
+      "quasiSE": 0.2963,
+      "quasiVar": 0.0878
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "taste",
+      "genotype_name": "AVAM1939",
+      "estimate": 0.0958,
+      "SE": 0.4897,
+      "quasiSE": 0.34,
+      "quasiVar": 0.1156
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "taste",
       "genotype_name": "Nguruma",
       "estimate": 0.1719,
       "SE": 0.4541,
@@ -227912,11 +227912,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "taste",
-      "genotype_name": "Poli",
-      "estimate": -0.0639,
-      "SE": 0.4663,
-      "quasiSE": 0.2963,
-      "quasiVar": 0.0878
+      "genotype_name": "Akeri",
+      "estimate": -0.1252,
+      "SE": 0.4698,
+      "quasiSE": 0.3301,
+      "quasiVar": 0.1089
     },
     {
       "collection_moment": "secondharvest",
@@ -227930,11 +227930,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "marketability",
-      "genotype_name": "Akeri",
-      "estimate": -0.0534,
-      "SE": 0.467,
-      "quasiSE": 0.3443,
-      "quasiVar": 0.1186
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.3106,
+      "quasiVar": 0.0965
     },
     {
       "collection_moment": "secondharvest",
@@ -227948,29 +227948,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "marketability",
-      "genotype_name": "AVAM1939",
-      "estimate": 0.0007,
-      "SE": 0.4594,
-      "quasiSE": 0.3361,
-      "quasiVar": 0.113
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "marketability",
       "genotype_name": "AVAM1941",
       "estimate": -0.2641,
       "SE": 0.4308,
       "quasiSE": 0.3189,
       "quasiVar": 0.1017
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "marketability",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.3106,
-      "quasiVar": 0.0965
     },
     {
       "collection_moment": "secondharvest",
@@ -227984,11 +227966,29 @@
     {
       "collection_moment": "secondharvest",
       "trait": "marketability",
+      "genotype_name": "AVAM1939",
+      "estimate": 0.0007,
+      "SE": 0.4594,
+      "quasiSE": 0.3361,
+      "quasiVar": 0.113
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "marketability",
       "genotype_name": "Nguruma",
       "estimate": 0.3325,
       "SE": 0.4296,
       "quasiSE": 0.3071,
       "quasiVar": 0.0943
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "marketability",
+      "genotype_name": "Akeri",
+      "estimate": -0.0534,
+      "SE": 0.467,
+      "quasiSE": 0.3443,
+      "quasiVar": 0.1186
     },
     {
       "collection_moment": "secondharvest",
@@ -228011,11 +228011,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "plantsurvival",
-      "genotype_name": "Akeri",
-      "estimate": -0.4798,
-      "SE": 0.4113,
-      "quasiSE": 0.2966,
-      "quasiVar": 0.088
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2904,
+      "quasiVar": 0.0844
     },
     {
       "collection_moment": "secondharvest",
@@ -228029,29 +228029,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "plantsurvival",
-      "genotype_name": "AVAM1939",
-      "estimate": -0.0681,
-      "SE": 0.4433,
-      "quasiSE": 0.3277,
-      "quasiVar": 0.1074
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "plantsurvival",
       "genotype_name": "AVAM1941",
       "estimate": -0.1855,
       "SE": 0.3941,
       "quasiSE": 0.2765,
       "quasiVar": 0.0765
-    },
-    {
-      "collection_moment": "secondharvest",
-      "trait": "plantsurvival",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2904,
-      "quasiVar": 0.0844
     },
     {
       "collection_moment": "secondharvest",
@@ -228065,6 +228047,24 @@
     {
       "collection_moment": "secondharvest",
       "trait": "plantsurvival",
+      "genotype_name": "Poli",
+      "estimate": 0.0333,
+      "SE": 0.4213,
+      "quasiSE": 0.3007,
+      "quasiVar": 0.0904
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "plantsurvival",
+      "genotype_name": "AVAM1939",
+      "estimate": -0.0681,
+      "SE": 0.4433,
+      "quasiSE": 0.3277,
+      "quasiVar": 0.1074
+    },
+    {
+      "collection_moment": "secondharvest",
+      "trait": "plantsurvival",
       "genotype_name": "Nguruma",
       "estimate": -0.0445,
       "SE": 0.4048,
@@ -228074,47 +228074,11 @@
     {
       "collection_moment": "secondharvest",
       "trait": "plantsurvival",
-      "genotype_name": "Poli",
-      "estimate": 0.0333,
-      "SE": 0.4213,
-      "quasiSE": 0.3007,
-      "quasiVar": 0.0904
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "plantheighttricot",
-      "genotype_name": "AC-NL",
-      "estimate": -0.0236,
-      "SE": 0.3319,
-      "quasiSE": 0.2247,
-      "quasiVar": 0.0505
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "plantheighttricot",
       "genotype_name": "Akeri",
-      "estimate": 0.5647,
-      "SE": 0.3314,
-      "quasiSE": 0.2319,
-      "quasiVar": 0.0538
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "plantheighttricot",
-      "genotype_name": "AVAM1938",
-      "estimate": -0.1997,
-      "SE": 0.3213,
-      "quasiSE": 0.2254,
-      "quasiVar": 0.0508
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "plantheighttricot",
-      "genotype_name": "AVAM1939",
-      "estimate": -0.096,
-      "SE": 0.3257,
-      "quasiSE": 0.229,
-      "quasiVar": 0.0524
+      "estimate": -0.4798,
+      "SE": 0.4113,
+      "quasiSE": 0.2966,
+      "quasiVar": 0.088
     },
     {
       "collection_moment": "thirdharvest",
@@ -228128,20 +228092,38 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "plantheighttricot",
+      "genotype_name": "AVAM1938",
+      "estimate": -0.1997,
+      "SE": 0.3213,
+      "quasiSE": 0.2254,
+      "quasiVar": 0.0508
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "plantheighttricot",
+      "genotype_name": "AC-NL",
+      "estimate": -0.0236,
+      "SE": 0.3319,
+      "quasiSE": 0.2247,
+      "quasiVar": 0.0505
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "plantheighttricot",
+      "genotype_name": "AVAM1939",
+      "estimate": -0.096,
+      "SE": 0.3257,
+      "quasiSE": 0.229,
+      "quasiVar": 0.0524
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "plantheighttricot",
       "genotype_name": "Madiira 1",
       "estimate": 0,
       "SE": 0,
       "quasiSE": 0.2319,
       "quasiVar": 0.0538
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "plantheighttricot",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.4574,
-      "SE": 0.3396,
-      "quasiSE": 0.25,
-      "quasiVar": 0.0625
     },
     {
       "collection_moment": "thirdharvest",
@@ -228155,47 +228137,29 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "plantheighttricot",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.4574,
+      "SE": 0.3396,
+      "quasiSE": 0.25,
+      "quasiVar": 0.0625
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "plantheighttricot",
+      "genotype_name": "Akeri",
+      "estimate": 0.5647,
+      "SE": 0.3314,
+      "quasiSE": 0.2319,
+      "quasiVar": 0.0538
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "plantheighttricot",
       "genotype_name": "Poli",
       "estimate": 0.2692,
       "SE": 0.3341,
       "quasiSE": 0.236,
       "quasiVar": 0.0557
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "branching",
-      "genotype_name": "AC-NL",
-      "estimate": 0.1338,
-      "SE": 0.3541,
-      "quasiSE": 0.2442,
-      "quasiVar": 0.0597
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "branching",
-      "genotype_name": "Akeri",
-      "estimate": -0.1847,
-      "SE": 0.3562,
-      "quasiSE": 0.2467,
-      "quasiVar": 0.0609
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "branching",
-      "genotype_name": "AVAM1938",
-      "estimate": -0.2041,
-      "SE": 0.3311,
-      "quasiSE": 0.2243,
-      "quasiVar": 0.0503
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "branching",
-      "genotype_name": "AVAM1939",
-      "estimate": -0.5586,
-      "SE": 0.3653,
-      "quasiSE": 0.2607,
-      "quasiVar": 0.068
     },
     {
       "collection_moment": "thirdharvest",
@@ -228209,11 +228173,47 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "branching",
+      "genotype_name": "AVAM1938",
+      "estimate": -0.2041,
+      "SE": 0.3311,
+      "quasiSE": 0.2243,
+      "quasiVar": 0.0503
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "branching",
+      "genotype_name": "AC-NL",
+      "estimate": 0.1338,
+      "SE": 0.3541,
+      "quasiSE": 0.2442,
+      "quasiVar": 0.0597
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "branching",
+      "genotype_name": "AVAM1939",
+      "estimate": -0.5586,
+      "SE": 0.3653,
+      "quasiSE": 0.2607,
+      "quasiVar": 0.068
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "branching",
       "genotype_name": "Madiira 1",
       "estimate": 0,
       "SE": 0,
       "quasiSE": 0.2501,
       "quasiVar": 0.0625
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "branching",
+      "genotype_name": "Nguruma",
+      "estimate": -0.0425,
+      "SE": 0.3414,
+      "quasiSE": 0.2467,
+      "quasiVar": 0.0609
     },
     {
       "collection_moment": "thirdharvest",
@@ -228227,9 +228227,9 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "branching",
-      "genotype_name": "Nguruma",
-      "estimate": -0.0425,
-      "SE": 0.3414,
+      "genotype_name": "Akeri",
+      "estimate": -0.1847,
+      "SE": 0.3562,
       "quasiSE": 0.2467,
       "quasiVar": 0.0609
     },
@@ -228245,20 +228245,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "leafsize",
-      "genotype_name": "AC-NL",
-      "estimate": -0.2413,
-      "SE": 0.3463,
-      "quasiSE": 0.2416,
-      "quasiVar": 0.0584
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "leafsize",
-      "genotype_name": "Akeri",
-      "estimate": -0.3146,
-      "SE": 0.3494,
-      "quasiSE": 0.2502,
-      "quasiVar": 0.0626
+      "genotype_name": "AVAM1941",
+      "estimate": -0.4797,
+      "SE": 0.3369,
+      "quasiSE": 0.2521,
+      "quasiVar": 0.0636
     },
     {
       "collection_moment": "thirdharvest",
@@ -228272,20 +228263,20 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "leafsize",
+      "genotype_name": "AC-NL",
+      "estimate": -0.2413,
+      "SE": 0.3463,
+      "quasiSE": 0.2416,
+      "quasiVar": 0.0584
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "leafsize",
       "genotype_name": "AVAM1939",
       "estimate": -0.5327,
       "SE": 0.3463,
       "quasiSE": 0.2494,
       "quasiVar": 0.0622
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "leafsize",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.4797,
-      "SE": 0.3369,
-      "quasiSE": 0.2521,
-      "quasiVar": 0.0636
     },
     {
       "collection_moment": "thirdharvest",
@@ -228299,6 +228290,15 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "leafsize",
+      "genotype_name": "Nguruma",
+      "estimate": -0.1251,
+      "SE": 0.3311,
+      "quasiSE": 0.236,
+      "quasiVar": 0.0557
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "leafsize",
       "genotype_name": "Madiira 2",
       "estimate": -0.7046,
       "SE": 0.3422,
@@ -228308,11 +228308,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "leafsize",
-      "genotype_name": "Nguruma",
-      "estimate": -0.1251,
-      "SE": 0.3311,
-      "quasiSE": 0.236,
-      "quasiVar": 0.0557
+      "genotype_name": "Akeri",
+      "estimate": -0.3146,
+      "SE": 0.3494,
+      "quasiSE": 0.2502,
+      "quasiVar": 0.0626
     },
     {
       "collection_moment": "thirdharvest",
@@ -228326,20 +228326,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "yield",
-      "genotype_name": "AC-NL",
-      "estimate": -0.1418,
-      "SE": 0.3492,
-      "quasiSE": 0.2448,
-      "quasiVar": 0.0599
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "yield",
-      "genotype_name": "Akeri",
-      "estimate": -0.107,
-      "SE": 0.3516,
-      "quasiSE": 0.2465,
-      "quasiVar": 0.0608
+      "genotype_name": "AVAM1941",
+      "estimate": -0.3797,
+      "SE": 0.3342,
+      "quasiSE": 0.2468,
+      "quasiVar": 0.0609
     },
     {
       "collection_moment": "thirdharvest",
@@ -228353,20 +228344,20 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "yield",
+      "genotype_name": "AC-NL",
+      "estimate": -0.1418,
+      "SE": 0.3492,
+      "quasiSE": 0.2448,
+      "quasiVar": 0.0599
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "yield",
       "genotype_name": "AVAM1939",
       "estimate": -0.1671,
       "SE": 0.3499,
       "quasiSE": 0.2566,
       "quasiVar": 0.0659
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "yield",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.3797,
-      "SE": 0.3342,
-      "quasiSE": 0.2468,
-      "quasiVar": 0.0609
     },
     {
       "collection_moment": "thirdharvest",
@@ -228380,6 +228371,15 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "yield",
+      "genotype_name": "Nguruma",
+      "estimate": 0.0071,
+      "SE": 0.3256,
+      "quasiSE": 0.2309,
+      "quasiVar": 0.0533
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "yield",
       "genotype_name": "Madiira 2",
       "estimate": -0.3876,
       "SE": 0.3423,
@@ -228389,11 +228389,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "yield",
-      "genotype_name": "Nguruma",
-      "estimate": 0.0071,
-      "SE": 0.3256,
-      "quasiSE": 0.2309,
-      "quasiVar": 0.0533
+      "genotype_name": "Akeri",
+      "estimate": -0.107,
+      "SE": 0.3516,
+      "quasiSE": 0.2465,
+      "quasiVar": 0.0608
     },
     {
       "collection_moment": "thirdharvest",
@@ -228407,20 +228407,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "taste",
-      "genotype_name": "AC-NL",
-      "estimate": -0.0956,
-      "SE": 0.4306,
-      "quasiSE": 0.3091,
-      "quasiVar": 0.0956
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "taste",
-      "genotype_name": "Akeri",
-      "estimate": -0.2661,
-      "SE": 0.4175,
-      "quasiSE": 0.2806,
-      "quasiVar": 0.0787
+      "genotype_name": "AVAM1941",
+      "estimate": -0.1924,
+      "SE": 0.4131,
+      "quasiSE": 0.3098,
+      "quasiVar": 0.096
     },
     {
       "collection_moment": "thirdharvest",
@@ -228434,20 +228425,20 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "taste",
+      "genotype_name": "AC-NL",
+      "estimate": -0.0956,
+      "SE": 0.4306,
+      "quasiSE": 0.3091,
+      "quasiVar": 0.0956
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "taste",
       "genotype_name": "AVAM1939",
       "estimate": -0.2629,
       "SE": 0.4437,
       "quasiSE": 0.3295,
       "quasiVar": 0.1086
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "taste",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.1924,
-      "SE": 0.4131,
-      "quasiSE": 0.3098,
-      "quasiVar": 0.096
     },
     {
       "collection_moment": "thirdharvest",
@@ -228461,6 +228452,15 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "taste",
+      "genotype_name": "Nguruma",
+      "estimate": -0.0203,
+      "SE": 0.4196,
+      "quasiSE": 0.2957,
+      "quasiVar": 0.0874
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "taste",
       "genotype_name": "Madiira 2",
       "estimate": -0.3927,
       "SE": 0.4628,
@@ -228470,11 +228470,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "taste",
-      "genotype_name": "Nguruma",
-      "estimate": -0.0203,
-      "SE": 0.4196,
-      "quasiSE": 0.2957,
-      "quasiVar": 0.0874
+      "genotype_name": "Akeri",
+      "estimate": -0.2661,
+      "SE": 0.4175,
+      "quasiSE": 0.2806,
+      "quasiVar": 0.0787
     },
     {
       "collection_moment": "thirdharvest",
@@ -228488,20 +228488,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "marketability",
-      "genotype_name": "AC-NL",
-      "estimate": -0.2797,
-      "SE": 0.4489,
-      "quasiSE": 0.3245,
-      "quasiVar": 0.1053
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "marketability",
-      "genotype_name": "Akeri",
-      "estimate": -0.1862,
-      "SE": 0.4375,
-      "quasiSE": 0.305,
-      "quasiVar": 0.093
+      "genotype_name": "AVAM1941",
+      "estimate": -0.5421,
+      "SE": 0.4418,
+      "quasiSE": 0.3417,
+      "quasiVar": 0.1168
     },
     {
       "collection_moment": "thirdharvest",
@@ -228515,20 +228506,20 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "marketability",
+      "genotype_name": "AC-NL",
+      "estimate": -0.2797,
+      "SE": 0.4489,
+      "quasiSE": 0.3245,
+      "quasiVar": 0.1053
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "marketability",
       "genotype_name": "AVAM1939",
       "estimate": -0.3501,
       "SE": 0.4512,
       "quasiSE": 0.3373,
       "quasiVar": 0.1137
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "marketability",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.5421,
-      "SE": 0.4418,
-      "quasiSE": 0.3417,
-      "quasiVar": 0.1168
     },
     {
       "collection_moment": "thirdharvest",
@@ -228542,6 +228533,15 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "marketability",
+      "genotype_name": "Nguruma",
+      "estimate": 0.0127,
+      "SE": 0.4392,
+      "quasiSE": 0.3185,
+      "quasiVar": 0.1014
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "marketability",
       "genotype_name": "Madiira 2",
       "estimate": -0.2779,
       "SE": 0.4648,
@@ -228551,11 +228551,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "marketability",
-      "genotype_name": "Nguruma",
-      "estimate": 0.0127,
-      "SE": 0.4392,
-      "quasiSE": 0.3185,
-      "quasiVar": 0.1014
+      "genotype_name": "Akeri",
+      "estimate": -0.1862,
+      "SE": 0.4375,
+      "quasiSE": 0.305,
+      "quasiVar": 0.093
     },
     {
       "collection_moment": "thirdharvest",
@@ -228569,20 +228569,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "plantsurvival",
-      "genotype_name": "AC-NL",
-      "estimate": -0.3508,
-      "SE": 0.4862,
-      "quasiSE": 0.3432,
-      "quasiVar": 0.1178
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "plantsurvival",
-      "genotype_name": "Akeri",
-      "estimate": -0.6436,
-      "SE": 0.4701,
-      "quasiSE": 0.3162,
-      "quasiVar": 0.1
+      "genotype_name": "AVAM1941",
+      "estimate": -0.5081,
+      "SE": 0.4918,
+      "quasiSE": 0.372,
+      "quasiVar": 0.1384
     },
     {
       "collection_moment": "thirdharvest",
@@ -228596,6 +228587,15 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "plantsurvival",
+      "genotype_name": "AC-NL",
+      "estimate": -0.3508,
+      "SE": 0.4862,
+      "quasiSE": 0.3432,
+      "quasiVar": 0.1178
+    },
+    {
+      "collection_moment": "thirdharvest",
+      "trait": "plantsurvival",
       "genotype_name": "AVAM1939",
       "estimate": -0.5272,
       "SE": 0.5056,
@@ -228605,29 +228605,11 @@
     {
       "collection_moment": "thirdharvest",
       "trait": "plantsurvival",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.5081,
-      "SE": 0.4918,
-      "quasiSE": 0.372,
-      "quasiVar": 0.1384
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "plantsurvival",
       "genotype_name": "Madiira 1",
       "estimate": 0,
       "SE": 0,
       "quasiSE": 0.3397,
       "quasiVar": 0.1154
-    },
-    {
-      "collection_moment": "thirdharvest",
-      "trait": "plantsurvival",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.8588,
-      "SE": 0.4965,
-      "quasiSE": 0.3442,
-      "quasiVar": 0.1185
     },
     {
       "collection_moment": "thirdharvest",
@@ -228648,31 +228630,22 @@
       "quasiVar": 0.1079
     },
     {
-      "collection_moment": "fourthharvest",
-      "trait": "leafsize",
-      "genotype_name": "AC-NL",
-      "estimate": 0.1871,
-      "SE": 0.3431,
-      "quasiSE": 0.2381,
-      "quasiVar": 0.0567
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "leafsize",
+      "collection_moment": "thirdharvest",
+      "trait": "plantsurvival",
       "genotype_name": "Akeri",
-      "estimate": -0.2046,
-      "SE": 0.3376,
-      "quasiSE": 0.2331,
-      "quasiVar": 0.0543
+      "estimate": -0.6436,
+      "SE": 0.4701,
+      "quasiSE": 0.3162,
+      "quasiVar": 0.1
     },
     {
-      "collection_moment": "fourthharvest",
-      "trait": "leafsize",
-      "genotype_name": "AVAM1938",
-      "estimate": -0.0449,
-      "SE": 0.3283,
-      "quasiSE": 0.2243,
-      "quasiVar": 0.0503
+      "collection_moment": "thirdharvest",
+      "trait": "plantsurvival",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.8588,
+      "SE": 0.4965,
+      "quasiSE": 0.3442,
+      "quasiVar": 0.1185
     },
     {
       "collection_moment": "fourthharvest",
@@ -228686,20 +228659,29 @@
     {
       "collection_moment": "fourthharvest",
       "trait": "leafsize",
+      "genotype_name": "Nguruma",
+      "estimate": 0.2549,
+      "SE": 0.3282,
+      "quasiSE": 0.2289,
+      "quasiVar": 0.0524
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "leafsize",
+      "genotype_name": "AVAM1938",
+      "estimate": -0.0449,
+      "SE": 0.3283,
+      "quasiSE": 0.2243,
+      "quasiVar": 0.0503
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "leafsize",
       "genotype_name": "AVAM1941",
       "estimate": -0.2204,
       "SE": 0.3264,
       "quasiSE": 0.2445,
       "quasiVar": 0.0598
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "leafsize",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.237,
-      "quasiVar": 0.0562
     },
     {
       "collection_moment": "fourthharvest",
@@ -228713,11 +228695,29 @@
     {
       "collection_moment": "fourthharvest",
       "trait": "leafsize",
-      "genotype_name": "Nguruma",
-      "estimate": 0.2549,
-      "SE": 0.3282,
-      "quasiSE": 0.2289,
-      "quasiVar": 0.0524
+      "genotype_name": "Akeri",
+      "estimate": -0.2046,
+      "SE": 0.3376,
+      "quasiSE": 0.2331,
+      "quasiVar": 0.0543
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "leafsize",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.237,
+      "quasiVar": 0.0562
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "leafsize",
+      "genotype_name": "AC-NL",
+      "estimate": 0.1871,
+      "SE": 0.3431,
+      "quasiSE": 0.2381,
+      "quasiVar": 0.0567
     },
     {
       "collection_moment": "fourthharvest",
@@ -228731,65 +228731,11 @@
     {
       "collection_moment": "fourthharvest",
       "trait": "yield",
-      "genotype_name": "AC-NL",
-      "estimate": -0.12,
-      "SE": 0.3464,
-      "quasiSE": 0.2314,
-      "quasiVar": 0.0536
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "yield",
-      "genotype_name": "Akeri",
-      "estimate": -0.3072,
-      "SE": 0.3495,
-      "quasiSE": 0.2335,
-      "quasiVar": 0.0545
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "yield",
-      "genotype_name": "AVAM1938",
-      "estimate": -0.2384,
-      "SE": 0.3305,
-      "quasiSE": 0.2093,
-      "quasiVar": 0.0438
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "yield",
       "genotype_name": "AVAM1939",
       "estimate": -0.349,
       "SE": 0.353,
       "quasiSE": 0.2438,
       "quasiVar": 0.0594
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "yield",
-      "genotype_name": "AVAM1941",
-      "estimate": -0.5306,
-      "SE": 0.3444,
-      "quasiSE": 0.2404,
-      "quasiVar": 0.0578
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "yield",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2545,
-      "quasiVar": 0.0648
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "yield",
-      "genotype_name": "Madiira 2",
-      "estimate": -0.5609,
-      "SE": 0.3546,
-      "quasiSE": 0.2449,
-      "quasiVar": 0.06
     },
     {
       "collection_moment": "fourthharvest",
@@ -228803,38 +228749,65 @@
     {
       "collection_moment": "fourthharvest",
       "trait": "yield",
+      "genotype_name": "AVAM1938",
+      "estimate": -0.2384,
+      "SE": 0.3305,
+      "quasiSE": 0.2093,
+      "quasiVar": 0.0438
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "yield",
+      "genotype_name": "AVAM1941",
+      "estimate": -0.5306,
+      "SE": 0.3444,
+      "quasiSE": 0.2404,
+      "quasiVar": 0.0578
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "yield",
+      "genotype_name": "Madiira 2",
+      "estimate": -0.5609,
+      "SE": 0.3546,
+      "quasiSE": 0.2449,
+      "quasiVar": 0.06
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "yield",
+      "genotype_name": "Akeri",
+      "estimate": -0.3072,
+      "SE": 0.3495,
+      "quasiSE": 0.2335,
+      "quasiVar": 0.0545
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "yield",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2545,
+      "quasiVar": 0.0648
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "yield",
+      "genotype_name": "AC-NL",
+      "estimate": -0.12,
+      "SE": 0.3464,
+      "quasiSE": 0.2314,
+      "quasiVar": 0.0536
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "yield",
       "genotype_name": "Poli",
       "estimate": -0.1572,
       "SE": 0.3547,
       "quasiSE": 0.2458,
       "quasiVar": 0.0604
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "taste",
-      "genotype_name": "AC-NL",
-      "estimate": 0.3462,
-      "SE": 0.4061,
-      "quasiSE": 0.2815,
-      "quasiVar": 0.0792
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "taste",
-      "genotype_name": "Akeri",
-      "estimate": 0.3303,
-      "SE": 0.4006,
-      "quasiSE": 0.2699,
-      "quasiVar": 0.0729
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "taste",
-      "genotype_name": "AVAM1938",
-      "estimate": -0.1396,
-      "SE": 0.4035,
-      "quasiSE": 0.2923,
-      "quasiVar": 0.0855
     },
     {
       "collection_moment": "fourthharvest",
@@ -228848,20 +228821,29 @@
     {
       "collection_moment": "fourthharvest",
       "trait": "taste",
+      "genotype_name": "Nguruma",
+      "estimate": 0.1103,
+      "SE": 0.4181,
+      "quasiSE": 0.2967,
+      "quasiVar": 0.088
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "taste",
+      "genotype_name": "AVAM1938",
+      "estimate": -0.1396,
+      "SE": 0.4035,
+      "quasiSE": 0.2923,
+      "quasiVar": 0.0855
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "taste",
       "genotype_name": "AVAM1941",
       "estimate": -0.0071,
       "SE": 0.4164,
       "quasiSE": 0.3116,
       "quasiVar": 0.0971
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "taste",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2898,
-      "quasiVar": 0.084
     },
     {
       "collection_moment": "fourthharvest",
@@ -228875,11 +228857,29 @@
     {
       "collection_moment": "fourthharvest",
       "trait": "taste",
-      "genotype_name": "Nguruma",
-      "estimate": 0.1103,
-      "SE": 0.4181,
-      "quasiSE": 0.2967,
-      "quasiVar": 0.088
+      "genotype_name": "Akeri",
+      "estimate": 0.3303,
+      "SE": 0.4006,
+      "quasiSE": 0.2699,
+      "quasiVar": 0.0729
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "taste",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2898,
+      "quasiVar": 0.084
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "taste",
+      "genotype_name": "AC-NL",
+      "estimate": 0.3462,
+      "SE": 0.4061,
+      "quasiSE": 0.2815,
+      "quasiVar": 0.0792
     },
     {
       "collection_moment": "fourthharvest",
@@ -228893,20 +228893,20 @@
     {
       "collection_moment": "fourthharvest",
       "trait": "overall",
-      "genotype_name": "AC-NL",
-      "estimate": -0.1768,
-      "SE": 0.4225,
-      "quasiSE": 0.3015,
-      "quasiVar": 0.0909
+      "genotype_name": "AVAM1939",
+      "estimate": -0.6522,
+      "SE": 0.4353,
+      "quasiSE": 0.3228,
+      "quasiVar": 0.1042
     },
     {
       "collection_moment": "fourthharvest",
       "trait": "overall",
-      "genotype_name": "Akeri",
-      "estimate": -0.4047,
-      "SE": 0.403,
-      "quasiSE": 0.2755,
-      "quasiVar": 0.0759
+      "genotype_name": "Nguruma",
+      "estimate": -0.3084,
+      "SE": 0.4005,
+      "quasiSE": 0.2836,
+      "quasiVar": 0.0805
     },
     {
       "collection_moment": "fourthharvest",
@@ -228920,29 +228920,11 @@
     {
       "collection_moment": "fourthharvest",
       "trait": "overall",
-      "genotype_name": "AVAM1939",
-      "estimate": -0.6522,
-      "SE": 0.4353,
-      "quasiSE": 0.3228,
-      "quasiVar": 0.1042
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "overall",
       "genotype_name": "AVAM1941",
       "estimate": -0.3087,
       "SE": 0.4015,
       "quasiSE": 0.289,
       "quasiVar": 0.0835
-    },
-    {
-      "collection_moment": "fourthharvest",
-      "trait": "overall",
-      "genotype_name": "Madiira 1",
-      "estimate": 0,
-      "SE": 0,
-      "quasiSE": 0.2903,
-      "quasiVar": 0.0843
     },
     {
       "collection_moment": "fourthharvest",
@@ -228956,11 +228938,29 @@
     {
       "collection_moment": "fourthharvest",
       "trait": "overall",
-      "genotype_name": "Nguruma",
-      "estimate": -0.3084,
-      "SE": 0.4005,
-      "quasiSE": 0.2836,
-      "quasiVar": 0.0805
+      "genotype_name": "Akeri",
+      "estimate": -0.4047,
+      "SE": 0.403,
+      "quasiSE": 0.2755,
+      "quasiVar": 0.0759
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "overall",
+      "genotype_name": "Madiira 1",
+      "estimate": 0,
+      "SE": 0,
+      "quasiSE": 0.2903,
+      "quasiVar": 0.0843
+    },
+    {
+      "collection_moment": "fourthharvest",
+      "trait": "overall",
+      "genotype_name": "AC-NL",
+      "estimate": -0.1768,
+      "SE": 0.4225,
+      "quasiSE": 0.3015,
+      "quasiVar": 0.0909
     },
     {
       "collection_moment": "fourthharvest",

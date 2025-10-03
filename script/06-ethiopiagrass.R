@@ -21,6 +21,10 @@ available = read.csv("data/aa-available-datasets.csv")
 geno = read_excel('metadata/trials-metadata/ethiopiagrass/genotype-metadata.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
 
+# funders 
+funders = read_excel('metadata/trials-metadata/ethiopiagrass/funder-metadata.xlsx')
+names(funders) = c("funderName", "funderIdentifier", "awardTitle", "awardNumber")
+
 doi = "https://doi.org/10.5281/zenodo.17112492"
 
 experimental_site = "farm"
@@ -92,6 +96,8 @@ for(k in seq_along(cmdata)) {
   x = cmdata[[k]]
   
   meta = exportTrialMetadata(x)
+  
+  meta$funder = funders
   
   # add some metadata manually
   meta$identifier = doi

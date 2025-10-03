@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-02",
+      "version": "v2025-10-03",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -49,6 +49,15 @@
       "men": 74,
       "women": 56
     },
+    "funder": [
+      {
+        "funderName": "Gates Foundation",
+        "funderIdentifier": "https://ror.org/0456r8d26",
+        "awardTitle": "1000FARMS",
+        "awardNumber": "L22ROM222",
+        "5": "We recevied this grant as sub-grantees of the main grant given to Bioversity-CIAT alliance"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": "Local",
@@ -1332,8 +1341,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-06 13:43:43",
-      "longitude": 30.5147,
-      "latitude": -2.0696
+      "longitude": 30.5038,
+      "latitude": -2.0809
     },
     {
       "block_id": "39fbcd196863-2",
@@ -1472,8 +1481,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-08 08:30:48",
-      "longitude": 30.4975,
-      "latitude": -2.0536
+      "longitude": 30.4871,
+      "latitude": -2.0618
     },
     {
       "block_id": "39fbcd196863-3",
@@ -1578,8 +1587,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-07-05 08:02:37",
-      "longitude": 30.519,
-      "latitude": -2.081
+      "longitude": 30.5026,
+      "latitude": -2.0792
     },
     {
       "block_id": "39fbcd196863-4",
@@ -1718,8 +1727,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-01 12:21:36",
-      "longitude": 30.4912,
-      "latitude": -2.0697
+      "longitude": 30.4997,
+      "latitude": -2.0676
     },
     {
       "block_id": "39fbcd196863-5",
@@ -1857,8 +1866,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-06 13:35:08",
-      "longitude": 30.4965,
-      "latitude": -2.0735
+      "longitude": 30.5137,
+      "latitude": -2.0622
     },
     {
       "block_id": "39fbcd196863-6",
@@ -1993,8 +2002,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 09:57:29",
-      "longitude": 30.5556,
-      "latitude": -2.0928
+      "longitude": 30.5472,
+      "latitude": -2.0742
     },
     {
       "block_id": "39fbcd196863-7",
@@ -2132,8 +2141,8 @@
       "ranking_survey_start": "2023-08-02 07:13:20",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-02 07:14:18",
-      "longitude": 30.5665,
-      "latitude": -2.0818
+      "longitude": 30.5541,
+      "latitude": -2.0792
     },
     {
       "block_id": "39fbcd196863-8",
@@ -2271,8 +2280,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-09 18:09:18",
-      "longitude": 30.5679,
-      "latitude": -2.089
+      "longitude": 30.5656,
+      "latitude": -2.0737
     },
     {
       "block_id": "39fbcd196863-9",
@@ -2411,8 +2420,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-09 18:18:08",
-      "longitude": 30.5603,
-      "latitude": -2.055
+      "longitude": 30.5641,
+      "latitude": -2.0621
     },
     {
       "block_id": "39fbcd196863-10",
@@ -2551,8 +2560,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 07:39:54",
-      "longitude": 30.5477,
-      "latitude": -2.0718
+      "longitude": 30.5605,
+      "latitude": -2.083
     },
     {
       "block_id": "39fbcd196863-11",
@@ -2668,8 +2677,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Nta karima katakaye",
       "ranking_survey_end": "2023-08-03 06:48:58",
-      "longitude": 30.3109,
-      "latitude": -1.6713
+      "longitude": 30.306,
+      "latitude": -1.6675
     },
     {
       "block_id": "39fbcd196863-12",
@@ -2785,8 +2794,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Nta karima katakaye",
       "ranking_survey_end": "2023-08-03 06:44:47",
-      "longitude": 30.3019,
-      "latitude": -1.6863
+      "longitude": 30.3141,
+      "latitude": -1.6857
     },
     {
       "block_id": "39fbcd196863-13",
@@ -2901,8 +2910,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Nta karima katakaye",
       "ranking_survey_end": "2023-08-03 06:53:10",
-      "longitude": 30.3144,
-      "latitude": -1.6771
+      "longitude": 30.3153,
+      "latitude": -1.6794
     },
     {
       "block_id": "39fbcd196863-14",
@@ -3018,8 +3027,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Nta karima katakaye",
       "ranking_survey_end": "2023-08-03 06:14:33",
-      "longitude": 30.3063,
-      "latitude": -1.6714
+      "longitude": 30.2996,
+      "latitude": -1.6921
     },
     {
       "block_id": "39fbcd196863-15",
@@ -3135,8 +3144,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Nta karima katakaye",
       "ranking_survey_end": "2023-08-03 06:21:56",
-      "longitude": 30.3113,
-      "latitude": -1.685
+      "longitude": 30.2976,
+      "latitude": -1.6935
     },
     {
       "block_id": "39fbcd196863-16",
@@ -3252,8 +3261,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Nta karima katakaye",
       "ranking_survey_end": "2023-08-17 11:08:37",
-      "longitude": 30.3073,
-      "latitude": -1.6524
+      "longitude": 30.3215,
+      "latitude": -1.6571
     },
     {
       "block_id": "39fbcd196863-17",
@@ -3347,8 +3356,8 @@
       "ranking_whichlost": "A; C; B",
       "ranking_plotlossreason": "Habayeho ikibazo cyubuura uturima twose baratwiba",
       "ranking_survey_end": "2023-08-06 23:49:35",
-      "longitude": 30.2945,
-      "latitude": -1.652
+      "longitude": 30.29,
+      "latitude": -1.6402
     },
     {
       "block_id": "39fbcd196863-18",
@@ -3463,8 +3472,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Nta karima katakaye",
       "ranking_survey_end": "2023-08-06 20:21:36",
-      "longitude": 30.3074,
-      "latitude": -1.6584
+      "longitude": 30.3082,
+      "latitude": -1.658
     },
     {
       "block_id": "39fbcd196863-19",
@@ -3580,8 +3589,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Nta karima katakaye",
       "ranking_survey_end": "2023-08-06 20:48:11",
-      "longitude": 30.3099,
-      "latitude": -1.6431
+      "longitude": 30.3141,
+      "latitude": -1.6387
     },
     {
       "block_id": "39fbcd196863-20",
@@ -3697,8 +3706,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Nta karima katakaye",
       "ranking_survey_end": "2023-08-07 07:02:51",
-      "longitude": 30.2981,
-      "latitude": -1.6489
+      "longitude": 30.3147,
+      "latitude": -1.6482
     },
     {
       "block_id": "39fbcd196863-21",
@@ -3837,8 +3846,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 20:29:22",
-      "longitude": 30.5754,
-      "latitude": -1.8027
+      "longitude": 30.5717,
+      "latitude": -1.7987
     },
     {
       "block_id": "39fbcd196863-22",
@@ -3972,8 +3981,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-03 14:44:35",
-      "longitude": 30.5842,
-      "latitude": -1.7995
+      "longitude": 30.5839,
+      "latitude": -1.8058
     },
     {
       "block_id": "39fbcd196863-23",
@@ -4108,8 +4117,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-03 16:41:05",
-      "longitude": 30.5769,
-      "latitude": -1.8043
+      "longitude": 30.5883,
+      "latitude": -1.8024
     },
     {
       "block_id": "39fbcd196863-24",
@@ -4244,8 +4253,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 20:16:02",
-      "longitude": 30.5816,
-      "latitude": -1.8123
+      "longitude": 30.5905,
+      "latitude": -1.8093
     },
     {
       "block_id": "39fbcd196863-25",
@@ -4380,8 +4389,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 07:29:04",
-      "longitude": 30.5922,
-      "latitude": -1.8078
+      "longitude": 30.5689,
+      "latitude": -1.801
     },
     {
       "block_id": "39fbcd196863-26",
@@ -4515,8 +4524,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-03 14:52:05",
-      "longitude": 30.5686,
-      "latitude": -1.807
+      "longitude": 30.5702,
+      "latitude": -1.801
     },
     {
       "block_id": "39fbcd196863-27",
@@ -4655,8 +4664,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 20:21:26",
-      "longitude": 30.5683,
-      "latitude": -1.7968
+      "longitude": 30.5718,
+      "latitude": -1.8044
     },
     {
       "block_id": "39fbcd196863-28",
@@ -4794,8 +4803,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-01 19:24:45",
-      "longitude": 30.5602,
-      "latitude": -1.8097
+      "longitude": 30.567,
+      "latitude": -1.8049
     },
     {
       "block_id": "39fbcd196863-29",
@@ -4933,8 +4942,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-03 14:47:32",
-      "longitude": 30.5279,
-      "latitude": -1.7864
+      "longitude": 30.5282,
+      "latitude": -1.7706
     },
     {
       "block_id": "39fbcd196863-30",
@@ -5071,8 +5080,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 10:26:53",
-      "longitude": 30.5198,
-      "latitude": -1.7741
+      "longitude": 30.5024,
+      "latitude": -1.7835
     },
     {
       "block_id": "39fbcd196863-31",
@@ -5209,8 +5218,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-06 19:46:09",
-      "longitude": 30.5257,
-      "latitude": -1.7757
+      "longitude": 30.5141,
+      "latitude": -1.7856
     },
     {
       "block_id": "39fbcd196863-32",
@@ -5348,8 +5357,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 10:25:49",
-      "longitude": 30.5239,
-      "latitude": -1.7838
+      "longitude": 30.5201,
+      "latitude": -1.7802
     },
     {
       "block_id": "39fbcd196863-33",
@@ -5484,8 +5493,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 09:33:26",
-      "longitude": 30.5017,
-      "latitude": -1.7741
+      "longitude": 30.4946,
+      "latitude": -1.779
     },
     {
       "block_id": "39fbcd196863-34",
@@ -5619,8 +5628,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 11:28:26",
-      "longitude": 30.5185,
-      "latitude": -1.7855
+      "longitude": 30.5036,
+      "latitude": -1.7804
     },
     {
       "block_id": "39fbcd196863-35",
@@ -5754,8 +5763,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 10:07:18",
-      "longitude": 30.5246,
-      "latitude": -1.7845
+      "longitude": 30.5249,
+      "latitude": -1.7867
     },
     {
       "block_id": "39fbcd196863-36",
@@ -5879,8 +5888,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 15:22:44",
-      "longitude": 30.1916,
-      "latitude": -2.0999
+      "longitude": 30.1866,
+      "latitude": -2.108
     },
     {
       "block_id": "39fbcd196863-37",
@@ -6004,8 +6013,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 13:22:59",
-      "longitude": 30.1892,
-      "latitude": -2.1224
+      "longitude": 30.1785,
+      "latitude": -2.1046
     },
     {
       "block_id": "39fbcd196863-38",
@@ -6129,8 +6138,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 14:46:26",
-      "longitude": 30.1896,
-      "latitude": -2.1089
+      "longitude": 30.2037,
+      "latitude": -2.1099
     },
     {
       "block_id": "39fbcd196863-39",
@@ -6254,8 +6263,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 14:31:01",
-      "longitude": 30.192,
-      "latitude": -2.1112
+      "longitude": 30.2023,
+      "latitude": -2.1044
     },
     {
       "block_id": "39fbcd196863-40",
@@ -6375,8 +6384,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-02 13:38:51",
-      "longitude": 30.1891,
-      "latitude": -2.1093
+      "longitude": 30.1865,
+      "latitude": -2.1246
     },
     {
       "block_id": "39fbcd196863-41",
@@ -6495,8 +6504,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-03 17:33:58",
-      "longitude": 30.2004,
-      "latitude": -2.1194
+      "longitude": 30.1853,
+      "latitude": -2.1327
     },
     {
       "block_id": "39fbcd196863-42",
@@ -6615,8 +6624,8 @@
       "ranking_whichlost": "C",
       "ranking_plotlossreason": "Byatinze kwera bisigara mumurima Abajura barabyiba byose bitarera neza",
       "ranking_survey_end": "2023-08-03 16:40:06",
-      "longitude": 30.2148,
-      "latitude": -2.1208
+      "longitude": 30.2136,
+      "latitude": -2.1182
     },
     {
       "block_id": "39fbcd196863-43",
@@ -6738,8 +6747,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-01 12:07:13",
-      "longitude": 30.186,
-      "latitude": -2.1245
+      "longitude": 30.2057,
+      "latitude": -2.1373
     },
     {
       "block_id": "39fbcd196863-44",
@@ -6856,8 +6865,8 @@
       "ranking_survey_start": "2023-08-01 11:28:15",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-01 11:29:40",
-      "longitude": 30.1927,
-      "latitude": -2.1168
+      "longitude": 30.1849,
+      "latitude": -2.1286
     },
     {
       "block_id": "39fbcd196863-45",
@@ -6975,8 +6984,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-01 12:40:53",
-      "longitude": 30.2014,
-      "latitude": -2.1377
+      "longitude": 30.1936,
+      "latitude": -2.1128
     },
     {
       "block_id": "39fbcd196863-46",
@@ -7093,8 +7102,8 @@
       "ranking_survey_start": "2023-07-25 12:48:14",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-04 13:18:49",
-      "longitude": 30.2674,
-      "latitude": -1.3791
+      "longitude": 30.2761,
+      "latitude": -1.3833
     },
     {
       "block_id": "39fbcd196863-47",
@@ -7208,8 +7217,8 @@
       "ranking_survey_start": "2023-08-04 13:38:59",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-04 13:39:42",
-      "longitude": 30.278,
-      "latitude": -1.3789
+      "longitude": 30.2794,
+      "latitude": -1.3919
     },
     {
       "block_id": "39fbcd196863-48",
@@ -7327,8 +7336,8 @@
       "ranking_survey_start": "2023-07-25 14:12:15",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-04 13:24:51",
-      "longitude": 30.2686,
-      "latitude": -1.3798
+      "longitude": 30.2652,
+      "latitude": -1.3776
     },
     {
       "block_id": "39fbcd196863-49",
@@ -7410,8 +7419,8 @@
       "ranking_survey_start": "2023-08-09 12:33:36",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-09 12:35:46",
-      "longitude": 30.2973,
-      "latitude": -1.4396
+      "longitude": 30.2982,
+      "latitude": -1.4359
     },
     {
       "block_id": "39fbcd196863-50",
@@ -7530,8 +7539,8 @@
       "ranking_survey_start": "2023-08-09 10:47:30",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-09 10:48:44",
-      "longitude": 30.2861,
-      "latitude": -1.4368
+      "longitude": 30.3019,
+      "latitude": -1.4406
     },
     {
       "block_id": "39fbcd196863-51",
@@ -7664,8 +7673,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-05 20:43:38",
-      "longitude": 29.7604,
-      "latitude": -2.4132
+      "longitude": 29.7823,
+      "latitude": -2.4193
     },
     {
       "block_id": "39fbcd196863-52",
@@ -7802,8 +7811,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-05 20:50:02",
-      "longitude": 29.7846,
-      "latitude": -2.4238
+      "longitude": 29.7728,
+      "latitude": -2.4151
     },
     {
       "block_id": "39fbcd196863-53",
@@ -7936,8 +7945,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-02 15:38:58",
-      "longitude": 29.7584,
-      "latitude": -2.4196
+      "longitude": 29.7601,
+      "latitude": -2.4268
     },
     {
       "block_id": "39fbcd196863-54",
@@ -8070,8 +8079,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-05 20:42:31",
-      "longitude": 29.7556,
-      "latitude": -2.4237
+      "longitude": 29.7547,
+      "latitude": -2.43
     },
     {
       "block_id": "39fbcd196863-55",
@@ -8204,8 +8213,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-05 20:44:36",
-      "longitude": 29.7713,
-      "latitude": -2.4225
+      "longitude": 29.7487,
+      "latitude": -2.4329
     },
     {
       "block_id": "39fbcd196863-56",
@@ -8337,8 +8346,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-05 20:41:25",
-      "longitude": 29.7751,
-      "latitude": -2.4046
+      "longitude": 29.7689,
+      "latitude": -2.4127
     },
     {
       "block_id": "39fbcd196863-57",
@@ -8471,8 +8480,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-02 15:40:49",
-      "longitude": 29.7631,
-      "latitude": -2.4104
+      "longitude": 29.7716,
+      "latitude": -2.3976
     },
     {
       "block_id": "39fbcd196863-58",
@@ -8605,8 +8614,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-07 16:57:06",
-      "longitude": 29.7491,
-      "latitude": -2.4109
+      "longitude": 29.7615,
+      "latitude": -2.3959
     },
     {
       "block_id": "39fbcd196863-59",
@@ -8710,8 +8719,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-05-30 13:23:17",
-      "longitude": 29.7462,
-      "latitude": -2.4025
+      "longitude": 29.7559,
+      "latitude": -2.4115
     },
     {
       "block_id": "39fbcd196863-60",
@@ -8848,8 +8857,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-05 20:47:48",
-      "longitude": 29.7679,
-      "latitude": -2.4266
+      "longitude": 29.7771,
+      "latitude": -2.4246
     },
     {
       "block_id": "39fbcd196863-61",
@@ -8982,8 +8991,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-02 15:37:56",
-      "longitude": 29.7581,
-      "latitude": -2.4204
+      "longitude": 29.7674,
+      "latitude": -2.4347
     },
     {
       "block_id": "39fbcd196863-62",
@@ -9120,8 +9129,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-05 20:46:47",
-      "longitude": 29.7674,
-      "latitude": -2.4047
+      "longitude": 29.7661,
+      "latitude": -2.4035
     },
     {
       "block_id": "39fbcd196863-63",
@@ -9231,8 +9240,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-06-22 13:32:05",
-      "longitude": 29.3859,
-      "latitude": -2.0142
+      "longitude": 29.37,
+      "latitude": -2.002
     },
     {
       "block_id": "39fbcd196863-64",
@@ -9365,8 +9374,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-05 20:45:53",
-      "longitude": 29.7539,
-      "latitude": -2.411
+      "longitude": 29.7548,
+      "latitude": -2.4162
     },
     {
       "block_id": "39fbcd196863-65",
@@ -9503,8 +9512,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "none",
       "ranking_survey_end": "2023-08-02 15:41:52",
-      "longitude": 29.7472,
-      "latitude": -2.4099
+      "longitude": 29.761,
+      "latitude": -2.4145
     },
     {
       "block_id": "39fbcd196863-66",
@@ -9637,8 +9646,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-11 16:18:36",
-      "longitude": 29.8649,
-      "latitude": -2.3315
+      "longitude": 29.8684,
+      "latitude": -2.3154
     },
     {
       "block_id": "39fbcd196863-67",
@@ -9771,8 +9780,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 09:20:26",
-      "longitude": 29.8573,
-      "latitude": -2.328
+      "longitude": 29.8554,
+      "latitude": -2.3209
     },
     {
       "block_id": "39fbcd196863-68",
@@ -9905,8 +9914,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 10:32:41",
-      "longitude": 29.8613,
-      "latitude": -2.3164
+      "longitude": 29.869,
+      "latitude": -2.314
     },
     {
       "block_id": "39fbcd196863-69",
@@ -10038,8 +10047,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 11:12:27",
-      "longitude": 29.8607,
-      "latitude": -2.328
+      "longitude": 29.8751,
+      "latitude": -2.3344
     },
     {
       "block_id": "39fbcd196863-70",
@@ -10172,8 +10181,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 10:12:35",
-      "longitude": 29.8573,
-      "latitude": -2.3308
+      "longitude": 29.8574,
+      "latitude": -2.3209
     },
     {
       "block_id": "39fbcd196863-71",
@@ -10310,8 +10319,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-06 13:37:49",
-      "longitude": 29.8621,
-      "latitude": -2.3126
+      "longitude": 29.8647,
+      "latitude": -2.3241
     },
     {
       "block_id": "39fbcd196863-72",
@@ -10448,8 +10457,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 09:38:35",
-      "longitude": 29.8721,
-      "latitude": -2.3298
+      "longitude": 29.8617,
+      "latitude": -2.3364
     },
     {
       "block_id": "39fbcd196863-73",
@@ -10580,8 +10589,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 10:58:15",
-      "longitude": 29.8563,
-      "latitude": -2.3316
+      "longitude": 29.8684,
+      "latitude": -2.3204
     },
     {
       "block_id": "39fbcd196863-74",
@@ -10718,8 +10727,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 09:53:21",
-      "longitude": 29.8824,
-      "latitude": -2.3231
+      "longitude": 29.8575,
+      "latitude": -2.3158
     },
     {
       "block_id": "39fbcd196863-75",
@@ -10852,8 +10861,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 12:27:04",
-      "longitude": 29.8561,
-      "latitude": -2.3297
+      "longitude": 29.8523,
+      "latitude": -2.325
     },
     {
       "block_id": "39fbcd196863-76",
@@ -10986,8 +10995,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-06 13:39:44",
-      "longitude": 29.8622,
-      "latitude": -2.3174
+      "longitude": 29.8753,
+      "latitude": -2.3346
     },
     {
       "block_id": "39fbcd196863-77",
@@ -11071,8 +11080,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 12:21:05",
-      "longitude": 29.8498,
-      "latitude": -2.321
+      "longitude": 29.8569,
+      "latitude": -2.3179
     },
     {
       "block_id": "39fbcd196863-78",
@@ -11209,8 +11218,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 13:30:48",
-      "longitude": 29.8468,
-      "latitude": -2.3336
+      "longitude": 29.8606,
+      "latitude": -2.3372
     },
     {
       "block_id": "39fbcd196863-79",
@@ -11343,8 +11352,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 17:56:48",
-      "longitude": 29.85,
-      "latitude": -2.331
+      "longitude": 29.8575,
+      "latitude": -2.3171
     },
     {
       "block_id": "39fbcd196863-80",
@@ -11481,8 +11490,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 15:04:25",
-      "longitude": 29.8362,
-      "latitude": -2.3206
+      "longitude": 29.8545,
+      "latitude": -2.3123
     },
     {
       "block_id": "39fbcd196863-81",
@@ -11615,8 +11624,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-07 07:09:01",
-      "longitude": 29.8428,
-      "latitude": -2.3371
+      "longitude": 29.833,
+      "latitude": -2.3157
     },
     {
       "block_id": "39fbcd196863-82",
@@ -11749,8 +11758,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 17:38:27",
-      "longitude": 29.85,
-      "latitude": -2.3325
+      "longitude": 29.8467,
+      "latitude": -2.3306
     },
     {
       "block_id": "39fbcd196863-83",
@@ -11887,8 +11896,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 10:10:33",
-      "longitude": 29.8521,
-      "latitude": -2.3061
+      "longitude": 29.8579,
+      "latitude": -2.3156
     },
     {
       "block_id": "39fbcd196863-84",
@@ -12025,8 +12034,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 11:18:02",
-      "longitude": 29.8565,
-      "latitude": -2.3087
+      "longitude": 29.8345,
+      "latitude": -2.3192
     },
     {
       "block_id": "39fbcd196863-85",
@@ -12159,8 +12168,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 14:56:06",
-      "longitude": 29.8426,
-      "latitude": -2.3324
+      "longitude": 29.8503,
+      "latitude": -2.3173
     },
     {
       "block_id": "39fbcd196863-86",
@@ -12293,8 +12302,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-07 07:37:50",
-      "longitude": 29.8425,
-      "latitude": -2.3175
+      "longitude": 29.8593,
+      "latitude": -2.3198
     },
     {
       "block_id": "39fbcd196863-87",
@@ -12425,8 +12434,8 @@
       "ranking_survey_start": "2023-07-26 11:33:18",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-07-26 11:34:54",
-      "longitude": 29.853,
-      "latitude": -2.3146
+      "longitude": 29.8535,
+      "latitude": -2.3106
     },
     {
       "block_id": "39fbcd196863-88",
@@ -12559,8 +12568,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 12:32:02",
-      "longitude": 29.8475,
-      "latitude": -2.3072
+      "longitude": 29.8524,
+      "latitude": -2.2994
     },
     {
       "block_id": "39fbcd196863-89",
@@ -12693,8 +12702,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-27 14:19:51",
-      "longitude": 29.8553,
-      "latitude": -2.3281
+      "longitude": 29.8522,
+      "latitude": -2.3102
     },
     {
       "block_id": "39fbcd196863-90",
@@ -12827,8 +12836,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 09:49:01",
-      "longitude": 29.8611,
-      "latitude": -2.3275
+      "longitude": 29.8533,
+      "latitude": -2.3188
     },
     {
       "block_id": "39fbcd196863-91",
@@ -12951,8 +12960,8 @@
       "ranking_survey_start": "2023-08-01 11:18:50",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-01 11:19:57",
-      "longitude": 29.9192,
-      "latitude": -2.4539
+      "longitude": 29.9063,
+      "latitude": -2.4691
     },
     {
       "block_id": "39fbcd196863-92",
@@ -13082,8 +13091,8 @@
       "ranking_survey_start": "2023-08-01 13:41:03",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-01 13:44:01",
-      "longitude": 29.9172,
-      "latitude": -2.4632
+      "longitude": 29.904,
+      "latitude": -2.4636
     },
     {
       "block_id": "39fbcd196863-93",
@@ -13204,8 +13213,8 @@
       "ranking_survey_start": "2023-08-01 11:08:48",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-01 11:11:39",
-      "longitude": 29.9098,
-      "latitude": -2.4621
+      "longitude": 29.9075,
+      "latitude": -2.4719
     },
     {
       "block_id": "39fbcd196863-94",
@@ -13324,8 +13333,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-06-11 13:16:02",
-      "longitude": 29.9057,
-      "latitude": -2.4617
+      "longitude": 29.9123,
+      "latitude": -2.4714
     },
     {
       "block_id": "39fbcd196863-95",
@@ -13455,8 +13464,8 @@
       "ranking_survey_start": "2023-08-01 09:09:50",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-01 09:11:00",
-      "longitude": 29.9317,
-      "latitude": -2.4539
+      "longitude": 29.917,
+      "latitude": -2.4617
     },
     {
       "block_id": "39fbcd196863-96",
@@ -13586,8 +13595,8 @@
       "ranking_survey_start": "2023-08-02 08:31:49",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-08-02 08:33:33",
-      "longitude": 29.8958,
-      "latitude": -2.4858
+      "longitude": 29.901,
+      "latitude": -2.4866
     },
     {
       "block_id": "39fbcd196863-97",
@@ -13714,8 +13723,8 @@
       "ranking_survey_start": "2023-07-31 11:25:43",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-07-31 11:27:17",
-      "longitude": 29.9047,
-      "latitude": -2.4944
+      "longitude": 29.8895,
+      "latitude": -2.4825
     },
     {
       "block_id": "39fbcd196863-98",
@@ -13843,8 +13852,8 @@
       "ranking_survey_start": "2023-07-31 10:56:59",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-07-31 11:04:23",
-      "longitude": 29.9043,
-      "latitude": -2.4965
+      "longitude": 29.904,
+      "latitude": -2.4798
     },
     {
       "block_id": "39fbcd196863-99",
@@ -13970,8 +13979,8 @@
       "ranking_survey_start": "2023-07-31 10:44:36",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-07-31 10:46:38",
-      "longitude": 29.8994,
-      "latitude": -2.4808
+      "longitude": 29.8917,
+      "latitude": -2.4789
     },
     {
       "block_id": "39fbcd196863-100",
@@ -14096,8 +14105,8 @@
       "ranking_survey_start": "2023-07-31 10:09:55",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-07-31 10:12:14",
-      "longitude": 29.8996,
-      "latitude": -2.4904
+      "longitude": 29.9047,
+      "latitude": -2.4849
     },
     {
       "block_id": "39fbcd196863-101",
@@ -14232,8 +14241,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Okay",
       "ranking_survey_end": "2023-07-30 15:31:08",
-      "longitude": 29.1488,
-      "latitude": -2.298
+      "longitude": 29.1621,
+      "latitude": -2.2868
     },
     {
       "block_id": "39fbcd196863-102",
@@ -14339,8 +14348,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "No",
       "socioeconomicsurvey_survey_end": "2023-06-18 08:09:00",
-      "longitude": 29.1685,
-      "latitude": -2.2893
+      "longitude": 29.1561,
+      "latitude": -2.2789
     },
     {
       "block_id": "39fbcd196863-103",
@@ -14475,8 +14484,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Okay",
       "ranking_survey_end": "2023-07-30 15:29:42",
-      "longitude": 29.1373,
-      "latitude": -2.2996
+      "longitude": 29.1526,
+      "latitude": -2.2881
     },
     {
       "block_id": "39fbcd196863-104",
@@ -14610,8 +14619,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Okay",
       "ranking_survey_end": "2023-07-26 14:09:03",
-      "longitude": 29.177,
-      "latitude": -2.2905
+      "longitude": 29.1598,
+      "latitude": -2.2983
     },
     {
       "block_id": "39fbcd196863-105",
@@ -14697,8 +14706,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Okay",
       "ranking_survey_end": "2023-07-26 14:34:45",
-      "longitude": 29.1443,
-      "latitude": -2.2737
+      "longitude": 29.1515,
+      "latitude": -2.2931
     },
     {
       "block_id": "39fbcd196863-106",
@@ -14833,8 +14842,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Okay",
       "ranking_survey_end": "2023-07-26 20:10:54",
-      "longitude": 29.159,
-      "latitude": -2.2778
+      "longitude": 29.1608,
+      "latitude": -2.2747
     },
     {
       "block_id": "39fbcd196863-107",
@@ -14969,8 +14978,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Okay",
       "ranking_survey_end": "2023-07-26 20:19:32",
-      "longitude": 29.1697,
-      "latitude": -2.273
+      "longitude": 29.1547,
+      "latitude": -2.2802
     },
     {
       "block_id": "39fbcd196863-108",
@@ -15104,8 +15113,8 @@
       "ranking_survey_start": "2023-07-28 08:17:13",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-07-28 08:22:19",
-      "longitude": 29.0015,
-      "latitude": -2.6385
+      "longitude": 29.0078,
+      "latitude": -2.63
     },
     {
       "block_id": "39fbcd196863-109",
@@ -15240,8 +15249,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-29 16:01:59",
-      "longitude": 29.0109,
-      "latitude": -2.6178
+      "longitude": 28.9966,
+      "latitude": -2.6174
     },
     {
       "block_id": "39fbcd196863-110",
@@ -15282,8 +15291,8 @@
       "agronomicperformance_diseasesany": "Not Applicable",
       "agronomicperformance_diseasessevere": "Minor (<25% Of Plot Affected)",
       "agronomicperformance_survey_end": "2023-04-17 10:33:12",
-      "longitude": 29.0012,
-      "latitude": -2.6305
+      "longitude": 29.0008,
+      "latitude": -2.6236
     },
     {
       "block_id": "39fbcd196863-111",
@@ -15417,8 +15426,8 @@
       "ranking_whichlost": "C",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-29 16:11:19",
-      "longitude": 29.0046,
-      "latitude": -2.6158
+      "longitude": 28.9881,
+      "latitude": -2.6258
     },
     {
       "block_id": "39fbcd196863-112",
@@ -15553,8 +15562,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-29 16:33:47",
-      "longitude": 28.9592,
-      "latitude": -2.48
+      "longitude": 28.9648,
+      "latitude": -2.4795
     },
     {
       "block_id": "39fbcd196863-113",
@@ -15691,8 +15700,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 07:14:39",
-      "longitude": 29.0457,
-      "latitude": -2.6865
+      "longitude": 29.0469,
+      "latitude": -2.687
     },
     {
       "block_id": "39fbcd196863-114",
@@ -15824,8 +15833,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 07:50:57",
-      "longitude": 29.0459,
-      "latitude": -2.6663
+      "longitude": 29.0394,
+      "latitude": -2.6866
     },
     {
       "block_id": "39fbcd196863-115",
@@ -15962,8 +15971,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 08:18:14",
-      "longitude": 29.0453,
-      "latitude": -2.6753
+      "longitude": 29.0519,
+      "latitude": -2.6903
     },
     {
       "block_id": "39fbcd196863-116",
@@ -16100,8 +16109,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-31 06:31:03",
-      "longitude": 29.0486,
-      "latitude": -2.6867
+      "longitude": 29.0512,
+      "latitude": -2.6829
     },
     {
       "block_id": "39fbcd196863-117",
@@ -16156,8 +16165,8 @@
       "maturity_herbicidesuse": "No",
       "maturity_herbicidefreq": 0,
       "maturity_survey_end": "2023-05-29 08:32:42",
-      "longitude": 29.038,
-      "latitude": -2.6822
+      "longitude": 29.0491,
+      "latitude": -2.6834
     },
     {
       "block_id": "39fbcd196863-118",
@@ -16274,8 +16283,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-08-07 08:38:06",
-      "longitude": 28.9073,
-      "latitude": -2.5002
+      "longitude": 28.8999,
+      "latitude": -2.4868
     },
     {
       "block_id": "39fbcd196863-119",
@@ -16375,8 +16384,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-07-08 14:38:45",
-      "longitude": 28.8889,
-      "latitude": -2.5125
+      "longitude": 28.8812,
+      "latitude": -2.5073
     },
     {
       "block_id": "39fbcd196863-120",
@@ -16494,8 +16503,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 10:57:08",
-      "longitude": 28.9026,
-      "latitude": -2.4895
+      "longitude": 28.8976,
+      "latitude": -2.477
     },
     {
       "block_id": "39fbcd196863-121",
@@ -16613,8 +16622,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 09:05:54",
-      "longitude": 28.893,
-      "latitude": -2.5102
+      "longitude": 28.8964,
+      "latitude": -2.5157
     },
     {
       "block_id": "39fbcd196863-122",
@@ -16732,8 +16741,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 13:26:59",
-      "longitude": 28.9048,
-      "latitude": -2.4945
+      "longitude": 28.889,
+      "latitude": -2.505
     },
     {
       "block_id": "39fbcd196863-123",
@@ -16852,8 +16861,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 11:42:21",
-      "longitude": 28.907,
-      "latitude": -2.5047
+      "longitude": 28.8917,
+      "latitude": -2.4851
     },
     {
       "block_id": "39fbcd196863-124",
@@ -16936,8 +16945,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Ok",
       "ranking_survey_end": "2023-07-26 08:32:17",
-      "longitude": 28.8946,
-      "latitude": -2.4988
+      "longitude": 28.8892,
+      "latitude": -2.4882
     },
     {
       "block_id": "39fbcd196863-125",
@@ -16975,8 +16984,8 @@
       "agronomicperformance_diseasesany": "Yes",
       "agronomicperformance_diseasessevere": "Minor (<25% Of Plot Affected)",
       "agronomicperformance_survey_end": "2023-04-19 09:31:26",
-      "longitude": 28.8813,
-      "latitude": -2.511
+      "longitude": 28.8694,
+      "latitude": -2.5193
     },
     {
       "block_id": "39fbcd196863-126",
@@ -17063,8 +17072,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2023-07-07 14:35:51",
-      "longitude": 29.3924,
-      "latitude": -2.001
+      "longitude": 29.3975,
+      "latitude": -2.0014
     },
     {
       "block_id": "39fbcd196863-127",
@@ -17179,8 +17188,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "0k",
       "ranking_survey_end": "2023-08-07 16:48:36",
-      "longitude": 29.3825,
-      "latitude": -1.9963
+      "longitude": 29.3759,
+      "latitude": -2.0116
     },
     {
       "block_id": "39fbcd196863-128",
@@ -17281,8 +17290,8 @@
       "ranking_whichlost": "None",
       "ranking_plotlossreason": "Umugezi warabitwaye",
       "ranking_survey_end": "2023-08-11 15:51:59",
-      "longitude": 29.3827,
-      "latitude": -2.0295
+      "longitude": 29.3813,
+      "latitude": -2.0161
     },
     {
       "block_id": "39fbcd196863-129",
@@ -17396,8 +17405,8 @@
       "ranking_survey_start": "2023-07-28 08:50:08",
       "ranking_whichlost": "None",
       "ranking_survey_end": "2023-07-28 08:51:14",
-      "longitude": 29.3688,
-      "latitude": -2.0014
+      "longitude": 29.3705,
+      "latitude": -1.9956
     },
     {
       "block_id": "39fbcd196863-130",

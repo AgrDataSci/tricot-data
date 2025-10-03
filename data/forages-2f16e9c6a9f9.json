@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-02",
+      "version": "v2025-10-03",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -49,6 +49,15 @@
       "men": 159,
       "women": 188
     },
+    "funder": [
+      {
+        "funderName": "Gates Foundation",
+        "funderIdentifier": "https://ror.org/0456r8d26",
+        "awardTitle": "1000FARMS",
+        "awardNumber": "L22ROM222",
+        "5": "We recevied this grant as sub-grantees of the main grant given to Bioversity-CIAT alliance"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": " JASEYA (Kunyanyagiza)",
@@ -778,8 +787,8 @@
       "harvest_worstwhy": "Byababutse bikiri bitoya bitinya imvura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-22 17:55:45",
-      "longitude": 29.8649,
-      "latitude": -1.4935
+      "longitude": 29.8558,
+      "latitude": -1.5133
     },
     {
       "block_id": "2f16e9c6a9f9-2",
@@ -837,8 +846,8 @@
       "harvest_worstwhy": "Kuberako twari tubitegerejeho isasiro none ntaryo tubonye kandi umurima wamezemo ibyatsi byinshi",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-23 07:39:05",
-      "longitude": 29.8677,
-      "latitude": -1.5052
+      "longitude": 29.8518,
+      "latitude": -1.4889
     },
     {
       "block_id": "2f16e9c6a9f9-3",
@@ -897,8 +906,8 @@
       "harvest_worstwhy": "Kuberako bitinya kuvangwa nibigoli",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-23 15:49:54",
-      "longitude": 29.853,
-      "latitude": -1.5213
+      "longitude": 29.8692,
+      "latitude": -1.5029
     },
     {
       "block_id": "2f16e9c6a9f9-4",
@@ -957,8 +966,8 @@
       "harvest_worstwhy": "Kuberako ntasasiro byatanze byapfuye bikini bitoya",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-21 15:38:10",
-      "longitude": 29.8491,
-      "latitude": -1.5046
+      "longitude": 29.8637,
+      "latitude": -1.5115
     },
     {
       "block_id": "2f16e9c6a9f9-5",
@@ -1017,8 +1026,8 @@
       "harvest_worstwhy": "Ntabwo nabukunze Kuberako butatanze isasiro nkuko twari tuyibikeneyeho",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-28 13:23:14",
-      "longitude": 29.8602,
-      "latitude": -1.4877
+      "longitude": 29.8596,
+      "latitude": -1.488
     },
     {
       "block_id": "2f16e9c6a9f9-6",
@@ -1076,8 +1085,8 @@
       "harvest_worstwhy": "Sinabikunze Kuberako twabishakagaho isaso none ntayo byatanze",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-23 07:19:43",
-      "longitude": 29.8503,
-      "latitude": -1.4961
+      "longitude": 29.8741,
+      "latitude": -1.5047
     },
     {
       "block_id": "2f16e9c6a9f9-7",
@@ -1136,8 +1145,8 @@
       "harvest_worstwhy": "Byababutse bikini bitoya cyane kubera gutinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-21 14:54:22",
-      "longitude": 29.8705,
-      "latitude": -1.5086
+      "longitude": 29.8743,
+      "latitude": -1.5005
     },
     {
       "block_id": "2f16e9c6a9f9-8",
@@ -1196,8 +1205,8 @@
       "harvest_worstwhy": "Kuberako bitakuze ngo bitange isasiro",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-22 16:12:17",
-      "longitude": 29.8661,
-      "latitude": -1.5032
+      "longitude": 29.8695,
+      "latitude": -1.4966
     },
     {
       "block_id": "2f16e9c6a9f9-9",
@@ -1256,8 +1265,8 @@
       "harvest_worstwhy": "Kuberako byababutse bikiri bitoya bitinya imvura nyinshi",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-23 10:28:33",
-      "longitude": 29.8644,
-      "latitude": -1.5059
+      "longitude": 29.8677,
+      "latitude": -1.498
     },
     {
       "block_id": "2f16e9c6a9f9-10",
@@ -1316,8 +1325,8 @@
       "harvest_worstwhy": "Kuberako bitatanze isasiro",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-21 14:48:46",
-      "longitude": 29.8542,
-      "latitude": -1.5033
+      "longitude": 29.8697,
+      "latitude": -1.5122
     },
     {
       "block_id": "2f16e9c6a9f9-11",
@@ -1376,8 +1385,8 @@
       "harvest_worstwhy": "Kuberako itashobokanye nubutaka kandi itinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-22 10:01:17",
-      "longitude": 29.8708,
-      "latitude": -1.5115
+      "longitude": 29.87,
+      "latitude": -1.5163
     },
     {
       "block_id": "2f16e9c6a9f9-12",
@@ -1435,8 +1444,8 @@
       "harvest_worstwhy": "Kuberako byababutse bikiri bitoya bitinya imvura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-22 10:43:33",
-      "longitude": 29.87,
-      "latitude": -1.5078
+      "longitude": 29.8675,
+      "latitude": -1.5168
     },
     {
       "block_id": "2f16e9c6a9f9-13",
@@ -1494,8 +1503,8 @@
       "harvest_worstwhy": "Kuberako bitameze ntibyishimiye ubutaka bwino",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-27 07:25:29",
-      "longitude": 29.8697,
-      "latitude": -1.5021
+      "longitude": 29.8643,
+      "latitude": -1.494
     },
     {
       "block_id": "2f16e9c6a9f9-14",
@@ -1554,8 +1563,8 @@
       "harvest_worstwhy": "Byababutse bikini bitoya",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-22 07:55:41",
-      "longitude": 29.8514,
-      "latitude": -1.5034
+      "longitude": 29.846,
+      "latitude": -1.5159
     },
     {
       "block_id": "2f16e9c6a9f9-15",
@@ -1614,8 +1623,8 @@
       "harvest_worstwhy": "Kuberako butihanganiye imvura nyinshi",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-21 14:48:35",
-      "longitude": 29.8535,
-      "latitude": -1.4966
+      "longitude": 29.8551,
+      "latitude": -1.5048
     },
     {
       "block_id": "2f16e9c6a9f9-16",
@@ -1674,8 +1683,8 @@
       "harvest_worstwhy": "Kuberako byanze gukura hakararamo ibyatsi bisanzwe",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-27 16:17:22",
-      "longitude": 29.8403,
-      "latitude": -1.4928
+      "longitude": 29.8436,
+      "latitude": -1.4982
     },
     {
       "block_id": "2f16e9c6a9f9-17",
@@ -1733,8 +1742,8 @@
       "harvest_worstwhy": "Kuberako byababutse bikiri hasi ntibijyanye nikirere cyino",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-28 10:25:16",
-      "longitude": 29.8652,
-      "latitude": -1.5037
+      "longitude": 29.8582,
+      "latitude": -1.4977
     },
     {
       "block_id": "2f16e9c6a9f9-18",
@@ -1793,8 +1802,8 @@
       "harvest_worstwhy": "Kuberako itajyanye nubutaka bacu",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-27 10:50:51",
-      "longitude": 29.8575,
-      "latitude": -1.4869
+      "longitude": 29.8562,
+      "latitude": -1.4908
     },
     {
       "block_id": "2f16e9c6a9f9-19",
@@ -1854,8 +1863,8 @@
       "harvest_worstwhy": "Ntijyanye nikirere",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-23 09:45:13",
-      "longitude": 29.8565,
-      "latitude": -1.4848
+      "longitude": 29.8526,
+      "latitude": -1.4885
     },
     {
       "block_id": "2f16e9c6a9f9-20",
@@ -1914,8 +1923,8 @@
       "harvest_worstwhy": "Kuberako butihanganira imvura ni kirere",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-23 17:54:34",
-      "longitude": 29.8657,
-      "latitude": -1.5065
+      "longitude": 29.8643,
+      "latitude": -1.5195
     },
     {
       "block_id": "2f16e9c6a9f9-21",
@@ -1972,8 +1981,8 @@
       "harvest_worstwhy": "Yanze ubutaka bwinaha",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-21 15:51:17",
-      "longitude": 29.7994,
-      "latitude": -1.5165
+      "longitude": 29.8017,
+      "latitude": -1.5135
     },
     {
       "block_id": "2f16e9c6a9f9-22",
@@ -2030,8 +2039,8 @@
       "harvest_worstwhy": "B",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-12 13:22:56",
-      "longitude": 29.8181,
-      "latitude": -1.515
+      "longitude": 29.8076,
+      "latitude": -1.4954
     },
     {
       "block_id": "2f16e9c6a9f9-23",
@@ -2088,8 +2097,8 @@
       "harvest_worstwhy": "Yahise izimira igaragara nkitaratewe",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-13 10:37:17",
-      "longitude": 29.7986,
-      "latitude": -1.5027
+      "longitude": 29.8067,
+      "latitude": -1.5183
     },
     {
       "block_id": "2f16e9c6a9f9-24",
@@ -2146,8 +2155,8 @@
       "harvest_worstwhy": "Yatinye imvura ntiyazamuka",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-27 15:45:55",
-      "longitude": 29.8094,
-      "latitude": -1.5287
+      "longitude": 29.8105,
+      "latitude": -1.5214
     },
     {
       "block_id": "2f16e9c6a9f9-25",
@@ -2192,8 +2201,8 @@
       "vegetativeupdated_plantdamag": "No",
       "vegetativeupdated_sampleid": "24Ai.P2.4525t",
       "vegetativeupdated_survey_end": "2023-11-12 19:44:23",
-      "longitude": 29.8063,
-      "latitude": -1.5102
+      "longitude": 29.8117,
+      "latitude": -1.5139
     },
     {
       "block_id": "2f16e9c6a9f9-26",
@@ -2250,8 +2259,8 @@
       "harvest_worstwhy": "Byanze kuzamuka",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-29 12:26:07",
-      "longitude": 29.7969,
-      "latitude": -1.5001
+      "longitude": 29.8106,
+      "latitude": -1.5042
     },
     {
       "block_id": "2f16e9c6a9f9-27",
@@ -2307,8 +2316,8 @@
       "harvest_worstwhy": "Yahise ipfa ikimera",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-27 15:46:06",
-      "longitude": 29.8148,
-      "latitude": -1.5018
+      "longitude": 29.8221,
+      "latitude": -1.5108
     },
     {
       "block_id": "2f16e9c6a9f9-28",
@@ -2364,8 +2373,8 @@
       "harvest_bestwhy": "Byose ntiyabikunze",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-29 12:29:46",
-      "longitude": 29.7887,
-      "latitude": -1.5144
+      "longitude": 29.8084,
+      "latitude": -1.5137
     },
     {
       "block_id": "2f16e9c6a9f9-29",
@@ -2422,8 +2431,8 @@
       "harvest_worstwhy": "Byose nta kamaro",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-29 12:26:21",
-      "longitude": 29.795,
-      "latitude": -1.5118
+      "longitude": 29.7947,
+      "latitude": -1.5123
     },
     {
       "block_id": "2f16e9c6a9f9-30",
@@ -2480,8 +2489,8 @@
       "harvest_worstwhy": "Itinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-27 15:50:55",
-      "longitude": 29.8098,
-      "latitude": -1.4998
+      "longitude": 29.7992,
+      "latitude": -1.5249
     },
     {
       "block_id": "2f16e9c6a9f9-31",
@@ -2538,8 +2547,8 @@
       "harvest_worstwhy": "Yahise iyenga",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-13 09:03:56",
-      "longitude": 29.8055,
-      "latitude": -1.4964
+      "longitude": 29.8194,
+      "latitude": -1.5097
     },
     {
       "block_id": "2f16e9c6a9f9-32",
@@ -2596,8 +2605,8 @@
       "harvest_worstwhy": "Yatinye imvura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-13 16:36:06",
-      "longitude": 29.7987,
-      "latitude": -1.5136
+      "longitude": 29.7824,
+      "latitude": -1.5225
     },
     {
       "block_id": "2f16e9c6a9f9-33",
@@ -2654,8 +2663,8 @@
       "harvest_worstwhy": "Yatinye imvura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-18 07:31:36",
-      "longitude": 29.8232,
-      "latitude": -1.5112
+      "longitude": 29.8095,
+      "latitude": -1.5255
     },
     {
       "block_id": "2f16e9c6a9f9-34",
@@ -2712,8 +2721,8 @@
       "harvest_worstwhy": "Byose abona nta mumaro",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-11 07:06:58",
-      "longitude": 29.801,
-      "latitude": -1.5202
+      "longitude": 29.7809,
+      "latitude": -1.5167
     },
     {
       "block_id": "2f16e9c6a9f9-35",
@@ -2770,8 +2779,8 @@
       "harvest_worstwhy": "Byahise bibabuka",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-29 12:26:29",
-      "longitude": 29.8106,
-      "latitude": -1.4987
+      "longitude": 29.7962,
+      "latitude": -1.5186
     },
     {
       "block_id": "2f16e9c6a9f9-36",
@@ -2828,8 +2837,8 @@
       "harvest_worstwhy": "Ntayo",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-04 11:05:56",
-      "longitude": 29.792,
-      "latitude": -1.5095
+      "longitude": 29.8009,
+      "latitude": -1.509
     },
     {
       "block_id": "2f16e9c6a9f9-37",
@@ -2886,8 +2895,8 @@
       "harvest_worstwhy": "Byose ni bibi kuko nta musaruro wabyo",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-21 16:49:01",
-      "longitude": 29.8061,
-      "latitude": -1.5032
+      "longitude": 29.8054,
+      "latitude": -1.504
     },
     {
       "block_id": "2f16e9c6a9f9-38",
@@ -2944,8 +2953,8 @@
       "harvest_worstwhy": "Itinya imvura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-27 15:46:17",
-      "longitude": 29.8059,
-      "latitude": -1.5
+      "longitude": 29.7971,
+      "latitude": -1.5014
     },
     {
       "block_id": "2f16e9c6a9f9-39",
@@ -3002,8 +3011,8 @@
       "harvest_worstwhy": "Yahise ibabuka",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-11 06:57:59",
-      "longitude": 29.7872,
-      "latitude": -1.5226
+      "longitude": 29.8043,
+      "latitude": -1.5086
     },
     {
       "block_id": "2f16e9c6a9f9-40",
@@ -3060,8 +3069,8 @@
       "harvest_worstwhy": "Nta musaruro wabyo",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-11 07:14:39",
-      "longitude": 29.7891,
-      "latitude": -1.4977
+      "longitude": 29.7905,
+      "latitude": -1.5096
     },
     {
       "block_id": "2f16e9c6a9f9-41",
@@ -3127,8 +3136,8 @@
       "harvest_worstwhy": "Bwameze nabi",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-19 10:52:15",
-      "longitude": 29.7298,
-      "latitude": -1.4229
+      "longitude": 29.7319,
+      "latitude": -1.4357
     },
     {
       "block_id": "2f16e9c6a9f9-42",
@@ -3194,8 +3203,8 @@
       "harvest_worstwhy": "Ntabwo bwihanganira kubana nibigori",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-06 13:13:47",
-      "longitude": 29.7478,
-      "latitude": -1.4378
+      "longitude": 29.7271,
+      "latitude": -1.4513
     },
     {
       "block_id": "2f16e9c6a9f9-43",
@@ -3261,8 +3270,8 @@
       "harvest_worstwhy": "Kuko byapfuye",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-31 12:22:31",
-      "longitude": 29.7118,
-      "latitude": -1.4254
+      "longitude": 29.7087,
+      "latitude": -1.4439
     },
     {
       "block_id": "2f16e9c6a9f9-44",
@@ -3327,8 +3336,8 @@
       "harvest_worstwhy": "Ntabwo Yakunda kuvangwa nimyaka",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-31 10:05:15",
-      "longitude": 29.7283,
-      "latitude": -1.4318
+      "longitude": 29.7209,
+      "latitude": -1.4406
     },
     {
       "block_id": "2f16e9c6a9f9-45",
@@ -3394,8 +3403,8 @@
       "harvest_worstwhy": "Yabwanbiyeko bwahise bwuma",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-31 09:33:08",
-      "longitude": 29.731,
-      "latitude": -1.4252
+      "longitude": 29.7305,
+      "latitude": -1.4219
     },
     {
       "block_id": "2f16e9c6a9f9-46",
@@ -3460,8 +3469,8 @@
       "harvest_worstwhy": "Bitinya imvura",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-12 06:48:01",
-      "longitude": 29.7272,
-      "latitude": -1.4366
+      "longitude": 29.7231,
+      "latitude": -1.4255
     },
     {
       "block_id": "2f16e9c6a9f9-47",
@@ -3525,8 +3534,8 @@
       "harvest_worstwhy": "Nuko byanze kumera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-23 12:15:18",
-      "longitude": 29.7444,
-      "latitude": -1.4329
+      "longitude": 29.723,
+      "latitude": -1.4321
     },
     {
       "block_id": "2f16e9c6a9f9-48",
@@ -3591,8 +3600,8 @@
       "harvest_worstwhy": "Byishwe nimvura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-23 12:13:37",
-      "longitude": 29.7238,
-      "latitude": -1.4443
+      "longitude": 29.7325,
+      "latitude": -1.4476
     },
     {
       "block_id": "2f16e9c6a9f9-49",
@@ -3658,8 +3667,8 @@
       "harvest_worstwhy": "Ntabwo yihangana",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-23 12:43:29",
-      "longitude": 29.7409,
-      "latitude": -1.4393
+      "longitude": 29.7223,
+      "latitude": -1.4451
     },
     {
       "block_id": "2f16e9c6a9f9-50",
@@ -3725,8 +3734,8 @@
       "harvest_worstwhy": "Itinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-16 11:41:17",
-      "longitude": 29.7404,
-      "latitude": -1.429
+      "longitude": 29.7192,
+      "latitude": -1.4293
     },
     {
       "block_id": "2f16e9c6a9f9-51",
@@ -3792,8 +3801,8 @@
       "harvest_worstwhy": "Ntabwo imeze neza",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-16 15:47:54",
-      "longitude": 29.7351,
-      "latitude": -1.4268
+      "longitude": 29.7366,
+      "latitude": -1.4379
     },
     {
       "block_id": "2f16e9c6a9f9-52",
@@ -3859,8 +3868,8 @@
       "harvest_worstwhy": "Yanze kumera",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-16 15:49:13",
-      "longitude": 29.7457,
-      "latitude": -1.4386
+      "longitude": 29.7393,
+      "latitude": -1.4269
     },
     {
       "block_id": "2f16e9c6a9f9-53",
@@ -3925,8 +3934,8 @@
       "harvest_worstwhy": "Yicwanimvura cyane",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-16 15:40:26",
-      "longitude": 29.7225,
-      "latitude": -1.4289
+      "longitude": 29.7275,
+      "latitude": -1.4464
     },
     {
       "block_id": "2f16e9c6a9f9-54",
@@ -3980,8 +3989,8 @@
       "vegetativeupdated_plantdamag": "No",
       "vegetativeupdated_sampleid": "24Ai.p2.50.54T",
       "vegetativeupdated_survey_end": "2023-11-24 08:55:26",
-      "longitude": 29.7378,
-      "latitude": -1.4645
+      "longitude": 29.7299,
+      "latitude": -1.4426
     },
     {
       "block_id": "2f16e9c6a9f9-55",
@@ -4047,8 +4056,8 @@
       "harvest_worstwhy": "Ntabwo yihanganira imvura",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-12 06:48:09",
-      "longitude": 29.7178,
-      "latitude": -1.4325
+      "longitude": 29.7052,
+      "latitude": -1.4335
     },
     {
       "block_id": "2f16e9c6a9f9-56",
@@ -4113,8 +4122,8 @@
       "harvest_worstwhy": "Ntabwo bwazamutse",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-23 11:17:37",
-      "longitude": 29.7454,
-      "latitude": -1.4368
+      "longitude": 29.7367,
+      "latitude": -1.4483
     },
     {
       "block_id": "2f16e9c6a9f9-57",
@@ -4180,8 +4189,8 @@
       "harvest_worstwhy": "Bwameze butinze",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-21 15:25:21",
-      "longitude": 29.7318,
-      "latitude": -1.4377
+      "longitude": 29.7206,
+      "latitude": -1.4305
     },
     {
       "block_id": "2f16e9c6a9f9-58",
@@ -4235,8 +4244,8 @@
       "vegetativeupdated_plantdamag": "No",
       "vegetativeupdated_sampleid": "24Ai p2 .50.58T",
       "vegetativeupdated_survey_end": "2023-11-15 17:43:56",
-      "longitude": 29.7385,
-      "latitude": -1.4443
+      "longitude": 29.7302,
+      "latitude": -1.4404
     },
     {
       "block_id": "2f16e9c6a9f9-59",
@@ -4301,8 +4310,8 @@
       "harvest_worstwhy": "Ntabwo byameze neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-06 12:39:27",
-      "longitude": 29.736,
-      "latitude": -1.4548
+      "longitude": 29.7309,
+      "latitude": -1.4281
     },
     {
       "block_id": "2f16e9c6a9f9-60",
@@ -4368,8 +4377,8 @@
       "harvest_worstwhy": "Bwishwe nimvura",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-21 10:02:57",
-      "longitude": 29.7193,
-      "latitude": -1.4278
+      "longitude": 29.7207,
+      "latitude": -1.4384
     },
     {
       "block_id": "2f16e9c6a9f9-61",
@@ -4435,8 +4444,8 @@
       "harvest_worstwhy": "Ntabwo imera, itinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-05 12:29:11",
-      "longitude": 29.5562,
-      "latitude": -1.4765
+      "longitude": 29.5564,
+      "latitude": -1.4738
     },
     {
       "block_id": "2f16e9c6a9f9-62",
@@ -4502,8 +4511,8 @@
       "harvest_worstwhy": "Imbuto ya A ntabwo imera.",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-05 09:59:12",
-      "longitude": 29.5715,
-      "latitude": -1.4703
+      "longitude": 29.5742,
+      "latitude": -1.4813
     },
     {
       "block_id": "2f16e9c6a9f9-63",
@@ -4569,8 +4578,8 @@
       "harvest_worstwhy": "Bitinya imvura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-14 11:51:26",
-      "longitude": 29.5733,
-      "latitude": -1.4839
+      "longitude": 29.5765,
+      "latitude": -1.4753
     },
     {
       "block_id": "2f16e9c6a9f9-64",
@@ -4636,8 +4645,8 @@
       "harvest_worstwhy": "Ntabwo byihanganira imvura, Ntabwo bimera aribyishi.",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-31 18:41:30",
-      "longitude": 29.5793,
-      "latitude": -1.4898
+      "longitude": 29.5763,
+      "latitude": -1.4733
     },
     {
       "block_id": "2f16e9c6a9f9-65",
@@ -4690,8 +4699,8 @@
       "vegetativeupdated_plantdamag": "Yes",
       "vegetativeupdated_sampleid": "24AI.P2.55.64.T",
       "vegetativeupdated_survey_end": "2023-11-28 18:57:02",
-      "longitude": 29.5621,
-      "latitude": -1.4849
+      "longitude": 29.558,
+      "latitude": -1.4743
     },
     {
       "block_id": "2f16e9c6a9f9-66",
@@ -4745,8 +4754,8 @@
       "vegetativeupdated_plantdamag": "Yes",
       "vegetativeupdated_sampleid": "24AI.P2.55.66.T",
       "vegetativeupdated_survey_end": "2023-11-28 15:22:12",
-      "longitude": 29.5479,
-      "latitude": -1.47
+      "longitude": 29.56,
+      "latitude": -1.4756
     },
     {
       "block_id": "2f16e9c6a9f9-67",
@@ -4811,8 +4820,8 @@
       "harvest_worstwhy": "Imbuto ya A ntabwo imera itinya imvura .",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-05 11:03:38",
-      "longitude": 29.58,
-      "latitude": -1.4846
+      "longitude": 29.5567,
+      "latitude": -1.4743
     },
     {
       "block_id": "2f16e9c6a9f9-68",
@@ -4878,8 +4887,8 @@
       "harvest_worstwhy": "Ntabwo bimera kd bizamuk8ra kubigori, bisaba imihembezo.",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-31 18:41:37",
-      "longitude": 29.5834,
-      "latitude": -1.4833
+      "longitude": 29.5807,
+      "latitude": -1.4788
     },
     {
       "block_id": "2f16e9c6a9f9-69",
@@ -4943,8 +4952,8 @@
       "harvest_worstwhy": "Imbuto ya B Ntabwo yihanganira imvura nyinshi.",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-31 18:41:44",
-      "longitude": 29.5655,
-      "latitude": -1.4871
+      "longitude": 29.5757,
+      "latitude": -1.4929
     },
     {
       "block_id": "2f16e9c6a9f9-70",
@@ -4998,8 +5007,8 @@
       "vegetativeupdated_plantdamag": "Yes",
       "vegetativeupdated_sampleid": "24AI.P2.55.70.T",
       "vegetativeupdated_survey_end": "2023-11-27 13:09:48",
-      "longitude": 29.5562,
-      "latitude": -1.479
+      "longitude": 29.578,
+      "latitude": -1.4737
     },
     {
       "block_id": "2f16e9c6a9f9-71",
@@ -5053,8 +5062,8 @@
       "vegetativeupdated_plantdamag": "Yes",
       "vegetativeupdated_sampleid": "24AI.P2.55.71.T",
       "vegetativeupdated_survey_end": "2023-10-28 07:01:19",
-      "longitude": 29.5601,
-      "latitude": -1.475
+      "longitude": 29.5608,
+      "latitude": -1.4861
     },
     {
       "block_id": "2f16e9c6a9f9-72",
@@ -5119,8 +5128,8 @@
       "harvest_worstwhy": "Ntabwo byameze neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-12 07:46:09",
-      "longitude": 29.5766,
-      "latitude": -1.4896
+      "longitude": 29.5652,
+      "latitude": -1.4846
     },
     {
       "block_id": "2f16e9c6a9f9-73",
@@ -5186,8 +5195,8 @@
       "harvest_worstwhy": "Ntabwo byameze",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-25 09:45:25",
-      "longitude": 29.566,
-      "latitude": -1.4828
+      "longitude": 29.57,
+      "latitude": -1.4754
     },
     {
       "block_id": "2f16e9c6a9f9-74",
@@ -5253,8 +5262,8 @@
       "harvest_worstwhy": "Ntimera neza",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-25 07:26:29",
-      "longitude": 29.5791,
-      "latitude": -1.4827
+      "longitude": 29.5703,
+      "latitude": -1.4963
     },
     {
       "block_id": "2f16e9c6a9f9-75",
@@ -5320,8 +5329,8 @@
       "harvest_worstwhy": "Imbuto ya C ntabwo yameze",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-12 07:20:09",
-      "longitude": 29.5792,
-      "latitude": -1.4907
+      "longitude": 29.5561,
+      "latitude": -1.4893
     },
     {
       "block_id": "2f16e9c6a9f9-76",
@@ -5387,8 +5396,8 @@
       "harvest_worstwhy": "Ntabwo byameze neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-12 08:01:04",
-      "longitude": 29.5862,
-      "latitude": -1.4842
+      "longitude": 29.582,
+      "latitude": -1.495
     },
     {
       "block_id": "2f16e9c6a9f9-77",
@@ -5454,8 +5463,8 @@
       "harvest_worstwhy": "Variation ya B ntabwo umuhinzi yayikunze kuberako itihanganira imvura, ntabwo imera neza.",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-12 07:02:01",
-      "longitude": 29.5751,
-      "latitude": -1.4881
+      "longitude": 29.5657,
+      "latitude": -1.4691
     },
     {
       "block_id": "2f16e9c6a9f9-78",
@@ -5521,8 +5530,8 @@
       "harvest_worstwhy": "Ntabwo byameze neza",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-25 09:51:38",
-      "longitude": 29.5537,
-      "latitude": -1.4812
+      "longitude": 29.5708,
+      "latitude": -1.4799
     },
     {
       "block_id": "2f16e9c6a9f9-79",
@@ -5585,8 +5594,8 @@
       "harvest_worstwhy": "Ntabwo byameze",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-25 07:20:59",
-      "longitude": 29.5797,
-      "latitude": -1.4924
+      "longitude": 29.5702,
+      "latitude": -1.493
     },
     {
       "block_id": "2f16e9c6a9f9-80",
@@ -5652,8 +5661,8 @@
       "harvest_worstwhy": "Ntabwo byameze",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-14 12:35:36",
-      "longitude": 29.5646,
-      "latitude": -1.4899
+      "longitude": 29.5747,
+      "latitude": -1.4956
     },
     {
       "block_id": "2f16e9c6a9f9-81",
@@ -5719,8 +5728,8 @@
       "harvest_worstwhy": "Nuko kamera nabi",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-29 16:24:33",
-      "longitude": 29.4878,
-      "latitude": -2.5021
+      "longitude": 29.4821,
+      "latitude": -2.4879
     },
     {
       "block_id": "2f16e9c6a9f9-82",
@@ -5786,8 +5795,8 @@
       "harvest_worstwhy": "Byameze nabi",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-29 14:06:18",
-      "longitude": 29.5158,
-      "latitude": -2.489
+      "longitude": 29.4919,
+      "latitude": -2.4979
     },
     {
       "block_id": "2f16e9c6a9f9-83",
@@ -5853,8 +5862,8 @@
       "harvest_worstwhy": "Kuko bidakura kandi bimera nabi",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-27 10:44:35",
-      "longitude": 29.4964,
-      "latitude": -2.4972
+      "longitude": 29.5016,
+      "latitude": -2.488
     },
     {
       "block_id": "2f16e9c6a9f9-84",
@@ -5920,8 +5929,8 @@
       "harvest_worstwhy": "Ntago byakuze bitinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-29 16:51:48",
-      "longitude": 29.4974,
-      "latitude": -2.5077
+      "longitude": 29.5047,
+      "latitude": -2.4858
     },
     {
       "block_id": "2f16e9c6a9f9-85",
@@ -5987,8 +5996,8 @@
       "harvest_worstwhy": "Umumero mucye",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-27 14:22:40",
-      "longitude": 29.4826,
-      "latitude": -2.495
+      "longitude": 29.4849,
+      "latitude": -2.5058
     },
     {
       "block_id": "2f16e9c6a9f9-86",
@@ -6053,8 +6062,8 @@
       "harvest_worstwhy": "Nuko bitinya imvura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-29 17:10:33",
-      "longitude": 29.5026,
-      "latitude": -2.4881
+      "longitude": 29.5048,
+      "latitude": -2.4983
     },
     {
       "block_id": "2f16e9c6a9f9-87",
@@ -6120,8 +6129,8 @@
       "harvest_worstwhy": "Nuko kumera nabi",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-29 09:45:57",
-      "longitude": 29.4861,
-      "latitude": -2.4843
+      "longitude": 29.4972,
+      "latitude": -2.4883
     },
     {
       "block_id": "2f16e9c6a9f9-88",
@@ -6187,8 +6196,8 @@
       "harvest_worstwhy": "Ntago yihanganira imvura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-27 15:58:35",
-      "longitude": 29.4904,
-      "latitude": -2.485
+      "longitude": 29.4954,
+      "latitude": -2.5068
     },
     {
       "block_id": "2f16e9c6a9f9-89",
@@ -6254,8 +6263,8 @@
       "harvest_worstwhy": "Ntago byakuze",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-25 08:05:17",
-      "longitude": 29.4852,
-      "latitude": -2.4925
+      "longitude": 29.497,
+      "latitude": -2.4875
     },
     {
       "block_id": "2f16e9c6a9f9-90",
@@ -6320,8 +6329,8 @@
       "harvest_bestwhy": "Kuko nitwo twameze neza kandi dukurana ni ibigori",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-29 12:45:16",
-      "longitude": 29.4978,
-      "latitude": -2.4902
+      "longitude": 29.4976,
+      "latitude": -2.4898
     },
     {
       "block_id": "2f16e9c6a9f9-91",
@@ -6387,8 +6396,8 @@
       "harvest_worstwhy": "Nuko nta musaruro yatanze",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-25 07:28:50",
-      "longitude": 29.4946,
-      "latitude": -2.4974
+      "longitude": 29.4834,
+      "latitude": -2.509
     },
     {
       "block_id": "2f16e9c6a9f9-92",
@@ -6454,8 +6463,8 @@
       "harvest_worstwhy": "Kuko byakuze nabi",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-29 10:22:13",
-      "longitude": 29.4985,
-      "latitude": -2.502
+      "longitude": 29.4931,
+      "latitude": -2.483
     },
     {
       "block_id": "2f16e9c6a9f9-93",
@@ -6520,8 +6529,8 @@
       "harvest_worstwhy": "Ntago byakuze neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-18 07:53:34",
-      "longitude": 29.5095,
-      "latitude": -2.4856
+      "longitude": 29.5078,
+      "latitude": -2.4899
     },
     {
       "block_id": "2f16e9c6a9f9-94",
@@ -6587,8 +6596,8 @@
       "harvest_worstwhy": "Umumero muke",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-29 14:49:22",
-      "longitude": 29.4872,
-      "latitude": -2.5018
+      "longitude": 29.4908,
+      "latitude": -2.4944
     },
     {
       "block_id": "2f16e9c6a9f9-95",
@@ -6654,8 +6663,8 @@
       "harvest_worstwhy": "Kameze nabi",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-29 09:17:50",
-      "longitude": 29.4923,
-      "latitude": -2.4791
+      "longitude": 29.4894,
+      "latitude": -2.4795
     },
     {
       "block_id": "2f16e9c6a9f9-96",
@@ -6712,8 +6721,8 @@
       "harvest_worstwhy": "Ntiyameze neza kdi yicwa n`imvura nyinshi",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-28 16:29:49",
-      "longitude": 29.4746,
-      "latitude": -2.0288
+      "longitude": 29.4838,
+      "latitude": -2.0287
     },
     {
       "block_id": "2f16e9c6a9f9-97",
@@ -6770,8 +6779,8 @@
       "harvest_worstwhy": "Blameless bisa nabi",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-21 12:15:36",
-      "longitude": 29.4645,
-      "latitude": -2.044
+      "longitude": 29.4669,
+      "latitude": -2.045
     },
     {
       "block_id": "2f16e9c6a9f9-98",
@@ -6828,8 +6837,8 @@
       "harvest_worstwhy": "Umumero wari mubi kdi harimo ntibitarameze",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-21 14:40:51",
-      "longitude": 29.4715,
-      "latitude": -2.0256
+      "longitude": 29.471,
+      "latitude": -2.0259
     },
     {
       "block_id": "2f16e9c6a9f9-99",
@@ -6886,8 +6895,8 @@
       "harvest_worstwhy": "Nabonye ntasasiro nyinshi byatanga",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-30 11:55:14",
-      "longitude": 29.4717,
-      "latitude": -2.0271
+      "longitude": 29.4781,
+      "latitude": -2.0368
     },
     {
       "block_id": "2f16e9c6a9f9-100",
@@ -6944,8 +6953,8 @@
       "harvest_worstwhy": "Izameze ntabonye ntasasiro zatanga",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-28 09:58:22",
-      "longitude": 29.488,
-      "latitude": -2.0196
+      "longitude": 29.4887,
+      "latitude": -2.03
     },
     {
       "block_id": "2f16e9c6a9f9-101",
@@ -7002,8 +7011,8 @@
       "harvest_worstwhy": "Nuko yo itameze",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-25 10:52:57",
-      "longitude": 29.4813,
-      "latitude": -2.0684
+      "longitude": 29.4959,
+      "latitude": -2.0581
     },
     {
       "block_id": "2f16e9c6a9f9-102",
@@ -7060,8 +7069,8 @@
       "harvest_worstwhy": "Yanze kumera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-28 09:56:13",
-      "longitude": 29.475,
-      "latitude": -2.0367
+      "longitude": 29.4889,
+      "latitude": -2.0302
     },
     {
       "block_id": "2f16e9c6a9f9-103",
@@ -7118,8 +7127,8 @@
       "harvest_worstwhy": "Bitinya imvura",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-15 15:07:35",
-      "longitude": 29.474,
-      "latitude": -2.0442
+      "longitude": 29.4838,
+      "latitude": -2.0453
     },
     {
       "block_id": "2f16e9c6a9f9-104",
@@ -7176,8 +7185,8 @@
       "harvest_worstwhy": "Ntizashoboye kwihanganira ikirere",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-27 13:57:02",
-      "longitude": 29.4808,
-      "latitude": -2.0418
+      "longitude": 29.4804,
+      "latitude": -2.0361
     },
     {
       "block_id": "2f16e9c6a9f9-105",
@@ -7234,8 +7243,8 @@
       "harvest_worstwhy": "Ukoari3 zose zicwa nimvura",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-15 12:57:07",
-      "longitude": 29.4725,
-      "latitude": -2.0331
+      "longitude": 29.4734,
+      "latitude": -2.0409
     },
     {
       "block_id": "2f16e9c6a9f9-106",
@@ -7292,8 +7301,8 @@
       "harvest_worstwhy": "Harimo ibitarameze, nibyameze byagiye biyoyoka bishiramo",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-04-01 08:11:09",
-      "longitude": 29.4787,
-      "latitude": -2.0239
+      "longitude": 29.4702,
+      "latitude": -2.04
     },
     {
       "block_id": "2f16e9c6a9f9-107",
@@ -7350,8 +7359,8 @@
       "harvest_worstwhy": "Ntibyihanganira imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-18 14:44:00",
-      "longitude": 29.4883,
-      "latitude": -2.0436
+      "longitude": 29.4935,
+      "latitude": -2.0214
     },
     {
       "block_id": "2f16e9c6a9f9-108",
@@ -7408,8 +7417,8 @@
       "harvest_worstwhy": "Yanze kumera",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-26 08:00:24",
-      "longitude": 29.4737,
-      "latitude": -2.033
+      "longitude": 29.4735,
+      "latitude": -2.0435
     },
     {
       "block_id": "2f16e9c6a9f9-109",
@@ -7466,8 +7475,8 @@
       "harvest_worstwhy": "Harimo ibitamera kandi nibyameze byishwe n`ubukonje",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-04-01 08:07:39",
-      "longitude": 29.479,
-      "latitude": -2.0324
+      "longitude": 29.4649,
+      "latitude": -2.0282
     },
     {
       "block_id": "2f16e9c6a9f9-110",
@@ -7525,8 +7534,8 @@
       "harvest_worstwhy": "Ntiyihanganira imvura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-15 12:14:59",
-      "longitude": 29.4651,
-      "latitude": -2.0376
+      "longitude": 29.474,
+      "latitude": -2.0298
     },
     {
       "block_id": "2f16e9c6a9f9-111",
@@ -7583,8 +7592,8 @@
       "harvest_worstwhy": "Yanze kumera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-11 12:43:08",
-      "longitude": 29.4701,
-      "latitude": -2.0213
+      "longitude": 29.4799,
+      "latitude": -2.0394
     },
     {
       "block_id": "2f16e9c6a9f9-112",
@@ -7641,8 +7650,8 @@
       "harvest_worstwhy": "Ntabwo byihanganiye ubutaka bwange",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-26 09:46:44",
-      "longitude": 29.4806,
-      "latitude": -2.039
+      "longitude": 29.4595,
+      "latitude": -2.0355
     },
     {
       "block_id": "2f16e9c6a9f9-113",
@@ -7699,8 +7708,8 @@
       "harvest_worstwhy": "Byagiye bimyoka byose bishiramo",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-26 09:27:54",
-      "longitude": 29.4611,
-      "latitude": -2.0448
+      "longitude": 29.465,
+      "latitude": -2.0387
     },
     {
       "block_id": "2f16e9c6a9f9-114",
@@ -7756,8 +7765,8 @@
       "harvest_worstwhy": "Ntibikura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-05 12:26:21",
-      "longitude": 29.4113,
-      "latitude": -1.9106
+      "longitude": 29.4145,
+      "latitude": -1.9218
     },
     {
       "block_id": "2f16e9c6a9f9-115",
@@ -7811,8 +7820,8 @@
       "harvest_survey_start": "2024-03-11 12:37:49",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-11 12:39:14",
-      "longitude": 29.3996,
-      "latitude": -1.9143
+      "longitude": 29.3947,
+      "latitude": -1.9182
     },
     {
       "block_id": "2f16e9c6a9f9-116",
@@ -7866,8 +7875,8 @@
       "harvest_survey_start": "2024-03-15 07:52:53",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-15 07:53:27",
-      "longitude": 29.3995,
-      "latitude": -1.9225
+      "longitude": 29.4073,
+      "latitude": -1.9067
     },
     {
       "block_id": "2f16e9c6a9f9-117",
@@ -7922,8 +7931,8 @@
       "harvest_survey_start": "2024-03-11 10:52:06",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-11 10:53:21",
-      "longitude": 29.4018,
-      "latitude": -1.9062
+      "longitude": 29.4049,
+      "latitude": -1.9077
     },
     {
       "block_id": "2f16e9c6a9f9-118",
@@ -7980,8 +7989,8 @@
       "harvest_worstwhy": "Ntikura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-04-04 17:36:17",
-      "longitude": 29.41,
-      "latitude": -1.9276
+      "longitude": 29.4059,
+      "latitude": -1.926
     },
     {
       "block_id": "2f16e9c6a9f9-119",
@@ -8038,8 +8047,8 @@
       "harvest_worstwhy": "Ntikura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-04-04 17:37:26",
-      "longitude": 29.4024,
-      "latitude": -1.9191
+      "longitude": 29.3953,
+      "latitude": -1.9122
     },
     {
       "block_id": "2f16e9c6a9f9-120",
@@ -8095,8 +8104,8 @@
       "harvest_worstwhy": "Ntikura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-05 14:24:16",
-      "longitude": 29.3996,
-      "latitude": -1.908
+      "longitude": 29.3959,
+      "latitude": -1.9246
     },
     {
       "block_id": "2f16e9c6a9f9-121",
@@ -8152,8 +8161,8 @@
       "harvest_worstwhy": "Ntibikura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-04 11:51:55",
-      "longitude": 29.4097,
-      "latitude": -1.9185
+      "longitude": 29.3856,
+      "latitude": -1.9169
     },
     {
       "block_id": "2f16e9c6a9f9-122",
@@ -8209,8 +8218,8 @@
       "harvest_worstwhy": "Ntikura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-22 07:37:12",
-      "longitude": 29.3945,
-      "latitude": -1.9219
+      "longitude": 29.3996,
+      "latitude": -1.9021
     },
     {
       "block_id": "2f16e9c6a9f9-123",
@@ -8267,8 +8276,8 @@
       "harvest_worstwhy": "Ntiyihanganira imvura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-05 10:42:03",
-      "longitude": 29.4159,
-      "latitude": -1.924
+      "longitude": 29.397,
+      "latitude": -1.9183
     },
     {
       "block_id": "2f16e9c6a9f9-124",
@@ -8325,8 +8334,8 @@
       "harvest_worstwhy": "Ntiyihanganira inaha",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-05 14:47:58",
-      "longitude": 29.4128,
-      "latitude": -1.9191
+      "longitude": 29.4076,
+      "latitude": -1.9205
     },
     {
       "block_id": "2f16e9c6a9f9-125",
@@ -8380,8 +8389,8 @@
       "harvest_survey_start": "2024-03-05 13:10:00",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-05 13:12:40",
-      "longitude": 29.3957,
-      "latitude": -1.9121
+      "longitude": 29.4121,
+      "latitude": -1.9142
     },
     {
       "block_id": "2f16e9c6a9f9-126",
@@ -8437,8 +8446,8 @@
       "harvest_worstwhy": "Ntibikura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-06 06:36:41",
-      "longitude": 29.4154,
-      "latitude": -1.9073
+      "longitude": 29.4011,
+      "latitude": -1.9256
     },
     {
       "block_id": "2f16e9c6a9f9-127",
@@ -8494,8 +8503,8 @@
       "harvest_worstwhy": "Itinya muri akagace",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-04 11:00:34",
-      "longitude": 29.4126,
-      "latitude": -1.9276
+      "longitude": 29.405,
+      "latitude": -1.9096
     },
     {
       "block_id": "2f16e9c6a9f9-128",
@@ -8552,8 +8561,8 @@
       "harvest_worstwhy": "Yishwe ni imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-04 06:53:23",
-      "longitude": 29.398,
-      "latitude": -1.9269
+      "longitude": 29.4098,
+      "latitude": -1.9239
     },
     {
       "block_id": "2f16e9c6a9f9-129",
@@ -8610,8 +8619,8 @@
       "harvest_worstwhy": "Nyiyihangana",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-11 10:43:48",
-      "longitude": 29.3942,
-      "latitude": -1.9222
+      "longitude": 29.4076,
+      "latitude": -1.9329
     },
     {
       "block_id": "2f16e9c6a9f9-130",
@@ -8666,8 +8675,8 @@
       "harvest_survey_start": "2024-03-11 12:46:35",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-11 12:47:53",
-      "longitude": 29.3926,
-      "latitude": -1.9172
+      "longitude": 29.412,
+      "latitude": -1.9106
     },
     {
       "block_id": "2f16e9c6a9f9-131",
@@ -8733,8 +8742,8 @@
       "harvest_worstwhy": "Ntibikura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-13 12:21:11",
-      "longitude": 30.5054,
-      "latitude": -2.0741
+      "longitude": 30.4962,
+      "latitude": -2.0603
     },
     {
       "block_id": "2f16e9c6a9f9-132",
@@ -8799,8 +8808,8 @@
       "harvest_worstwhy": "Ntibikura neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-13 10:27:49",
-      "longitude": 30.5008,
-      "latitude": -2.0817
+      "longitude": 30.4952,
+      "latitude": -2.0818
     },
     {
       "block_id": "2f16e9c6a9f9-133",
@@ -8866,8 +8875,8 @@
       "harvest_worstwhy": "Ntikura neza",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-25 08:14:04",
-      "longitude": 30.4926,
-      "latitude": -2.0601
+      "longitude": 30.4875,
+      "latitude": -2.0583
     },
     {
       "block_id": "2f16e9c6a9f9-134",
@@ -8933,8 +8942,8 @@
       "harvest_worstwhy": "Nuko budakura neza",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-21 13:51:54",
-      "longitude": 30.5063,
-      "latitude": -2.0924
+      "longitude": 30.5077,
+      "latitude": -2.086
     },
     {
       "block_id": "2f16e9c6a9f9-135",
@@ -9000,8 +9009,8 @@
       "harvest_worstwhy": "Ntibyihanganira imvura nyinshi",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-05 06:46:24",
-      "longitude": 30.5227,
-      "latitude": -2.0983
+      "longitude": 30.4995,
+      "latitude": -2.0865
     },
     {
       "block_id": "2f16e9c6a9f9-136",
@@ -9067,8 +9076,8 @@
       "harvest_worstwhy": "Ntikura kandi ntiyihanganira kubana n`ibigori.",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-22 06:50:05",
-      "longitude": 30.502,
-      "latitude": -2.074
+      "longitude": 30.5074,
+      "latitude": -2.0614
     },
     {
       "block_id": "2f16e9c6a9f9-137",
@@ -9134,8 +9143,8 @@
       "harvest_worstwhy": "Yurira ibigori",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-17 17:10:39",
-      "longitude": 30.5017,
-      "latitude": -2.066
+      "longitude": 30.4937,
+      "latitude": -2.067
     },
     {
       "block_id": "2f16e9c6a9f9-138",
@@ -9201,8 +9210,8 @@
       "harvest_worstwhy": "Nuko bitihanganira kuvangwa nibigori.",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-10 06:47:47",
-      "longitude": 30.505,
-      "latitude": -2.0661
+      "longitude": 30.4994,
+      "latitude": -2.0705
     },
     {
       "block_id": "2f16e9c6a9f9-139",
@@ -9267,8 +9276,8 @@
       "harvest_worstwhy": "Ntikura neza.",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-09 09:04:02",
-      "longitude": 30.5061,
-      "latitude": -2.0712
+      "longitude": 30.493,
+      "latitude": -2.0801
     },
     {
       "block_id": "2f16e9c6a9f9-140",
@@ -9334,8 +9343,8 @@
       "harvest_worstwhy": "Yurira ibigori kandi igatuma hazamo imbeba.",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-15 14:36:33",
-      "longitude": 30.4958,
-      "latitude": -2.0631
+      "longitude": 30.4898,
+      "latitude": -2.0503
     },
     {
       "block_id": "2f16e9c6a9f9-141",
@@ -9401,8 +9410,8 @@
       "harvest_worstwhy": "Ntibikuraneza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-15 13:20:47",
-      "longitude": 30.4781,
-      "latitude": -2.0573
+      "longitude": 30.4834,
+      "latitude": -2.0635
     },
     {
       "block_id": "2f16e9c6a9f9-142",
@@ -9468,8 +9477,8 @@
       "harvest_worstwhy": "Ntikura neza kandi ntiyihanganira kuvangwa nindimyaka.",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-06 14:36:58",
-      "longitude": 30.5226,
-      "latitude": -2.0899
+      "longitude": 30.5134,
+      "latitude": -2.0857
     },
     {
       "block_id": "2f16e9c6a9f9-143",
@@ -9531,8 +9540,8 @@
       "harvest_worstwhy": "Ntago byatwikiriye ubuta cyane",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-12 06:54:14",
-      "longitude": 30.3167,
-      "latitude": -1.6858
+      "longitude": 30.3118,
+      "latitude": -1.67
     },
     {
       "block_id": "2f16e9c6a9f9-144",
@@ -9598,8 +9607,8 @@
       "harvest_worstwhy": "Ntago itanga isasiro",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-19 09:17:04",
-      "longitude": 30.3131,
-      "latitude": -1.6806
+      "longitude": 30.3266,
+      "latitude": -1.6752
     },
     {
       "block_id": "2f16e9c6a9f9-145",
@@ -9658,8 +9667,8 @@
       "harvest_worstwhy": "Ubu bwoko butinda gukura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-05 07:53:35",
-      "longitude": 30.3184,
-      "latitude": -1.6703
+      "longitude": 30.3129,
+      "latitude": -1.6684
     },
     {
       "block_id": "2f16e9c6a9f9-146",
@@ -9724,8 +9733,8 @@
       "harvest_worstwhy": "Ubu bwoko bukura gahoro",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-04 22:22:53",
-      "longitude": 30.2934,
-      "latitude": -1.6729
+      "longitude": 30.3164,
+      "latitude": -1.6807
     },
     {
       "block_id": "2f16e9c6a9f9-147",
@@ -9785,8 +9794,8 @@
       "harvest_worstwhy": "Ibi byatsi ntago bitwikira ubutaka neza",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-12 08:11:14",
-      "longitude": 30.321,
-      "latitude": -1.6669
+      "longitude": 30.324,
+      "latitude": -1.6789
     },
     {
       "block_id": "2f16e9c6a9f9-148",
@@ -9852,8 +9861,8 @@
       "harvest_worstwhy": "Ubu bwoko butinda gukura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-05 07:56:58",
-      "longitude": 30.3013,
-      "latitude": -1.6685
+      "longitude": 30.3077,
+      "latitude": -1.6924
     },
     {
       "block_id": "2f16e9c6a9f9-149",
@@ -9919,8 +9928,8 @@
       "harvest_worstwhy": "Ntago ubu bwoko bwishimira kungwamo ibigoli",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-04 22:22:48",
-      "longitude": 30.2965,
-      "latitude": -1.674
+      "longitude": 30.3158,
+      "latitude": -1.6709
     },
     {
       "block_id": "2f16e9c6a9f9-150",
@@ -9982,8 +9991,8 @@
       "harvest_worstwhy": "Impamvu ntayikunze ntago imera vuba",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-29 09:01:15",
-      "longitude": 30.3106,
-      "latitude": -1.6694
+      "longitude": 30.3099,
+      "latitude": -1.6655
     },
     {
       "block_id": "2f16e9c6a9f9-151",
@@ -10049,8 +10058,8 @@
       "harvest_worstwhy": "Ibi nta musaruro wisasiro byatanga pe",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-29 22:49:14",
-      "longitude": 30.3188,
-      "latitude": -1.6771
+      "longitude": 30.3099,
+      "latitude": -1.6907
     },
     {
       "block_id": "2f16e9c6a9f9-152",
@@ -10116,8 +10125,8 @@
       "harvest_worstwhy": "Ntakizero cyuko byatanga umusaruro",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-29 22:44:09",
-      "longitude": 30.3096,
-      "latitude": -1.6825
+      "longitude": 30.3099,
+      "latitude": -1.6909
     },
     {
       "block_id": "2f16e9c6a9f9-153",
@@ -10183,8 +10192,8 @@
       "harvest_worstwhy": "Itinda gukura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-19 09:10:14",
-      "longitude": 30.321,
-      "latitude": -1.6832
+      "longitude": 30.3115,
+      "latitude": -1.6661
     },
     {
       "block_id": "2f16e9c6a9f9-154",
@@ -10248,8 +10257,8 @@
       "harvest_worstwhy": "Impamvu atayikunze nuko isangukira mubutaka vuba",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-29 22:36:48",
-      "longitude": 30.2917,
-      "latitude": -1.6764
+      "longitude": 30.3048,
+      "latitude": -1.6651
     },
     {
       "block_id": "2f16e9c6a9f9-155",
@@ -10315,8 +10324,8 @@
       "harvest_worstwhy": "Biba bigufiya",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-21 07:50:39",
-      "longitude": 30.5267,
-      "latitude": -1.7822
+      "longitude": 30.5211,
+      "latitude": -1.7742
     },
     {
       "block_id": "2f16e9c6a9f9-156",
@@ -10381,8 +10390,8 @@
       "harvest_worstwhy": "Ntabwo bitoha ngo bigire amababi menshi",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-07 20:31:04",
-      "longitude": 30.5299,
-      "latitude": -1.7636
+      "longitude": 30.5124,
+      "latitude": -1.7652
     },
     {
       "block_id": "2f16e9c6a9f9-157",
@@ -10448,8 +10457,8 @@
       "harvest_worstwhy": "Bitinyaigicucu cyane kdi ntibikura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-11 08:25:24",
-      "longitude": 30.5236,
-      "latitude": -1.7776
+      "longitude": 30.5247,
+      "latitude": -1.7783
     },
     {
       "block_id": "2f16e9c6a9f9-158",
@@ -10515,8 +10524,8 @@
       "harvest_worstwhy": "Ntikura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-21 07:54:46",
-      "longitude": 30.5187,
-      "latitude": -1.787
+      "longitude": 30.5202,
+      "latitude": -1.7865
     },
     {
       "block_id": "2f16e9c6a9f9-159",
@@ -10582,8 +10591,8 @@
       "harvest_worstwhy": "Itinya igicucu",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-07 16:17:19",
-      "longitude": 30.5285,
-      "latitude": -1.7827
+      "longitude": 30.5208,
+      "latitude": -1.7877
     },
     {
       "block_id": "2f16e9c6a9f9-160",
@@ -10648,8 +10657,8 @@
       "harvest_worstwhy": "Ntikura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-21 08:05:03",
-      "longitude": 30.5063,
-      "latitude": -1.7838
+      "longitude": 30.499,
+      "latitude": -1.7751
     },
     {
       "block_id": "2f16e9c6a9f9-161",
@@ -10714,8 +10723,8 @@
       "harvest_worstwhy": "Ntabwo ibangikana nigicucu",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-07 20:26:35",
-      "longitude": 30.5174,
-      "latitude": -1.7838
+      "longitude": 30.5175,
+      "latitude": -1.7686
     },
     {
       "block_id": "2f16e9c6a9f9-162",
@@ -10781,8 +10790,8 @@
       "harvest_worstwhy": "Ntabwo zikura zitinya igicucu",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-05 20:30:30",
-      "longitude": 30.5134,
-      "latitude": -1.7735
+      "longitude": 30.5189,
+      "latitude": -1.7824
     },
     {
       "block_id": "2f16e9c6a9f9-163",
@@ -10845,8 +10854,8 @@
       "harvest_bestwhy": "Ikura vuba ndintibangamira ibigori",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-02 13:27:38",
-      "longitude": 30.5178,
-      "latitude": -1.7825
+      "longitude": 30.5189,
+      "latitude": -1.7831
     },
     {
       "block_id": "2f16e9c6a9f9-164",
@@ -10911,8 +10920,8 @@
       "harvest_worstwhy": "Itinyaigicucu cyane",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-07 16:58:30",
-      "longitude": 30.5103,
-      "latitude": -1.7766
+      "longitude": 30.5244,
+      "latitude": -1.7791
     },
     {
       "block_id": "2f16e9c6a9f9-165",
@@ -10976,8 +10985,8 @@
       "harvest_worstwhy": "Ntibigira umumero mwiza",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-08 10:44:49",
-      "longitude": 30.5095,
-      "latitude": -1.806
+      "longitude": 30.5286,
+      "latitude": -1.798
     },
     {
       "block_id": "2f16e9c6a9f9-166",
@@ -11042,8 +11051,8 @@
       "harvest_worstwhy": "Ntikura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-21 07:52:53",
-      "longitude": 30.5131,
-      "latitude": -1.785
+      "longitude": 30.5008,
+      "latitude": -1.7892
     },
     {
       "block_id": "2f16e9c6a9f9-167",
@@ -11109,8 +11118,8 @@
       "harvest_worstwhy": "Ntikura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-21 09:55:37",
-      "longitude": 30.5226,
-      "latitude": -1.7672
+      "longitude": 30.525,
+      "latitude": -1.7755
     },
     {
       "block_id": "2f16e9c6a9f9-168",
@@ -11176,8 +11185,8 @@
       "harvest_worstwhy": "Itinya igicucu cyane",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-21 09:53:09",
-      "longitude": 30.5219,
-      "latitude": -1.7871
+      "longitude": 30.5045,
+      "latitude": -1.7739
     },
     {
       "block_id": "2f16e9c6a9f9-169",
@@ -11243,8 +11252,8 @@
       "harvest_worstwhy": "Itinya igicucu",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-11 08:07:58",
-      "longitude": 30.4975,
-      "latitude": -1.781
+      "longitude": 30.5007,
+      "latitude": -1.7914
     },
     {
       "block_id": "2f16e9c6a9f9-170",
@@ -11308,8 +11317,8 @@
       "harvest_worstwhy": "Bitinya igicucu",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-18 21:29:52",
-      "longitude": 30.5924,
-      "latitude": -1.8101
+      "longitude": 30.5792,
+      "latitude": -1.8075
     },
     {
       "block_id": "2f16e9c6a9f9-171",
@@ -11372,8 +11381,8 @@
       "harvest_worstwhy": "Itinya igicucu",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-21 07:21:30",
-      "longitude": 30.5899,
-      "latitude": -1.8108
+      "longitude": 30.5866,
+      "latitude": -1.8029
     },
     {
       "block_id": "2f16e9c6a9f9-172",
@@ -11437,8 +11446,8 @@
       "harvest_worstwhy": "Bitinya igicucu",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-16 11:35:30",
-      "longitude": 30.5823,
-      "latitude": -1.8067
+      "longitude": 30.5711,
+      "latitude": -1.8169
     },
     {
       "block_id": "2f16e9c6a9f9-173",
@@ -11500,8 +11509,8 @@
       "harvest_bestwhy": "Ikuravuba kdi ntitinya igicucu",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-16 15:17:00",
-      "longitude": 30.5806,
-      "latitude": -1.8219
+      "longitude": 30.5714,
+      "latitude": -1.7999
     },
     {
       "block_id": "2f16e9c6a9f9-174",
@@ -11565,8 +11574,8 @@
       "harvest_worstwhy": "Bitinya igicucu",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-21 06:56:31",
-      "longitude": 30.5724,
-      "latitude": -1.8
+      "longitude": 30.5808,
+      "latitude": -1.8214
     },
     {
       "block_id": "2f16e9c6a9f9-175",
@@ -11630,8 +11639,8 @@
       "harvest_worstwhy": "Itinya igicucu",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-16 11:02:41",
-      "longitude": 30.5893,
-      "latitude": -1.8005
+      "longitude": 30.5813,
+      "latitude": -1.8036
     },
     {
       "block_id": "2f16e9c6a9f9-176",
@@ -11693,8 +11702,8 @@
       "harvest_worstwhy": "Bitinyaigicucu",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-18 21:23:00",
-      "longitude": 30.5685,
-      "latitude": -1.8121
+      "longitude": 30.572,
+      "latitude": -1.8108
     },
     {
       "block_id": "2f16e9c6a9f9-177",
@@ -11758,8 +11767,8 @@
       "harvest_worstwhy": "Itinya igicucu",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-21 07:18:58",
-      "longitude": 30.5872,
-      "latitude": -1.8061
+      "longitude": 30.5669,
+      "latitude": -1.8212
     },
     {
       "block_id": "2f16e9c6a9f9-178",
@@ -11822,8 +11831,8 @@
       "harvest_worstwhy": "Itinya igicucu",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-16 13:13:29",
-      "longitude": 30.5688,
-      "latitude": -1.8154
+      "longitude": 30.5784,
+      "latitude": -1.819
     },
     {
       "block_id": "2f16e9c6a9f9-179",
@@ -11887,8 +11896,8 @@
       "harvest_worstwhy": "Ntibikura neza",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-20 12:18:17",
-      "longitude": 30.5857,
-      "latitude": -1.8159
+      "longitude": 30.5797,
+      "latitude": -1.8138
     },
     {
       "block_id": "2f16e9c6a9f9-180",
@@ -11952,8 +11961,8 @@
       "harvest_worstwhy": "Itinya igicucu",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-21 07:24:21",
-      "longitude": 30.5812,
-      "latitude": -1.8173
+      "longitude": 30.5896,
+      "latitude": -1.8082
     },
     {
       "block_id": "2f16e9c6a9f9-181",
@@ -12017,8 +12026,8 @@
       "harvest_worstwhy": "Bitinya igicucu",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-16 11:32:04",
-      "longitude": 30.5709,
-      "latitude": -1.8083
+      "longitude": 30.5901,
+      "latitude": -1.8099
     },
     {
       "block_id": "2f16e9c6a9f9-182",
@@ -12081,8 +12090,8 @@
       "harvest_worstwhy": "Itinya igicucu",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-16 11:10:35",
-      "longitude": 30.576,
-      "latitude": -1.8217
+      "longitude": 30.5652,
+      "latitude": -1.8195
     },
     {
       "block_id": "2f16e9c6a9f9-183",
@@ -12146,8 +12155,8 @@
       "harvest_worstwhy": "Itinya igicucu cyane",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-16 11:06:51",
-      "longitude": 30.5783,
-      "latitude": -1.8095
+      "longitude": 30.5796,
+      "latitude": -1.7998
     },
     {
       "block_id": "2f16e9c6a9f9-184",
@@ -12211,8 +12220,8 @@
       "harvest_worstwhy": "Ntabwoikura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-21 07:29:47",
-      "longitude": 30.5758,
-      "latitude": -1.8101
+      "longitude": 30.5817,
+      "latitude": -1.791
     },
     {
       "block_id": "2f16e9c6a9f9-185",
@@ -12278,8 +12287,8 @@
       "harvest_worstwhy": "Ntasasiro bitanga Ntavwo bikura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-02 08:57:47",
-      "longitude": 30.2073,
-      "latitude": -2.1073
+      "longitude": 30.1935,
+      "latitude": -2.1171
     },
     {
       "block_id": "2f16e9c6a9f9-186",
@@ -12345,8 +12354,8 @@
       "harvest_worstwhy": "Ntabwo bitanga isasiro",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-26 16:57:10",
-      "longitude": 30.1844,
-      "latitude": -2.1166
+      "longitude": 30.1783,
+      "latitude": -2.1122
     },
     {
       "block_id": "2f16e9c6a9f9-187",
@@ -12412,8 +12421,8 @@
       "harvest_worstwhy": "Ntabwo bitanga isasiro kandi bitinda gukura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-24 13:54:26",
-      "longitude": 30.1871,
-      "latitude": -2.1149
+      "longitude": 30.1692,
+      "latitude": -2.1158
     },
     {
       "block_id": "2f16e9c6a9f9-188",
@@ -12479,8 +12488,8 @@
       "harvest_worstwhy": "Ntabwo bikura Ntasasiro bitanga",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-06 14:42:11",
-      "longitude": 30.2025,
-      "latitude": -2.1046
+      "longitude": 30.1905,
+      "latitude": -2.1094
     },
     {
       "block_id": "2f16e9c6a9f9-189",
@@ -12546,8 +12555,8 @@
       "harvest_worstwhy": "Ntasasiro bitanga kandi bitinya imvura bigatinya izuba",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-30 17:45:16",
-      "longitude": 30.177,
-      "latitude": -2.108
+      "longitude": 30.1901,
+      "latitude": -2.1047
     },
     {
       "block_id": "2f16e9c6a9f9-190",
@@ -12613,8 +12622,8 @@
       "harvest_worstwhy": "Ntabwo bikura Ntasasiro bitanga",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-30 13:41:25",
-      "longitude": 30.196,
-      "latitude": -2.1179
+      "longitude": 30.1909,
+      "latitude": -2.1017
     },
     {
       "block_id": "2f16e9c6a9f9-191",
@@ -12680,8 +12689,8 @@
       "harvest_worstwhy": "Ntabwo bitanga isasiro",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-26 16:24:30",
-      "longitude": 30.1829,
-      "latitude": -2.1214
+      "longitude": 30.1932,
+      "latitude": -2.1044
     },
     {
       "block_id": "2f16e9c6a9f9-192",
@@ -12746,8 +12755,8 @@
       "harvest_worstwhy": "Bitinda gukura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-02 10:07:31",
-      "longitude": 30.1886,
-      "latitude": -2.1193
+      "longitude": 30.1908,
+      "latitude": -2.1056
     },
     {
       "block_id": "2f16e9c6a9f9-193",
@@ -12813,8 +12822,8 @@
       "harvest_worstwhy": "Ntabwo bukura ntanisaso butanga",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-26 16:22:12",
-      "longitude": 30.1831,
-      "latitude": -2.1074
+      "longitude": 30.1803,
+      "latitude": -2.1121
     },
     {
       "block_id": "2f16e9c6a9f9-194",
@@ -12880,8 +12889,8 @@
       "harvest_worstwhy": "Ntabwo butanga isasiro",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-17 13:44:16",
-      "longitude": 30.2004,
-      "latitude": -2.1162
+      "longitude": 30.2056,
+      "latitude": -2.1056
     },
     {
       "block_id": "2f16e9c6a9f9-195",
@@ -12947,8 +12956,8 @@
       "harvest_worstwhy": "Ntamusaruro w`ibyatsi bitanga",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-08 17:33:35",
-      "longitude": 30.1939,
-      "latitude": -2.1156
+      "longitude": 30.1929,
+      "latitude": -2.1194
     },
     {
       "block_id": "2f16e9c6a9f9-196",
@@ -13013,8 +13022,8 @@
       "harvest_worstwhy": "Ntabwo bitanga isasiro",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-24 18:34:17",
-      "longitude": 30.1798,
-      "latitude": -2.1182
+      "longitude": 30.1739,
+      "latitude": -2.1019
     },
     {
       "block_id": "2f16e9c6a9f9-197",
@@ -13071,8 +13080,8 @@
       "harvest_worstwhy": "Byurira ibigori",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-15 07:12:19",
-      "longitude": 30.2953,
-      "latitude": -1.4284
+      "longitude": 30.2851,
+      "latitude": -1.4426
     },
     {
       "block_id": "2f16e9c6a9f9-198",
@@ -13129,8 +13138,8 @@
       "harvest_worstwhy": "Nti bimera kdi nta mababi bigira",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-29 13:09:58",
-      "longitude": 30.2945,
-      "latitude": -1.4382
+      "longitude": 30.2853,
+      "latitude": -1.4344
     },
     {
       "block_id": "2f16e9c6a9f9-199",
@@ -13187,8 +13196,8 @@
       "harvest_worstwhy": "Nti mera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-29 15:14:32",
-      "longitude": 30.3023,
-      "latitude": -1.4211
+      "longitude": 30.3015,
+      "latitude": -1.4318
     },
     {
       "block_id": "2f16e9c6a9f9-200",
@@ -13245,8 +13254,8 @@
       "harvest_worstwhy": "Byurira ibigori bigatuma bigwa",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-17 16:51:04",
-      "longitude": 30.2941,
-      "latitude": -1.4216
+      "longitude": 30.2938,
+      "latitude": -1.429
     },
     {
       "block_id": "2f16e9c6a9f9-201",
@@ -13303,8 +13312,8 @@
       "harvest_worstwhy": "Nta musaruro uhagije byagize kdi bigahita byuma",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-17 08:55:43",
-      "longitude": 30.2965,
-      "latitude": -1.4403
+      "longitude": 30.292,
+      "latitude": -1.4348
     },
     {
       "block_id": "2f16e9c6a9f9-202",
@@ -13361,8 +13370,8 @@
       "harvest_worstwhy": "Nta mumero mwinshi ifite",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-29 15:47:18",
-      "longitude": 30.3055,
-      "latitude": -1.4345
+      "longitude": 30.2921,
+      "latitude": -1.4352
     },
     {
       "block_id": "2f16e9c6a9f9-203",
@@ -13419,8 +13428,8 @@
       "harvest_worstwhy": "Ibyatsi bifata ku bigori bikabibuza gukura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-29 12:50:17",
-      "longitude": 30.2941,
-      "latitude": -1.4414
+      "longitude": 30.2986,
+      "latitude": -1.4287
     },
     {
       "block_id": "2f16e9c6a9f9-204",
@@ -13477,8 +13486,8 @@
       "harvest_worstwhy": "Ntabwo yameze kdi yishwe nimvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-15 07:18:20",
-      "longitude": 30.3061,
-      "latitude": -1.4283
+      "longitude": 30.2995,
+      "latitude": -1.4293
     },
     {
       "block_id": "2f16e9c6a9f9-205",
@@ -13535,8 +13544,8 @@
       "harvest_worstwhy": "Ntabwo yameze",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-15 07:07:03",
-      "longitude": 30.2935,
-      "latitude": -1.4245
+      "longitude": 30.2826,
+      "latitude": -1.4293
     },
     {
       "block_id": "2f16e9c6a9f9-206",
@@ -13593,8 +13602,8 @@
       "harvest_worstwhy": "Nabwo ikura",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-01-29 14:18:13",
-      "longitude": 30.3104,
-      "latitude": -1.436
+      "longitude": 30.2963,
+      "latitude": -1.4248
     },
     {
       "block_id": "2f16e9c6a9f9-207",
@@ -13660,8 +13669,8 @@
       "harvest_worstwhy": "Ntabwo imera neza kandi ntanubwo yatanga umusaruro",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-19 15:59:29",
-      "longitude": 29.9223,
-      "latitude": -2.4595
+      "longitude": 29.9099,
+      "latitude": -2.4653
     },
     {
       "block_id": "2f16e9c6a9f9-208",
@@ -13726,8 +13735,8 @@
       "harvest_worstwhy": "Kuko bitagabanya ibindi byatsi",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-06 07:33:56",
-      "longitude": 29.9052,
-      "latitude": -2.4619
+      "longitude": 29.929,
+      "latitude": -2.4726
     },
     {
       "block_id": "2f16e9c6a9f9-209",
@@ -13793,8 +13802,8 @@
       "harvest_worstwhy": "Ntabwo bukura neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-01 08:23:42",
-      "longitude": 29.9108,
-      "latitude": -2.4543
+      "longitude": 29.9151,
+      "latitude": -2.451
     },
     {
       "block_id": "2f16e9c6a9f9-210",
@@ -13860,8 +13869,8 @@
       "harvest_worstwhy": "Kuko ntamusaruro wabyo nabonye",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-06 06:44:06",
-      "longitude": 29.911,
-      "latitude": -2.4683
+      "longitude": 29.9149,
+      "latitude": -2.4508
     },
     {
       "block_id": "2f16e9c6a9f9-211",
@@ -13926,8 +13935,8 @@
       "harvest_worstwhy": "Kuko butemera kuvangwa nindi myaka",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-05 15:03:10",
-      "longitude": 29.9147,
-      "latitude": -2.4761
+      "longitude": 29.9222,
+      "latitude": -2.4763
     },
     {
       "block_id": "2f16e9c6a9f9-212",
@@ -13993,8 +14002,8 @@
       "harvest_worstwhy": "Kuko bidakura neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-21 13:22:01",
-      "longitude": 29.9184,
-      "latitude": -2.4559
+      "longitude": 29.9111,
+      "latitude": -2.463
     },
     {
       "block_id": "2f16e9c6a9f9-213",
@@ -14057,8 +14066,8 @@
       "harvest_worstwhy": "Nuko nta musaruro byamaye",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-19 16:20:17",
-      "longitude": 29.908,
-      "latitude": -2.4616
+      "longitude": 29.9189,
+      "latitude": -2.4631
     },
     {
       "block_id": "2f16e9c6a9f9-214",
@@ -14123,8 +14132,8 @@
       "harvest_bestwhy": "Kuko bigabanya ibindi byatsi mumurima kandi ntibigire icyo bitwara ibindi bihingwa",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-05 16:04:30",
-      "longitude": 29.9126,
-      "latitude": -2.4737
+      "longitude": 29.9036,
+      "latitude": -2.4684
     },
     {
       "block_id": "2f16e9c6a9f9-215",
@@ -14190,8 +14199,8 @@
       "harvest_worstwhy": "Nuko bitagabanya ibindi byatsi mumurima",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-31 15:31:55",
-      "longitude": 29.9209,
-      "latitude": -2.4804
+      "longitude": 29.9064,
+      "latitude": -2.4852
     },
     {
       "block_id": "2f16e9c6a9f9-216",
@@ -14257,8 +14266,8 @@
       "harvest_worstwhy": "Nuko ntamusaruro bitanga",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-05 09:06:28",
-      "longitude": 29.9174,
-      "latitude": -2.4557
+      "longitude": 29.9153,
+      "latitude": -2.4727
     },
     {
       "block_id": "2f16e9c6a9f9-217",
@@ -14323,8 +14332,8 @@
       "harvest_bestwhy": "Kuko bwagabanya ibindi byatsi mumurima",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-01 14:09:46",
-      "longitude": 29.9189,
-      "latitude": -2.461
+      "longitude": 29.9167,
+      "latitude": -2.4543
     },
     {
       "block_id": "2f16e9c6a9f9-218",
@@ -14390,8 +14399,8 @@
       "harvest_worstwhy": "ntibyameze sinabibonye,nutwameze twahise tuyoka",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-09 15:35:12",
-      "longitude": 29.7615,
-      "latitude": -2.5657
+      "longitude": 29.7452,
+      "latitude": -2.5585
     },
     {
       "block_id": "2f16e9c6a9f9-219",
@@ -14457,8 +14466,8 @@
       "harvest_worstwhy": "ntibimera,ntibusa neza",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-26 16:39:04",
-      "longitude": 29.7529,
-      "latitude": -2.5634
+      "longitude": 29.7533,
+      "latitude": -2.5665
     },
     {
       "block_id": "2f16e9c6a9f9-220",
@@ -14524,8 +14533,8 @@
       "harvest_worstwhy": "imera itinze, ntikura,itinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-17 09:50:58",
-      "longitude": 29.7594,
-      "latitude": -2.5446
+      "longitude": 29.7523,
+      "latitude": -2.5525
     },
     {
       "block_id": "2f16e9c6a9f9-221",
@@ -14591,8 +14600,8 @@
       "harvest_worstwhy": "ntibikura neza",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-18 10:43:00",
-      "longitude": 29.7454,
-      "latitude": -2.5599
+      "longitude": 29.7491,
+      "latitude": -2.5472
     },
     {
       "block_id": "2f16e9c6a9f9-222",
@@ -14657,8 +14666,8 @@
       "harvest_worstwhy": "ntikura neza",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-02 12:14:09",
-      "longitude": 29.7478,
-      "latitude": -2.5418
+      "longitude": 29.7592,
+      "latitude": -2.5613
     },
     {
       "block_id": "2f16e9c6a9f9-223",
@@ -14724,8 +14733,8 @@
       "harvest_worstwhy": "Ntikura neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-07 09:15:55",
-      "longitude": 29.7536,
-      "latitude": -2.5612
+      "longitude": 29.7495,
+      "latitude": -2.5512
     },
     {
       "block_id": "2f16e9c6a9f9-224",
@@ -14791,8 +14800,8 @@
       "harvest_worstwhy": "Ntibyameze sinanabibonye sinzi isura yabyo,",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-09 12:24:47",
-      "longitude": 29.7645,
-      "latitude": -2.5622
+      "longitude": 29.7567,
+      "latitude": -2.5539
     },
     {
       "block_id": "2f16e9c6a9f9-225",
@@ -14858,8 +14867,8 @@
       "harvest_worstwhy": "Zicwa nimvura cyane,",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-26 17:38:55",
-      "longitude": 29.7538,
-      "latitude": -2.5484
+      "longitude": 29.7664,
+      "latitude": -2.5714
     },
     {
       "block_id": "2f16e9c6a9f9-226",
@@ -14925,8 +14934,8 @@
       "harvest_worstwhy": "Ntacyajemo ntibikura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-18 15:42:29",
-      "longitude": 29.7654,
-      "latitude": -2.5641
+      "longitude": 29.7668,
+      "latitude": -2.5502
     },
     {
       "block_id": "2f16e9c6a9f9-227",
@@ -14992,8 +15001,8 @@
       "harvest_worstwhy": "Byahise bipfa ntanibyo nabonye",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-09 16:13:27",
-      "longitude": 29.7666,
-      "latitude": -2.5495
+      "longitude": 29.7674,
+      "latitude": -2.5624
     },
     {
       "block_id": "2f16e9c6a9f9-228",
@@ -15058,8 +15067,8 @@
       "harvest_worstwhy": "byahise biyoka, mbona ntamumaro bifite",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-07 14:21:00",
-      "longitude": 29.7666,
-      "latitude": -2.5587
+      "longitude": 29.7564,
+      "latitude": -2.5608
     },
     {
       "block_id": "2f16e9c6a9f9-229",
@@ -15125,8 +15134,8 @@
       "harvest_worstwhy": "ntibyameze neza,ntibinakura,namatungo arabyona",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-14 17:09:57",
-      "longitude": 29.7639,
-      "latitude": -2.562
+      "longitude": 29.758,
+      "latitude": -2.5681
     },
     {
       "block_id": "2f16e9c6a9f9-230",
@@ -15192,8 +15201,8 @@
       "harvest_worstwhy": "ntibimera,kandi ntikura,",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-07 10:58:47",
-      "longitude": 29.7451,
-      "latitude": -2.5591
+      "longitude": 29.7517,
+      "latitude": -2.5606
     },
     {
       "block_id": "2f16e9c6a9f9-231",
@@ -15258,8 +15267,8 @@
       "harvest_worstwhy": "byahise biyoka,",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-31 16:21:36",
-      "longitude": 29.764,
-      "latitude": -2.5613
+      "longitude": 29.7447,
+      "latitude": -2.547
     },
     {
       "block_id": "2f16e9c6a9f9-232",
@@ -15325,8 +15334,8 @@
       "harvest_worstwhy": "ntibikura nagato",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-18 14:37:22",
-      "longitude": 29.7505,
-      "latitude": -2.5662
+      "longitude": 29.7481,
+      "latitude": -2.5551
     },
     {
       "block_id": "2f16e9c6a9f9-233",
@@ -15392,8 +15401,8 @@
       "harvest_worstwhy": "itinya imvura cyane irababuka",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-01-17 13:54:16",
-      "longitude": 29.7493,
-      "latitude": -2.5513
+      "longitude": 29.7529,
+      "latitude": -2.5391
     },
     {
       "block_id": "2f16e9c6a9f9-234",
@@ -15459,8 +15468,8 @@
       "harvest_worstwhy": "byaragwingiye ntibyakuze neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-09 15:54:49",
-      "longitude": 29.7458,
-      "latitude": -2.5617
+      "longitude": 29.7531,
+      "latitude": -2.5509
     },
     {
       "block_id": "2f16e9c6a9f9-235",
@@ -15526,8 +15535,8 @@
       "harvest_worstwhy": "Ntikura vuba kandi itinya izuba ihita yuma iyo rivuye",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-15 09:14:12",
-      "longitude": 29.8507,
-      "latitude": -2.3261
+      "longitude": 29.8619,
+      "latitude": -2.3306
     },
     {
       "block_id": "2f16e9c6a9f9-236",
@@ -15593,8 +15602,8 @@
       "harvest_worstwhy": "Kubivanga nibigori, ibigori ntibikura neza biboha ibigori",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-05 08:46:14",
-      "longitude": 29.8627,
-      "latitude": -2.3251
+      "longitude": 29.8533,
+      "latitude": -2.319
     },
     {
       "block_id": "2f16e9c6a9f9-237",
@@ -15659,8 +15668,8 @@
       "harvest_worstwhy": "Byarumye ntabwo bitwikira ubutaka nisasiro ntayo kuko byayotse",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-22 08:48:07",
-      "longitude": 29.8673,
-      "latitude": -2.3154
+      "longitude": 29.8687,
+      "latitude": -2.3229
     },
     {
       "block_id": "2f16e9c6a9f9-238",
@@ -15726,8 +15735,8 @@
       "harvest_worstwhy": "Bitinya izuba",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-04 09:01:52",
-      "longitude": 29.8617,
-      "latitude": -2.3164
+      "longitude": 29.8787,
+      "latitude": -2.3226
     },
     {
       "block_id": "2f16e9c6a9f9-239",
@@ -15793,8 +15802,8 @@
       "harvest_worstwhy": "Hamezemo bikeya",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-22 08:48:16",
-      "longitude": 29.8581,
-      "latitude": -2.3294
+      "longitude": 29.8616,
+      "latitude": -2.3162
     },
     {
       "block_id": "2f16e9c6a9f9-240",
@@ -15857,8 +15866,8 @@
       "harvest_worstwhy": "Ntabwo itwikira ubutaka",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-28 21:39:57",
-      "longitude": 29.864,
-      "latitude": -2.3126
+      "longitude": 29.8695,
+      "latitude": -2.3171
     },
     {
       "block_id": "2f16e9c6a9f9-241",
@@ -15924,8 +15933,8 @@
       "harvest_worstwhy": "Itinya izuba ryinshi",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-18 17:10:48",
-      "longitude": 29.8665,
-      "latitude": -2.3433
+      "longitude": 29.8523,
+      "latitude": -2.3298
     },
     {
       "block_id": "2f16e9c6a9f9-242",
@@ -15990,8 +15999,8 @@
       "harvest_worstwhy": "Ntabwo bimera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-21 09:51:51",
-      "longitude": 29.8746,
-      "latitude": -2.3234
+      "longitude": 29.8662,
+      "latitude": -2.3345
     },
     {
       "block_id": "2f16e9c6a9f9-243",
@@ -16057,8 +16066,8 @@
       "harvest_worstwhy": "Bitinya izuba",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-18 17:10:40",
-      "longitude": 29.8717,
-      "latitude": -2.3343
+      "longitude": 29.8714,
+      "latitude": -2.3353
     },
     {
       "block_id": "2f16e9c6a9f9-244",
@@ -16124,8 +16133,8 @@
       "harvest_worstwhy": "Ntabwo itwikira ubutaka",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-28 21:20:31",
-      "longitude": 29.8619,
-      "latitude": -2.3174
+      "longitude": 29.8595,
+      "latitude": -2.3205
     },
     {
       "block_id": "2f16e9c6a9f9-245",
@@ -16190,8 +16199,8 @@
       "harvest_worstwhy": "Ntibikura kandi bitinya izuba",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-21 09:51:59",
-      "longitude": 29.8713,
-      "latitude": -2.3214
+      "longitude": 29.8769,
+      "latitude": -2.3206
     },
     {
       "block_id": "2f16e9c6a9f9-246",
@@ -16256,8 +16265,8 @@
       "harvest_worstwhy": "Ntabwo zisasira ubutaka",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-28 21:42:55",
-      "longitude": 29.8618,
-      "latitude": -2.3116
+      "longitude": 29.8691,
+      "latitude": -2.3187
     },
     {
       "block_id": "2f16e9c6a9f9-247",
@@ -16323,8 +16332,8 @@
       "harvest_worstwhy": "Ntabwo itwikira ubutaka",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-05 08:47:01",
-      "longitude": 29.8586,
-      "latitude": -2.3242
+      "longitude": 29.8615,
+      "latitude": -2.3278
     },
     {
       "block_id": "2f16e9c6a9f9-248",
@@ -16388,8 +16397,8 @@
       "harvest_bestwhy": "Irakura cyane igatanga isasiro",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-07 12:35:52",
-      "longitude": 29.0927,
-      "latitude": -2.3523
+      "longitude": 29.0889,
+      "latitude": -2.3499
     },
     {
       "block_id": "2f16e9c6a9f9-249",
@@ -16454,8 +16463,8 @@
       "harvest_worstwhy": "Birababuka",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-19 12:16:44",
-      "longitude": 29.0762,
-      "latitude": -2.3716
+      "longitude": 29.0831,
+      "latitude": -2.3535
     },
     {
       "block_id": "2f16e9c6a9f9-250",
@@ -16518,8 +16527,8 @@
       "harvest_worstwhy": "Ntakigenda",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-19 12:30:22",
-      "longitude": 29.0888,
-      "latitude": -2.3498
+      "longitude": 29.0926,
+      "latitude": -2.3527
     },
     {
       "block_id": "2f16e9c6a9f9-251",
@@ -16585,8 +16594,8 @@
       "harvest_worstwhy": "Byarapfuye",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-19 12:22:12",
-      "longitude": 29.1396,
-      "latitude": -2.3362
+      "longitude": 29.1435,
+      "latitude": -2.33
     },
     {
       "block_id": "2f16e9c6a9f9-252",
@@ -16650,8 +16659,8 @@
       "harvest_worstwhy": "Ntago ari byiza",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-28 15:23:56",
-      "longitude": 29.1602,
-      "latitude": -2.3386
+      "longitude": 29.1426,
+      "latitude": -2.3389
     },
     {
       "block_id": "2f16e9c6a9f9-253",
@@ -16716,8 +16725,8 @@
       "harvest_worstwhy": "Byanze gukura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-14 12:23:40",
-      "longitude": 29.0994,
-      "latitude": -2.347
+      "longitude": 29.0992,
+      "latitude": -2.3525
     },
     {
       "block_id": "2f16e9c6a9f9-254",
@@ -16780,8 +16789,8 @@
       "harvest_worstwhy": "Ntago bimmera",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-03 19:20:29",
-      "longitude": 29.1377,
-      "latitude": -2.3402
+      "longitude": 29.1619,
+      "latitude": -2.3443
     },
     {
       "block_id": "2f16e9c6a9f9-255",
@@ -16846,8 +16855,8 @@
       "harvest_worstwhy": "Ntamusaruro igira",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-22 09:57:57",
-      "longitude": 29.0821,
-      "latitude": -2.3607
+      "longitude": 29.099,
+      "latitude": -2.369
     },
     {
       "block_id": "2f16e9c6a9f9-256",
@@ -16912,8 +16921,8 @@
       "harvest_worstwhy": "Ntamusaruro",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-22 10:57:21",
-      "longitude": 29.1373,
-      "latitude": -2.3451
+      "longitude": 29.1447,
+      "latitude": -2.3497
     },
     {
       "block_id": "2f16e9c6a9f9-257",
@@ -16978,8 +16987,8 @@
       "harvest_worstwhy": "Ntamusaruro itanga",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-22 10:28:01",
-      "longitude": 29.1501,
-      "latitude": -2.3278
+      "longitude": 29.1439,
+      "latitude": -2.3449
     },
     {
       "block_id": "2f16e9c6a9f9-258",
@@ -17034,8 +17043,8 @@
       "harvest_survey_start": "2024-02-05 15:54:01",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-05 15:55:28",
-      "longitude": 29.1339,
-      "latitude": -2.3182
+      "longitude": 29.1321,
+      "latitude": -2.3211
     },
     {
       "block_id": "2f16e9c6a9f9-259",
@@ -17086,8 +17095,8 @@
       "reproductive_plotlossreason": "Ntabwo yigeze atera ibyatsi ndumburabutaka",
       "reproductive_farmerknowledge": "None",
       "reproductive_survey_end": "2024-01-03 12:59:45",
-      "longitude": 29.1726,
-      "latitude": -2.2865
+      "longitude": 29.1819,
+      "latitude": -2.271
     },
     {
       "block_id": "2f16e9c6a9f9-260",
@@ -17142,8 +17151,8 @@
       "harvest_survey_start": "2024-02-10 12:43:01",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-10 12:45:18",
-      "longitude": 29.1413,
-      "latitude": -2.2995
+      "longitude": 29.158,
+      "latitude": -2.2942
     },
     {
       "block_id": "2f16e9c6a9f9-261",
@@ -17198,8 +17207,8 @@
       "harvest_survey_start": "2024-02-10 15:02:22",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-10 15:05:12",
-      "longitude": 29.1467,
-      "latitude": -2.2905
+      "longitude": 29.1516,
+      "latitude": -2.2957
     },
     {
       "block_id": "2f16e9c6a9f9-262",
@@ -17254,8 +17263,8 @@
       "harvest_survey_start": "2024-02-05 17:25:30",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-05 17:27:33",
-      "longitude": 29.1557,
-      "latitude": -2.2733
+      "longitude": 29.174,
+      "latitude": -2.2777
     },
     {
       "block_id": "2f16e9c6a9f9-263",
@@ -17310,8 +17319,8 @@
       "harvest_survey_start": "2024-02-05 19:05:38",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-05 19:08:05",
-      "longitude": 29.1396,
-      "latitude": -2.2855
+      "longitude": 29.1585,
+      "latitude": -2.303
     },
     {
       "block_id": "2f16e9c6a9f9-264",
@@ -17366,8 +17375,8 @@
       "harvest_survey_start": "2024-02-10 13:56:10",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-10 13:57:22",
-      "longitude": 29.1464,
-      "latitude": -2.2875
+      "longitude": 29.15,
+      "latitude": -2.2916
     },
     {
       "block_id": "2f16e9c6a9f9-265",
@@ -17422,8 +17431,8 @@
       "harvest_survey_start": "2024-02-10 14:00:57",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-10 14:02:37",
-      "longitude": 29.1541,
-      "latitude": -2.2924
+      "longitude": 29.1432,
+      "latitude": -2.2845
     },
     {
       "block_id": "2f16e9c6a9f9-266",
@@ -17479,8 +17488,8 @@
       "harvest_survey_start": "2024-02-10 16:29:29",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-10 16:35:15",
-      "longitude": 29.1537,
-      "latitude": -2.2765
+      "longitude": 29.1619,
+      "latitude": -2.2804
     },
     {
       "block_id": "2f16e9c6a9f9-267",
@@ -17535,8 +17544,8 @@
       "harvest_survey_start": "2024-03-11 17:19:16",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-11 17:20:44",
-      "longitude": 29.1724,
-      "latitude": -2.2972
+      "longitude": 29.1794,
+      "latitude": -2.2827
     },
     {
       "block_id": "2f16e9c6a9f9-268",
@@ -17590,8 +17599,8 @@
       "vegetativeupdated_plantdamag": "No",
       "vegetativeupdated_sampleid": "24ai.p2.104.268.T",
       "vegetativeupdated_survey_end": "2023-11-27 08:44:45",
-      "longitude": 29.0522,
-      "latitude": -2.6907
+      "longitude": 29.0428,
+      "latitude": -2.6952
     },
     {
       "block_id": "2f16e9c6a9f9-269",
@@ -17657,8 +17666,8 @@
       "harvest_worstwhy": "Ntabwo imera",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-05 08:02:54",
-      "longitude": 29.0365,
-      "latitude": -2.7018
+      "longitude": 29.0406,
+      "latitude": -2.6898
     },
     {
       "block_id": "2f16e9c6a9f9-270",
@@ -17723,8 +17732,8 @@
       "harvest_worstwhy": "Ntibimera neza,",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-19 06:28:28",
-      "longitude": 29.0419,
-      "latitude": -2.6776
+      "longitude": 29.0524,
+      "latitude": -2.6645
     },
     {
       "block_id": "2f16e9c6a9f9-271",
@@ -17790,8 +17799,8 @@
       "harvest_worstwhy": "Bimera nabi",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-19 06:21:36",
-      "longitude": 29.0403,
-      "latitude": -2.6844
+      "longitude": 29.0438,
+      "latitude": -2.6852
     },
     {
       "block_id": "2f16e9c6a9f9-272",
@@ -17856,8 +17865,8 @@
       "harvest_worstwhy": "Ntibimera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-12 10:38:36",
-      "longitude": 29.0389,
-      "latitude": -2.6677
+      "longitude": 29.0381,
+      "latitude": -2.686
     },
     {
       "block_id": "2f16e9c6a9f9-273",
@@ -17922,8 +17931,8 @@
       "harvest_worstwhy": "Ntabwo bimera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-12 10:34:55",
-      "longitude": 29.0336,
-      "latitude": -2.681
+      "longitude": 29.0548,
+      "latitude": -2.6817
     },
     {
       "block_id": "2f16e9c6a9f9-274",
@@ -17989,8 +17998,8 @@
       "harvest_worstwhy": "Ntimera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-05 07:59:00",
-      "longitude": 29.0347,
-      "latitude": -2.6847
+      "longitude": 29.0416,
+      "latitude": -2.6746
     },
     {
       "block_id": "2f16e9c6a9f9-275",
@@ -18044,8 +18053,8 @@
       "vegetativeupdated_plantdamag": "No",
       "vegetativeupdated_sampleid": "24ai.p2.104.275.T",
       "vegetativeupdated_survey_end": "2023-11-27 08:50:20",
-      "longitude": 29.0393,
-      "latitude": -2.6856
+      "longitude": 29.0497,
+      "latitude": -2.6847
     },
     {
       "block_id": "2f16e9c6a9f9-276",
@@ -18099,8 +18108,8 @@
       "vegetativeupdated_plantdamag": "No",
       "vegetativeupdated_sampleid": "24ai.p2.104.276.T",
       "vegetativeupdated_survey_end": "2023-11-28 12:05:29",
-      "longitude": 29.0478,
-      "latitude": -2.6837
+      "longitude": 29.0395,
+      "latitude": -2.6818
     },
     {
       "block_id": "2f16e9c6a9f9-277",
@@ -18166,8 +18175,8 @@
       "harvest_worstwhy": "Ntibimera byicwa nimvura cyane",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-04 07:54:48",
-      "longitude": 29.044,
-      "latitude": -2.6738
+      "longitude": 29.0528,
+      "latitude": -2.6758
     },
     {
       "block_id": "2f16e9c6a9f9-278",
@@ -18232,8 +18241,8 @@
       "harvest_worstwhy": "Ntamumerowabyo sinabibonye",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-16 13:52:33",
-      "longitude": 29.0074,
-      "latitude": -2.3888
+      "longitude": 29.0169,
+      "latitude": -2.3874
     },
     {
       "block_id": "2f16e9c6a9f9-279",
@@ -18298,8 +18307,8 @@
       "harvest_worstwhy": "Byosebyanze",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-23 18:13:58",
-      "longitude": 29.0207,
-      "latitude": -2.3897
+      "longitude": 29.0126,
+      "latitude": -2.3765
     },
     {
       "block_id": "2f16e9c6a9f9-280",
@@ -18364,8 +18373,8 @@
       "harvest_worstwhy": "Byurira imyaja",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-04 08:36:42",
-      "longitude": 29.0328,
-      "latitude": -2.3817
+      "longitude": 29.0202,
+      "latitude": -2.3914
     },
     {
       "block_id": "2f16e9c6a9f9-281",
@@ -18431,8 +18440,8 @@
       "harvest_worstwhy": "Ntiyameze",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-03 17:42:27",
-      "longitude": 29.0191,
-      "latitude": -2.3801
+      "longitude": 29.0164,
+      "latitude": -2.383
     },
     {
       "block_id": "2f16e9c6a9f9-282",
@@ -18497,8 +18506,8 @@
       "harvest_worstwhy": "Ntitwikira",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-23 09:30:02",
-      "longitude": 29.0171,
-      "latitude": -2.3905
+      "longitude": 29.0111,
+      "latitude": -2.395
     },
     {
       "block_id": "2f16e9c6a9f9-283",
@@ -18563,8 +18572,8 @@
       "harvest_worstwhy": "Ntibimera",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-07 16:26:12",
-      "longitude": 29.0088,
-      "latitude": -2.3825
+      "longitude": 29.0105,
+      "latitude": -2.3897
     },
     {
       "block_id": "2f16e9c6a9f9-284",
@@ -18628,8 +18637,8 @@
       "harvest_worstwhy": "Irandira kumyaka ikayangiza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-03 14:47:49",
-      "longitude": 29.0277,
-      "latitude": -2.4055
+      "longitude": 29.0287,
+      "latitude": -2.396
     },
     {
       "block_id": "2f16e9c6a9f9-285",
@@ -18693,8 +18702,8 @@
       "harvest_worstwhy": "Ibintubitaribwase nabikundiriki",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-09 13:58:11",
-      "longitude": 29.0165,
-      "latitude": -2.3861
+      "longitude": 29.0234,
+      "latitude": -2.3785
     },
     {
       "block_id": "2f16e9c6a9f9-286",
@@ -18753,8 +18762,8 @@
       "harvest_worstwhy": "Ntacyobyamaze",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-14 12:16:19",
-      "longitude": 29.009,
-      "latitude": -2.398
+      "longitude": 29.0255,
+      "latitude": -2.4055
     },
     {
       "block_id": "2f16e9c6a9f9-287",
@@ -18813,8 +18822,8 @@
       "reproductive_plotlossreason": "Imvura yarabyishe byose",
       "reproductive_farmerknowledge": "None",
       "reproductive_survey_end": "2024-01-19 09:57:03",
-      "longitude": 29.012,
-      "latitude": -2.3971
+      "longitude": 29.022,
+      "latitude": -2.408
     },
     {
       "block_id": "2f16e9c6a9f9-288",
@@ -18879,8 +18888,8 @@
       "harvest_worstwhy": "Izindi ntizameze",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-03 16:26:30",
-      "longitude": 29.0075,
-      "latitude": -2.4053
+      "longitude": 29.0251,
+      "latitude": -2.4092
     },
     {
       "block_id": "2f16e9c6a9f9-289",
@@ -18944,8 +18953,8 @@
       "harvest_worstwhy": "Birarandaranda bikurira muri make sibyiza",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-16 13:03:56",
-      "longitude": 29.024,
-      "latitude": -2.3961
+      "longitude": 29.0106,
+      "latitude": -2.3967
     },
     {
       "block_id": "2f16e9c6a9f9-290",
@@ -19011,8 +19020,8 @@
       "harvest_worstwhy": "Zone ntanimwe nakunze niyameze yurira imyaka ikagorana mukuyicunga",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-07 09:10:19",
-      "longitude": 29.012,
-      "latitude": -2.3887
+      "longitude": 29.0114,
+      "latitude": -2.3915
     },
     {
       "block_id": "2f16e9c6a9f9-291",
@@ -19078,8 +19087,8 @@
       "harvest_worstwhy": "Ntibyamezeneza",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-03 18:08:09",
-      "longitude": 29.0121,
-      "latitude": -2.3879
+      "longitude": 29.0199,
+      "latitude": -2.386
     },
     {
       "block_id": "2f16e9c6a9f9-292",
@@ -19144,8 +19153,8 @@
       "harvest_worstwhy": "Ntibimera ibindi bibangamira imyaka",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-07 18:49:10",
-      "longitude": 29.021,
-      "latitude": -2.3968
+      "longitude": 29.0263,
+      "latitude": -2.3988
     },
     {
       "block_id": "2f16e9c6a9f9-293",
@@ -19210,8 +19219,8 @@
       "harvest_worstwhy": "Ntakizacyabyonabonye",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-09 17:22:09",
-      "longitude": 29.0191,
-      "latitude": -2.3907
+      "longitude": 29.0087,
+      "latitude": -2.3859
     },
     {
       "block_id": "2f16e9c6a9f9-294",
@@ -19277,8 +19286,8 @@
       "harvest_worstwhy": "Byicwanimvuracyane",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-02-07 17:55:06",
-      "longitude": 29.0084,
-      "latitude": -2.3822
+      "longitude": 29.0276,
+      "latitude": -2.3779
     },
     {
       "block_id": "2f16e9c6a9f9-295",
@@ -19332,8 +19341,8 @@
       "vegetativeupdated_plantdamag": "Yes",
       "vegetativeupdated_sampleid": "24Ai.p2.112.295.T",
       "vegetativeupdated_survey_end": "2023-11-28 15:24:02",
-      "longitude": 29.0247,
-      "latitude": -2.3769
+      "longitude": 29.0192,
+      "latitude": -2.3842
     },
     {
       "block_id": "2f16e9c6a9f9-296",
@@ -19397,8 +19406,8 @@
       "harvest_worstwhy": "Ntibitwikira",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-04 09:11:31",
-      "longitude": 29.0213,
-      "latitude": -2.4001
+      "longitude": 29.0211,
+      "latitude": -2.386
     },
     {
       "block_id": "2f16e9c6a9f9-297",
@@ -19463,8 +19472,8 @@
       "harvest_worstwhy": "Ntibyakuze bizana isazicyane",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-01 16:55:44",
-      "longitude": 29.0064,
-      "latitude": -2.3753
+      "longitude": 29.0167,
+      "latitude": -2.3832
     },
     {
       "block_id": "2f16e9c6a9f9-298",
@@ -19521,8 +19530,8 @@
       "harvest_worstwhy": "Namusaruro bitanga",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-03-08 08:49:40",
-      "longitude": 28.8885,
-      "latitude": -2.5198
+      "longitude": 28.8839,
+      "latitude": -2.517
     },
     {
       "block_id": "2f16e9c6a9f9-299",
@@ -19580,8 +19589,8 @@
       "harvest_worstwhy": "Nibikura byicwa nimvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-14 12:01:25",
-      "longitude": 28.8917,
-      "latitude": -2.5013
+      "longitude": 28.8905,
+      "latitude": -2.4921
     },
     {
       "block_id": "2f16e9c6a9f9-300",
@@ -19640,8 +19649,8 @@
       "harvest_worstwhy": "Nibishisha imvura yarabyishe",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-24 09:10:08",
-      "longitude": 28.8776,
-      "latitude": -2.4979
+      "longitude": 28.8852,
+      "latitude": -2.5122
     },
     {
       "block_id": "2f16e9c6a9f9-301",
@@ -19699,8 +19708,8 @@
       "harvest_worstwhy": "Nibikura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-29 12:00:11",
-      "longitude": 28.9025,
-      "latitude": -2.5089
+      "longitude": 28.8846,
+      "latitude": -2.5063
     },
     {
       "block_id": "2f16e9c6a9f9-302",
@@ -19759,8 +19768,8 @@
       "harvest_worstwhy": "Nibikura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-05 10:59:43",
-      "longitude": 28.886,
-      "latitude": -2.4967
+      "longitude": 28.8828,
+      "latitude": -2.4934
     },
     {
       "block_id": "2f16e9c6a9f9-303",
@@ -19817,8 +19826,8 @@
       "harvest_worstwhy": "Namusaruro",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-29 08:21:24",
-      "longitude": 28.886,
-      "latitude": -2.5019
+      "longitude": 28.8879,
+      "latitude": -2.5213
     },
     {
       "block_id": "2f16e9c6a9f9-304",
@@ -19877,8 +19886,8 @@
       "harvest_worstwhy": "Nibikura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-08 11:12:54",
-      "longitude": 28.8889,
-      "latitude": -2.4958
+      "longitude": 28.8911,
+      "latitude": -2.5169
     },
     {
       "block_id": "2f16e9c6a9f9-305",
@@ -19928,8 +19937,8 @@
       "vegetativeupdated_plantdamag": "Yes",
       "vegetativeupdated_sampleid": "Umuhinzi aho yabiteye barahashijije barabirandura nandumburabutaka zihari",
       "vegetativeupdated_survey_end": "2023-11-14 14:29:12",
-      "longitude": 28.892,
-      "latitude": -2.4981
+      "longitude": 28.8978,
+      "latitude": -2.4987
     },
     {
       "block_id": "2f16e9c6a9f9-306",
@@ -19986,8 +19995,8 @@
       "harvest_worstwhy": "Nibikura byicwa nimvura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-29 12:04:42",
-      "longitude": 28.9027,
-      "latitude": -2.4997
+      "longitude": 28.9032,
+      "latitude": -2.503
     },
     {
       "block_id": "2f16e9c6a9f9-307",
@@ -20044,8 +20053,8 @@
       "harvest_worstwhy": "Nakigenda nibikura byicwa nimvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-03-08 11:18:04",
-      "longitude": 28.8885,
-      "latitude": -2.5108
+      "longitude": 28.8849,
+      "latitude": -2.4955
     },
     {
       "block_id": "2f16e9c6a9f9-308",
@@ -20104,8 +20113,8 @@
       "harvest_worstwhy": "Nibikura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-31 12:51:05",
-      "longitude": 28.879,
-      "latitude": -2.5046
+      "longitude": 28.8918,
+      "latitude": -2.5248
     },
     {
       "block_id": "2f16e9c6a9f9-309",
@@ -20164,8 +20173,8 @@
       "harvest_worstwhy": "Birasandara bigashishuka",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-22 10:45:24",
-      "longitude": 28.9055,
-      "latitude": -2.4967
+      "longitude": 28.9008,
+      "latitude": -2.5007
     },
     {
       "block_id": "2f16e9c6a9f9-310",
@@ -20224,8 +20233,8 @@
       "harvest_worstwhy": "Byanze kumera",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-03-23 10:15:13",
-      "longitude": 28.8916,
-      "latitude": -2.4951
+      "longitude": 28.9081,
+      "latitude": -2.4933
     },
     {
       "block_id": "2f16e9c6a9f9-311",
@@ -20282,8 +20291,8 @@
       "harvest_worstwhy": "Byizingazinga kubigori",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-02 08:48:02",
-      "longitude": 28.8861,
-      "latitude": -2.5032
+      "longitude": 28.8921,
+      "latitude": -2.5125
     },
     {
       "block_id": "2f16e9c6a9f9-312",
@@ -20340,8 +20349,8 @@
       "harvest_worstwhy": "Nambuto bigira",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-14 14:52:42",
-      "longitude": 28.9028,
-      "latitude": -2.4894
+      "longitude": 28.8954,
+      "latitude": -2.5046
     },
     {
       "block_id": "2f16e9c6a9f9-313",
@@ -20399,8 +20408,8 @@
       "harvest_worstwhy": "Yurira imyaka",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-25 17:26:26",
-      "longitude": 28.8897,
-      "latitude": -2.5169
+      "longitude": 28.8884,
+      "latitude": -2.5002
     },
     {
       "block_id": "2f16e9c6a9f9-314",
@@ -20457,8 +20466,8 @@
       "harvest_worstwhy": "Nibikura byicwa nimvura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-27 09:39:29",
-      "longitude": 28.8755,
-      "latitude": -2.5088
+      "longitude": 28.8803,
+      "latitude": -2.5186
     },
     {
       "block_id": "2f16e9c6a9f9-315",
@@ -20515,8 +20524,8 @@
       "harvest_worstwhy": "Ntagiti bigira",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-27 17:29:52",
-      "longitude": 28.891,
-      "latitude": -2.5155
+      "longitude": 28.8713,
+      "latitude": -2.5097
     },
     {
       "block_id": "2f16e9c6a9f9-316",
@@ -20573,8 +20582,8 @@
       "harvest_worstwhy": "Namusaruro bitanga",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-01-27 17:46:17",
-      "longitude": 28.8807,
-      "latitude": -2.5233
+      "longitude": 28.8797,
+      "latitude": -2.5149
     },
     {
       "block_id": "2f16e9c6a9f9-317",
@@ -20633,8 +20642,8 @@
       "harvest_worstwhy": "Byurira ibigori",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-05 15:37:49",
-      "longitude": 28.8993,
-      "latitude": -2.4974
+      "longitude": 28.9107,
+      "latitude": -2.4995
     },
     {
       "block_id": "2f16e9c6a9f9-318",
@@ -20679,8 +20688,8 @@
       "vegetativeupdated_plantdamag": "Yes",
       "vegetativeupdated_sampleid": "24Ai.p2.122.318.T",
       "vegetativeupdated_survey_end": "2023-11-22 12:30:26",
-      "longitude": 29.4076,
-      "latitude": -2.1097
+      "longitude": 29.4146,
+      "latitude": -2.1141
     },
     {
       "block_id": "2f16e9c6a9f9-319",
@@ -20737,8 +20746,8 @@
       "harvest_worstwhy": "Ni bimera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-02 08:56:36",
-      "longitude": 29.4113,
-      "latitude": -2.1032
+      "longitude": 29.4059,
+      "latitude": -2.1229
     },
     {
       "block_id": "2f16e9c6a9f9-320",
@@ -20795,8 +20804,8 @@
       "harvest_worstwhy": "Bitinya imvura nyinshi",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-31 15:06:41",
-      "longitude": 29.4079,
-      "latitude": -2.1117
+      "longitude": 29.3977,
+      "latitude": -2.0938
     },
     {
       "block_id": "2f16e9c6a9f9-321",
@@ -20853,8 +20862,8 @@
       "harvest_worstwhy": "Bitinya imvura nyinshi",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-07 12:49:10",
-      "longitude": 29.4064,
-      "latitude": -2.1246
+      "longitude": 29.406,
+      "latitude": -2.1143
     },
     {
       "block_id": "2f16e9c6a9f9-322",
@@ -20911,8 +20920,8 @@
       "harvest_worstwhy": "Ntiyihanganira imvura nyinshi",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-14 08:26:25",
-      "longitude": 29.4084,
-      "latitude": -2.1106
+      "longitude": 29.4237,
+      "latitude": -2.0953
     },
     {
       "block_id": "2f16e9c6a9f9-323",
@@ -20969,8 +20978,8 @@
       "harvest_worstwhy": "Bitinya imvura nyinshi",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-28 08:20:46",
-      "longitude": 29.4076,
-      "latitude": -2.1204
+      "longitude": 29.4139,
+      "latitude": -2.1188
     },
     {
       "block_id": "2f16e9c6a9f9-324",
@@ -21027,8 +21036,8 @@
       "harvest_worstwhy": "Ikura bitinze ukabona imagine ingufu",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-25 07:48:38",
-      "longitude": 29.3955,
-      "latitude": -2.1109
+      "longitude": 29.393,
+      "latitude": -2.0908
     },
     {
       "block_id": "2f16e9c6a9f9-325",
@@ -21085,8 +21094,8 @@
       "harvest_worstwhy": "Bitinya imvura nyinshi",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-08 10:14:52",
-      "longitude": 29.4134,
-      "latitude": -2.1007
+      "longitude": 29.417,
+      "latitude": -2.1086
     },
     {
       "block_id": "2f16e9c6a9f9-326",
@@ -21143,8 +21152,8 @@
       "harvest_worstwhy": "Bimera nabi",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-01-31 11:00:17",
-      "longitude": 29.4032,
-      "latitude": -2.11
+      "longitude": 29.4065,
+      "latitude": -2.0959
     },
     {
       "block_id": "2f16e9c6a9f9-327",
@@ -21201,8 +21210,8 @@
       "harvest_worstwhy": "Ntimera neza",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-14 11:39:00",
-      "longitude": 29.4172,
-      "latitude": -2.1006
+      "longitude": 29.4072,
+      "latitude": -2.1033
     },
     {
       "block_id": "2f16e9c6a9f9-328",
@@ -21259,8 +21268,8 @@
       "harvest_worstwhy": "Ntibyameze",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-01-25 07:39:47",
-      "longitude": 29.4044,
-      "latitude": -2.0895
+      "longitude": 29.3931,
+      "latitude": -2.1054
     },
     {
       "block_id": "2f16e9c6a9f9-329",
@@ -21317,8 +21326,8 @@
       "harvest_worstwhy": "Ntibimera neza",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-02 09:25:53",
-      "longitude": 29.4082,
-      "latitude": -2.1119
+      "longitude": 29.4036,
+      "latitude": -2.1093
     },
     {
       "block_id": "2f16e9c6a9f9-330",
@@ -21375,8 +21384,8 @@
       "harvest_worstwhy": "Imera nabi",
       "harvest_futureadoption": "None",
       "harvest_survey_end": "2024-03-07 15:58:49",
-      "longitude": 29.4052,
-      "latitude": -2.0894
+      "longitude": 29.4016,
+      "latitude": -2.0872
     },
     {
       "block_id": "2f16e9c6a9f9-331",
@@ -21433,8 +21442,8 @@
       "harvest_worstwhy": "Bitinya imvura nyinshi",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-07 16:10:26",
-      "longitude": 29.3972,
-      "latitude": -2.0904
+      "longitude": 29.3914,
+      "latitude": -2.096
     },
     {
       "block_id": "2f16e9c6a9f9-332",
@@ -21491,8 +21500,8 @@
       "harvest_worstwhy": "Bimera nabi",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-28 09:11:26",
-      "longitude": 29.3932,
-      "latitude": -2.1222
+      "longitude": 29.3976,
+      "latitude": -2.1138
     },
     {
       "block_id": "2f16e9c6a9f9-333",
@@ -21549,8 +21558,8 @@
       "harvest_worstwhy": "Imvura irabyica",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-02 08:00:38",
-      "longitude": 29.3972,
-      "latitude": -2.1031
+      "longitude": 29.3889,
+      "latitude": -2.0975
     },
     {
       "block_id": "2f16e9c6a9f9-334",
@@ -21607,8 +21616,8 @@
       "harvest_worstwhy": "Ntibimera",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-01-31 15:36:47",
-      "longitude": 29.404,
-      "latitude": -2.0909
+      "longitude": 29.3899,
+      "latitude": -2.1039
     },
     {
       "block_id": "2f16e9c6a9f9-335",
@@ -21665,8 +21674,8 @@
       "harvest_worstwhy": "Bitinya imvura nyinshi",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-14 10:51:06",
-      "longitude": 29.4011,
-      "latitude": -2.114
+      "longitude": 29.4174,
+      "latitude": -2.1159
     },
     {
       "block_id": "2f16e9c6a9f9-336",
@@ -21723,8 +21732,8 @@
       "harvest_worstwhy": "Itinya imvura nyinshi",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-07 14:36:07",
-      "longitude": 29.4039,
-      "latitude": -2.1288
+      "longitude": 29.3971,
+      "latitude": -2.1196
     },
     {
       "block_id": "2f16e9c6a9f9-337",
@@ -21781,8 +21790,8 @@
       "harvest_worstwhy": "Ntibimera",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-07 13:20:50",
-      "longitude": 29.3944,
-      "latitude": -2.122
+      "longitude": 29.4121,
+      "latitude": -2.109
     },
     {
       "block_id": "2f16e9c6a9f9-338",
@@ -21842,8 +21851,8 @@
       "harvest_worstwhy": "Ntabwo imera neza ,igatinya nimvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-05 09:08:47",
-      "longitude": 29.6909,
-      "latitude": -1.6116
+      "longitude": 29.6762,
+      "latitude": -1.5953
     },
     {
       "block_id": "2f16e9c6a9f9-339",
@@ -21903,8 +21912,8 @@
       "harvest_worstwhy": "Ntibyameze",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-12 11:16:58",
-      "longitude": 29.678,
-      "latitude": -1.5839
+      "longitude": 29.6825,
+      "latitude": -1.582
     },
     {
       "block_id": "2f16e9c6a9f9-340",
@@ -21965,8 +21974,8 @@
       "harvest_worstwhy": "Ntabwo kamera, bitinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-12 07:23:17",
-      "longitude": 29.6793,
-      "latitude": -1.5819
+      "longitude": 29.6916,
+      "latitude": -1.6016
     },
     {
       "block_id": "2f16e9c6a9f9-341",
@@ -22023,8 +22032,8 @@
       "harvest_worstwhy": "Bitinya imvura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-12 09:43:08",
-      "longitude": 29.6655,
-      "latitude": -1.5788
+      "longitude": 29.6895,
+      "latitude": -1.5804
     },
     {
       "block_id": "2f16e9c6a9f9-342",
@@ -22084,8 +22093,8 @@
       "harvest_worstwhy": "Yameze nabi ,bitinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-12 12:17:14",
-      "longitude": 29.6728,
-      "latitude": -1.5874
+      "longitude": 29.673,
+      "latitude": -1.5932
     },
     {
       "block_id": "2f16e9c6a9f9-343",
@@ -22142,8 +22151,8 @@
       "harvest_worstwhy": "Karaoke,bitinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-06 12:18:15",
-      "longitude": 29.672,
-      "latitude": -1.584
+      "longitude": 29.6859,
+      "latitude": -1.5866
     },
     {
       "block_id": "2f16e9c6a9f9-344",
@@ -22200,8 +22209,8 @@
       "harvest_worstwhy": "Bitinya imvura",
       "harvest_futureadoption": "Option A",
       "harvest_survey_end": "2024-02-05 08:05:31",
-      "longitude": 29.6835,
-      "latitude": -1.6031
+      "longitude": 29.6791,
+      "latitude": -1.5921
     },
     {
       "block_id": "2f16e9c6a9f9-345",
@@ -22259,8 +22268,8 @@
       "harvest_worstwhy": "Bitinya imvura",
       "harvest_futureadoption": "Option B",
       "harvest_survey_end": "2024-02-19 09:52:45",
-      "longitude": 29.6761,
-      "latitude": -1.5684
+      "longitude": 29.68,
+      "latitude": -1.572
     },
     {
       "block_id": "2f16e9c6a9f9-346",
@@ -22319,8 +22328,8 @@
       "harvest_worstwhy": "Bitinya imvura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-12 09:57:04",
-      "longitude": 29.6667,
-      "latitude": -1.5752
+      "longitude": 29.684,
+      "latitude": -1.5833
     },
     {
       "block_id": "2f16e9c6a9f9-347",
@@ -22380,8 +22389,8 @@
       "harvest_worstwhy": "Ntibyihanganir imvura",
       "harvest_futureadoption": "Option C",
       "harvest_survey_end": "2024-02-07 16:56:12",
-      "longitude": 29.683,
-      "latitude": -1.5831
+      "longitude": 29.6698,
+      "latitude": -1.5913
     }
   ],
   "plot_data": [

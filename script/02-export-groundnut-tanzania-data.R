@@ -17,6 +17,11 @@ xy = read.csv("docs/trial-xy.csv")
 
 available = read.csv("data/aa-available-datasets.csv")
 
+# funders 
+funders = read_excel('metadata/trials-metadata/groundnut-tari/funder-metadata.xlsx')
+
+names(funders) = c("funderName", "funderIdentifier", "awardTitle", "awardNumber")
+
 # read file with genotype metadata
 geno = read_excel('metadata/trials-metadata/groundnut-tari/genotype-metadata.xlsx')
 geno$final_genotype_name = ifelse(is.na(geno$final_genotype_name), geno$genotype_name, geno$final_genotype_name)
@@ -96,6 +101,8 @@ for(k in seq_along(cmdata)) {
   
   meta = exportTrialMetadata(x)
   
+  meta$funder = funders
+  
   # add some metadata manually
   meta$identifier = doi
   
@@ -157,8 +164,6 @@ for(k in seq_along(cmdata)) {
   
   rownames(plot) = 1:nrow(plot)
   
-  unique(plot$trait)
-  
   # ....................................
   # ....................................
   # all available non-PII block data
@@ -171,7 +176,7 @@ for(k in seq_along(cmdata)) {
   
   # ....................................
   # ....................................
-  # clean genotype names
+  # clean genotype names in the plot data.frame
   for(i in seq_along(geno$genotype_name)) {
     plot$genotype_name = ifelse(geno$genotype_name[i] == plot$genotype_name &
                                   geno$crop_name[i] == meta$crop$name, 
@@ -189,12 +194,10 @@ for(k in seq_along(cmdata)) {
                          origin = NA, 
                          remarks = NA)
   
-  geno = geno[!duplicated(geno$final_genotype_name), ]
-  
   # get genotype information from the source table
   for(i in seq_along(genotypes$genotype_name)) {
     
-    index = grep(genotypes$genotype_name[i], geno$final_genotype_name)
+    index = grep(genotypes$genotype_name[i], geno$final_genotype_name)[1]
     
     if(length(index) == 0) next
     

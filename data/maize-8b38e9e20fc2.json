@@ -1,7 +1,7 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-02",
+      "version": "v2025-10-03",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
@@ -49,6 +49,15 @@
       "men": "No information provided",
       "women": "No information provided"
     },
+    "funder": [
+      {
+        "funderName": "Gates Foundation",
+        "funderIdentifier": "https://ror.org/0456r8d26",
+        "awardTitle": "1000FARMS",
+        "awardNumber": "L22ROM222",
+        "5": "We recevied this grant as sub-grantees of the main grant given to Bioversity-CIAT alliance"
+      }
+    ],
     "genotypes": [
       {
         "genotype_name": " CKDHH 160387",
@@ -716,8 +725,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-30 17:21:49",
-      "longitude": 29.8533,
-      "latitude": -2.3043
+      "longitude": 29.8463,
+      "latitude": -2.3175
     },
     {
       "block_id": "8b38e9e20fc2-2",
@@ -763,8 +772,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-22 13:24:22",
-      "longitude": 29.845,
-      "latitude": -2.3254
+      "longitude": 29.8488,
+      "latitude": -2.3105
     },
     {
       "block_id": "8b38e9e20fc2-3",
@@ -818,8 +827,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-13 13:48:46",
-      "longitude": 29.8504,
-      "latitude": -2.3172
+      "longitude": 29.8436,
+      "latitude": -2.3156
     },
     {
       "block_id": "8b38e9e20fc2-4",
@@ -865,8 +874,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-13 11:37:10",
-      "longitude": 29.854,
-      "latitude": -2.3152
+      "longitude": 29.8574,
+      "latitude": -2.3117
     },
     {
       "block_id": "8b38e9e20fc2-5",
@@ -919,8 +928,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-20 19:35:21",
-      "longitude": 29.8436,
-      "latitude": -2.3156
+      "longitude": 29.8457,
+      "latitude": -2.305
     },
     {
       "block_id": "8b38e9e20fc2-6",
@@ -966,8 +975,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-30 17:24:24",
-      "longitude": 29.8462,
-      "latitude": -2.3277
+      "longitude": 29.8479,
+      "latitude": -2.3346
     },
     {
       "block_id": "8b38e9e20fc2-7",
@@ -1021,8 +1030,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-20 18:09:04",
-      "longitude": 29.8564,
-      "latitude": -2.3237
+      "longitude": 29.8454,
+      "latitude": -2.3197
     },
     {
       "block_id": "8b38e9e20fc2-8",
@@ -1070,8 +1079,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-12 09:22:16",
-      "longitude": 29.8473,
-      "latitude": -2.3098
+      "longitude": 29.851,
+      "latitude": -2.3117
     },
     {
       "block_id": "8b38e9e20fc2-9",
@@ -1125,8 +1134,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-15 08:37:03",
-      "longitude": 29.8364,
-      "latitude": -2.321
+      "longitude": 29.8493,
+      "latitude": -2.3357
     },
     {
       "block_id": "8b38e9e20fc2-10",
@@ -1173,8 +1182,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-19 18:30:22",
-      "longitude": 29.8601,
-      "latitude": -2.3105
+      "longitude": 29.8442,
+      "latitude": -2.3304
     },
     {
       "block_id": "8b38e9e20fc2-11",
@@ -1220,8 +1229,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-19 13:32:04",
-      "longitude": 29.856,
-      "latitude": -2.3174
+      "longitude": 29.8405,
+      "latitude": -2.3385
     },
     {
       "block_id": "8b38e9e20fc2-12",
@@ -1275,8 +1284,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-21 08:38:04",
-      "longitude": 29.8546,
-      "latitude": -2.3319
+      "longitude": 29.8485,
+      "latitude": -2.3249
     },
     {
       "block_id": "8b38e9e20fc2-13",
@@ -1329,8 +1338,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-19 16:37:49",
-      "longitude": 29.8554,
-      "latitude": -2.3179
+      "longitude": 29.8538,
+      "latitude": -2.3216
     },
     {
       "block_id": "8b38e9e20fc2-14",
@@ -1384,8 +1393,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-05 15:02:51",
-      "longitude": 29.8599,
-      "latitude": -2.3158
+      "longitude": 29.8419,
+      "latitude": -2.3244
     },
     {
       "block_id": "8b38e9e20fc2-15",
@@ -1439,8 +1448,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-01 14:17:13",
-      "longitude": 29.8498,
-      "latitude": -2.3263
+      "longitude": 29.8522,
+      "latitude": -2.3203
     },
     {
       "block_id": "8b38e9e20fc2-16",
@@ -1486,8 +1495,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-22 08:33:11",
-      "longitude": 29.8475,
-      "latitude": -2.3194
+      "longitude": 29.8505,
+      "latitude": -2.3094
     },
     {
       "block_id": "8b38e9e20fc2-17",
@@ -1541,8 +1550,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-20 16:22:32",
-      "longitude": 29.8441,
-      "latitude": -2.3006
+      "longitude": 29.8499,
+      "latitude": -2.3126
     },
     {
       "block_id": "8b38e9e20fc2-18",
@@ -1588,8 +1597,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-26 15:36:07",
-      "longitude": 29.8561,
-      "latitude": -2.3343
+      "longitude": 29.85,
+      "latitude": -2.3173
     },
     {
       "block_id": "8b38e9e20fc2-19",
@@ -1637,8 +1646,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-21 17:52:05",
-      "longitude": 29.8598,
-      "latitude": -2.3308
+      "longitude": 29.8499,
+      "latitude": -2.3378
     },
     {
       "block_id": "8b38e9e20fc2-20",
@@ -1684,8 +1693,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-30 17:21:25",
-      "longitude": 29.8536,
-      "latitude": -2.3104
+      "longitude": 29.8519,
+      "latitude": -2.3307
     },
     {
       "block_id": "8b38e9e20fc2-21",
@@ -1741,8 +1750,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-28 09:38:12",
-      "longitude": 29.8468,
-      "latitude": -2.3399
+      "longitude": 29.8505,
+      "latitude": -2.3348
     },
     {
       "block_id": "8b38e9e20fc2-22",
@@ -1788,8 +1797,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-06 13:27:30",
-      "longitude": 29.8698,
-      "latitude": -2.3116
+      "longitude": 29.8575,
+      "latitude": -2.3107
     },
     {
       "block_id": "8b38e9e20fc2-23",
@@ -1843,8 +1852,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-14 08:47:59",
-      "longitude": 29.879,
-      "latitude": -2.3189
+      "longitude": 29.8644,
+      "latitude": -2.3269
     },
     {
       "block_id": "8b38e9e20fc2-24",
@@ -1890,8 +1899,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-20 10:04:11",
-      "longitude": 29.8561,
-      "latitude": -2.3431
+      "longitude": 29.8607,
+      "latitude": -2.3266
     },
     {
       "block_id": "8b38e9e20fc2-25",
@@ -1945,8 +1954,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-19 12:37:10",
-      "longitude": 29.8676,
-      "latitude": -2.3307
+      "longitude": 29.874,
+      "latitude": -2.3326
     },
     {
       "block_id": "8b38e9e20fc2-26",
@@ -1992,8 +2001,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-08 11:05:38",
-      "longitude": 29.8699,
-      "latitude": -2.3106
+      "longitude": 29.8578,
+      "latitude": -2.315
     },
     {
       "block_id": "8b38e9e20fc2-27",
@@ -2047,8 +2056,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-07 10:22:51",
-      "longitude": 29.8587,
-      "latitude": -2.329
+      "longitude": 29.8727,
+      "latitude": -2.3283
     },
     {
       "block_id": "8b38e9e20fc2-28",
@@ -2095,8 +2104,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-14 16:24:30",
-      "longitude": 29.8591,
-      "latitude": -2.3242
+      "longitude": 29.8638,
+      "latitude": -2.337
     },
     {
       "block_id": "8b38e9e20fc2-29",
@@ -2150,8 +2159,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-21 09:55:46",
-      "longitude": 29.8629,
-      "latitude": -2.3332
+      "longitude": 29.8577,
+      "latitude": -2.3139
     },
     {
       "block_id": "8b38e9e20fc2-30",
@@ -2197,8 +2206,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-11 16:04:45",
-      "longitude": 29.8638,
-      "latitude": -2.3162
+      "longitude": 29.8646,
+      "latitude": -2.3152
     },
     {
       "block_id": "8b38e9e20fc2-31",
@@ -2245,8 +2254,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-21 11:38:18",
-      "longitude": 29.8571,
-      "latitude": -2.3225
+      "longitude": 29.8676,
+      "latitude": -2.3309
     },
     {
       "block_id": "8b38e9e20fc2-32",
@@ -2300,8 +2309,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-26 13:08:46",
-      "longitude": 29.8636,
-      "latitude": -2.3134
+      "longitude": 29.8567,
+      "latitude": -2.3176
     },
     {
       "block_id": "8b38e9e20fc2-33",
@@ -2355,8 +2364,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-06-28 14:23:06",
-      "longitude": 29.8752,
-      "latitude": -2.3355
+      "longitude": 29.8764,
+      "latitude": -2.3245
     },
     {
       "block_id": "8b38e9e20fc2-34",
@@ -2403,8 +2412,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-14 08:11:30",
-      "longitude": 29.8597,
-      "latitude": -2.3277
+      "longitude": 29.8714,
+      "latitude": -2.3225
     },
     {
       "block_id": "8b38e9e20fc2-35",
@@ -2458,8 +2467,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-27 11:23:45",
-      "longitude": 29.8509,
-      "latitude": -2.3272
+      "longitude": 29.8745,
+      "latitude": -2.322
     },
     {
       "block_id": "8b38e9e20fc2-36",
@@ -2505,8 +2514,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-20 13:02:13",
-      "longitude": 29.8574,
-      "latitude": -2.3257
+      "longitude": 29.8629,
+      "latitude": -2.32
     },
     {
       "block_id": "8b38e9e20fc2-37",
@@ -2560,8 +2569,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-14 14:02:39",
-      "longitude": 29.8582,
-      "latitude": -2.3292
+      "longitude": 29.8629,
+      "latitude": -2.3265
     },
     {
       "block_id": "8b38e9e20fc2-38",
@@ -2607,8 +2616,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-22 10:34:55",
-      "longitude": 29.8722,
-      "latitude": -2.32
+      "longitude": 29.8598,
+      "latitude": -2.3216
     },
     {
       "block_id": "8b38e9e20fc2-39",
@@ -2655,8 +2664,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-20 08:41:46",
-      "longitude": 29.8656,
-      "latitude": -2.3154
+      "longitude": 29.8667,
+      "latitude": -2.3147
     },
     {
       "block_id": "8b38e9e20fc2-40",
@@ -2711,8 +2720,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-14 10:50:31",
-      "longitude": 29.8651,
-      "latitude": -2.3065
+      "longitude": 29.8701,
+      "latitude": -2.3329
     },
     {
       "block_id": "8b38e9e20fc2-41",
@@ -2746,8 +2755,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess_oth": "Barabyibye ntihasigara nakimwe",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-22 13:42:30",
-      "longitude": 29.1023,
-      "latitude": -2.3547
+      "longitude": 29.1025,
+      "latitude": -2.3685
     },
     {
       "block_id": "8b38e9e20fc2-42",
@@ -2781,8 +2790,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess_oth": "Barabyibye ntibasiga nakimwe",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-24 09:42:56",
-      "longitude": 29.0878,
-      "latitude": -2.3502
+      "longitude": 29.0728,
+      "latitude": -2.363
     },
     {
       "block_id": "8b38e9e20fc2-43",
@@ -2827,8 +2836,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-09 12:45:43",
-      "longitude": 29.0977,
-      "latitude": -2.3747
+      "longitude": 29.0945,
+      "latitude": -2.3565
     },
     {
       "block_id": "8b38e9e20fc2-44",
@@ -2870,8 +2879,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-09 10:37:21",
-      "longitude": 29.0846,
-      "latitude": -2.3747
+      "longitude": 29.088,
+      "latitude": -2.3557
     },
     {
       "block_id": "8b38e9e20fc2-45",
@@ -2920,8 +2929,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-01 07:12:48",
-      "longitude": 29.102,
-      "latitude": -2.3439
+      "longitude": 29.1056,
+      "latitude": -2.3656
     },
     {
       "block_id": "8b38e9e20fc2-46",
@@ -2970,8 +2979,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-01 07:00:52",
-      "longitude": 29.085,
-      "latitude": -2.3562
+      "longitude": 29.0945,
+      "latitude": -2.3517
     },
     {
       "block_id": "8b38e9e20fc2-47",
@@ -3020,8 +3029,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-29 10:56:28",
-      "longitude": 29.084,
-      "latitude": -2.3563
+      "longitude": 29.0925,
+      "latitude": -2.3514
     },
     {
       "block_id": "8b38e9e20fc2-48",
@@ -3055,8 +3064,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess_oth": "Barabyibye",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-08-08 10:19:52",
-      "longitude": 29.0819,
-      "latitude": -2.3602
+      "longitude": 29.0762,
+      "latitude": -2.3695
     },
     {
       "block_id": "8b38e9e20fc2-49",
@@ -3090,8 +3099,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess_oth": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-05 09:22:12",
-      "longitude": 29.088,
-      "latitude": -2.3774
+      "longitude": 29.0806,
+      "latitude": -2.3644
     },
     {
       "block_id": "8b38e9e20fc2-50",
@@ -3141,8 +3150,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-15 13:58:47",
-      "longitude": 29.0727,
-      "latitude": -2.3505
+      "longitude": 29.0681,
+      "latitude": -2.3558
     },
     {
       "block_id": "8b38e9e20fc2-51",
@@ -3196,8 +3205,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-14 16:15:23",
-      "longitude": 29.0193,
-      "latitude": -2.6309
+      "longitude": 29.0111,
+      "latitude": -2.6207
     },
     {
       "block_id": "8b38e9e20fc2-52",
@@ -3243,8 +3252,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-11 13:05:15",
-      "longitude": 29.0304,
-      "latitude": -2.6607
+      "longitude": 29.0429,
+      "latitude": -2.6586
     },
     {
       "block_id": "8b38e9e20fc2-53",
@@ -3281,8 +3290,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose barabimara",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-17 13:27:37",
-      "longitude": 28.9928,
-      "latitude": -2.6344
+      "longitude": 28.9781,
+      "latitude": -2.6279
     },
     {
       "block_id": "8b38e9e20fc2-54",
@@ -3328,8 +3337,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-05 08:27:43",
-      "longitude": 29.0067,
-      "latitude": -2.6344
+      "longitude": 29.0018,
+      "latitude": -2.6137
     },
     {
       "block_id": "8b38e9e20fc2-55",
@@ -3383,8 +3392,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-08 09:39:44",
-      "longitude": 29.0009,
-      "latitude": -2.6287
+      "longitude": 29.0015,
+      "latitude": -2.6225
     },
     {
       "block_id": "8b38e9e20fc2-56",
@@ -3430,8 +3439,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-14 16:05:59",
-      "longitude": 29.0138,
-      "latitude": -2.6351
+      "longitude": 28.9991,
+      "latitude": -2.6324
     },
     {
       "block_id": "8b38e9e20fc2-57",
@@ -3457,8 +3466,8 @@
       "visit1vegetativev6_survey_end": "2022-05-16 06:25:23",
       "visit1vegetativev6_farm_geo_elevation": 1307.7432,
       "visit1vegetativev6_farm_geo_gps_precision": 13.578,
-      "longitude": 29.0048,
-      "latitude": -2.632
+      "longitude": 28.9981,
+      "latitude": -2.6305
     },
     {
       "block_id": "8b38e9e20fc2-58",
@@ -3484,8 +3493,8 @@
       "visit1vegetativev6_survey_end": "2022-05-08 16:10:40",
       "visit1vegetativev6_farm_geo_elevation": 1216.5862,
       "visit1vegetativev6_farm_geo_gps_precision": 3.9,
-      "longitude": 29.0015,
-      "latitude": -2.6197
+      "longitude": 29.0125,
+      "latitude": -2.6352
     },
     {
       "block_id": "8b38e9e20fc2-59",
@@ -3539,8 +3548,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-08 09:53:11",
-      "longitude": 29.0137,
-      "latitude": -2.6302
+      "longitude": 28.9911,
+      "latitude": -2.6183
     },
     {
       "block_id": "8b38e9e20fc2-60",
@@ -3586,8 +3595,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-05 10:17:36",
-      "longitude": 29.009,
-      "latitude": -2.6246
+      "longitude": 29.0015,
+      "latitude": -2.6213
     },
     {
       "block_id": "8b38e9e20fc2-61",
@@ -3613,8 +3622,8 @@
       "visit1vegetativev6_survey_end": "2022-04-28 10:32:44",
       "visit1vegetativev6_farm_geo_elevation": 1403.3041,
       "visit1vegetativev6_farm_geo_gps_precision": 4.824,
-      "longitude": 28.9931,
-      "latitude": -2.6174
+      "longitude": 28.9823,
+      "latitude": -2.624
     },
     {
       "block_id": "8b38e9e20fc2-62",
@@ -3660,8 +3669,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-06-20 09:30:34",
-      "longitude": 29.0041,
-      "latitude": -2.6358
+      "longitude": 28.9907,
+      "latitude": -2.6282
     },
     {
       "block_id": "8b38e9e20fc2-63",
@@ -3698,8 +3707,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-20 08:05:13",
-      "longitude": 29.0138,
-      "latitude": -2.6168
+      "longitude": 29.0159,
+      "latitude": -2.6212
     },
     {
       "block_id": "8b38e9e20fc2-64",
@@ -3725,8 +3734,8 @@
       "visit1vegetativev6_survey_end": "2022-04-28 10:23:10",
       "visit1vegetativev6_farm_geo_elevation": 1396.0876,
       "visit1vegetativev6_farm_geo_gps_precision": 4.288,
-      "longitude": 29.0056,
-      "latitude": -2.6254
+      "longitude": 28.9946,
+      "latitude": -2.6065
     },
     {
       "block_id": "8b38e9e20fc2-65",
@@ -3780,8 +3789,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-17 15:05:54",
-      "longitude": 28.9926,
-      "latitude": -2.6229
+      "longitude": 29.0133,
+      "latitude": -2.6345
     },
     {
       "block_id": "8b38e9e20fc2-66",
@@ -3818,8 +3827,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ibigori byose barabyibye",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-26 16:48:08",
-      "longitude": 28.9987,
-      "latitude": -2.6361
+      "longitude": 29.007,
+      "latitude": -2.64
     },
     {
       "block_id": "8b38e9e20fc2-67",
@@ -3856,8 +3865,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-20 08:42:03",
-      "longitude": 29.0061,
-      "latitude": -2.6281
+      "longitude": 29.0009,
+      "latitude": -2.6349
     },
     {
       "block_id": "8b38e9e20fc2-68",
@@ -3911,8 +3920,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-17 14:51:48",
-      "longitude": 29.0171,
-      "latitude": -2.6201
+      "longitude": 29.0003,
+      "latitude": -2.6191
     },
     {
       "block_id": "8b38e9e20fc2-69",
@@ -3958,8 +3967,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-17 14:42:42",
-      "longitude": 29.0038,
-      "latitude": -2.6209
+      "longitude": 29.0062,
+      "latitude": -2.6269
     },
     {
       "block_id": "8b38e9e20fc2-70",
@@ -4013,8 +4022,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-17 16:11:40",
-      "longitude": 29.0152,
-      "latitude": -2.6213
+      "longitude": 29.0181,
+      "latitude": -2.6212
     },
     {
       "block_id": "8b38e9e20fc2-71",
@@ -4067,8 +4076,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-19 15:25:35",
-      "longitude": 29.0021,
-      "latitude": -2.6143
+      "longitude": 29.0158,
+      "latitude": -2.6308
     },
     {
       "block_id": "8b38e9e20fc2-72",
@@ -4105,8 +4114,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-21 14:09:06",
-      "longitude": 29.0462,
-      "latitude": -2.6704
+      "longitude": 29.0374,
+      "latitude": -2.6746
     },
     {
       "block_id": "8b38e9e20fc2-73",
@@ -4160,8 +4169,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-19 12:03:33",
-      "longitude": 29.0437,
-      "latitude": -2.6779
+      "longitude": 29.0463,
+      "latitude": -2.6913
     },
     {
       "block_id": "8b38e9e20fc2-74",
@@ -4215,8 +4224,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-19 15:29:48",
-      "longitude": 29.0002,
-      "latitude": -2.6264
+      "longitude": 28.9943,
+      "latitude": -2.6324
     },
     {
       "block_id": "8b38e9e20fc2-75",
@@ -4253,8 +4262,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-19 10:01:23",
-      "longitude": 28.994,
-      "latitude": -2.6343
+      "longitude": 29.0046,
+      "latitude": -2.6142
     },
     {
       "block_id": "8b38e9e20fc2-76",
@@ -4291,8 +4300,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-30 10:54:03",
-      "longitude": 29.0394,
-      "latitude": -2.6759
+      "longitude": 29.0429,
+      "latitude": -2.6829
     },
     {
       "block_id": "8b38e9e20fc2-77",
@@ -4346,8 +4355,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-08 10:34:17",
-      "longitude": 28.9964,
-      "latitude": -2.6176
+      "longitude": 29.0025,
+      "latitude": -2.6324
     },
     {
       "block_id": "8b38e9e20fc2-78",
@@ -4384,8 +4393,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose barabimara",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-24 15:45:36",
-      "longitude": 29.0482,
-      "latitude": -2.6705
+      "longitude": 29.052,
+      "latitude": -2.6864
     },
     {
       "block_id": "8b38e9e20fc2-79",
@@ -4422,8 +4431,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-21 08:40:21",
-      "longitude": 29.0434,
-      "latitude": -2.6749
+      "longitude": 29.054,
+      "latitude": -2.695
     },
     {
       "block_id": "8b38e9e20fc2-80",
@@ -4460,8 +4469,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ngo yasanze umwana yabisaruye abivangavanga",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-25 08:20:31",
-      "longitude": 29.0123,
-      "latitude": -2.6295
+      "longitude": 29.0104,
+      "latitude": -2.6393
     },
     {
       "block_id": "8b38e9e20fc2-81",
@@ -4507,8 +4516,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-25 08:26:16",
-      "longitude": 29.0023,
-      "latitude": -2.6335
+      "longitude": 29.004,
+      "latitude": -2.6179
     },
     {
       "block_id": "8b38e9e20fc2-82",
@@ -4552,8 +4561,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-23 10:03:32",
-      "longitude": 29.0398,
-      "latitude": -2.6766
+      "longitude": 29.0596,
+      "latitude": -2.6747
     },
     {
       "block_id": "8b38e9e20fc2-83",
@@ -4590,8 +4599,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ngo barabyonesheje, udusigaye baratwiba",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-25 08:50:47",
-      "longitude": 29.0379,
-      "latitude": -2.6707
+      "longitude": 29.0371,
+      "latitude": -2.6826
     },
     {
       "block_id": "8b38e9e20fc2-84",
@@ -4628,8 +4637,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Yarabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-23 11:38:06",
-      "longitude": 29.0085,
-      "latitude": -2.618
+      "longitude": 29.0155,
+      "latitude": -2.6376
     },
     {
       "block_id": "8b38e9e20fc2-85",
@@ -4683,8 +4692,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-23 09:15:40",
-      "longitude": 29.0462,
-      "latitude": -2.6747
+      "longitude": 29.0427,
+      "latitude": -2.6711
     },
     {
       "block_id": "8b38e9e20fc2-86",
@@ -4706,8 +4715,8 @@
       "visit1vegetativev6_survey_end": "2022-05-24 16:51:09",
       "visit1vegetativev6_farm_geo_elevation": 1231.5754,
       "visit1vegetativev6_farm_geo_gps_precision": 7.504,
-      "longitude": 29.0151,
-      "latitude": -2.6362
+      "longitude": 29.0119,
+      "latitude": -2.6218
     },
     {
       "block_id": "8b38e9e20fc2-87",
@@ -4762,8 +4771,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-19 13:05:13",
-      "longitude": 28.9934,
-      "latitude": -2.6325
+      "longitude": 29.0006,
+      "latitude": -2.6313
     },
     {
       "block_id": "8b38e9e20fc2-88",
@@ -4809,8 +4818,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-27 14:39:15",
-      "longitude": 29.0487,
-      "latitude": -2.669
+      "longitude": 29.0611,
+      "latitude": -2.6813
     },
     {
       "block_id": "8b38e9e20fc2-89",
@@ -4864,8 +4873,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-09 04:58:23",
-      "longitude": 29.0502,
-      "latitude": -2.6814
+      "longitude": 29.0481,
+      "latitude": -2.6809
     },
     {
       "block_id": "8b38e9e20fc2-90",
@@ -4920,8 +4929,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-13 14:06:29",
-      "longitude": 29.0486,
-      "latitude": -2.6916
+      "longitude": 29.0487,
+      "latitude": -2.6762
     },
     {
       "block_id": "8b38e9e20fc2-91",
@@ -4975,8 +4984,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-13 12:24:47",
-      "longitude": 29.0016,
-      "latitude": -2.6339
+      "longitude": 29.0015,
+      "latitude": -2.6284
     },
     {
       "block_id": "8b38e9e20fc2-92",
@@ -5022,8 +5031,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-12 09:25:21",
-      "longitude": 29.0524,
-      "latitude": -2.6684
+      "longitude": 29.0555,
+      "latitude": -2.6687
     },
     {
       "block_id": "8b38e9e20fc2-93",
@@ -5060,8 +5069,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ibigori barabyibye byose barabimara.",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-30 15:56:09",
-      "longitude": 29.0003,
-      "latitude": -2.6156
+      "longitude": 29.0116,
+      "latitude": -2.6335
     },
     {
       "block_id": "8b38e9e20fc2-94",
@@ -5115,8 +5124,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-13 16:17:47",
-      "longitude": 29.0408,
-      "latitude": -2.6738
+      "longitude": 29.0499,
+      "latitude": -2.6821
     },
     {
       "block_id": "8b38e9e20fc2-95",
@@ -5171,8 +5180,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-15 17:08:10",
-      "longitude": 29.0364,
-      "latitude": -2.6792
+      "longitude": 29.0403,
+      "latitude": -2.667
     },
     {
       "block_id": "8b38e9e20fc2-96",
@@ -5209,8 +5218,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-19 09:47:05",
-      "longitude": 29.0058,
-      "latitude": -2.6319
+      "longitude": 29.0142,
+      "latitude": -2.6282
     },
     {
       "block_id": "8b38e9e20fc2-97",
@@ -5256,8 +5265,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-27 09:36:36",
-      "longitude": 28.9993,
-      "latitude": -2.6327
+      "longitude": 28.9948,
+      "latitude": -2.6217
     },
     {
       "block_id": "8b38e9e20fc2-98",
@@ -5294,8 +5303,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-08-08 09:35:46",
-      "longitude": 29.0032,
-      "latitude": -2.6355
+      "longitude": 29.0159,
+      "latitude": -2.635
     },
     {
       "block_id": "8b38e9e20fc2-99",
@@ -5332,8 +5341,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-21 12:49:33",
-      "longitude": 29.0065,
-      "latitude": -2.6156
+      "longitude": 29.0063,
+      "latitude": -2.6337
     },
     {
       "block_id": "8b38e9e20fc2-100",
@@ -5379,8 +5388,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-18 08:23:24",
-      "longitude": 29.0001,
-      "latitude": -2.6247
+      "longitude": 28.9909,
+      "latitude": -2.6213
     },
     {
       "block_id": "8b38e9e20fc2-101",
@@ -5434,8 +5443,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-19 16:31:34",
-      "longitude": 29.028,
-      "latitude": -2.4451
+      "longitude": 29.0283,
+      "latitude": -2.4473
     },
     {
       "block_id": "8b38e9e20fc2-102",
@@ -5472,8 +5481,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Kuyumuhinzi byabyibye bitaragera ubwobyasharikwa ntibasiga mwo naduke",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-13 14:28:52",
-      "longitude": 29.0195,
-      "latitude": -2.4307
+      "longitude": 29.0142,
+      "latitude": -2.4257
     },
     {
       "block_id": "8b38e9e20fc2-103",
@@ -5527,8 +5536,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-25 11:34:48",
-      "longitude": 29.0083,
-      "latitude": -2.4432
+      "longitude": 29.033,
+      "latitude": -2.4411
     },
     {
       "block_id": "8b38e9e20fc2-104",
@@ -5573,8 +5582,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-28 17:20:35",
-      "longitude": 29.0324,
-      "latitude": -2.4441
+      "longitude": 29.0288,
+      "latitude": -2.4246
     },
     {
       "block_id": "8b38e9e20fc2-105",
@@ -5611,8 +5620,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Byaribwe byose bitagege ibihecyisarurwa",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-19 13:53:18",
-      "longitude": 29.0248,
-      "latitude": -2.4292
+      "longitude": 29.0229,
+      "latitude": -2.4314
     },
     {
       "block_id": "8b38e9e20fc2-106",
@@ -5665,8 +5674,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-09-07 14:08:01",
-      "longitude": 29.0343,
-      "latitude": -2.4371
+      "longitude": 29.0182,
+      "latitude": -2.4443
     },
     {
       "block_id": "8b38e9e20fc2-107",
@@ -5703,8 +5712,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Uyumuhinzi barabyibye nibyaribyasigaye ufitubumuga bwomumutwe arabica abivangavanga kuburyo ntaburyotwabipima nubwonabyontabyaribisigaye",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-20 12:36:52",
-      "longitude": 29.0384,
-      "latitude": -2.4347
+      "longitude": 29.0249,
+      "latitude": -2.4385
     },
     {
       "block_id": "8b38e9e20fc2-108",
@@ -5740,8 +5749,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Abajura barabyibye kuburyo ntanakimwe bamusigiyemwo",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-27 15:07:02",
-      "longitude": 29.3872,
-      "latitude": -2.0135
+      "longitude": 29.3966,
+      "latitude": -2.0257
     },
     {
       "block_id": "8b38e9e20fc2-109",
@@ -5778,8 +5787,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Non",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-20 14:36:59",
-      "longitude": 29.0162,
-      "latitude": -2.4402
+      "longitude": 29.0157,
+      "latitude": -2.4309
     },
     {
       "block_id": "8b38e9e20fc2-110",
@@ -5816,8 +5825,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Uyumuhinzi inyamaswa zarabyonnyebyose ntasarura",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-20 13:59:59",
-      "longitude": 29.0256,
-      "latitude": -2.4353
+      "longitude": 29.0191,
+      "latitude": -2.438
     },
     {
       "block_id": "8b38e9e20fc2-111",
@@ -5847,8 +5856,8 @@
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
       "visit2freshmaturity_trialsuccess_oth": "Yes",
       "visit2freshmaturity_survey_end": "2022-06-21 12:26:22",
-      "longitude": 29.0365,
-      "latitude": -2.4293
+      "longitude": 29.0336,
+      "latitude": -2.4406
     },
     {
       "block_id": "8b38e9e20fc2-112",
@@ -5902,8 +5911,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-19 12:09:30",
-      "longitude": 29.0396,
-      "latitude": -2.4339
+      "longitude": 29.037,
+      "latitude": -2.4299
     },
     {
       "block_id": "8b38e9e20fc2-113",
@@ -5957,8 +5966,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-19 15:03:24",
-      "longitude": 29.0283,
-      "latitude": -2.4346
+      "longitude": 29.0167,
+      "latitude": -2.4433
     },
     {
       "block_id": "8b38e9e20fc2-114",
@@ -5995,8 +6004,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Byaribwe ntiyasaruye nutwariduzigaye adusarura atugurisha",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-28 15:27:40",
-      "longitude": 29.0318,
-      "latitude": -2.4327
+      "longitude": 29.0133,
+      "latitude": -2.4389
     },
     {
       "block_id": "8b38e9e20fc2-115",
@@ -6022,8 +6031,8 @@
       "visit1vegetativev6_survey_end": "2022-04-26 14:51:22",
       "visit1vegetativev6_farm_geo_elevation": 1609.0271,
       "visit1vegetativev6_farm_geo_gps_precision": 4.556,
-      "longitude": 29.0245,
-      "latitude": -2.4353
+      "longitude": 29.0098,
+      "latitude": -2.4383
     },
     {
       "block_id": "8b38e9e20fc2-116",
@@ -6077,8 +6086,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-25 16:40:04",
-      "longitude": 29.0117,
-      "latitude": -2.4356
+      "longitude": 29.0197,
+      "latitude": -2.4504
     },
     {
       "block_id": "8b38e9e20fc2-117",
@@ -6115,8 +6124,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Inyamaswa zabyonnye ibindinawe arabyirira",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-08-10 16:31:37",
-      "longitude": 29.021,
-      "latitude": -2.4282
+      "longitude": 29.0222,
+      "latitude": -2.4242
     },
     {
       "block_id": "8b38e9e20fc2-118",
@@ -6153,8 +6162,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose kuberakotwariduke batumaramwo",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-28 09:55:36",
-      "longitude": 29.034,
-      "latitude": -2.4364
+      "longitude": 29.0341,
+      "latitude": -2.4386
     },
     {
       "block_id": "8b38e9e20fc2-119",
@@ -6208,8 +6217,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-25 14:47:43",
-      "longitude": 29.0222,
-      "latitude": -2.4244
+      "longitude": 29.0321,
+      "latitude": -2.4289
     },
     {
       "block_id": "8b38e9e20fc2-120",
@@ -6263,8 +6272,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-25 13:25:06",
-      "longitude": 29.0276,
-      "latitude": -2.4499
+      "longitude": 29.0215,
+      "latitude": -2.4278
     },
     {
       "block_id": "8b38e9e20fc2-121",
@@ -6318,8 +6327,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-09-07 14:57:08",
-      "longitude": 29.0175,
-      "latitude": -2.4448
+      "longitude": 29.0252,
+      "latitude": -2.4266
     },
     {
       "block_id": "8b38e9e20fc2-122",
@@ -6356,8 +6365,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Avubakobyibwe I bisigayenawe arabyirira",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-08-10 14:08:15",
-      "longitude": 29.0176,
-      "latitude": -2.4301
+      "longitude": 29.0146,
+      "latitude": -2.4441
     },
     {
       "block_id": "8b38e9e20fc2-123",
@@ -6402,8 +6411,8 @@
       "visit4cobscheck50_cobstothresh_oth": "Non",
       "visit4cobscheck50_problemexplain": "Amahundo twanitse siyoduhunguye kuko A .hari40 habuzeho2 B.habuzeho 10 c .haburaho 7",
       "visit4cobscheck50_survey_end": "2022-08-19 11:07:57",
-      "longitude": 29.0375,
-      "latitude": -2.4227
+      "longitude": 29.0303,
+      "latitude": -2.4217
     },
     {
       "block_id": "8b38e9e20fc2-124",
@@ -6449,8 +6458,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-19 09:40:19",
-      "longitude": 29.0433,
-      "latitude": -2.4312
+      "longitude": 29.0264,
+      "latitude": -2.4454
     },
     {
       "block_id": "8b38e9e20fc2-125",
@@ -6487,8 +6496,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye ntamusaruroyabonye",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-08-10 16:47:51",
-      "longitude": 29.029,
-      "latitude": -2.4431
+      "longitude": 29.0329,
+      "latitude": -2.4411
     },
     {
       "block_id": "8b38e9e20fc2-126",
@@ -6534,8 +6543,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-24 10:51:16",
-      "longitude": 29.0384,
-      "latitude": -2.4827
+      "longitude": 29.0298,
+      "latitude": -2.4883
     },
     {
       "block_id": "8b38e9e20fc2-127",
@@ -6589,8 +6598,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-24 11:07:09",
-      "longitude": 29.0252,
-      "latitude": -2.47
+      "longitude": 29.0284,
+      "latitude": -2.4812
     },
     {
       "block_id": "8b38e9e20fc2-128",
@@ -6644,8 +6653,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-24 16:20:06",
-      "longitude": 29.0637,
-      "latitude": -2.4883
+      "longitude": 29.0415,
+      "latitude": -2.4996
     },
     {
       "block_id": "8b38e9e20fc2-129",
@@ -6682,8 +6691,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Inyamaswa zarabyonnye ibisigayenabyobarabyiba",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-25 16:28:46",
-      "longitude": 29.0384,
-      "latitude": -2.4749
+      "longitude": 29.0408,
+      "latitude": -2.477
     },
     {
       "block_id": "8b38e9e20fc2-130",
@@ -6720,8 +6729,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Inyamaswa zarabyonnye ntacyo yasaruyemwo",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-25 16:54:06",
-      "longitude": 29.0517,
-      "latitude": -2.49
+      "longitude": 29.0347,
+      "latitude": -2.4968
     },
     {
       "block_id": "8b38e9e20fc2-131",
@@ -6774,8 +6783,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-24 13:58:49",
-      "longitude": 29.0219,
-      "latitude": -2.4841
+      "longitude": 29.0313,
+      "latitude": -2.4755
     },
     {
       "block_id": "8b38e9e20fc2-132",
@@ -6805,8 +6814,8 @@
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit2freshmaturity_trialsuccess_oth": "Yes",
       "visit2freshmaturity_survey_end": "2022-06-11 19:57:47",
-      "longitude": 29.0396,
-      "latitude": -2.5076
+      "longitude": 29.0337,
+      "latitude": -2.4986
     },
     {
       "block_id": "8b38e9e20fc2-133",
@@ -6852,8 +6861,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-11 15:08:05",
-      "longitude": 29.0396,
-      "latitude": -2.4972
+      "longitude": 29.0504,
+      "latitude": -2.4909
     },
     {
       "block_id": "8b38e9e20fc2-134",
@@ -6899,8 +6908,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-24 15:38:14",
-      "longitude": 29.0368,
-      "latitude": -2.4801
+      "longitude": 29.0393,
+      "latitude": -2.4727
     },
     {
       "block_id": "8b38e9e20fc2-135",
@@ -6937,8 +6946,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Uyumuhinzi hagurishijumusarurowe umuguzi ajeguca acanibyataguze bituma tuburumusaruro",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-25 16:22:51",
-      "longitude": 29.0449,
-      "latitude": -2.4889
+      "longitude": 29.0318,
+      "latitude": -2.4907
     },
     {
       "block_id": "8b38e9e20fc2-136",
@@ -6960,8 +6969,8 @@
       "visit1vegetativev6_survey_end": "2022-05-10 11:59:23",
       "visit1vegetativev6_farm_geo_elevation": 1951.9438,
       "visit1vegetativev6_farm_geo_gps_precision": 3.622,
-      "longitude": 28.9788,
-      "latitude": -2.4774
+      "longitude": 28.97,
+      "latitude": -2.4658
     },
     {
       "block_id": "8b38e9e20fc2-137",
@@ -6998,8 +7007,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Inyamaswa zarabyonnye ibindibarabimwiba",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-27 13:25:21",
-      "longitude": 29.0458,
-      "latitude": -2.4792
+      "longitude": 29.0483,
+      "latitude": -2.4863
     },
     {
       "block_id": "8b38e9e20fc2-138",
@@ -7021,8 +7030,8 @@
       "visit1vegetativev6_survey_end": "2022-05-10 12:03:40",
       "visit1vegetativev6_farm_geo_elevation": 1959.9307,
       "visit1vegetativev6_farm_geo_gps_precision": 4.824,
-      "longitude": 28.9805,
-      "latitude": -2.4669
+      "longitude": 28.9563,
+      "latitude": -2.4753
     },
     {
       "block_id": "8b38e9e20fc2-139",
@@ -7078,8 +7087,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-11 14:49:06",
-      "longitude": 29.0404,
-      "latitude": -2.5003
+      "longitude": 29.0313,
+      "latitude": -2.4925
     },
     {
       "block_id": "8b38e9e20fc2-140",
@@ -7130,8 +7139,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-15 14:52:44",
-      "longitude": 29.031,
-      "latitude": -2.4878
+      "longitude": 29.0377,
+      "latitude": -2.4882
     },
     {
       "block_id": "8b38e9e20fc2-141",
@@ -7185,8 +7194,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-24 13:19:31",
-      "longitude": 29.0281,
-      "latitude": -2.4981
+      "longitude": 29.0372,
+      "latitude": -2.4881
     },
     {
       "block_id": "8b38e9e20fc2-142",
@@ -7232,8 +7241,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-24 14:58:57",
-      "longitude": 29.0399,
-      "latitude": -2.4959
+      "longitude": 29.037,
+      "latitude": -2.49
     },
     {
       "block_id": "8b38e9e20fc2-143",
@@ -7262,8 +7271,8 @@
       "visit3harvestquantitativedata50_submitted_date": "2022-07-28 05:13:39",
       "visit3harvestquantitativedata50_survey_start": "2022-07-28 12:10:30",
       "visit3harvestquantitativedata50_survey_end": "2022-07-28 12:15:16",
-      "longitude": 29.0358,
-      "latitude": -2.4831
+      "longitude": 29.0263,
+      "latitude": -2.4679
     },
     {
       "block_id": "8b38e9e20fc2-144",
@@ -7318,8 +7327,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-27 10:44:17",
-      "longitude": 29.0307,
-      "latitude": -2.4972
+      "longitude": 29.0371,
+      "latitude": -2.4871
     },
     {
       "block_id": "8b38e9e20fc2-145",
@@ -7373,8 +7382,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-24 11:34:11",
-      "longitude": 29.0428,
-      "latitude": -2.4717
+      "longitude": 29.0402,
+      "latitude": -2.475
     },
     {
       "block_id": "8b38e9e20fc2-146",
@@ -7410,7 +7419,7 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Byose barabyibye kuburyontacyogusarurwa kirimwo kandibyaribitaranuma",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-19 09:14:39",
-      "longitude": 29.024,
+      "longitude": 29.0282,
       "latitude": -2.4755
     },
     {
@@ -7437,8 +7446,8 @@
       "visit1vegetativev6_survey_end": "2022-05-18 14:46:00",
       "visit1vegetativev6_farm_geo_elevation": 1629.5193,
       "visit1vegetativev6_farm_geo_gps_precision": 4.824,
-      "longitude": 29.0369,
-      "latitude": -2.4922
+      "longitude": 29.0441,
+      "latitude": -2.5001
     },
     {
       "block_id": "8b38e9e20fc2-148",
@@ -7475,8 +7484,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ntamusaruro kukobyibwebyose bitaruma urwasigayemwo ajyakutwotsa",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-27 12:18:58",
-      "longitude": 29.0256,
-      "latitude": -2.4711
+      "longitude": 29.04,
+      "latitude": -2.4857
     },
     {
       "block_id": "8b38e9e20fc2-149",
@@ -7530,8 +7539,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-09-06 16:31:48",
-      "longitude": 29.0351,
-      "latitude": -2.4954
+      "longitude": 29.0278,
+      "latitude": -2.4868
     },
     {
       "block_id": "8b38e9e20fc2-150",
@@ -7561,8 +7570,8 @@
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit2freshmaturity_trialsuccess_oth": "Yes",
       "visit2freshmaturity_survey_end": "2022-07-06 11:46:51",
-      "longitude": 29.0544,
-      "latitude": -2.4873
+      "longitude": 29.0547,
+      "latitude": -2.4881
     },
     {
       "block_id": "8b38e9e20fc2-151",
@@ -7612,8 +7621,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-11 10:31:26",
-      "longitude": 29.3234,
-      "latitude": -2.1455
+      "longitude": 29.3206,
+      "latitude": -2.1478
     },
     {
       "block_id": "8b38e9e20fc2-152",
@@ -7639,8 +7648,8 @@
       "visit1vegetativev6_survey_end": "2022-04-19 08:28:13",
       "visit1vegetativev6_farm_geo_elevation": 1607.3997,
       "visit1vegetativev6_farm_geo_gps_precision": 15.008,
-      "longitude": 29.3332,
-      "latitude": -2.138
+      "longitude": 29.3296,
+      "latitude": -2.1326
     },
     {
       "block_id": "8b38e9e20fc2-153",
@@ -7661,8 +7670,8 @@
       "visit1vegetativev6_survey_end": "2022-05-25 12:22:32",
       "visit1vegetativev6_farm_geo_elevation": 1695.478,
       "visit1vegetativev6_farm_geo_gps_precision": 4.716,
-      "longitude": 29.3061,
-      "latitude": -2.1343
+      "longitude": 29.3042,
+      "latitude": -2.1267
     },
     {
       "block_id": "8b38e9e20fc2-154",
@@ -7704,8 +7713,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-08-11 14:43:06",
-      "longitude": 29.3238,
-      "latitude": -2.1245
+      "longitude": 29.3123,
+      "latitude": -2.1297
     },
     {
       "block_id": "8b38e9e20fc2-155",
@@ -7726,8 +7735,8 @@
       "visit1vegetativev6_survey_end": "2022-05-25 12:40:10",
       "visit1vegetativev6_farm_geo_elevation": 1694.5244,
       "visit1vegetativev6_farm_geo_gps_precision": 4.716,
-      "longitude": 29.3052,
-      "latitude": -2.1284
+      "longitude": 29.311,
+      "latitude": -2.1143
     },
     {
       "block_id": "8b38e9e20fc2-156",
@@ -7768,8 +7777,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-08-19 11:27:01",
-      "longitude": 29.3126,
-      "latitude": -2.1171
+      "longitude": 29.3108,
+      "latitude": -2.1056
     },
     {
       "block_id": "8b38e9e20fc2-157",
@@ -7791,8 +7800,8 @@
       "visit1vegetativev6_survey_end": "2022-04-20 10:34:22",
       "visit1vegetativev6_farm_geo_elevation": 1597.4934,
       "visit1vegetativev6_farm_geo_gps_precision": 5.556,
-      "longitude": 29.3098,
-      "latitude": -2.1133
+      "longitude": 29.3121,
+      "latitude": -2.1072
     },
     {
       "block_id": "8b38e9e20fc2-158",
@@ -7818,8 +7827,8 @@
       "visit1vegetativev6_survey_end": "2022-04-19 08:34:03",
       "visit1vegetativev6_farm_geo_elevation": 1573.6167,
       "visit1vegetativev6_farm_geo_gps_precision": 9.648,
-      "longitude": 29.3133,
-      "latitude": -2.1419
+      "longitude": 29.325,
+      "latitude": -2.1246
     },
     {
       "block_id": "8b38e9e20fc2-159",
@@ -7854,8 +7863,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Muturima twose nabirimo",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-11 11:42:39",
-      "longitude": 29.3205,
-      "latitude": -2.125
+      "longitude": 29.3125,
+      "latitude": -2.1287
     },
     {
       "block_id": "8b38e9e20fc2-160",
@@ -7905,8 +7914,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-20 11:25:01",
-      "longitude": 29.3052,
-      "latitude": -2.1136
+      "longitude": 29.3101,
+      "latitude": -2.1163
     },
     {
       "block_id": "8b38e9e20fc2-161",
@@ -7942,8 +7951,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Twari tugiye kubisarura dusanga nabirimo.ntabwo twasaruye.",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-24 16:48:03",
-      "longitude": 29.3122,
-      "latitude": -2.1311
+      "longitude": 29.3126,
+      "latitude": -2.1283
     },
     {
       "block_id": "8b38e9e20fc2-162",
@@ -7976,8 +7985,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-11 10:08:47",
-      "longitude": 29.3166,
-      "latitude": -2.1268
+      "longitude": 29.3204,
+      "latitude": -2.1117
     },
     {
       "block_id": "8b38e9e20fc2-163",
@@ -8013,7 +8022,7 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Abajura bibye ibigori byose mumurima nakigori kirimo.",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-15 10:24:11",
-      "longitude": 29.3132,
+      "longitude": 29.3024,
       "latitude": -2.1062
     },
     {
@@ -8061,8 +8070,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-22 12:07:54",
-      "longitude": 29.3133,
-      "latitude": -2.1185
+      "longitude": 29.3136,
+      "latitude": -2.119
     },
     {
       "block_id": "8b38e9e20fc2-165",
@@ -8112,8 +8121,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-20 10:06:26",
-      "longitude": 29.3196,
-      "latitude": -2.1155
+      "longitude": 29.3252,
+      "latitude": -2.1213
     },
     {
       "block_id": "8b38e9e20fc2-166",
@@ -8146,8 +8155,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-11 11:48:01",
-      "longitude": 29.3058,
-      "latitude": -2.1149
+      "longitude": 29.3156,
+      "latitude": -2.1282
     },
     {
       "block_id": "8b38e9e20fc2-167",
@@ -8196,8 +8205,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-20 14:03:44",
-      "longitude": 29.3318,
-      "latitude": -2.1156
+      "longitude": 29.3294,
+      "latitude": -2.1178
     },
     {
       "block_id": "8b38e9e20fc2-168",
@@ -8232,8 +8241,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ntabwo umuhinzi yigeze asarura",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-08-13 10:00:58",
-      "longitude": 29.3115,
-      "latitude": -2.1271
+      "longitude": 29.3086,
+      "latitude": -2.1304
     },
     {
       "block_id": "8b38e9e20fc2-169",
@@ -8263,8 +8272,8 @@
       "visit2freshmaturity_trialsuccess_oth": "Izuba ryaravuye ari ryinshi Ibigori birumagara bitaraheka.",
       "visit2freshmaturity_problemexplain": "Ntabwo twasaruye kuko nabigori bikirimo mumurima",
       "visit2freshmaturity_survey_end": "2022-08-16 07:51:34",
-      "longitude": 29.321,
-      "latitude": -2.1226
+      "longitude": 29.3042,
+      "latitude": -2.1201
     },
     {
       "block_id": "8b38e9e20fc2-170",
@@ -8299,8 +8308,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess_oth": "Ibigori barabyibye. Nabyasaruwe",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-08-11 15:25:40",
-      "longitude": 29.3088,
-      "latitude": -2.1072
+      "longitude": 29.3084,
+      "latitude": -2.1304
     },
     {
       "block_id": "8b38e9e20fc2-171",
@@ -8347,8 +8356,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-07-22 09:13:07",
-      "longitude": 29.3346,
-      "latitude": -2.1185
+      "longitude": 29.3263,
+      "latitude": -2.1221
     },
     {
       "block_id": "8b38e9e20fc2-172",
@@ -8390,8 +8399,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-20 13:28:29",
-      "longitude": 29.3167,
-      "latitude": -2.1035
+      "longitude": 29.3146,
+      "latitude": -2.1089
     },
     {
       "block_id": "8b38e9e20fc2-173",
@@ -8424,8 +8433,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-12 11:49:13",
-      "longitude": 29.3743,
-      "latitude": -2.0163
+      "longitude": 29.3899,
+      "latitude": -2.0152
     },
     {
       "block_id": "8b38e9e20fc2-174",
@@ -8467,8 +8476,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-09-17 08:38:04",
-      "longitude": 29.3886,
-      "latitude": -2.0216
+      "longitude": 29.3774,
+      "latitude": -2.0325
     },
     {
       "block_id": "8b38e9e20fc2-175",
@@ -8492,8 +8501,8 @@
       "visit1vegetativev6_survey_end": "2022-05-03 09:32:54",
       "visit1vegetativev6_farm_geo_elevation": 1683.3735,
       "visit1vegetativev6_farm_geo_gps_precision": 4.337,
-      "longitude": 29.3887,
-      "latitude": -2.0014
+      "longitude": 29.3796,
+      "latitude": -2.0013
     },
     {
       "block_id": "8b38e9e20fc2-176",
@@ -8527,8 +8536,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ibigori byose barabyibye",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-11 09:45:30",
-      "longitude": 29.3719,
-      "latitude": -2.0173
+      "longitude": 29.3886,
+      "latitude": -2.031
     },
     {
       "block_id": "8b38e9e20fc2-177",
@@ -8562,8 +8571,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ibigori byose barabyibye ntago yigeze asarura",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-20 08:12:42",
-      "longitude": 29.3806,
-      "latitude": -2.0176
+      "longitude": 29.3931,
+      "latitude": -2.0131
     },
     {
       "block_id": "8b38e9e20fc2-178",
@@ -8594,8 +8603,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-07-07 16:03:02",
-      "longitude": 29.3986,
-      "latitude": -2.0273
+      "longitude": 29.3856,
+      "latitude": -2.012
     },
     {
       "block_id": "8b38e9e20fc2-179",
@@ -8645,8 +8654,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-19 09:19:58",
-      "longitude": 29.4276,
-      "latitude": -2.013
+      "longitude": 29.419,
+      "latitude": -2.0126
     },
     {
       "block_id": "8b38e9e20fc2-180",
@@ -8680,8 +8689,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ibigori byose barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-11 08:59:08",
-      "longitude": 29.3954,
-      "latitude": -2.0261
+      "longitude": 29.3918,
+      "latitude": -2.0334
     },
     {
       "block_id": "8b38e9e20fc2-181",
@@ -8715,8 +8724,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ibigori byose barabyibye ntago yigeze asarura",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-20 08:39:04",
-      "longitude": 29.3755,
-      "latitude": -2.0101
+      "longitude": 29.3861,
+      "latitude": -2.0338
     },
     {
       "block_id": "8b38e9e20fc2-182",
@@ -8741,8 +8750,8 @@
       "visit1vegetativev6_survey_end": "2022-05-05 11:49:03",
       "visit1vegetativev6_farm_geo_elevation": 1510.849,
       "visit1vegetativev6_farm_geo_gps_precision": 4.898,
-      "longitude": 29.3894,
-      "latitude": -2.0199
+      "longitude": 29.3673,
+      "latitude": -2.0254
     },
     {
       "block_id": "8b38e9e20fc2-183",
@@ -8791,8 +8800,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-07 14:42:38",
-      "longitude": 29.3763,
-      "latitude": -2.025
+      "longitude": 29.3966,
+      "latitude": -2.0325
     },
     {
       "block_id": "8b38e9e20fc2-184",
@@ -8843,8 +8852,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-28 18:22:30",
-      "longitude": 29.3831,
-      "latitude": -2.035
+      "longitude": 29.3891,
+      "latitude": -2.0306
     },
     {
       "block_id": "8b38e9e20fc2-185",
@@ -8879,7 +8888,7 @@
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-20 08:54:33",
       "longitude": 29.4198,
-      "latitude": -2.0257
+      "latitude": -2.0157
     },
     {
       "block_id": "8b38e9e20fc2-186",
@@ -8930,8 +8939,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-07-07 15:58:55",
-      "longitude": 29.3855,
-      "latitude": -2.0109
+      "longitude": 29.3765,
+      "latitude": -2.0334
     },
     {
       "block_id": "8b38e9e20fc2-187",
@@ -8965,8 +8974,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ibigori byose barabyibye ntago yigeze asarura",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-06-20 08:20:53",
-      "longitude": 29.3948,
-      "latitude": -2.0193
+      "longitude": 29.3765,
+      "latitude": -2.0292
     }
   ],
   "plot_data": [
