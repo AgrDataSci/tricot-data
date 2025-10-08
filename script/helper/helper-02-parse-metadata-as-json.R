@@ -1,20 +1,28 @@
-# Load required packages
+# Load required package
 library("readxl")
 library("jsonlite")
 
-# Path to your Excel file
-file = "metadata/project-metadata.xlsx"
 
-# --- 1. Read sheets ---
+# Read metadata and authors from Excel
+file = "metadata/project-metadata.xlsx"
 metadata = read_excel(file, sheet = "metadata")
-authors = read_excel(file, sheet = "authors")
+
+trials = list.files("metadata/trials-metadata", full.names = TRUE)
+
+authors = list()
+
+for(i in seq_along(trials)) {
+  authors[[i]] = read_excel(paste0(trials[i], "/authors-metadata.xlsx"))
+}
+
+authors = do.call("rbind", authors)
+
+authors = authors[union(1:2, order(authors$family_name)), ]
+
 funders = read_excel(file, sheet = "funders")
 communities = read_excel(file, sheet = "communities")
 dates = NULL
 
-
-keep = grep("1", authors$checked_dataset)
-authors = authors[keep, ]
 
 # Check required fields in metadata
 required_fields = c("title", "version", "publication_date", "publisher", "description", "language", "resource_type", "license")
