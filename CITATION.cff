@@ -1,0 +1,216 @@
+cff-version: 1.2.0
+message: "If you use this dataset or software, please cite it as below."
+title: "Global multi-crop agricultural trial data supported by citizen science"
+version: "v0.4"
+date-released: 2025-09-10
+authors:
+  - family-names: de Sousa
+    given-names: Kauê
+    orcid: https://orcid.org/0000-0002-7571-7845
+    affiliation: Bioversity International
+  - family-names: Laporte
+    given-names: Marie-Angélique
+    orcid: https://orcid.org/0000-0002-8461-9745
+    affiliation: Bioversity International
+  - family-names: Achigan-Dako
+    given-names: Enoch G.
+    orcid: https://orcid.org/0000-0002-5493-0516
+    affiliation: Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi
+  - family-names: Adonia
+    given-names: Joseph
+    affiliation: Tanzania Agricultural Research Institute
+  - family-names: Aglinglo
+    given-names: Lys Amavi
+    orcid: https://orcid.org/0009-0005-1515-4699
+    affiliation: World Vegetable Center, West and Central Africa Coastal and Humid Regions
+  - family-names: Atieno
+    given-names: Elly Ouma
+    orcid: https://orcid.org/0000-0002-4354-1785
+    affiliation: International Potato Center
+  - family-names: Ayenan
+    given-names: Mathieu
+    orcid: https://orcid.org/0000-0001-5774-9029
+    affiliation: World Vegetable Center, West and Central Africa Coastal and Humid Regions
+  - family-names: Boukar
+    given-names: Ousmane
+    orcid: https://orcid.org/0000-0003-0234-4264
+    affiliation: International Institute of Tropical Agriculture
+  - family-names: Bujiku
+    given-names: Antony
+    affiliation: Tanzania Agricultural Research Institute
+  - family-names: Chase
+    given-names: Rachel
+    orcid: https://orcid.org/0000-0002-5859-6455
+    affiliation: Bioversity International
+  - family-names: Coulibaly
+    given-names: Harouna
+    orcid: https://orcid.org/0009-0003-9366-4171
+    affiliation: Programme Fruits et Légumes, Institut d'Economie Rurale
+  - family-names: Cremaschi
+    given-names: Almendra
+    orcid: https://orcid.org/0000-0001-8932-5626
+    affiliation: Bioversity International
+  - family-names: Das
+    given-names: Roma Rani
+    affiliation: International Maize and Wheat Improvement Center
+  - family-names: Daudi
+    given-names: Happy
+    orcid: https://orcid.org/0000-0001-5107-6564
+    affiliation: Tanzania Agricultural Research Institute
+  - family-names: Diarra
+    given-names: Danfing dit Youssouf
+    orcid: https://orcid.org/0009-0006-0868-6571
+    affiliation: Programme Fruits et Légumes, Institut d'Economie Rurale
+  - family-names: Dolo
+    given-names: Aminata
+    affiliation: Programme Fruits et Légumes, Institut d'Economie Rurale
+  - family-names: Dorado-Betancourt
+    given-names: Hugo
+    orcid: https://orcid.org/0000-0002-0103-7505
+    affiliation: Wageningen University and Research
+  - family-names: Ellison
+    given-names: James
+    orcid: https://orcid.org/0000-0002-4598-6323
+    affiliation: One Acre Fund
+  - family-names: Gandhi
+    given-names: Harish
+    orcid: https://orcid.org/0000-0002-1304-8877
+    affiliation: International Maize and Wheat Improvement Center
+  - family-names: Houdegbe
+    given-names: Aristide Carlos
+    orcid: https://orcid.org/0000-0003-3774-5658
+    affiliation: Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi
+  - family-names: Jørgensen
+    given-names: Marit
+    orcid: https://orcid.org/0000-0002-6104-124X
+    affiliation: Norwegian Institute of Bioeconomy Research
+  - family-names: Katamba
+    given-names: Emmanuel
+    affiliation: Tanzania Agricultural Research Institute
+  - family-names: Kileo
+    given-names: Aishi
+    orcid: https://orcid.org/0009-0004-5010-3355
+    affiliation: Tanzania Agricultural Research Institute
+  - family-names: Laswai
+    given-names: Emmanuel V.
+    affiliation: Tanzania Agricultural Research Institute
+  - family-names: Legba
+    given-names: Eric C.
+    orcid: https://orcid.org/0009-0008-8284-0463
+    affiliation: World Vegetable Center, West and Central Africa Coastal and Humid Regions
+  - family-names: Madriz
+    given-names: Brandon
+    affiliation: MrBot Software Solutions
+  - family-names: Malulu
+    given-names: Dickson
+    orcid: https://orcid.org/0009-0005-5327-6769
+    affiliation: Tanzania Agricultural Research Institute
+  - family-names: Matumbo
+    given-names: Zamira
+    orcid: https://orcid.org/0009-0005-4091-782X
+    affiliation: Tanzania Agricultural Research Institute
+  - family-names: Mlaki
+    given-names: Anna
+    affiliation: World Vegetable Center, Eastern and Southern Africa
+  - family-names: Mousavi
+    given-names: Hesam
+    orcid: https://orcid.org/0000-0003-2615-756X
+    affiliation: University of Inland Norway
+  - family-names: Mulatu
+    given-names: Kalkidan Ayele
+    affiliation: International Center for Tropical Agriculture
+  - family-names: N'Danikou
+    given-names: Sognigbé
+    orcid: https://orcid.org/0000-0002-4163-8567
+    affiliation: World Vegetable Center, Eastern and Southern Africa
+  - family-names: Nabateregga
+    given-names: Mabel
+    orcid: https://orcid.org/0000-0002-6731-152X
+    affiliation: University of Inland Norway
+  - family-names: Nadigatla
+    given-names: Ganga Rao V. P. R.
+    affiliation: International Maize and Wheat Improvement Center
+  - family-names: Neby
+    given-names: Magne
+    orcid: https://orcid.org/0000-0003-2098-7650
+    affiliation: University of Inland Norway
+  - family-names: Notenbaert
+    given-names: An
+    orcid: https://orcid.org/0000-0002-6266-2240
+    affiliation: International Center for Tropical Agriculture
+  - family-names: Nyawade
+    given-names: Shadrack Otieno
+    affiliation: International Potato Center
+  - family-names: Ojiewo
+    given-names: Christopher Ochieng
+    orcid: https://orcid.org/0000-0002-2885-9381
+    affiliation: International Maize and Wheat Improvement Center
+  - family-names: Ongom
+    given-names: Patrick Obia
+    orcid: https://orcid.org/0000-0002-5303-3602
+    affiliation: International Institute of Tropical Agriculture
+  - family-names: Ouedraogo
+    given-names: Colette Ouidyam
+    orcid: https://orcid.org/0000-0002-1997-3684
+    affiliation: World Vegetable Center, West and Central Africa Drylands
+  - family-names: Rathore
+    given-names: Abhishek
+    orcid: https://orcid.org/0000-0001-6887-4095
+    affiliation: International Maize and Wheat Improvement Center
+  - family-names: Salaou
+    given-names: Abdou Mouizz B.
+    orcid: https://orcid.org/0009-0003-2379-6646
+    affiliation: Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi
+  - family-names: Shango
+    given-names: Abdul
+    orcid: https://orcid.org/0000-0002-0233-8385
+    affiliation: World Vegetable Center, Eastern and Southern Africa
+  - family-names: Sharma
+    given-names: Kalpana
+    orcid: https://orcid.org/0000-0002-4104-8671
+    affiliation: International Potato Center
+  - family-names: Sibomana
+    given-names: Milindi
+    affiliation: One Acre Fund
+  - family-names: Sidibe
+    given-names: Amadou
+    affiliation: Programme Fruits et Légumes, Institut d'Economie Rurale
+  - family-names: Sohindji
+    given-names: Silvère Fernand
+    orcid: https://orcid.org/0000-0002-2902-1433
+    affiliation: Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi
+  - family-names: Solberg
+    given-names: Svein Øivind
+    orcid: https://orcid.org/0000-0002-4491-4483
+    affiliation: University of Inland Norway
+  - family-names: Steinke
+    given-names: Jonathan
+    orcid: https://orcid.org/0000-0001-5742-702X
+    affiliation: Bioversity International
+  - family-names: Tchokponhoue
+    given-names: Dèdéou Apocalypse
+    orcid: https://orcid.org/0000-0002-1285-245X
+    affiliation: Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi
+  - family-names: Tuyishime
+    given-names: Elysé
+    affiliation: One Acre Fund
+  - family-names: van Etten
+    given-names: Jacob
+    orcid: https://orcid.org/0000-0001-7554-2558
+    affiliation: Bioversity International
+  - family-names: van Heerwaarden
+    given-names: Joost
+    orcid: https://orcid.org/0000-0002-4959-3914
+    affiliation: Wageningen University and Research
+  - family-names: van Zonneveld
+    given-names: Maarten
+    orcid: https://orcid.org/0000-0002-7875-4756
+    affiliation: World Vegetable Center
+repository-code: https://github.com/AgrDataSci/tricot-data
+license: CC-BY-SA-4.0
+keywords:
+  - agriculture
+  - digital innovation
+  - FAIR data
+  - partnerships for the goals
+  - tricot approach

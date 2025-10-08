@@ -5,11 +5,18 @@ library("readxl")
 # Read metadata and authors from Excel
 file = "metadata/project-metadata.xlsx"
 metadata = read_excel(file, sheet = "metadata")
-authors = read_excel(file, sheet = "authors")
 
-keep = grep("1", authors$checked_dataset)
+trials = list.files("metadata/trials-metadata", full.names = TRUE)
 
-authors = authors[keep, ]
+authors = list()
+
+for(i in seq_along(trials)) {
+  authors[[i]] = read_excel(paste0(trials[i], "/authors-metadata.xlsx"))
+}
+
+authors = do.call("rbind", authors)
+
+authors = authors[union(1:2, order(authors$family_name)), ]
 
 # Convert metadata to named list
 meta_list = setNames(as.list(metadata$value), metadata$key)
