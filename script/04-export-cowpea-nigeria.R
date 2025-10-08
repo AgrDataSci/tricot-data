@@ -1,5 +1,5 @@
 # .............................................
-# This script will handle the TARI groundnut data #####
+# This script will handle the cowpea IITA data #####
 # first run: July 2025
 # updated: September 2025
 # K de Sousa
@@ -193,12 +193,10 @@ for(k in seq_along(cmdata)) {
                          origin = NA, 
                          remarks = NA)
   
-  geno = geno[!duplicated(geno$final_genotype_name), ]
-  
   # get genotype information from the source table
   for(i in seq_along(genotypes$genotype_name)) {
     
-    index = grep(genotypes$genotype_name[i], geno$final_genotype_name)
+    index = grep(genotypes$genotype_name[i], geno$final_genotype_name)[1]
     
     if(length(index) == 0) next
     
