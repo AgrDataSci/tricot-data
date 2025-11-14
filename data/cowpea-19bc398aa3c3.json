@@ -1,11 +1,11 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-08",
+      "version": "v2025-11-14",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
-        "package_version": "1.7"
+        "package_version": "1.8"
       }
     },
     "identifier": "https://doi.org/10.5281/zenodo.17112492",
@@ -858,8 +858,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-09 13:54:18",
-      "longitude": 8.3298,
-      "latitude": 12.1105
+      "longitude": 8.331,
+      "latitude": 12.1143
     },
     {
       "block_id": "19bc398aa3c3-2",
@@ -914,8 +914,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-09 13:55:47",
-      "longitude": 8.3329,
-      "latitude": 12.1086
+      "longitude": 8.3336,
+      "latitude": 12.1016
     },
     {
       "block_id": "19bc398aa3c3-3",
@@ -970,8 +970,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-09 13:57:26",
-      "longitude": 8.3324,
-      "latitude": 12.0898
+      "longitude": 8.335,
+      "latitude": 12.1062
     },
     {
       "block_id": "19bc398aa3c3-4",
@@ -1026,8 +1026,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-09 13:59:42",
-      "longitude": 8.3389,
-      "latitude": 12.1158
+      "longitude": 8.3287,
+      "latitude": 12.1035
     },
     {
       "block_id": "19bc398aa3c3-5",
@@ -1083,8 +1083,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:01:43",
-      "longitude": 8.3437,
-      "latitude": 12.0998
+      "longitude": 8.3354,
+      "latitude": 12.1097
     },
     {
       "block_id": "19bc398aa3c3-6",
@@ -1139,8 +1139,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:03:41",
-      "longitude": 8.3331,
-      "latitude": 12.1032
+      "longitude": 8.3263,
+      "latitude": 12.1039
     },
     {
       "block_id": "19bc398aa3c3-7",
@@ -1195,8 +1195,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:06:05",
-      "longitude": 8.3424,
-      "latitude": 12.1079
+      "longitude": 8.3482,
+      "latitude": 12.0888
     },
     {
       "block_id": "19bc398aa3c3-8",
@@ -1251,8 +1251,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:08:21",
-      "longitude": 8.3396,
-      "latitude": 12.1134
+      "longitude": 8.3275,
+      "latitude": 12.1122
     },
     {
       "block_id": "19bc398aa3c3-9",
@@ -1307,8 +1307,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:10:59",
-      "longitude": 8.3251,
-      "latitude": 12.0989
+      "longitude": 8.3338,
+      "latitude": 12.0855
     },
     {
       "block_id": "19bc398aa3c3-10",
@@ -1363,8 +1363,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:13:45",
-      "longitude": 8.3375,
-      "latitude": 12.1007
+      "longitude": 8.3409,
+      "latitude": 12.1005
     },
     {
       "block_id": "19bc398aa3c3-11",
@@ -1419,8 +1419,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:15:21",
-      "longitude": 8.329,
-      "latitude": 12.1287
+      "longitude": 8.3389,
+      "latitude": 12.1205
     },
     {
       "block_id": "19bc398aa3c3-12",
@@ -1475,8 +1475,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:17:50",
-      "longitude": 8.3269,
-      "latitude": 12.1354
+      "longitude": 8.3224,
+      "latitude": 12.117
     },
     {
       "block_id": "19bc398aa3c3-13",
@@ -1531,8 +1531,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:19:33",
-      "longitude": 8.3324,
-      "latitude": 12.1346
+      "longitude": 8.3161,
+      "latitude": 12.1296
     },
     {
       "block_id": "19bc398aa3c3-14",
@@ -1587,8 +1587,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:21:59",
-      "longitude": 8.3441,
-      "latitude": 12.0845
+      "longitude": 8.3351,
+      "latitude": 12.0897
     },
     {
       "block_id": "19bc398aa3c3-15",
@@ -1643,8 +1643,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:23:37",
-      "longitude": 8.3266,
-      "latitude": 12.1004
+      "longitude": 8.3268,
+      "latitude": 12.1002
     },
     {
       "block_id": "19bc398aa3c3-16",
@@ -1699,8 +1699,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:25:20",
-      "longitude": 8.3265,
-      "latitude": 12.0997
+      "longitude": 8.3276,
+      "latitude": 12.1181
     },
     {
       "block_id": "19bc398aa3c3-17",
@@ -1755,8 +1755,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:27:04",
-      "longitude": 8.3279,
-      "latitude": 12.1051
+      "longitude": 8.315,
+      "latitude": 12.1127
     },
     {
       "block_id": "19bc398aa3c3-18",
@@ -1811,8 +1811,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:31:17",
-      "longitude": 8.3476,
-      "latitude": 12.1049
+      "longitude": 8.3322,
+      "latitude": 12.1011
     },
     {
       "block_id": "19bc398aa3c3-19",
@@ -1867,8 +1867,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:33:11",
-      "longitude": 8.335,
-      "latitude": 12.1124
+      "longitude": 8.3377,
+      "latitude": 12.1144
     },
     {
       "block_id": "19bc398aa3c3-20",
@@ -1923,8 +1923,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:35:27",
-      "longitude": 8.3195,
-      "latitude": 12.1052
+      "longitude": 8.3293,
+      "latitude": 12.0972
     },
     {
       "block_id": "19bc398aa3c3-21",
@@ -1979,8 +1979,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:37:26",
-      "longitude": 8.3274,
-      "latitude": 12.1024
+      "longitude": 8.3372,
+      "latitude": 12.1075
     },
     {
       "block_id": "19bc398aa3c3-22",
@@ -2035,8 +2035,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-09 14:39:16",
-      "longitude": 8.3307,
-      "latitude": 12.099
+      "longitude": 8.3275,
+      "latitude": 12.1046
     },
     {
       "block_id": "19bc398aa3c3-23",
@@ -2092,8 +2092,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:15:57",
-      "longitude": 9.578,
-      "latitude": 11.8286
+      "longitude": 9.5894,
+      "latitude": 11.8199
     },
     {
       "block_id": "19bc398aa3c3-24",
@@ -2148,8 +2148,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C",
       "breederassessmentpostharvest_survey_end": "2024-11-27 08:33:07",
-      "longitude": 9.6209,
-      "latitude": 11.7902
+      "longitude": 9.6433,
+      "latitude": 11.7901
     },
     {
       "block_id": "19bc398aa3c3-25",
@@ -2204,8 +2204,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:43:52",
-      "longitude": 9.6248,
-      "latitude": 11.81
+      "longitude": 9.6104,
+      "latitude": 11.8035
     },
     {
       "block_id": "19bc398aa3c3-26",
@@ -2261,8 +2261,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:19:19",
-      "longitude": 9.5873,
-      "latitude": 11.8179
+      "longitude": 9.5793,
+      "latitude": 11.8266
     },
     {
       "block_id": "19bc398aa3c3-27",
@@ -2317,8 +2317,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:45:46",
-      "longitude": 9.6281,
-      "latitude": 11.8011
+      "longitude": 9.6098,
+      "latitude": 11.7992
     },
     {
       "block_id": "19bc398aa3c3-28",
@@ -2373,8 +2373,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:26:00",
-      "longitude": 9.6131,
-      "latitude": 11.8098
+      "longitude": 9.5988,
+      "latitude": 11.8074
     },
     {
       "block_id": "19bc398aa3c3-29",
@@ -2431,8 +2431,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:30:29",
-      "longitude": 9.5879,
-      "latitude": 11.8289
+      "longitude": 9.5869,
+      "latitude": 11.8123
     },
     {
       "block_id": "19bc398aa3c3-30",
@@ -2489,8 +2489,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:32:56",
-      "longitude": 9.5915,
-      "latitude": 11.8297
+      "longitude": 9.5977,
+      "latitude": 11.8188
     },
     {
       "block_id": "19bc398aa3c3-31",
@@ -2546,8 +2546,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:35:27",
-      "longitude": 9.6034,
-      "latitude": 11.7915
+      "longitude": 9.6107,
+      "latitude": 11.8029
     },
     {
       "block_id": "19bc398aa3c3-32",
@@ -2604,8 +2604,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C; B",
       "breederassessmentpostharvest_survey_end": "2024-12-06 08:10:38",
-      "longitude": 9.6073,
-      "latitude": 11.8054
+      "longitude": 9.5993,
+      "latitude": 11.8096
     },
     {
       "block_id": "19bc398aa3c3-33",
@@ -2660,8 +2660,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:49:41",
-      "longitude": 9.6221,
-      "latitude": 11.8047
+      "longitude": 9.6232,
+      "latitude": 11.8143
     },
     {
       "block_id": "19bc398aa3c3-34",
@@ -2718,8 +2718,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-27 08:42:16",
-      "longitude": 9.5823,
-      "latitude": 11.8357
+      "longitude": 9.5881,
+      "latitude": 11.8265
     },
     {
       "block_id": "19bc398aa3c3-35",
@@ -2774,8 +2774,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:53:06",
-      "longitude": 9.5997,
-      "latitude": 11.8064
+      "longitude": 9.6172,
+      "latitude": 11.8084
     },
     {
       "block_id": "19bc398aa3c3-36",
@@ -2832,8 +2832,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:23:48",
-      "longitude": 9.5719,
-      "latitude": 11.8293
+      "longitude": 9.5826,
+      "latitude": 11.8206
     },
     {
       "block_id": "19bc398aa3c3-37",
@@ -2889,8 +2889,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-27 08:38:18",
-      "longitude": 9.614,
-      "latitude": 11.7915
+      "longitude": 9.6226,
+      "latitude": 11.7893
     },
     {
       "block_id": "19bc398aa3c3-38",
@@ -2947,8 +2947,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:54:50",
-      "longitude": 9.5854,
-      "latitude": 11.7866
+      "longitude": 9.5652,
+      "latitude": 11.7819
     },
     {
       "block_id": "19bc398aa3c3-39",
@@ -3005,8 +3005,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:55:54",
-      "longitude": 9.5755,
-      "latitude": 11.7842
+      "longitude": 9.5786,
+      "latitude": 11.7692
     },
     {
       "block_id": "19bc398aa3c3-40",
@@ -3063,8 +3063,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:57:11",
-      "longitude": 9.633,
-      "latitude": 11.7789
+      "longitude": 9.6165,
+      "latitude": 11.7918
     },
     {
       "block_id": "19bc398aa3c3-41",
@@ -3121,8 +3121,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 07:59:45",
-      "longitude": 9.6125,
-      "latitude": 11.7946
+      "longitude": 9.6135,
+      "latitude": 11.7968
     },
     {
       "block_id": "19bc398aa3c3-42",
@@ -3179,8 +3179,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-06 08:00:57",
-      "longitude": 9.573,
-      "latitude": 11.7783
+      "longitude": 9.5649,
+      "latitude": 11.7815
     },
     {
       "block_id": "19bc398aa3c3-43",
@@ -3236,8 +3236,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-16 06:21:40",
-      "longitude": 7.5214,
-      "latitude": 12.4498
+      "longitude": 7.5203,
+      "latitude": 12.4644
     },
     {
       "block_id": "19bc398aa3c3-44",
@@ -3293,8 +3293,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-16 06:23:53",
-      "longitude": 7.5151,
-      "latitude": 12.4579
+      "longitude": 7.5097,
+      "latitude": 12.4664
     },
     {
       "block_id": "19bc398aa3c3-45",
@@ -3350,8 +3350,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-16 06:26:02",
-      "longitude": 7.4887,
-      "latitude": 12.4446
+      "longitude": 7.4742,
+      "latitude": 12.4561
     },
     {
       "block_id": "19bc398aa3c3-46",
@@ -3407,8 +3407,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-16 06:28:50",
-      "longitude": 7.487,
-      "latitude": 12.4352
+      "longitude": 7.4941,
+      "latitude": 12.4575
     },
     {
       "block_id": "19bc398aa3c3-47",
@@ -3464,8 +3464,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-16 06:32:13",
-      "longitude": 7.4666,
-      "latitude": 12.4518
+      "longitude": 7.485,
+      "latitude": 12.4319
     },
     {
       "block_id": "19bc398aa3c3-48",
@@ -3520,8 +3520,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-16 06:34:24",
-      "longitude": 7.4741,
-      "latitude": 12.4289
+      "longitude": 7.4855,
+      "latitude": 12.4362
     },
     {
       "block_id": "19bc398aa3c3-49",
@@ -3576,8 +3576,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-16 06:36:38",
-      "longitude": 7.4684,
-      "latitude": 12.4486
+      "longitude": 7.4824,
+      "latitude": 12.4375
     },
     {
       "block_id": "19bc398aa3c3-50",
@@ -3633,8 +3633,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-16 08:30:58",
-      "longitude": 7.4852,
-      "latitude": 12.4308
+      "longitude": 7.4632,
+      "latitude": 12.4343
     },
     {
       "block_id": "19bc398aa3c3-51",
@@ -3689,8 +3689,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-16 17:42:41",
-      "longitude": 7.5063,
-      "latitude": 12.4691
+      "longitude": 7.5272,
+      "latitude": 12.4789
     },
     {
       "block_id": "19bc398aa3c3-52",
@@ -3745,8 +3745,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-16 17:44:55",
-      "longitude": 7.4953,
-      "latitude": 12.4496
+      "longitude": 7.4917,
+      "latitude": 12.4354
     },
     {
       "block_id": "19bc398aa3c3-53",
@@ -3801,8 +3801,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-16 17:46:48",
-      "longitude": 7.4998,
-      "latitude": 12.4502
+      "longitude": 7.4797,
+      "latitude": 12.4524
     },
     {
       "block_id": "19bc398aa3c3-54",
@@ -3857,8 +3857,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-16 18:36:45",
-      "longitude": 7.4834,
-      "latitude": 12.4563
+      "longitude": 7.5004,
+      "latitude": 12.4457
     },
     {
       "block_id": "19bc398aa3c3-55",
@@ -3913,8 +3913,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-16 18:39:03",
-      "longitude": 7.4813,
-      "latitude": 12.4561
+      "longitude": 7.4816,
+      "latitude": 12.4431
     },
     {
       "block_id": "19bc398aa3c3-56",
@@ -3969,8 +3969,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-16 18:42:20",
-      "longitude": 7.4807,
-      "latitude": 12.4381
+      "longitude": 7.477,
+      "latitude": 12.4481
     },
     {
       "block_id": "19bc398aa3c3-57",
@@ -4025,8 +4025,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-16 18:45:46",
-      "longitude": 7.4869,
-      "latitude": 12.4586
+      "longitude": 7.4805,
+      "latitude": 12.4496
     },
     {
       "block_id": "19bc398aa3c3-58",
@@ -4081,8 +4081,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-16 18:48:03",
-      "longitude": 7.4852,
-      "latitude": 12.4543
+      "longitude": 7.4936,
+      "latitude": 12.442
     },
     {
       "block_id": "19bc398aa3c3-59",
@@ -4137,8 +4137,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-16 18:49:43",
-      "longitude": 7.4664,
-      "latitude": 12.4326
+      "longitude": 7.4834,
+      "latitude": 12.4423
     },
     {
       "block_id": "19bc398aa3c3-60",
@@ -4193,8 +4193,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-16 18:52:24",
-      "longitude": 7.4678,
-      "latitude": 12.4425
+      "longitude": 7.48,
+      "latitude": 12.4378
     },
     {
       "block_id": "19bc398aa3c3-61",
@@ -4249,8 +4249,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-16 18:54:30",
-      "longitude": 7.4819,
-      "latitude": 12.4494
+      "longitude": 7.4931,
+      "latitude": 12.4436
     },
     {
       "block_id": "19bc398aa3c3-62",
@@ -4305,8 +4305,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-16 18:55:58",
-      "longitude": 7.5003,
-      "latitude": 12.4383
+      "longitude": 7.4766,
+      "latitude": 12.4515
     },
     {
       "block_id": "19bc398aa3c3-63",
@@ -4362,8 +4362,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.841,
-      "latitude": 11.6399
+      "longitude": 8.8295,
+      "latitude": 11.6305
     },
     {
       "block_id": "19bc398aa3c3-64",
@@ -4419,8 +4419,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.8303,
-      "latitude": 11.6295
+      "longitude": 8.8395,
+      "latitude": 11.6536
     },
     {
       "block_id": "19bc398aa3c3-65",
@@ -4476,8 +4476,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.8105,
-      "latitude": 11.6335
+      "longitude": 8.8167,
+      "latitude": 11.6362
     },
     {
       "block_id": "19bc398aa3c3-66",
@@ -4533,8 +4533,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.8385,
-      "latitude": 11.6456
+      "longitude": 8.85,
+      "latitude": 11.6419
     },
     {
       "block_id": "19bc398aa3c3-67",
@@ -4590,8 +4590,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.8358,
-      "latitude": 11.6303
+      "longitude": 8.8488,
+      "latitude": 11.6452
     },
     {
       "block_id": "19bc398aa3c3-68",
@@ -4647,8 +4647,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.8498,
-      "latitude": 11.6301
+      "longitude": 8.8402,
+      "latitude": 11.6497
     },
     {
       "block_id": "19bc398aa3c3-69",
@@ -4704,8 +4704,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.8461,
-      "latitude": 11.6483
+      "longitude": 8.851,
+      "latitude": 11.6431
     },
     {
       "block_id": "19bc398aa3c3-70",
@@ -4761,8 +4761,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.8321,
-      "latitude": 11.6405
+      "longitude": 8.8308,
+      "latitude": 11.6447
     },
     {
       "block_id": "19bc398aa3c3-71",
@@ -4818,8 +4818,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.7958,
-      "latitude": 11.6561
+      "longitude": 8.8159,
+      "latitude": 11.6393
     },
     {
       "block_id": "19bc398aa3c3-72",
@@ -4875,8 +4875,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:08",
-      "longitude": 8.8401,
-      "latitude": 11.6353
+      "longitude": 8.8443,
+      "latitude": 11.6429
     },
     {
       "block_id": "19bc398aa3c3-73",
@@ -4932,8 +4932,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.8429,
-      "latitude": 11.6415
+      "longitude": 8.835,
+      "latitude": 11.6461
     },
     {
       "block_id": "19bc398aa3c3-74",
@@ -4989,8 +4989,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.8036,
-      "latitude": 11.6448
+      "longitude": 8.8065,
+      "latitude": 11.6515
     },
     {
       "block_id": "19bc398aa3c3-75",
@@ -5046,8 +5046,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.8295,
-      "latitude": 11.6392
+      "longitude": 8.8168,
+      "latitude": 11.6553
     },
     {
       "block_id": "19bc398aa3c3-76",
@@ -5103,8 +5103,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.8627,
-      "latitude": 11.6556
+      "longitude": 8.8673,
+      "latitude": 11.6718
     },
     {
       "block_id": "19bc398aa3c3-77",
@@ -5160,8 +5160,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.8535,
-      "latitude": 11.644
+      "longitude": 8.8585,
+      "latitude": 11.6391
     },
     {
       "block_id": "19bc398aa3c3-78",
@@ -5217,8 +5217,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.8474,
-      "latitude": 11.647
+      "longitude": 8.8625,
+      "latitude": 11.6513
     },
     {
       "block_id": "19bc398aa3c3-79",
@@ -5274,8 +5274,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.8473,
-      "latitude": 11.6588
+      "longitude": 8.856,
+      "latitude": 11.6333
     },
     {
       "block_id": "19bc398aa3c3-80",
@@ -5331,8 +5331,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.8217,
-      "latitude": 11.6439
+      "longitude": 8.842,
+      "latitude": 11.6463
     },
     {
       "block_id": "19bc398aa3c3-81",
@@ -5388,8 +5388,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.8155,
-      "latitude": 11.6415
+      "longitude": 8.8283,
+      "latitude": 11.6489
     },
     {
       "block_id": "19bc398aa3c3-82",
@@ -5445,8 +5445,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 17:13:09",
-      "longitude": 8.83,
-      "latitude": 11.6388
+      "longitude": 8.8326,
+      "latitude": 11.6348
     },
     {
       "block_id": "19bc398aa3c3-83",
@@ -5505,8 +5505,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:30",
-      "longitude": 9.4382,
-      "latitude": 11.3701
+      "longitude": 9.4495,
+      "latitude": 11.3592
     },
     {
       "block_id": "19bc398aa3c3-84",
@@ -5564,8 +5564,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:32",
-      "longitude": 9.4515,
-      "latitude": 11.3658
+      "longitude": 9.4527,
+      "latitude": 11.3562
     },
     {
       "block_id": "19bc398aa3c3-85",
@@ -5623,8 +5623,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:32",
-      "longitude": 9.4315,
-      "latitude": 11.3645
+      "longitude": 9.4367,
+      "latitude": 11.3572
     },
     {
       "block_id": "19bc398aa3c3-86",
@@ -5683,8 +5683,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:31",
-      "longitude": 9.4476,
-      "latitude": 11.3694
+      "longitude": 9.4423,
+      "latitude": 11.3656
     },
     {
       "block_id": "19bc398aa3c3-87",
@@ -5743,8 +5743,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C; B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 18:02:44",
-      "longitude": 9.4328,
-      "latitude": 11.371
+      "longitude": 9.4398,
+      "latitude": 11.355
     },
     {
       "block_id": "19bc398aa3c3-88",
@@ -5802,8 +5802,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-01 17:38:46",
-      "longitude": 9.4491,
-      "latitude": 11.3551
+      "longitude": 9.4588,
+      "latitude": 11.3587
     },
     {
       "block_id": "19bc398aa3c3-89",
@@ -5862,8 +5862,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C; B; A",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:30",
-      "longitude": 9.4409,
-      "latitude": 11.3465
+      "longitude": 9.448,
+      "latitude": 11.3505
     },
     {
       "block_id": "19bc398aa3c3-90",
@@ -5921,8 +5921,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:31",
-      "longitude": 9.4729,
-      "latitude": 11.466
+      "longitude": 9.4921,
+      "latitude": 11.4552
     },
     {
       "block_id": "19bc398aa3c3-91",
@@ -5980,8 +5980,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:31",
-      "longitude": 9.4844,
-      "latitude": 11.4598
+      "longitude": 9.4816,
+      "latitude": 11.4644
     },
     {
       "block_id": "19bc398aa3c3-92",
@@ -6038,8 +6038,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:31",
-      "longitude": 9.4799,
-      "latitude": 11.4701
+      "longitude": 9.4838,
+      "latitude": 11.4534
     },
     {
       "block_id": "19bc398aa3c3-93",
@@ -6097,8 +6097,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:31",
-      "longitude": 9.4878,
-      "latitude": 11.4734
+      "longitude": 9.4749,
+      "latitude": 11.4765
     },
     {
       "block_id": "19bc398aa3c3-94",
@@ -6157,8 +6157,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-12-01 17:35:11",
-      "longitude": 9.4768,
-      "latitude": 11.4826
+      "longitude": 9.4765,
+      "latitude": 11.4889
     },
     {
       "block_id": "19bc398aa3c3-95",
@@ -6216,8 +6216,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:31",
-      "longitude": 9.4744,
-      "latitude": 11.4604
+      "longitude": 9.4923,
+      "latitude": 11.4583
     },
     {
       "block_id": "19bc398aa3c3-96",
@@ -6276,8 +6276,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-01 17:34:54",
-      "longitude": 9.4862,
-      "latitude": 11.454
+      "longitude": 9.4978,
+      "latitude": 11.4561
     },
     {
       "block_id": "19bc398aa3c3-97",
@@ -6336,8 +6336,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C; B; A",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:32",
-      "longitude": 9.491,
-      "latitude": 11.4553
+      "longitude": 9.4837,
+      "latitude": 11.4604
     },
     {
       "block_id": "19bc398aa3c3-98",
@@ -6394,8 +6394,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; A",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:32",
-      "longitude": 9.492,
-      "latitude": 11.4752
+      "longitude": 9.4742,
+      "latitude": 11.4643
     },
     {
       "block_id": "19bc398aa3c3-99",
@@ -6454,8 +6454,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:31",
-      "longitude": 9.4939,
-      "latitude": 11.4609
+      "longitude": 9.4934,
+      "latitude": 11.4739
     },
     {
       "block_id": "19bc398aa3c3-100",
@@ -6514,8 +6514,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:30",
-      "longitude": 9.4465,
-      "latitude": 11.3668
+      "longitude": 9.437,
+      "latitude": 11.3682
     },
     {
       "block_id": "19bc398aa3c3-101",
@@ -6574,8 +6574,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C; B; A",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:30",
-      "longitude": 9.4768,
-      "latitude": 11.4698
+      "longitude": 9.4822,
+      "latitude": 11.4658
     },
     {
       "block_id": "19bc398aa3c3-102",
@@ -6634,8 +6634,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-01 18:50:30",
-      "longitude": 9.4328,
-      "latitude": 11.3602
+      "longitude": 9.4434,
+      "latitude": 11.3619
     },
     {
       "block_id": "19bc398aa3c3-103",
@@ -6693,8 +6693,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:23:15",
-      "longitude": 7.7689,
-      "latitude": 12.466
+      "longitude": 7.7624,
+      "latitude": 12.4691
     },
     {
       "block_id": "19bc398aa3c3-104",
@@ -6752,8 +6752,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:25:20",
-      "longitude": 7.7657,
-      "latitude": 12.4674
+      "longitude": 7.7612,
+      "latitude": 12.4639
     },
     {
       "block_id": "19bc398aa3c3-105",
@@ -6811,8 +6811,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:27:28",
-      "longitude": 7.7689,
-      "latitude": 12.4637
+      "longitude": 7.7506,
+      "latitude": 12.4825
     },
     {
       "block_id": "19bc398aa3c3-106",
@@ -6870,8 +6870,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:29:09",
-      "longitude": 7.7678,
-      "latitude": 12.4827
+      "longitude": 7.7563,
+      "latitude": 12.4705
     },
     {
       "block_id": "19bc398aa3c3-107",
@@ -6929,8 +6929,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:31:57",
-      "longitude": 7.7657,
-      "latitude": 12.4695
+      "longitude": 7.7497,
+      "latitude": 12.4684
     },
     {
       "block_id": "19bc398aa3c3-108",
@@ -6988,8 +6988,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:33:27",
-      "longitude": 7.7601,
-      "latitude": 12.4812
+      "longitude": 7.7668,
+      "latitude": 12.4775
     },
     {
       "block_id": "19bc398aa3c3-109",
@@ -7047,7 +7047,7 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:35:30",
-      "longitude": 7.7631,
+      "longitude": 7.7621,
       "latitude": 12.4813
     },
     {
@@ -7107,8 +7107,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:36:58",
-      "longitude": 7.7607,
-      "latitude": 12.4806
+      "longitude": 7.7458,
+      "latitude": 12.4722
     },
     {
       "block_id": "19bc398aa3c3-111",
@@ -7166,8 +7166,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:38:14",
-      "longitude": 7.7678,
-      "latitude": 12.479
+      "longitude": 7.7703,
+      "latitude": 12.4701
     },
     {
       "block_id": "19bc398aa3c3-112",
@@ -7225,8 +7225,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:40:12",
-      "longitude": 7.7631,
-      "latitude": 12.467
+      "longitude": 7.7703,
+      "latitude": 12.4735
     },
     {
       "block_id": "19bc398aa3c3-113",
@@ -7285,8 +7285,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:41:31",
-      "longitude": 7.7298,
-      "latitude": 12.4842
+      "longitude": 7.7262,
+      "latitude": 12.5023
     },
     {
       "block_id": "19bc398aa3c3-114",
@@ -7344,8 +7344,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:42:34",
-      "longitude": 7.7257,
-      "latitude": 12.4781
+      "longitude": 7.7313,
+      "latitude": 12.4981
     },
     {
       "block_id": "19bc398aa3c3-115",
@@ -7403,8 +7403,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C; A",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:44:05",
-      "longitude": 7.7436,
-      "latitude": 12.4999
+      "longitude": 7.7531,
+      "latitude": 12.5004
     },
     {
       "block_id": "19bc398aa3c3-116",
@@ -7462,8 +7462,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:45:51",
-      "longitude": 7.733,
-      "latitude": 12.4881
+      "longitude": 7.7356,
+      "latitude": 12.484
     },
     {
       "block_id": "19bc398aa3c3-117",
@@ -7521,8 +7521,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:47:03",
-      "longitude": 7.7422,
-      "latitude": 12.4977
+      "longitude": 7.7359,
+      "latitude": 12.4853
     },
     {
       "block_id": "19bc398aa3c3-118",
@@ -7581,8 +7581,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:48:22",
-      "longitude": 7.7505,
-      "latitude": 12.5098
+      "longitude": 7.7352,
+      "latitude": 12.5034
     },
     {
       "block_id": "19bc398aa3c3-119",
@@ -7640,8 +7640,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:49:36",
-      "longitude": 7.7262,
-      "latitude": 12.4762
+      "longitude": 7.7318,
+      "latitude": 12.4915
     },
     {
       "block_id": "19bc398aa3c3-120",
@@ -7699,8 +7699,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:50:39",
-      "longitude": 7.7237,
-      "latitude": 12.4887
+      "longitude": 7.7301,
+      "latitude": 12.4989
     },
     {
       "block_id": "19bc398aa3c3-121",
@@ -7758,8 +7758,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:52:14",
-      "longitude": 7.7365,
-      "latitude": 12.5148
+      "longitude": 7.7324,
+      "latitude": 12.499
     },
     {
       "block_id": "19bc398aa3c3-122",
@@ -7816,8 +7816,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-16 07:53:34",
-      "longitude": 7.734,
-      "latitude": 12.497
+      "longitude": 7.7357,
+      "latitude": 12.4947
     },
     {
       "block_id": "19bc398aa3c3-123",
@@ -7872,8 +7872,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-30 17:57:56",
-      "longitude": 9.6036,
-      "latitude": 12.0398
+      "longitude": 9.5849,
+      "latitude": 12.0412
     },
     {
       "block_id": "19bc398aa3c3-124",
@@ -7928,8 +7928,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-30 17:58:09",
-      "longitude": 9.6281,
-      "latitude": 12.0891
+      "longitude": 9.6335,
+      "latitude": 12.1043
     },
     {
       "block_id": "19bc398aa3c3-125",
@@ -7985,8 +7985,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:26:44",
-      "longitude": 9.5326,
-      "latitude": 11.9881
+      "longitude": 9.532,
+      "latitude": 11.9821
     },
     {
       "block_id": "19bc398aa3c3-126",
@@ -8042,8 +8042,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:26:53",
-      "longitude": 9.6346,
-      "latitude": 12.0896
+      "longitude": 9.6331,
+      "latitude": 12.0968
     },
     {
       "block_id": "19bc398aa3c3-127",
@@ -8099,8 +8099,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:27:05",
-      "longitude": 9.61,
-      "latitude": 12.0796
+      "longitude": 9.6188,
+      "latitude": 12.0794
     },
     {
       "block_id": "19bc398aa3c3-128",
@@ -8155,8 +8155,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-30 17:58:25",
-      "longitude": 9.6165,
-      "latitude": 12.0959
+      "longitude": 9.6181,
+      "latitude": 12.0878
     },
     {
       "block_id": "19bc398aa3c3-129",
@@ -8211,8 +8211,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:27:15",
-      "longitude": 9.6256,
-      "latitude": 12.0953
+      "longitude": 9.6315,
+      "latitude": 12.0875
     },
     {
       "block_id": "19bc398aa3c3-130",
@@ -8268,8 +8268,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:27:24",
-      "longitude": 9.6336,
-      "latitude": 12.0983
+      "longitude": 9.6199,
+      "latitude": 12.0797
     },
     {
       "block_id": "19bc398aa3c3-131",
@@ -8324,8 +8324,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-30 17:58:45",
-      "longitude": 9.6315,
-      "latitude": 12.0819
+      "longitude": 9.6291,
+      "latitude": 12.1003
     },
     {
       "block_id": "19bc398aa3c3-132",
@@ -8380,8 +8380,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-30 17:59:18",
-      "longitude": 9.6301,
-      "latitude": 12.0871
+      "longitude": 9.6186,
+      "latitude": 12.0928
     },
     {
       "block_id": "19bc398aa3c3-133",
@@ -8437,7 +8437,7 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-30 17:59:39",
-      "longitude": 9.6277,
+      "longitude": 9.627,
       "latitude": 12.0912
     },
     {
@@ -8494,8 +8494,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:27:33",
-      "longitude": 9.5534,
-      "latitude": 11.9859
+      "longitude": 9.5401,
+      "latitude": 11.988
     },
     {
       "block_id": "19bc398aa3c3-135",
@@ -8550,8 +8550,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-30 17:59:59",
-      "longitude": 9.6134,
-      "latitude": 12.0978
+      "longitude": 9.6132,
+      "latitude": 12.0953
     },
     {
       "block_id": "19bc398aa3c3-136",
@@ -8607,8 +8607,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:27:41",
-      "longitude": 9.6307,
-      "latitude": 12.0944
+      "longitude": 9.6226,
+      "latitude": 12.1017
     },
     {
       "block_id": "19bc398aa3c3-137",
@@ -8663,8 +8663,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:00:23",
-      "longitude": 9.6292,
-      "latitude": 12.0961
+      "longitude": 9.629,
+      "latitude": 12.0929
     },
     {
       "block_id": "19bc398aa3c3-138",
@@ -8720,8 +8720,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:28:02",
-      "longitude": 9.5314,
-      "latitude": 11.9917
+      "longitude": 9.5447,
+      "latitude": 11.9842
     },
     {
       "block_id": "19bc398aa3c3-139",
@@ -8776,8 +8776,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:28:11",
-      "longitude": 9.6208,
-      "latitude": 12.0977
+      "longitude": 9.6212,
+      "latitude": 12.1047
     },
     {
       "block_id": "19bc398aa3c3-140",
@@ -8833,8 +8833,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:28:21",
-      "longitude": 9.5918,
-      "latitude": 12.0489
+      "longitude": 9.5773,
+      "latitude": 12.0469
     },
     {
       "block_id": "19bc398aa3c3-141",
@@ -8890,8 +8890,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; A",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:28:30",
-      "longitude": 9.5816,
-      "latitude": 12.0465
+      "longitude": 9.5938,
+      "latitude": 12.0437
     },
     {
       "block_id": "19bc398aa3c3-142",
@@ -8946,8 +8946,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-30 18:00:46",
-      "longitude": 9.6229,
-      "latitude": 12.0863
+      "longitude": 9.6286,
+      "latitude": 12.0775
     },
     {
       "block_id": "19bc398aa3c3-143",
@@ -9003,8 +9003,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-15 23:37:00",
-      "longitude": 8.5181,
-      "latitude": 12.4354
+      "longitude": 8.5013,
+      "latitude": 12.4247
     },
     {
       "block_id": "19bc398aa3c3-144",
@@ -9061,8 +9061,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-19 06:21:22",
-      "longitude": 8.5117,
-      "latitude": 12.4448
+      "longitude": 8.5135,
+      "latitude": 12.4435
     },
     {
       "block_id": "19bc398aa3c3-145",
@@ -9119,8 +9119,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-19 06:24:13",
-      "longitude": 8.511,
-      "latitude": 12.4066
+      "longitude": 8.5201,
+      "latitude": 12.4088
     },
     {
       "block_id": "19bc398aa3c3-146",
@@ -9177,8 +9177,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-19 06:25:08",
-      "longitude": 8.512,
-      "latitude": 12.4237
+      "longitude": 8.5173,
+      "latitude": 12.4246
     },
     {
       "block_id": "19bc398aa3c3-147",
@@ -9235,8 +9235,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-19 06:28:40",
-      "longitude": 8.5131,
-      "latitude": 12.4255
+      "longitude": 8.5159,
+      "latitude": 12.4104
     },
     {
       "block_id": "19bc398aa3c3-148",
@@ -9293,8 +9293,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-19 06:31:39",
-      "longitude": 8.5216,
-      "latitude": 12.4291
+      "longitude": 8.5269,
+      "latitude": 12.4101
     },
     {
       "block_id": "19bc398aa3c3-149",
@@ -9351,8 +9351,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-19 06:35:31",
-      "longitude": 8.506,
-      "latitude": 12.4105
+      "longitude": 8.5154,
+      "latitude": 12.4237
     },
     {
       "block_id": "19bc398aa3c3-150",
@@ -9409,8 +9409,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-19 06:40:53",
-      "longitude": 8.5078,
-      "latitude": 12.412
+      "longitude": 8.5176,
+      "latitude": 12.4174
     },
     {
       "block_id": "19bc398aa3c3-151",
@@ -9467,8 +9467,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-19 07:16:42",
-      "longitude": 8.5023,
-      "latitude": 12.4317
+      "longitude": 8.5198,
+      "latitude": 12.4404
     },
     {
       "block_id": "19bc398aa3c3-152",
@@ -9525,8 +9525,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-19 07:20:05",
-      "longitude": 8.5623,
-      "latitude": 12.4072
+      "longitude": 8.5744,
+      "latitude": 12.3904
     },
     {
       "block_id": "19bc398aa3c3-153",
@@ -9583,8 +9583,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C; A",
       "breederassessmentpostharvest_survey_end": "2024-11-19 07:26:47",
-      "longitude": 8.5036,
-      "latitude": 12.4383
+      "longitude": 8.5288,
+      "latitude": 12.4334
     },
     {
       "block_id": "19bc398aa3c3-154",
@@ -9641,8 +9641,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-19 07:34:48",
-      "longitude": 8.5274,
-      "latitude": 12.4286
+      "longitude": 8.5108,
+      "latitude": 12.436
     },
     {
       "block_id": "19bc398aa3c3-155",
@@ -9699,8 +9699,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-19 07:41:13",
-      "longitude": 8.5625,
-      "latitude": 12.3904
+      "longitude": 8.561,
+      "latitude": 12.3886
     },
     {
       "block_id": "19bc398aa3c3-156",
@@ -9756,8 +9756,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-19 07:43:59",
-      "longitude": 8.5182,
-      "latitude": 12.4336
+      "longitude": 8.5017,
+      "latitude": 12.4303
     },
     {
       "block_id": "19bc398aa3c3-157",
@@ -9814,8 +9814,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-19 07:49:25",
-      "longitude": 8.5527,
-      "latitude": 12.3988
+      "longitude": 8.5638,
+      "latitude": 12.3928
     },
     {
       "block_id": "19bc398aa3c3-158",
@@ -9872,8 +9872,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-11-19 07:53:27",
-      "longitude": 8.5664,
-      "latitude": 12.3899
+      "longitude": 8.5678,
+      "latitude": 12.408
     },
     {
       "block_id": "19bc398aa3c3-159",
@@ -9930,8 +9930,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-19 08:02:06",
-      "longitude": 8.5703,
-      "latitude": 12.39
+      "longitude": 8.5525,
+      "latitude": 12.3999
     },
     {
       "block_id": "19bc398aa3c3-160",
@@ -9988,8 +9988,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; A",
       "breederassessmentpostharvest_survey_end": "2024-11-19 08:04:32",
-      "longitude": 8.5138,
-      "latitude": 12.4299
+      "longitude": 8.5029,
+      "latitude": 12.4301
     },
     {
       "block_id": "19bc398aa3c3-161",
@@ -10046,8 +10046,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-19 08:12:59",
-      "longitude": 8.5264,
-      "latitude": 12.4138
+      "longitude": 8.5191,
+      "latitude": 12.4052
     },
     {
       "block_id": "19bc398aa3c3-162",
@@ -10103,8 +10103,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; A",
       "breederassessmentpostharvest_survey_end": "2024-11-19 08:16:33",
-      "longitude": 8.5194,
-      "latitude": 12.4231
+      "longitude": 8.5163,
+      "latitude": 12.4379
     },
     {
       "block_id": "19bc398aa3c3-163",
@@ -10159,8 +10159,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 11:53:36",
-      "longitude": 9.8768,
-      "latitude": 12.5415
+      "longitude": 9.8713,
+      "latitude": 12.5242
     },
     {
       "block_id": "19bc398aa3c3-164",
@@ -10216,8 +10216,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 11:56:04",
-      "longitude": 9.8921,
-      "latitude": 12.5284
+      "longitude": 9.8891,
+      "latitude": 12.5345
     },
     {
       "block_id": "19bc398aa3c3-165",
@@ -10272,8 +10272,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 11:57:48",
-      "longitude": 9.8889,
-      "latitude": 12.5411
+      "longitude": 9.8915,
+      "latitude": 12.5402
     },
     {
       "block_id": "19bc398aa3c3-166",
@@ -10328,8 +10328,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:00:58",
-      "longitude": 9.8932,
-      "latitude": 12.5349
+      "longitude": 9.8844,
+      "latitude": 12.5291
     },
     {
       "block_id": "19bc398aa3c3-167",
@@ -10384,8 +10384,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:03:29",
-      "longitude": 9.8703,
-      "latitude": 12.5264
+      "longitude": 9.8811,
+      "latitude": 12.5453
     },
     {
       "block_id": "19bc398aa3c3-168",
@@ -10440,8 +10440,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:05:36",
-      "longitude": 9.8813,
-      "latitude": 12.528
+      "longitude": 9.8784,
+      "latitude": 12.5449
     },
     {
       "block_id": "19bc398aa3c3-169",
@@ -10496,8 +10496,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:06:55",
-      "longitude": 9.8791,
-      "latitude": 12.5333
+      "longitude": 9.8851,
+      "latitude": 12.5224
     },
     {
       "block_id": "19bc398aa3c3-170",
@@ -10552,8 +10552,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:08:54",
-      "longitude": 9.8557,
-      "latitude": 12.5745
+      "longitude": 9.8555,
+      "latitude": 12.586
     },
     {
       "block_id": "19bc398aa3c3-171",
@@ -10608,8 +10608,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:10:21",
-      "longitude": 9.8637,
-      "latitude": 12.5777
+      "longitude": 9.8718,
+      "latitude": 12.5788
     },
     {
       "block_id": "19bc398aa3c3-172",
@@ -10664,8 +10664,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:12:49",
-      "longitude": 9.8656,
-      "latitude": 12.5688
+      "longitude": 9.873,
+      "latitude": 12.5723
     },
     {
       "block_id": "19bc398aa3c3-173",
@@ -10720,8 +10720,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C; A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:14:32",
-      "longitude": 9.8756,
-      "latitude": 12.5664
+      "longitude": 9.8663,
+      "latitude": 12.5621
     },
     {
       "block_id": "19bc398aa3c3-174",
@@ -10776,8 +10776,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:16:03",
-      "longitude": 9.8776,
-      "latitude": 12.5576
+      "longitude": 9.8755,
+      "latitude": 12.5642
     },
     {
       "block_id": "19bc398aa3c3-175",
@@ -10832,8 +10832,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:18:19",
-      "longitude": 9.8742,
-      "latitude": 12.5845
+      "longitude": 9.8547,
+      "latitude": 12.5723
     },
     {
       "block_id": "19bc398aa3c3-176",
@@ -10888,8 +10888,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:20:06",
-      "longitude": 9.8597,
-      "latitude": 12.5849
+      "longitude": 9.873,
+      "latitude": 12.5801
     },
     {
       "block_id": "19bc398aa3c3-177",
@@ -10944,8 +10944,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:30:49",
-      "longitude": 9.8844,
-      "latitude": 12.572
+      "longitude": 9.8674,
+      "latitude": 12.5677
     },
     {
       "block_id": "19bc398aa3c3-178",
@@ -11000,8 +11000,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:21:43",
-      "longitude": 9.871,
-      "latitude": 12.5563
+      "longitude": 9.8889,
+      "latitude": 12.568
     },
     {
       "block_id": "19bc398aa3c3-179",
@@ -11056,8 +11056,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C; A",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:23:09",
-      "longitude": 9.8842,
-      "latitude": 12.5767
+      "longitude": 9.8754,
+      "latitude": 12.5567
     },
     {
       "block_id": "19bc398aa3c3-180",
@@ -11112,8 +11112,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; B",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:25:19",
-      "longitude": 9.883,
-      "latitude": 12.5755
+      "longitude": 9.8755,
+      "latitude": 12.5621
     },
     {
       "block_id": "19bc398aa3c3-181",
@@ -11168,8 +11168,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-12-11 18:52:40",
-      "longitude": 9.8535,
-      "latitude": 12.5748
+      "longitude": 9.8516,
+      "latitude": 12.5782
     },
     {
       "block_id": "19bc398aa3c3-182",
@@ -11225,8 +11225,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-12-12 12:28:22",
-      "longitude": 9.8845,
-      "latitude": 12.5638
+      "longitude": 9.8788,
+      "latitude": 12.5633
     },
     {
       "block_id": "19bc398aa3c3-183",
@@ -11282,8 +11282,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-18 15:17:36",
-      "longitude": 9.6386,
-      "latitude": 12.6177
+      "longitude": 9.6337,
+      "latitude": 12.6328
     },
     {
       "block_id": "19bc398aa3c3-184",
@@ -11339,8 +11339,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-18 15:20:44",
-      "longitude": 9.6371,
-      "latitude": 12.6262
+      "longitude": 9.6434,
+      "latitude": 12.6211
     },
     {
       "block_id": "19bc398aa3c3-185",
@@ -11397,8 +11397,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-18 15:23:23",
-      "longitude": 9.6363,
-      "latitude": 12.6284
+      "longitude": 9.6456,
+      "latitude": 12.6218
     },
     {
       "block_id": "19bc398aa3c3-186",
@@ -11455,8 +11455,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-18 15:25:59",
-      "longitude": 9.6847,
-      "latitude": 12.6023
+      "longitude": 9.6914,
+      "latitude": 12.6191
     },
     {
       "block_id": "19bc398aa3c3-187",
@@ -11513,8 +11513,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-18 15:29:50",
-      "longitude": 9.6961,
-      "latitude": 12.6271
+      "longitude": 9.6952,
+      "latitude": 12.6161
     },
     {
       "block_id": "19bc398aa3c3-188",
@@ -11571,8 +11571,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-19 16:29:00",
-      "longitude": 9.6934,
-      "latitude": 12.5964
+      "longitude": 9.6807,
+      "latitude": 12.5987
     },
     {
       "block_id": "19bc398aa3c3-189",
@@ -11628,8 +11628,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-19 16:32:32",
-      "longitude": 9.6865,
-      "latitude": 12.6031
+      "longitude": 9.6851,
+      "latitude": 12.6051
     },
     {
       "block_id": "19bc398aa3c3-190",
@@ -11685,8 +11685,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-19 16:36:22",
-      "longitude": 9.7008,
-      "latitude": 12.6039
+      "longitude": 9.6847,
+      "latitude": 12.6135
     },
     {
       "block_id": "19bc398aa3c3-191",
@@ -11742,8 +11742,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-20 11:57:27",
-      "longitude": 9.6686,
-      "latitude": 12.6291
+      "longitude": 9.6611,
+      "latitude": 12.6252
     },
     {
       "block_id": "19bc398aa3c3-192",
@@ -11800,8 +11800,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-20 12:00:36",
-      "longitude": 9.6722,
-      "latitude": 12.6322
+      "longitude": 9.6683,
+      "latitude": 12.6286
     },
     {
       "block_id": "19bc398aa3c3-193",
@@ -11857,8 +11857,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 12:03:06",
-      "longitude": 9.6581,
-      "latitude": 12.6287
+      "longitude": 9.6665,
+      "latitude": 12.6273
     },
     {
       "block_id": "19bc398aa3c3-194",
@@ -11915,8 +11915,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 12:05:27",
-      "longitude": 9.6945,
-      "latitude": 12.6106
+      "longitude": 9.6975,
+      "latitude": 12.6127
     },
     {
       "block_id": "19bc398aa3c3-195",
@@ -11973,8 +11973,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 12:07:46",
-      "longitude": 9.6867,
-      "latitude": 12.6244
+      "longitude": 9.6818,
+      "latitude": 12.6091
     },
     {
       "block_id": "19bc398aa3c3-196",
@@ -12031,8 +12031,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C",
       "breederassessmentpostharvest_survey_end": "2024-11-20 12:10:30",
-      "longitude": 9.6798,
-      "latitude": 12.6018
+      "longitude": 9.6924,
+      "latitude": 12.6015
     },
     {
       "block_id": "19bc398aa3c3-197",
@@ -12089,8 +12089,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:47:21",
-      "longitude": 9.7037,
-      "latitude": 12.6078
+      "longitude": 9.6805,
+      "latitude": 12.617
     },
     {
       "block_id": "19bc398aa3c3-198",
@@ -12147,8 +12147,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-20 12:13:12",
-      "longitude": 9.6501,
-      "latitude": 12.6365
+      "longitude": 9.6647,
+      "latitude": 12.6389
     },
     {
       "block_id": "19bc398aa3c3-199",
@@ -12205,8 +12205,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:31:21",
-      "longitude": 9.6819,
-      "latitude": 12.6084
+      "longitude": 9.6799,
+      "latitude": 12.5922
     },
     {
       "block_id": "19bc398aa3c3-200",
@@ -12263,8 +12263,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A; C",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:34:17",
-      "longitude": 9.6784,
-      "latitude": 12.6088
+      "longitude": 9.6793,
+      "latitude": 12.615
     },
     {
       "block_id": "19bc398aa3c3-201",
@@ -12321,8 +12321,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; A",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:36:32",
-      "longitude": 9.7057,
-      "latitude": 12.6273
+      "longitude": 9.6979,
+      "latitude": 12.6263
     },
     {
       "block_id": "19bc398aa3c3-202",
@@ -12379,8 +12379,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:39:32",
-      "longitude": 9.685,
-      "latitude": 12.6229
+      "longitude": 9.6915,
+      "latitude": 12.628
     },
     {
       "block_id": "19bc398aa3c3-203",
@@ -12439,8 +12439,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-23 17:47:56",
-      "longitude": 7.886,
-      "latitude": 12.1009
+      "longitude": 7.8794,
+      "latitude": 12.1048
     },
     {
       "block_id": "19bc398aa3c3-204",
@@ -12498,8 +12498,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-23 18:46:03",
-      "longitude": 7.8845,
-      "latitude": 12.1192
+      "longitude": 7.8925,
+      "latitude": 12.1127
     },
     {
       "block_id": "19bc398aa3c3-205",
@@ -12558,8 +12558,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-23 18:50:31",
-      "longitude": 7.8965,
-      "latitude": 12.114
+      "longitude": 7.8933,
+      "latitude": 12.1094
     },
     {
       "block_id": "19bc398aa3c3-206",
@@ -12618,8 +12618,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-23 18:54:37",
-      "longitude": 7.891,
-      "latitude": 12.1248
+      "longitude": 7.8763,
+      "latitude": 12.106
     },
     {
       "block_id": "19bc398aa3c3-207",
@@ -12678,8 +12678,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-23 18:57:30",
-      "longitude": 7.9011,
-      "latitude": 12.1084
+      "longitude": 7.8925,
+      "latitude": 12.1163
     },
     {
       "block_id": "19bc398aa3c3-208",
@@ -12738,8 +12738,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-23 19:00:45",
-      "longitude": 7.8809,
-      "latitude": 12.1012
+      "longitude": 7.8837,
+      "latitude": 12.109
     },
     {
       "block_id": "19bc398aa3c3-209",
@@ -12798,8 +12798,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-23 19:03:09",
-      "longitude": 7.8916,
-      "latitude": 12.1119
+      "longitude": 7.8853,
+      "latitude": 12.1167
     },
     {
       "block_id": "19bc398aa3c3-210",
@@ -12858,8 +12858,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-27 12:44:27",
-      "longitude": 7.8804,
-      "latitude": 12.1075
+      "longitude": 7.8976,
+      "latitude": 12.117
     },
     {
       "block_id": "19bc398aa3c3-211",
@@ -12918,8 +12918,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-26 22:32:15",
-      "longitude": 7.8884,
-      "latitude": 12.1024
+      "longitude": 7.8921,
+      "latitude": 12.1029
     },
     {
       "block_id": "19bc398aa3c3-212",
@@ -12978,8 +12978,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 22:35:11",
-      "longitude": 7.8998,
-      "latitude": 12.1052
+      "longitude": 7.8955,
+      "latitude": 12.112
     },
     {
       "block_id": "19bc398aa3c3-213",
@@ -13038,8 +13038,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 22:39:42",
-      "longitude": 7.8837,
-      "latitude": 12.1091
+      "longitude": 7.8971,
+      "latitude": 12.1096
     },
     {
       "block_id": "19bc398aa3c3-214",
@@ -13098,8 +13098,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-26 22:42:07",
-      "longitude": 7.8873,
-      "latitude": 12.1158
+      "longitude": 7.8885,
+      "latitude": 12.1256
     },
     {
       "block_id": "19bc398aa3c3-215",
@@ -13157,8 +13157,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 22:46:13",
-      "longitude": 7.8949,
-      "latitude": 12.105
+      "longitude": 7.8869,
+      "latitude": 12.113
     },
     {
       "block_id": "19bc398aa3c3-216",
@@ -13217,8 +13217,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-27 12:20:53",
-      "longitude": 7.9028,
-      "latitude": 12.1124
+      "longitude": 7.8819,
+      "latitude": 12.1064
     },
     {
       "block_id": "19bc398aa3c3-217",
@@ -13277,8 +13277,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-27 12:23:43",
-      "longitude": 7.8888,
-      "latitude": 12.1221
+      "longitude": 7.9002,
+      "latitude": 12.1214
     },
     {
       "block_id": "19bc398aa3c3-218",
@@ -13337,8 +13337,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-27 12:27:22",
-      "longitude": 7.888,
-      "latitude": 12.1044
+      "longitude": 7.903,
+      "latitude": 12.1052
     },
     {
       "block_id": "19bc398aa3c3-219",
@@ -13397,8 +13397,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-27 12:29:43",
-      "longitude": 7.8975,
-      "latitude": 12.113
+      "longitude": 7.8935,
+      "latitude": 12.1045
     },
     {
       "block_id": "19bc398aa3c3-220",
@@ -13457,8 +13457,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-27 12:32:02",
-      "longitude": 7.9032,
-      "latitude": 12.1162
+      "longitude": 7.8864,
+      "latitude": 12.1053
     },
     {
       "block_id": "19bc398aa3c3-221",
@@ -13517,8 +13517,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-27 12:34:16",
-      "longitude": 7.8833,
-      "latitude": 12.1072
+      "longitude": 7.8975,
+      "latitude": 12.114
     },
     {
       "block_id": "19bc398aa3c3-222",
@@ -13577,8 +13577,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-27 12:37:38",
-      "longitude": 7.8828,
-      "latitude": 12.1103
+      "longitude": 7.8829,
+      "latitude": 12.1017
     },
     {
       "block_id": "19bc398aa3c3-223",
@@ -13633,8 +13633,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:16",
-      "longitude": 8.3543,
-      "latitude": 12.0103
+      "longitude": 8.3618,
+      "latitude": 12.0209
     },
     {
       "block_id": "19bc398aa3c3-224",
@@ -13689,8 +13689,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:14",
-      "longitude": 8.3088,
-      "latitude": 11.9999
+      "longitude": 8.3206,
+      "latitude": 11.9983
     },
     {
       "block_id": "19bc398aa3c3-225",
@@ -13745,8 +13745,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:14",
-      "longitude": 8.3472,
-      "latitude": 12.0205
+      "longitude": 8.3672,
+      "latitude": 12.0187
     },
     {
       "block_id": "19bc398aa3c3-226",
@@ -13801,8 +13801,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:13",
-      "longitude": 8.3575,
-      "latitude": 12.0971
+      "longitude": 8.3654,
+      "latitude": 12.1132
     },
     {
       "block_id": "19bc398aa3c3-227",
@@ -13857,8 +13857,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:12",
-      "longitude": 8.3431,
-      "latitude": 12.0062
+      "longitude": 8.3412,
+      "latitude": 11.9966
     },
     {
       "block_id": "19bc398aa3c3-228",
@@ -13913,8 +13913,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:15",
-      "longitude": 8.3205,
-      "latitude": 11.9821
+      "longitude": 8.3137,
+      "latitude": 12.0005
     },
     {
       "block_id": "19bc398aa3c3-229",
@@ -13969,8 +13969,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:13",
-      "longitude": 8.2904,
-      "latitude": 12.0296
+      "longitude": 8.2812,
+      "latitude": 12.0544
     },
     {
       "block_id": "19bc398aa3c3-230",
@@ -14025,8 +14025,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:17",
-      "longitude": 8.3523,
-      "latitude": 12.0131
+      "longitude": 8.3578,
+      "latitude": 12.0176
     },
     {
       "block_id": "19bc398aa3c3-231",
@@ -14081,8 +14081,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:15",
-      "longitude": 8.3625,
-      "latitude": 12.0028
+      "longitude": 8.3586,
+      "latitude": 12.0129
     },
     {
       "block_id": "19bc398aa3c3-232",
@@ -14137,8 +14137,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:16",
-      "longitude": 8.3602,
-      "latitude": 12.0135
+      "longitude": 8.357,
+      "latitude": 12.0027
     },
     {
       "block_id": "19bc398aa3c3-233",
@@ -14193,8 +14193,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:19",
-      "longitude": 8.3368,
-      "latitude": 11.9734
+      "longitude": 8.3228,
+      "latitude": 11.9805
     },
     {
       "block_id": "19bc398aa3c3-234",
@@ -14249,8 +14249,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:22",
-      "longitude": 8.3509,
-      "latitude": 12.0014
+      "longitude": 8.3585,
+      "latitude": 12.0047
     },
     {
       "block_id": "19bc398aa3c3-235",
@@ -14305,8 +14305,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:23",
-      "longitude": 8.3052,
-      "latitude": 12.0004
+      "longitude": 8.3289,
+      "latitude": 12.0027
     },
     {
       "block_id": "19bc398aa3c3-236",
@@ -14361,8 +14361,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:21",
-      "longitude": 8.2885,
-      "latitude": 12.0452
+      "longitude": 8.296,
+      "latitude": 12.0565
     },
     {
       "block_id": "19bc398aa3c3-237",
@@ -14417,8 +14417,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:19",
-      "longitude": 8.3409,
-      "latitude": 11.9823
+      "longitude": 8.3251,
+      "latitude": 11.9818
     },
     {
       "block_id": "19bc398aa3c3-238",
@@ -14473,8 +14473,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:18",
-      "longitude": 8.3021,
-      "latitude": 11.9879
+      "longitude": 8.3189,
+      "latitude": 12.007
     },
     {
       "block_id": "19bc398aa3c3-239",
@@ -14529,8 +14529,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:20",
-      "longitude": 8.3106,
-      "latitude": 11.9648
+      "longitude": 8.3313,
+      "latitude": 11.9626
     },
     {
       "block_id": "19bc398aa3c3-240",
@@ -14585,8 +14585,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:18",
-      "longitude": 8.315,
-      "latitude": 11.9995
+      "longitude": 8.3193,
+      "latitude": 11.984
     },
     {
       "block_id": "19bc398aa3c3-241",
@@ -14642,8 +14642,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:21",
-      "longitude": 8.3252,
-      "latitude": 11.9861
+      "longitude": 8.3141,
+      "latitude": 11.9981
     },
     {
       "block_id": "19bc398aa3c3-242",
@@ -14698,8 +14698,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-28 11:58:17",
-      "longitude": 8.3217,
-      "latitude": 12.0045
+      "longitude": 8.3216,
+      "latitude": 11.9955
     },
     {
       "block_id": "19bc398aa3c3-243",
@@ -14757,8 +14757,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:48:47",
-      "longitude": 9.2568,
-      "latitude": 12.2529
+      "longitude": 9.2554,
+      "latitude": 12.2299
     },
     {
       "block_id": "19bc398aa3c3-244",
@@ -14815,8 +14815,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:49:12",
-      "longitude": 9.2557,
-      "latitude": 12.2581
+      "longitude": 9.2534,
+      "latitude": 12.2637
     },
     {
       "block_id": "19bc398aa3c3-245",
@@ -14871,8 +14871,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:49:38",
-      "longitude": 9.2481,
-      "latitude": 12.263
+      "longitude": 9.2587,
+      "latitude": 12.2465
     },
     {
       "block_id": "19bc398aa3c3-246",
@@ -14928,8 +14928,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:50:19",
-      "longitude": 9.2486,
-      "latitude": 12.2593
+      "longitude": 9.2481,
+      "latitude": 12.2467
     },
     {
       "block_id": "19bc398aa3c3-247",
@@ -14985,8 +14985,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:50:40",
-      "longitude": 9.2642,
-      "latitude": 12.2322
+      "longitude": 9.2623,
+      "latitude": 12.2445
     },
     {
       "block_id": "19bc398aa3c3-248",
@@ -15042,8 +15042,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:50:59",
-      "longitude": 9.2943,
-      "latitude": 12.2325
+      "longitude": 9.2955,
+      "latitude": 12.2226
     },
     {
       "block_id": "19bc398aa3c3-249",
@@ -15100,8 +15100,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:51:35",
-      "longitude": 9.253,
-      "latitude": 12.2281
+      "longitude": 9.2548,
+      "latitude": 12.2408
     },
     {
       "block_id": "19bc398aa3c3-250",
@@ -15158,8 +15158,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-22 10:09:10",
-      "longitude": 9.2629,
-      "latitude": 12.2294
+      "longitude": 9.2479,
+      "latitude": 12.2504
     },
     {
       "block_id": "19bc398aa3c3-251",
@@ -15216,8 +15216,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B; C",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:52:26",
-      "longitude": 9.259,
-      "latitude": 12.2349
+      "longitude": 9.254,
+      "latitude": 12.2417
     },
     {
       "block_id": "19bc398aa3c3-252",
@@ -15274,8 +15274,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:52:51",
-      "longitude": 9.2619,
-      "latitude": 12.2472
+      "longitude": 9.2611,
+      "latitude": 12.2289
     },
     {
       "block_id": "19bc398aa3c3-253",
@@ -15332,8 +15332,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:53:41",
-      "longitude": 9.2507,
-      "latitude": 12.2461
+      "longitude": 9.2427,
+      "latitude": 12.2416
     },
     {
       "block_id": "19bc398aa3c3-254",
@@ -15390,8 +15390,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:54:06",
-      "longitude": 9.26,
-      "latitude": 12.2483
+      "longitude": 9.2459,
+      "latitude": 12.2298
     },
     {
       "block_id": "19bc398aa3c3-255",
@@ -15448,8 +15448,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:54:28",
-      "longitude": 9.2502,
-      "latitude": 12.2319
+      "longitude": 9.2452,
+      "latitude": 12.2326
     },
     {
       "block_id": "19bc398aa3c3-256",
@@ -15506,8 +15506,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:55:00",
-      "longitude": 9.2723,
-      "latitude": 12.2288
+      "longitude": 9.2736,
+      "latitude": 12.2317
     },
     {
       "block_id": "19bc398aa3c3-257",
@@ -15563,8 +15563,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:55:27",
-      "longitude": 9.2985,
-      "latitude": 12.2277
+      "longitude": 9.2748,
+      "latitude": 12.225
     },
     {
       "block_id": "19bc398aa3c3-258",
@@ -15620,8 +15620,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:55:47",
-      "longitude": 9.2885,
-      "latitude": 12.2094
+      "longitude": 9.2863,
+      "latitude": 12.2349
     },
     {
       "block_id": "19bc398aa3c3-259",
@@ -15678,8 +15678,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:56:07",
-      "longitude": 9.2823,
-      "latitude": 12.2439
+      "longitude": 9.2736,
+      "latitude": 12.2505
     },
     {
       "block_id": "19bc398aa3c3-260",
@@ -15735,8 +15735,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:57:34",
-      "longitude": 9.2785,
-      "latitude": 12.1987
+      "longitude": 9.2761,
+      "latitude": 12.2065
     },
     {
       "block_id": "19bc398aa3c3-261",
@@ -15792,8 +15792,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:58:03",
-      "longitude": 9.2981,
-      "latitude": 12.2307
+      "longitude": 9.2913,
+      "latitude": 12.224
     },
     {
       "block_id": "19bc398aa3c3-262",
@@ -15850,8 +15850,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-22 09:58:50",
-      "longitude": 9.2853,
-      "latitude": 12.2506
+      "longitude": 9.28,
+      "latitude": 12.2478
     },
     {
       "block_id": "19bc398aa3c3-263",
@@ -15906,8 +15906,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 11:21:41",
-      "longitude": 7.6659,
-      "latitude": 12.233
+      "longitude": 7.6747,
+      "latitude": 12.2379
     },
     {
       "block_id": "19bc398aa3c3-264",
@@ -15962,8 +15962,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 11:27:08",
-      "longitude": 7.6866,
-      "latitude": 12.2356
+      "longitude": 7.6908,
+      "latitude": 12.2313
     },
     {
       "block_id": "19bc398aa3c3-265",
@@ -16018,8 +16018,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 11:30:49",
-      "longitude": 7.7141,
-      "latitude": 12.2279
+      "longitude": 7.7212,
+      "latitude": 12.2216
     },
     {
       "block_id": "19bc398aa3c3-266",
@@ -16074,8 +16074,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 11:35:07",
-      "longitude": 7.6715,
-      "latitude": 12.2282
+      "longitude": 7.6801,
+      "latitude": 12.2192
     },
     {
       "block_id": "19bc398aa3c3-267",
@@ -16130,8 +16130,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 11:38:50",
-      "longitude": 7.6676,
-      "latitude": 12.2387
+      "longitude": 7.6622,
+      "latitude": 12.2284
     },
     {
       "block_id": "19bc398aa3c3-268",
@@ -16186,8 +16186,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-15 11:42:33",
-      "longitude": 7.673,
-      "latitude": 12.239
+      "longitude": 7.6648,
+      "latitude": 12.2196
     },
     {
       "block_id": "19bc398aa3c3-269",
@@ -16242,8 +16242,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 14:52:34",
-      "longitude": 7.6883,
-      "latitude": 12.2331
+      "longitude": 7.6817,
+      "latitude": 12.2144
     },
     {
       "block_id": "19bc398aa3c3-270",
@@ -16298,8 +16298,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-15 14:55:28",
-      "longitude": 7.6755,
-      "latitude": 12.2376
+      "longitude": 7.6791,
+      "latitude": 12.2403
     },
     {
       "block_id": "19bc398aa3c3-271",
@@ -16354,8 +16354,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 14:57:43",
-      "longitude": 7.676,
-      "latitude": 12.1968
+      "longitude": 7.6654,
+      "latitude": 12.2096
     },
     {
       "block_id": "19bc398aa3c3-272",
@@ -16410,8 +16410,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 14:59:47",
-      "longitude": 7.6991,
-      "latitude": 12.2195
+      "longitude": 7.7014,
+      "latitude": 12.2128
     },
     {
       "block_id": "19bc398aa3c3-273",
@@ -16467,8 +16467,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:01:53",
-      "longitude": 7.6532,
-      "latitude": 12.2197
+      "longitude": 7.6775,
+      "latitude": 12.2246
     },
     {
       "block_id": "19bc398aa3c3-274",
@@ -16523,8 +16523,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:03:28",
-      "longitude": 7.6606,
-      "latitude": 12.2274
+      "longitude": 7.6727,
+      "latitude": 12.2366
     },
     {
       "block_id": "19bc398aa3c3-275",
@@ -16580,8 +16580,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:06:24",
-      "longitude": 7.7083,
-      "latitude": 12.2409
+      "longitude": 7.703,
+      "latitude": 12.2379
     },
     {
       "block_id": "19bc398aa3c3-276",
@@ -16636,8 +16636,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:08:11",
-      "longitude": 7.6786,
-      "latitude": 12.2174
+      "longitude": 7.6768,
+      "latitude": 12.2225
     },
     {
       "block_id": "19bc398aa3c3-277",
@@ -16693,8 +16693,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:22:19",
-      "longitude": 7.6905,
-      "latitude": 12.2203
+      "longitude": 7.6838,
+      "latitude": 12.2257
     },
     {
       "block_id": "19bc398aa3c3-278",
@@ -16749,8 +16749,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:09:47",
-      "longitude": 7.6791,
-      "latitude": 12.2239
+      "longitude": 7.6806,
+      "latitude": 12.23
     },
     {
       "block_id": "19bc398aa3c3-279",
@@ -16805,8 +16805,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:11:09",
-      "longitude": 7.6685,
-      "latitude": 12.2121
+      "longitude": 7.6645,
+      "latitude": 12.2022
     },
     {
       "block_id": "19bc398aa3c3-280",
@@ -16861,8 +16861,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:13:24",
-      "longitude": 7.6923,
-      "latitude": 12.2261
+      "longitude": 7.7021,
+      "latitude": 12.245
     },
     {
       "block_id": "19bc398aa3c3-281",
@@ -16917,8 +16917,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:15:09",
-      "longitude": 7.6597,
-      "latitude": 12.2441
+      "longitude": 7.6812,
+      "latitude": 12.2394
     },
     {
       "block_id": "19bc398aa3c3-282",
@@ -16973,8 +16973,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-15 15:17:00",
-      "longitude": 7.6593,
-      "latitude": 12.2204
+      "longitude": 7.6476,
+      "latitude": 12.2109
     },
     {
       "block_id": "19bc398aa3c3-283",
@@ -17030,8 +17030,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:40:09",
-      "longitude": 8.2342,
-      "latitude": 12.192
+      "longitude": 8.2203,
+      "latitude": 12.1959
     },
     {
       "block_id": "19bc398aa3c3-284",
@@ -17087,8 +17087,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:52:05",
-      "longitude": 8.2289,
-      "latitude": 12.2024
+      "longitude": 8.2247,
+      "latitude": 12.1854
     },
     {
       "block_id": "19bc398aa3c3-285",
@@ -17143,8 +17143,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-20 11:41:26",
-      "longitude": 8.2459,
-      "latitude": 12.2272
+      "longitude": 8.2422,
+      "latitude": 12.2139
     },
     {
       "block_id": "19bc398aa3c3-286",
@@ -17199,8 +17199,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:10:13",
-      "longitude": 8.1988,
-      "latitude": 12.2344
+      "longitude": 8.2114,
+      "latitude": 12.2288
     },
     {
       "block_id": "19bc398aa3c3-287",
@@ -17255,8 +17255,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:09:18",
-      "longitude": 8.1934,
-      "latitude": 12.2782
+      "longitude": 8.1774,
+      "latitude": 12.271
     },
     {
       "block_id": "19bc398aa3c3-288",
@@ -17312,8 +17312,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:06:09",
-      "longitude": 8.2129,
-      "latitude": 12.1661
+      "longitude": 8.2022,
+      "latitude": 12.1561
     },
     {
       "block_id": "19bc398aa3c3-289",
@@ -17369,8 +17369,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:44:26",
-      "longitude": 8.232,
-      "latitude": 12.2042
+      "longitude": 8.2276,
+      "latitude": 12.181
     },
     {
       "block_id": "19bc398aa3c3-290",
@@ -17426,8 +17426,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:47:45",
-      "longitude": 8.2146,
-      "latitude": 12.1988
+      "longitude": 8.2298,
+      "latitude": 12.1834
     },
     {
       "block_id": "19bc398aa3c3-291",
@@ -17483,8 +17483,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:12:19",
-      "longitude": 8.2326,
-      "latitude": 12.1835
+      "longitude": 8.2245,
+      "latitude": 12.1819
     },
     {
       "block_id": "19bc398aa3c3-292",
@@ -17539,8 +17539,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:00:10",
-      "longitude": 8.2161,
-      "latitude": 12.1869
+      "longitude": 8.2277,
+      "latitude": 12.1797
     },
     {
       "block_id": "19bc398aa3c3-293",
@@ -17596,8 +17596,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-20 11:49:11",
-      "longitude": 8.2498,
-      "latitude": 12.2152
+      "longitude": 8.243,
+      "latitude": 12.2404
     },
     {
       "block_id": "19bc398aa3c3-294",
@@ -17653,8 +17653,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:54:39",
-      "longitude": 8.2103,
-      "latitude": 12.1884
+      "longitude": 8.2181,
+      "latitude": 12.1999
     },
     {
       "block_id": "19bc398aa3c3-295",
@@ -17709,8 +17709,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 11:54:48",
-      "longitude": 8.1866,
-      "latitude": 12.2746
+      "longitude": 8.1751,
+      "latitude": 12.2708
     },
     {
       "block_id": "19bc398aa3c3-296",
@@ -17765,8 +17765,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:12:59",
-      "longitude": 8.1843,
-      "latitude": 12.2718
+      "longitude": 8.1894,
+      "latitude": 12.2709
     },
     {
       "block_id": "19bc398aa3c3-297",
@@ -17822,8 +17822,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:08:04",
-      "longitude": 8.2059,
-      "latitude": 12.152
+      "longitude": 8.2185,
+      "latitude": 12.1631
     },
     {
       "block_id": "19bc398aa3c3-298",
@@ -17879,8 +17879,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:04:25",
-      "longitude": 8.2351,
-      "latitude": 12.1802
+      "longitude": 8.2162,
+      "latitude": 12.1759
     },
     {
       "block_id": "19bc398aa3c3-299",
@@ -17936,8 +17936,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:14:01",
-      "longitude": 8.217,
-      "latitude": 12.184
+      "longitude": 8.2214,
+      "latitude": 12.1845
     },
     {
       "block_id": "19bc398aa3c3-300",
@@ -17992,8 +17992,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:11:30",
-      "longitude": 8.2231,
-      "latitude": 12.2356
+      "longitude": 8.2165,
+      "latitude": 12.2303
     },
     {
       "block_id": "19bc398aa3c3-301",
@@ -18049,8 +18049,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-20 16:15:53",
-      "longitude": 8.1851,
-      "latitude": 12.286
+      "longitude": 8.1696,
+      "latitude": 12.2861
     },
     {
       "block_id": "19bc398aa3c3-302",
@@ -18105,8 +18105,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-20 17:14:42",
-      "longitude": 8.1887,
-      "latitude": 12.2883
+      "longitude": 8.1785,
+      "latitude": 12.2894
     },
     {
       "block_id": "19bc398aa3c3-303",
@@ -18163,8 +18163,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:45:17",
-      "longitude": 7.889,
-      "latitude": 11.8775
+      "longitude": 7.8863,
+      "latitude": 11.8815
     },
     {
       "block_id": "19bc398aa3c3-304",
@@ -18223,8 +18223,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:47:35",
-      "longitude": 7.8841,
-      "latitude": 11.886
+      "longitude": 7.8969,
+      "latitude": 11.8836
     },
     {
       "block_id": "19bc398aa3c3-305",
@@ -18282,8 +18282,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:49:23",
-      "longitude": 7.9015,
-      "latitude": 11.882
+      "longitude": 7.8885,
+      "latitude": 11.8858
     },
     {
       "block_id": "19bc398aa3c3-306",
@@ -18341,8 +18341,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:38:42",
-      "longitude": 7.901,
-      "latitude": 11.8748
+      "longitude": 7.8934,
+      "latitude": 11.8819
     },
     {
       "block_id": "19bc398aa3c3-307",
@@ -18401,8 +18401,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:20:02",
-      "longitude": 7.8828,
-      "latitude": 11.8799
+      "longitude": 7.8877,
+      "latitude": 11.8861
     },
     {
       "block_id": "19bc398aa3c3-308",
@@ -18461,8 +18461,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:40:54",
-      "longitude": 7.8828,
-      "latitude": 11.873
+      "longitude": 7.8827,
+      "latitude": 11.8676
     },
     {
       "block_id": "19bc398aa3c3-309",
@@ -18521,8 +18521,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:43:14",
-      "longitude": 7.8881,
-      "latitude": 11.8809
+      "longitude": 7.8842,
+      "latitude": 11.867
     },
     {
       "block_id": "19bc398aa3c3-310",
@@ -18580,8 +18580,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:29:27",
-      "longitude": 7.8974,
-      "latitude": 11.873
+      "longitude": 7.8854,
+      "latitude": 11.8902
     },
     {
       "block_id": "19bc398aa3c3-311",
@@ -18640,8 +18640,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:27:40",
-      "longitude": 7.8867,
-      "latitude": 11.8799
+      "longitude": 7.9044,
+      "latitude": 11.8884
     },
     {
       "block_id": "19bc398aa3c3-312",
@@ -18700,7 +18700,7 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:22:38",
-      "longitude": 7.8891,
+      "longitude": 7.8988,
       "latitude": 11.8693
     },
     {
@@ -18760,8 +18760,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:25:24",
-      "longitude": 7.8871,
-      "latitude": 11.8771
+      "longitude": 7.8803,
+      "latitude": 11.8751
     },
     {
       "block_id": "19bc398aa3c3-314",
@@ -18820,8 +18820,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:31:56",
-      "longitude": 7.9017,
-      "latitude": 11.8875
+      "longitude": 7.9046,
+      "latitude": 11.876
     },
     {
       "block_id": "19bc398aa3c3-315",
@@ -18879,8 +18879,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Worse",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:33:54",
-      "longitude": 7.8916,
-      "latitude": 11.8716
+      "longitude": 7.8807,
+      "latitude": 11.8841
     },
     {
       "block_id": "19bc398aa3c3-316",
@@ -18939,8 +18939,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "None",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:36:09",
-      "longitude": 7.903,
-      "latitude": 11.8733
+      "longitude": 7.8981,
+      "latitude": 11.8836
     },
     {
       "block_id": "19bc398aa3c3-317",
@@ -18998,8 +18998,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:51:44",
-      "longitude": 7.8758,
-      "latitude": 11.9358
+      "longitude": 7.8768,
+      "latitude": 11.9331
     },
     {
       "block_id": "19bc398aa3c3-318",
@@ -19058,8 +19058,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-26 12:03:23",
-      "longitude": 8.0089,
-      "latitude": 11.9439
+      "longitude": 8.0015,
+      "latitude": 11.9508
     },
     {
       "block_id": "19bc398aa3c3-319",
@@ -19117,8 +19117,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:54:09",
-      "longitude": 7.9961,
-      "latitude": 11.9449
+      "longitude": 7.9925,
+      "latitude": 11.9452
     },
     {
       "block_id": "19bc398aa3c3-320",
@@ -19177,8 +19177,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "A",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:58:39",
-      "longitude": 8.0081,
-      "latitude": 11.9467
+      "longitude": 8.0001,
+      "latitude": 11.939
     },
     {
       "block_id": "19bc398aa3c3-321",
@@ -19237,8 +19237,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "B",
       "breederassessmentpostharvest_survey_end": "2024-11-26 11:56:25",
-      "longitude": 8.0063,
-      "latitude": 11.9283
+      "longitude": 7.9957,
+      "latitude": 11.9504
     },
     {
       "block_id": "19bc398aa3c3-322",
@@ -19297,8 +19297,8 @@
       "breederassessmentpostharvest_item_C_vs_local": "Better",
       "breederassessmentpostharvest_grownexttricot": "C",
       "breederassessmentpostharvest_survey_end": "2024-11-26 12:01:40",
-      "longitude": 7.9963,
-      "latitude": 11.9351
+      "longitude": 7.994,
+      "latitude": 11.9259
     }
   ],
   "plot_data": [

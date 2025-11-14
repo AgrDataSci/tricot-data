@@ -1,11 +1,11 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-03",
+      "version": "v2025-11-14",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
-        "package_version": "1.7"
+        "package_version": "1.8"
       }
     },
     "identifier": "https://doi.org/10.5281/zenodo.17112492",
@@ -744,8 +744,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-06-05 19:09:54",
-      "longitude": 32.7925,
-      "latitude": -9.1289
+      "longitude": 32.7918,
+      "latitude": -9.135
     },
     {
       "block_id": "b22faa486952-2",
@@ -793,8 +793,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-06-05 18:16:50",
-      "longitude": 32.8005,
-      "latitude": -9.127
+      "longitude": 32.794,
+      "latitude": -9.1347
     },
     {
       "block_id": "b22faa486952-3",
@@ -842,8 +842,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-06-05 18:37:39",
-      "longitude": 32.7952,
-      "latitude": -9.1432
+      "longitude": 32.7934,
+      "latitude": -9.1413
     },
     {
       "block_id": "b22faa486952-4",
@@ -891,8 +891,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-06-05 18:42:40",
-      "longitude": 32.7896,
-      "latitude": -9.1324
+      "longitude": 32.8081,
+      "latitude": -9.13
     },
     {
       "block_id": "b22faa486952-5",
@@ -940,8 +940,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-06-05 18:46:52",
-      "longitude": 32.7916,
-      "latitude": -9.131
+      "longitude": 32.7929,
+      "latitude": -9.1221
     },
     {
       "block_id": "b22faa486952-6",
@@ -989,8 +989,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-05-22 19:23:02",
-      "longitude": 32.7612,
-      "latitude": -9.1194
+      "longitude": 32.7753,
+      "latitude": -9.1043
     },
     {
       "block_id": "b22faa486952-7",
@@ -1038,8 +1038,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "C",
       "physiologicalmaturity_survey_end": "2021-05-22 19:31:08",
-      "longitude": 32.7693,
-      "latitude": -9.0981
+      "longitude": 32.7573,
+      "latitude": -9.1026
     },
     {
       "block_id": "b22faa486952-8",
@@ -1087,8 +1087,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-05-22 21:10:59",
-      "longitude": 32.7758,
-      "latitude": -9.1157
+      "longitude": 32.7613,
+      "latitude": -9.1052
     },
     {
       "block_id": "b22faa486952-9",
@@ -1136,8 +1136,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-05-22 21:19:53",
-      "longitude": 32.7667,
-      "latitude": -9.1071
+      "longitude": 32.7725,
+      "latitude": -9.1171
     },
     {
       "block_id": "b22faa486952-10",
@@ -1185,8 +1185,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-05-22 21:25:19",
-      "longitude": 32.765,
-      "latitude": -9.1109
+      "longitude": 32.7727,
+      "latitude": -9.1184
     },
     {
       "block_id": "b22faa486952-11",
@@ -1213,8 +1213,8 @@
       "agronomicperformance_whichlost": "None",
       "agronomicperformance_diseasesany": "Not Applicable",
       "agronomicperformance_survey_end": "2021-04-01 20:57:05",
-      "longitude": 36.2548,
-      "latitude": -6.4693
+      "longitude": 36.2526,
+      "latitude": -6.4812
     },
     {
       "block_id": "b22faa486952-12",
@@ -1262,8 +1262,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-05-22 21:31:49",
-      "longitude": 32.7693,
-      "latitude": -9.0974
+      "longitude": 32.7746,
+      "latitude": -9.1056
     },
     {
       "block_id": "b22faa486952-13",
@@ -1311,8 +1311,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-05-22 22:10:51",
-      "longitude": 32.7708,
-      "latitude": -9.122
+      "longitude": 32.7624,
+      "latitude": -9.0999
     },
     {
       "block_id": "b22faa486952-14",
@@ -1360,8 +1360,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A",
       "physiologicalmaturity_survey_end": "2021-05-22 22:18:16",
-      "longitude": 32.765,
-      "latitude": -9.1101
+      "longitude": 32.7544,
+      "latitude": -9.1043
     },
     {
       "block_id": "b22faa486952-15",
@@ -1409,8 +1409,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-05-22 22:23:16",
-      "longitude": 32.7688,
-      "latitude": -9.1035
+      "longitude": 32.7626,
+      "latitude": -9.1073
     },
     {
       "block_id": "b22faa486952-16",
@@ -1458,8 +1458,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:00:41",
-      "longitude": 37.1335,
-      "latitude": -11.0467
+      "longitude": 37.1465,
+      "latitude": -11.0558
     },
     {
       "block_id": "b22faa486952-17",
@@ -1507,8 +1507,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "C",
       "physiologicalmaturity_survey_end": "2021-06-21 10:28:21",
-      "longitude": 32.9796,
-      "latitude": -9.0506
+      "longitude": 32.9893,
+      "latitude": -9.0337
     },
     {
       "block_id": "b22faa486952-18",
@@ -1556,8 +1556,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A",
       "physiologicalmaturity_survey_end": "2021-06-21 10:35:04",
-      "longitude": 32.9841,
-      "latitude": -9.0497
+      "longitude": 32.9814,
+      "latitude": -9.0421
     },
     {
       "block_id": "b22faa486952-19",
@@ -1605,8 +1605,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 10:41:44",
-      "longitude": 32.9887,
-      "latitude": -9.0313
+      "longitude": 32.9721,
+      "latitude": -9.0373
     },
     {
       "block_id": "b22faa486952-20",
@@ -1654,8 +1654,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "B",
       "physiologicalmaturity_survey_end": "2021-06-21 10:49:47",
-      "longitude": 32.9867,
-      "latitude": -9.0498
+      "longitude": 32.9717,
+      "latitude": -9.0342
     },
     {
       "block_id": "b22faa486952-21",
@@ -1703,8 +1703,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 10:58:02",
-      "longitude": 32.9805,
-      "latitude": -9.0346
+      "longitude": 32.9774,
+      "latitude": -9.0313
     },
     {
       "block_id": "b22faa486952-22",
@@ -1731,8 +1731,8 @@
       "agronomicperformance_whichlost": "None",
       "agronomicperformance_diseasesany": "Not Applicable",
       "agronomicperformance_survey_end": "2021-04-01 20:57:40",
-      "longitude": 36.267,
-      "latitude": -6.4745
+      "longitude": 36.2659,
+      "latitude": -6.4674
     },
     {
       "block_id": "b22faa486952-23",
@@ -1780,8 +1780,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A",
       "physiologicalmaturity_survey_end": "2021-06-21 11:14:36",
-      "longitude": 32.952,
-      "latitude": -9.047
+      "longitude": 32.9584,
+      "latitude": -9.0441
     },
     {
       "block_id": "b22faa486952-24",
@@ -1829,8 +1829,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 11:20:42",
-      "longitude": 32.9634,
-      "latitude": -9.0308
+      "longitude": 32.967,
+      "latitude": -9.0313
     },
     {
       "block_id": "b22faa486952-25",
@@ -1878,8 +1878,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 11:27:53",
-      "longitude": 32.9633,
-      "latitude": -9.045
+      "longitude": 32.9705,
+      "latitude": -9.055
     },
     {
       "block_id": "b22faa486952-26",
@@ -1927,8 +1927,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "B",
       "physiologicalmaturity_survey_end": "2021-06-21 11:34:02",
-      "longitude": 32.9699,
-      "latitude": -9.058
+      "longitude": 32.9691,
+      "latitude": -9.0468
     },
     {
       "block_id": "b22faa486952-27",
@@ -1976,8 +1976,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 11:40:51",
-      "longitude": 32.9912,
-      "latitude": -9.0512
+      "longitude": 32.9905,
+      "latitude": -9.0387
     },
     {
       "block_id": "b22faa486952-28",
@@ -2025,8 +2025,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 12:20:10",
-      "longitude": 32.9652,
-      "latitude": -9.0512
+      "longitude": 32.9482,
+      "latitude": -9.0568
     },
     {
       "block_id": "b22faa486952-29",
@@ -2074,8 +2074,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 12:24:23",
-      "longitude": 32.9614,
-      "latitude": -9.0568
+      "longitude": 32.9763,
+      "latitude": -9.056
     },
     {
       "block_id": "b22faa486952-30",
@@ -2123,8 +2123,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "C",
       "physiologicalmaturity_survey_end": "2021-06-21 12:27:56",
-      "longitude": 32.9614,
-      "latitude": -9.0603
+      "longitude": 32.9594,
+      "latitude": -9.0432
     },
     {
       "block_id": "b22faa486952-31",
@@ -2146,8 +2146,8 @@
       "reproductive_whichlost": "None",
       "reproductive_plantdamag": "No",
       "reproductive_survey_end": "2021-03-01 16:23:47",
-      "longitude": 32.9678,
-      "latitude": -9.0655
+      "longitude": 32.9658,
+      "latitude": -9.05
     },
     {
       "block_id": "b22faa486952-32",
@@ -2195,8 +2195,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 12:31:25",
-      "longitude": 32.9663,
-      "latitude": -9.0548
+      "longitude": 32.9662,
+      "latitude": -9.0514
     },
     {
       "block_id": "b22faa486952-33",
@@ -2240,8 +2240,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-07 14:22:56",
-      "longitude": 36.2468,
-      "latitude": -6.487
+      "longitude": 36.2558,
+      "latitude": -6.4894
     },
     {
       "block_id": "b22faa486952-34",
@@ -2290,7 +2290,7 @@
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 12:34:38",
       "longitude": 32.9561,
-      "latitude": -9.0528
+      "latitude": -9.043
     },
     {
       "block_id": "b22faa486952-35",
@@ -2338,8 +2338,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "C",
       "physiologicalmaturity_survey_end": "2021-06-21 12:38:29",
-      "longitude": 32.9568,
-      "latitude": -9.051
+      "longitude": 32.967,
+      "latitude": -9.0587
     },
     {
       "block_id": "b22faa486952-36",
@@ -2387,8 +2387,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-21 12:42:37",
-      "longitude": 32.96,
-      "latitude": -9.0525
+      "longitude": 32.9592,
+      "latitude": -9.0579
     },
     {
       "block_id": "b22faa486952-37",
@@ -2436,8 +2436,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A",
       "physiologicalmaturity_survey_end": "2021-06-21 12:46:15",
-      "longitude": 32.9461,
-      "latitude": -9.0536
+      "longitude": 32.9528,
+      "latitude": -9.0445
     },
     {
       "block_id": "b22faa486952-38",
@@ -2519,8 +2519,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:04:59",
-      "longitude": 37.1351,
-      "latitude": -11.0588
+      "longitude": 37.1543,
+      "latitude": -11.0599
     },
     {
       "block_id": "b22faa486952-40",
@@ -2568,8 +2568,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:08:41",
-      "longitude": 37.1325,
-      "latitude": -11.0603
+      "longitude": 37.1447,
+      "latitude": -11.0478
     },
     {
       "block_id": "b22faa486952-41",
@@ -2617,8 +2617,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:12:30",
-      "longitude": 37.1376,
-      "latitude": -11.0594
+      "longitude": 37.1336,
+      "latitude": -11.062
     },
     {
       "block_id": "b22faa486952-42",
@@ -2666,8 +2666,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-04 12:35:41",
-      "longitude": 38.6834,
-      "latitude": -10.8956
+      "longitude": 38.7017,
+      "latitude": -10.8865
     },
     {
       "block_id": "b22faa486952-43",
@@ -2715,8 +2715,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:17:16",
-      "longitude": 37.1403,
-      "latitude": -11.0455
+      "longitude": 37.1318,
+      "latitude": -11.0527
     },
     {
       "block_id": "b22faa486952-44",
@@ -2760,8 +2760,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-05-07 14:29:16",
-      "longitude": 36.2545,
-      "latitude": -6.4889
+      "longitude": 36.2505,
+      "latitude": -6.4876
     },
     {
       "block_id": "b22faa486952-45",
@@ -2809,8 +2809,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:24:31",
-      "longitude": 38.609,
-      "latitude": -10.7996
+      "longitude": 38.5985,
+      "latitude": -10.811
     },
     {
       "block_id": "b22faa486952-46",
@@ -2858,8 +2858,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:27:37",
-      "longitude": 38.6056,
-      "latitude": -10.8052
+      "longitude": 38.6099,
+      "latitude": -10.8149
     },
     {
       "block_id": "b22faa486952-47",
@@ -2907,8 +2907,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:31:13",
-      "longitude": 38.6103,
-      "latitude": -10.8319
+      "longitude": 38.5911,
+      "latitude": -10.8277
     },
     {
       "block_id": "b22faa486952-48",
@@ -2956,8 +2956,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:35:29",
-      "longitude": 38.6017,
-      "latitude": -10.8245
+      "longitude": 38.6008,
+      "latitude": -10.816
     },
     {
       "block_id": "b22faa486952-49",
@@ -3005,8 +3005,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-04 12:47:21",
-      "longitude": 38.6918,
-      "latitude": -10.8696
+      "longitude": 38.7039,
+      "latitude": -10.8893
     },
     {
       "block_id": "b22faa486952-50",
@@ -3054,8 +3054,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-04 12:58:31",
-      "longitude": 38.6889,
-      "latitude": -10.8962
+      "longitude": 38.6988,
+      "latitude": -10.8933
     },
     {
       "block_id": "b22faa486952-51",
@@ -3103,8 +3103,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-04 13:10:11",
-      "longitude": 38.6846,
-      "latitude": -10.8774
+      "longitude": 38.6977,
+      "latitude": -10.8724
     },
     {
       "block_id": "b22faa486952-52",
@@ -3152,8 +3152,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-04 13:19:20",
-      "longitude": 38.7046,
-      "latitude": -10.8821
+      "longitude": 38.6898,
+      "latitude": -10.8705
     },
     {
       "block_id": "b22faa486952-53",
@@ -3201,8 +3201,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-05-18 12:39:04",
-      "longitude": 38.5917,
-      "latitude": -10.8118
+      "longitude": 38.5999,
+      "latitude": -10.8187
     },
     {
       "block_id": "b22faa486952-54",
@@ -3250,8 +3250,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-05-04 13:29:18",
-      "longitude": 38.6121,
-      "latitude": -10.8106
+      "longitude": 38.6123,
+      "latitude": -10.8095
     },
     {
       "block_id": "b22faa486952-55",
@@ -3295,8 +3295,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-05-07 14:35:24",
-      "longitude": 36.2475,
-      "latitude": -6.4887
+      "longitude": 36.254,
+      "latitude": -6.4856
     },
     {
       "block_id": "b22faa486952-56",
@@ -3344,8 +3344,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "B",
       "physiologicalmaturity_survey_end": "2021-05-04 13:36:04",
-      "longitude": 38.6796,
-      "latitude": -10.8669
+      "longitude": 38.6811,
+      "latitude": -10.8858
     },
     {
       "block_id": "b22faa486952-57",
@@ -3393,8 +3393,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-05-04 13:41:55",
-      "longitude": 38.6917,
-      "latitude": -10.8745
+      "longitude": 38.682,
+      "latitude": -10.8908
     },
     {
       "block_id": "b22faa486952-58",
@@ -3442,8 +3442,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-04 13:50:32",
-      "longitude": 38.6774,
-      "latitude": -10.8819
+      "longitude": 38.6836,
+      "latitude": -10.8777
     },
     {
       "block_id": "b22faa486952-59",
@@ -3491,8 +3491,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-04 13:56:40",
-      "longitude": 38.7008,
-      "latitude": -10.8796
+      "longitude": 38.6981,
+      "latitude": -10.8697
     },
     {
       "block_id": "b22faa486952-60",
@@ -3536,8 +3536,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-07 14:41:14",
-      "longitude": 36.2562,
-      "latitude": -6.4738
+      "longitude": 36.2623,
+      "latitude": -6.4679
     },
     {
       "block_id": "b22faa486952-61",
@@ -3585,8 +3585,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-19 10:50:28",
-      "longitude": 35.5969,
-      "latitude": -6.0648
+      "longitude": 35.6071,
+      "latitude": -6.0811
     },
     {
       "block_id": "b22faa486952-62",
@@ -3634,8 +3634,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-19 10:53:10",
-      "longitude": 35.5915,
-      "latitude": -6.0865
+      "longitude": 35.5931,
+      "latitude": -6.0857
     },
     {
       "block_id": "b22faa486952-63",
@@ -3683,8 +3683,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-05-19 10:56:02",
-      "longitude": 35.5882,
-      "latitude": -6.082
+      "longitude": 35.5913,
+      "latitude": -6.0665
     },
     {
       "block_id": "b22faa486952-64",
@@ -3732,8 +3732,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-05-19 10:59:18",
-      "longitude": 35.5866,
-      "latitude": -6.0792
+      "longitude": 35.587,
+      "latitude": -6.0846
     },
     {
       "block_id": "b22faa486952-65",
@@ -3781,8 +3781,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A",
       "physiologicalmaturity_survey_end": "2021-05-22 19:10:21",
-      "longitude": 32.7402,
-      "latitude": -9.097
+      "longitude": 32.7479,
+      "latitude": -9.1124
     },
     {
       "block_id": "b22faa486952-66",
@@ -3830,8 +3830,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-05-15 22:00:08",
-      "longitude": 36.2697,
-      "latitude": -6.4771
+      "longitude": 36.2679,
+      "latitude": -6.4766
     },
     {
       "block_id": "b22faa486952-67",
@@ -3879,8 +3879,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A",
       "physiologicalmaturity_survey_end": "2021-05-19 11:02:30",
-      "longitude": 35.605,
-      "latitude": -6.066
+      "longitude": 35.5877,
+      "latitude": -6.0846
     },
     {
       "block_id": "b22faa486952-68",
@@ -3928,8 +3928,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-05-19 11:04:58",
-      "longitude": 35.5916,
-      "latitude": -6.0727
+      "longitude": 35.5907,
+      "latitude": -6.0741
     },
     {
       "block_id": "b22faa486952-69",
@@ -3977,8 +3977,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-06-02 12:38:40",
-      "longitude": 35.5909,
-      "latitude": -6.0608
+      "longitude": 35.5923,
+      "latitude": -6.0731
     },
     {
       "block_id": "b22faa486952-70",
@@ -4026,8 +4026,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-06-02 12:48:58",
-      "longitude": 35.5991,
-      "latitude": -6.0743
+      "longitude": 35.5927,
+      "latitude": -6.087
     },
     {
       "block_id": "b22faa486952-71",
@@ -4075,8 +4075,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A",
       "physiologicalmaturity_survey_end": "2021-06-02 12:57:21",
-      "longitude": 35.5991,
-      "latitude": -6.0798
+      "longitude": 35.5898,
+      "latitude": -6.0781
     },
     {
       "block_id": "b22faa486952-72",
@@ -4124,8 +4124,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "None",
       "physiologicalmaturity_survey_end": "2021-06-02 13:04:17",
-      "longitude": 35.6024,
-      "latitude": -6.07
+      "longitude": 35.6001,
+      "latitude": -6.0692
     },
     {
       "block_id": "b22faa486952-73",
@@ -4173,8 +4173,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "B",
       "physiologicalmaturity_survey_end": "2021-06-02 13:10:44",
-      "longitude": 35.5809,
-      "latitude": -6.0725
+      "longitude": 35.5985,
+      "latitude": -6.0751
     },
     {
       "block_id": "b22faa486952-74",
@@ -4222,8 +4222,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-06-02 19:50:03",
-      "longitude": 35.5825,
-      "latitude": -6.0704
+      "longitude": 35.5807,
+      "latitude": -6.0744
     },
     {
       "block_id": "b22faa486952-75",
@@ -4271,8 +4271,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-06-02 20:00:10",
-      "longitude": 35.6416,
-      "latitude": -5.8383
+      "longitude": 35.6246,
+      "latitude": -5.8432
     },
     {
       "block_id": "b22faa486952-76",
@@ -4320,8 +4320,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-06-02 20:05:07",
-      "longitude": 35.6434,
-      "latitude": -6.0864
+      "longitude": 35.6384,
+      "latitude": -6.0836
     },
     {
       "block_id": "b22faa486952-77",
@@ -4369,8 +4369,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-05-15 22:00:56",
-      "longitude": 36.2484,
-      "latitude": -6.4892
+      "longitude": 36.2575,
+      "latitude": -6.4891
     },
     {
       "block_id": "b22faa486952-78",
@@ -4418,8 +4418,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-06-02 20:09:01",
-      "longitude": 35.5508,
-      "latitude": -6.0594
+      "longitude": 35.5601,
+      "latitude": -6.0473
     },
     {
       "block_id": "b22faa486952-79",
@@ -4467,8 +4467,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-06-02 19:54:54",
-      "longitude": 35.5818,
-      "latitude": -5.8385
+      "longitude": 35.5852,
+      "latitude": -5.8372
     },
     {
       "block_id": "b22faa486952-80",
@@ -4751,8 +4751,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-04-28 16:04:37",
-      "longitude": 32.2807,
-      "latitude": -5.095
+      "longitude": 32.2828,
+      "latitude": -5.0884
     },
     {
       "block_id": "b22faa486952-86",
@@ -4800,8 +4800,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-28 16:13:09",
-      "longitude": 32.2827,
-      "latitude": -5.0951
+      "longitude": 32.271,
+      "latitude": -5.0868
     },
     {
       "block_id": "b22faa486952-87",
@@ -4849,8 +4849,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-04-28 16:22:59",
-      "longitude": 32.2617,
-      "latitude": -5.0821
+      "longitude": 32.2814,
+      "latitude": -5.084
     },
     {
       "block_id": "b22faa486952-88",
@@ -4898,8 +4898,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-05-20 12:43:01",
-      "longitude": 36.2544,
-      "latitude": -6.4694
+      "longitude": 36.2569,
+      "latitude": -6.4673
     },
     {
       "block_id": "b22faa486952-89",
@@ -4960,8 +4960,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-04-28 16:29:43",
-      "longitude": 32.2686,
-      "latitude": -5.0786
+      "longitude": 32.2835,
+      "latitude": -5.0858
     },
     {
       "block_id": "b22faa486952-91",
@@ -5009,8 +5009,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-28 16:35:36",
-      "longitude": 32.2816,
-      "latitude": -5.0954
+      "longitude": 32.2608,
+      "latitude": -5.0913
     },
     {
       "block_id": "b22faa486952-92",
@@ -5058,8 +5058,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-28 13:38:46",
-      "longitude": 32.2712,
-      "latitude": -5.0787
+      "longitude": 32.2739,
+      "latitude": -5.0923
     },
     {
       "block_id": "b22faa486952-93",
@@ -5107,8 +5107,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-04-28 13:47:06",
-      "longitude": 32.274,
-      "latitude": -5.1032
+      "longitude": 32.2675,
+      "latitude": -5.0835
     },
     {
       "block_id": "b22faa486952-94",
@@ -5156,8 +5156,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-04-28 13:57:17",
-      "longitude": 32.2679,
-      "latitude": -5.0953
+      "longitude": 32.2653,
+      "latitude": -5.0862
     },
     {
       "block_id": "b22faa486952-95",
@@ -5205,8 +5205,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-28 14:05:03",
-      "longitude": 32.2724,
-      "latitude": -5.0883
+      "longitude": 32.2729,
+      "latitude": -5.0944
     },
     {
       "block_id": "b22faa486952-96",
@@ -5254,8 +5254,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-28 14:13:12",
-      "longitude": 32.2832,
-      "latitude": -5.0832
+      "longitude": 32.2724,
+      "latitude": -5.0844
     },
     {
       "block_id": "b22faa486952-97",
@@ -5303,8 +5303,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-28 14:22:39",
-      "longitude": 32.2603,
-      "latitude": -5.0882
+      "longitude": 32.2729,
+      "latitude": -5.0791
     },
     {
       "block_id": "b22faa486952-98",
@@ -5352,8 +5352,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A",
       "physiologicalmaturity_survey_end": "2021-04-28 12:07:06",
-      "longitude": 32.2707,
-      "latitude": -5.082
+      "longitude": 32.284,
+      "latitude": -5.0862
     },
     {
       "block_id": "b22faa486952-99",
@@ -5401,8 +5401,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "C",
       "physiologicalmaturity_survey_end": "2021-05-20 12:49:01",
-      "longitude": 36.2625,
-      "latitude": -6.4742
+      "longitude": 36.2583,
+      "latitude": -6.4752
     },
     {
       "block_id": "b22faa486952-100",
@@ -5450,8 +5450,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-04-28 12:12:48",
-      "longitude": 32.0896,
-      "latitude": -5.0729
+      "longitude": 32.0892,
+      "latitude": -5.0885
     },
     {
       "block_id": "b22faa486952-101",
@@ -5499,8 +5499,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-28 12:42:45",
-      "longitude": 32.0871,
-      "latitude": -5.0904
+      "longitude": 32.1082,
+      "latitude": -5.0808
     },
     {
       "block_id": "b22faa486952-102",
@@ -5548,8 +5548,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-28 12:21:24",
-      "longitude": 32.1985,
-      "latitude": -5.0855
+      "longitude": 32.2094,
+      "latitude": -5.0906
     },
     {
       "block_id": "b22faa486952-103",
@@ -5597,8 +5597,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-28 12:28:38",
-      "longitude": 32.1437,
-      "latitude": -5.0757
+      "longitude": 32.1488,
+      "latitude": -5.0817
     },
     {
       "block_id": "b22faa486952-104",
@@ -5646,8 +5646,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A",
       "physiologicalmaturity_survey_end": "2021-04-28 12:36:37",
-      "longitude": 32.1967,
-      "latitude": -5.0957
+      "longitude": 32.2092,
+      "latitude": -5.0796
     },
     {
       "block_id": "b22faa486952-105",
@@ -5695,8 +5695,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-26 12:51:01",
-      "longitude": 33.1608,
-      "latitude": -4.3682
+      "longitude": 33.1513,
+      "latitude": -4.3655
     },
     {
       "block_id": "b22faa486952-106",
@@ -5744,8 +5744,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-04-26 21:12:39",
-      "longitude": 33.1224,
-      "latitude": -4.388
+      "longitude": 33.1302,
+      "latitude": -4.374
     },
     {
       "block_id": "b22faa486952-107",
@@ -5793,8 +5793,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "B",
       "physiologicalmaturity_survey_end": "2021-04-26 21:17:08",
-      "longitude": 33.1363,
-      "latitude": -4.3647
+      "longitude": 33.1556,
+      "latitude": -4.3644
     },
     {
       "block_id": "b22faa486952-108",
@@ -5842,8 +5842,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-26 21:42:14",
-      "longitude": 33.1486,
-      "latitude": -4.3548
+      "longitude": 33.1513,
+      "latitude": -4.3724
     },
     {
       "block_id": "b22faa486952-109",
@@ -5891,8 +5891,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-04-26 21:46:17",
-      "longitude": 33.1605,
-      "latitude": -4.3619
+      "longitude": 33.148,
+      "latitude": -4.3661
     },
     {
       "block_id": "b22faa486952-110",
@@ -5969,8 +5969,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-04-26 13:08:02",
-      "longitude": 33.1458,
-      "latitude": -4.3673
+      "longitude": 33.1588,
+      "latitude": -4.386
     },
     {
       "block_id": "b22faa486952-112",
@@ -6018,8 +6018,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-04-26 21:50:00",
-      "longitude": 33.1398,
-      "latitude": -4.383
+      "longitude": 33.1536,
+      "latitude": -4.3934
     },
     {
       "block_id": "b22faa486952-113",
@@ -6067,8 +6067,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "B",
       "physiologicalmaturity_survey_end": "2021-04-26 21:54:38",
-      "longitude": 33.1584,
-      "latitude": -4.3709
+      "longitude": 33.1498,
+      "latitude": -4.3646
     },
     {
       "block_id": "b22faa486952-114",
@@ -6116,8 +6116,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "C",
       "physiologicalmaturity_survey_end": "2021-04-26 13:00:41",
-      "longitude": 33.1235,
-      "latitude": -4.3786
+      "longitude": 33.1316,
+      "latitude": -4.3684
     },
     {
       "block_id": "b22faa486952-115",
@@ -6165,8 +6165,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-26 21:59:16",
-      "longitude": 33.1147,
-      "latitude": -4.3679
+      "longitude": 33.1336,
+      "latitude": -4.3628
     },
     {
       "block_id": "b22faa486952-116",
@@ -6344,8 +6344,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "B",
       "physiologicalmaturity_survey_end": "2021-05-20 12:57:58",
-      "longitude": 36.108,
-      "latitude": -6.432
+      "longitude": 36.1216,
+      "latitude": -6.4364
     },
     {
       "block_id": "b22faa486952-122",
@@ -6719,8 +6719,8 @@
       "reproductive_whichlost": "None",
       "reproductive_plantdamag": "No",
       "reproductive_survey_end": "2021-03-06 15:44:16",
-      "longitude": 36.2439,
-      "latitude": -6.4734
+      "longitude": 36.2427,
+      "latitude": -6.4784
     },
     {
       "block_id": "b22faa486952-133",
@@ -6956,8 +6956,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-06-05 18:52:49",
-      "longitude": 32.7892,
-      "latitude": -9.1296
+      "longitude": 32.7889,
+      "latitude": -9.1249
     },
     {
       "block_id": "b22faa486952-138",
@@ -7005,8 +7005,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-22 21:45:17",
-      "longitude": 33.4582,
-      "latitude": -2.6398
+      "longitude": 33.4491,
+      "latitude": -2.632
     },
     {
       "block_id": "b22faa486952-139",
@@ -7054,8 +7054,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "B; C",
       "physiologicalmaturity_survey_end": "2021-04-22 22:14:51",
-      "longitude": 33.4659,
-      "latitude": -2.6357
+      "longitude": 33.4751,
+      "latitude": -2.644
     },
     {
       "block_id": "b22faa486952-140",
@@ -7103,8 +7103,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-22 22:23:57",
-      "longitude": 33.4746,
-      "latitude": -2.649
+      "longitude": 33.4668,
+      "latitude": -2.6315
     },
     {
       "block_id": "b22faa486952-141",
@@ -7152,8 +7152,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-22 22:02:45",
-      "longitude": 33.4577,
-      "latitude": -2.6579
+      "longitude": 33.4631,
+      "latitude": -2.6504
     },
     {
       "block_id": "b22faa486952-142",
@@ -7201,8 +7201,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-29 12:55:35",
-      "longitude": 29.7585,
-      "latitude": -4.8008
+      "longitude": 29.7643,
+      "latitude": -4.801
     },
     {
       "block_id": "b22faa486952-143",
@@ -7229,8 +7229,8 @@
       "agronomicperformance_whichlost": "None",
       "agronomicperformance_diseasesany": "Not Applicable",
       "agronomicperformance_survey_end": "2021-04-01 20:55:48",
-      "longitude": 36.2489,
-      "latitude": -6.4675
+      "longitude": 36.2568,
+      "latitude": -6.4749
     },
     {
       "block_id": "b22faa486952-144",
@@ -7278,8 +7278,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-29 13:04:13",
-      "longitude": 29.7683,
-      "latitude": -4.7866
+      "longitude": 29.7582,
+      "latitude": -4.7887
     },
     {
       "block_id": "b22faa486952-145",
@@ -7327,8 +7327,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-29 13:12:26",
-      "longitude": 29.7528,
-      "latitude": -4.7761
+      "longitude": 29.7419,
+      "latitude": -4.7946
     },
     {
       "block_id": "b22faa486952-146",
@@ -7376,8 +7376,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-29 13:19:08",
-      "longitude": 29.7625,
-      "latitude": -4.7995
+      "longitude": 29.7686,
+      "latitude": -4.7875
     },
     {
       "block_id": "b22faa486952-147",
@@ -7425,8 +7425,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-29 13:31:36",
-      "longitude": 29.7571,
-      "latitude": -4.7882
+      "longitude": 29.743,
+      "latitude": -4.802
     },
     {
       "block_id": "b22faa486952-148",
@@ -7474,8 +7474,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-29 10:51:10",
-      "longitude": 29.6759,
-      "latitude": -4.8365
+      "longitude": 29.6607,
+      "latitude": -4.8234
     },
     {
       "block_id": "b22faa486952-149",
@@ -7523,8 +7523,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; B; C",
       "physiologicalmaturity_survey_end": "2021-04-29 11:00:08",
-      "longitude": 29.6627,
-      "latitude": -4.8098
+      "longitude": 29.6674,
+      "latitude": -4.8066
     },
     {
       "block_id": "b22faa486952-150",
@@ -7572,8 +7572,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-04-29 11:26:44",
-      "longitude": 29.6568,
-      "latitude": -4.8018
+      "longitude": 29.6569,
+      "latitude": -4.8033
     },
     {
       "block_id": "b22faa486952-151",
@@ -7621,8 +7621,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-04-29 11:23:09",
-      "longitude": 29.6576,
-      "latitude": -4.8292
+      "longitude": 29.6535,
+      "latitude": -4.8255
     },
     {
       "block_id": "b22faa486952-152",
@@ -7670,8 +7670,8 @@
       "physiologicalmaturity_item_C_vs_local": "Worse",
       "physiologicalmaturity_grownexttricot": "A; B",
       "physiologicalmaturity_survey_end": "2021-06-05 18:59:00",
-      "longitude": 32.7914,
-      "latitude": -9.1274
+      "longitude": 32.8046,
+      "latitude": -9.1219
     },
     {
       "block_id": "b22faa486952-153",
@@ -7719,8 +7719,8 @@
       "physiologicalmaturity_item_C_vs_local": "Better",
       "physiologicalmaturity_grownexttricot": "A; C",
       "physiologicalmaturity_survey_end": "2021-06-05 19:05:53",
-      "longitude": 32.8003,
-      "latitude": -9.1362
+      "longitude": 32.7827,
+      "latitude": -9.1227
     },
     {
       "block_id": "b22faa486952-154",
@@ -7747,8 +7747,8 @@
       "agronomicperformance_whichlost": "None",
       "agronomicperformance_diseasesany": "Not Applicable",
       "agronomicperformance_survey_end": "2021-04-01 20:56:17",
-      "longitude": 36.2505,
-      "latitude": -6.4676
+      "longitude": 36.2622,
+      "latitude": -6.4862
     }
   ],
   "plot_data": [

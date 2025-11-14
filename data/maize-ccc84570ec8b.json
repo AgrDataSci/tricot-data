@@ -1,11 +1,11 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-08",
+      "version": "v2025-11-14",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
-        "package_version": "1.7"
+        "package_version": "1.8"
       }
     },
     "identifier": "https://doi.org/10.5281/zenodo.17112492",
@@ -29,8 +29,8 @@
       "boundingBox": {
         "xmin": 28.88,
         "xmax": 29.87,
-        "ymin": -2.7,
-        "ymax": -1.99
+        "ymin": -2.69,
+        "ymax": -2
       }
     },
     "data_producer": {
@@ -1566,8 +1566,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-01 15:56:45",
-      "longitude": 29.7599,
-      "latitude": -2.5458
+      "longitude": 29.7542,
+      "latitude": -2.5518
     },
     {
       "block_id": "ccc84570ec8b-2",
@@ -1711,8 +1711,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-01 16:38:55",
-      "longitude": 29.747,
-      "latitude": -2.5623
+      "longitude": 29.757,
+      "latitude": -2.5566
     },
     {
       "block_id": "ccc84570ec8b-3",
@@ -1857,8 +1857,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-13 16:40:10",
-      "longitude": 29.7582,
-      "latitude": -2.5418
+      "longitude": 29.7532,
+      "latitude": -2.5494
     },
     {
       "block_id": "ccc84570ec8b-4",
@@ -1989,8 +1989,8 @@
       "harvest_whichlost": "A; B; C",
       "harvest_plotlossreason": "Barabyibye babimaraho byose ntasarura ryakozwe no guhungura ntibizaba muturima twose",
       "harvest_survey_end": "2024-01-31 14:10:14",
-      "longitude": 29.7519,
-      "latitude": -2.5636
+      "longitude": 29.7429,
+      "latitude": -2.553
     },
     {
       "block_id": "ccc84570ec8b-5",
@@ -2135,8 +2135,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-06 13:50:41",
-      "longitude": 29.7629,
-      "latitude": -2.5571
+      "longitude": 29.7456,
+      "latitude": -2.5618
     },
     {
       "block_id": "ccc84570ec8b-6",
@@ -2281,8 +2281,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-15 16:52:02",
-      "longitude": 29.7567,
-      "latitude": -2.5493
+      "longitude": 29.7491,
+      "latitude": -2.5464
     },
     {
       "block_id": "ccc84570ec8b-7",
@@ -2427,8 +2427,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-06 16:29:39",
-      "longitude": 29.7582,
-      "latitude": -2.5529
+      "longitude": 29.7442,
+      "latitude": -2.5507
     },
     {
       "block_id": "ccc84570ec8b-8",
@@ -2573,8 +2573,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-01 17:24:28",
-      "longitude": 29.7437,
-      "latitude": -2.552
+      "longitude": 29.7431,
+      "latitude": -2.5645
     },
     {
       "block_id": "ccc84570ec8b-9",
@@ -2719,8 +2719,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-13 16:34:15",
-      "longitude": 29.7476,
-      "latitude": -2.5589
+      "longitude": 29.7574,
+      "latitude": -2.5448
     },
     {
       "block_id": "ccc84570ec8b-10",
@@ -2865,8 +2865,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-02-29 10:44:00",
-      "longitude": 29.7609,
-      "latitude": -2.5609
+      "longitude": 29.7559,
+      "latitude": -2.5661
     },
     {
       "block_id": "ccc84570ec8b-11",
@@ -3010,8 +3010,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-22 09:01:21",
-      "longitude": 29.7625,
-      "latitude": -2.5641
+      "longitude": 29.7689,
+      "latitude": -2.5684
     },
     {
       "block_id": "ccc84570ec8b-12",
@@ -3156,8 +3156,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-15 08:20:41",
-      "longitude": 29.7617,
-      "latitude": -2.558
+      "longitude": 29.763,
+      "latitude": -2.5615
     },
     {
       "block_id": "ccc84570ec8b-13",
@@ -3302,8 +3302,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-02-23 13:50:20",
-      "longitude": 29.7474,
-      "latitude": -2.5596
+      "longitude": 29.7592,
+      "latitude": -2.5456
     },
     {
       "block_id": "ccc84570ec8b-14",
@@ -3447,8 +3447,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-22 15:43:03",
-      "longitude": 29.7639,
-      "latitude": -2.5469
+      "longitude": 29.7469,
+      "latitude": -2.5431
     },
     {
       "block_id": "ccc84570ec8b-15",
@@ -3593,8 +3593,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-22 14:39:17",
-      "longitude": 29.7641,
-      "latitude": -2.5525
+      "longitude": 29.7573,
+      "latitude": -2.5486
     },
     {
       "block_id": "ccc84570ec8b-16",
@@ -3739,8 +3739,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-06 13:06:01",
-      "longitude": 29.7428,
-      "latitude": -2.5591
+      "longitude": 29.7636,
+      "latitude": -2.5502
     },
     {
       "block_id": "ccc84570ec8b-17",
@@ -3885,8 +3885,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-15 09:10:53",
-      "longitude": 29.7539,
-      "latitude": -2.5513
+      "longitude": 29.7538,
+      "latitude": -2.5503
     },
     {
       "block_id": "ccc84570ec8b-18",
@@ -4031,8 +4031,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-15 18:03:06",
-      "longitude": 29.75,
-      "latitude": -2.5679
+      "longitude": 29.7621,
+      "latitude": -2.5549
     },
     {
       "block_id": "ccc84570ec8b-19",
@@ -4177,8 +4177,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-13 09:59:54",
-      "longitude": 29.7513,
-      "latitude": -2.5547
+      "longitude": 29.7481,
+      "latitude": -2.5597
     },
     {
       "block_id": "ccc84570ec8b-20",
@@ -4323,8 +4323,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-15 13:21:12",
-      "longitude": 29.7584,
-      "latitude": -2.5468
+      "longitude": 29.7582,
+      "latitude": -2.5695
     },
     {
       "block_id": "ccc84570ec8b-21",
@@ -4469,8 +4469,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-15 10:16:32",
-      "longitude": 29.8791,
-      "latitude": -2.3175
+      "longitude": 29.8647,
+      "latitude": -2.3127
     },
     {
       "block_id": "ccc84570ec8b-22",
@@ -4615,8 +4615,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-02-28 16:03:24",
-      "longitude": 29.8761,
-      "latitude": -2.3196
+      "longitude": 29.8662,
+      "latitude": -2.3166
     },
     {
       "block_id": "ccc84570ec8b-23",
@@ -4761,8 +4761,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-15 10:21:35",
-      "longitude": 29.867,
-      "latitude": -2.3139
+      "longitude": 29.8661,
+      "latitude": -2.3345
     },
     {
       "block_id": "ccc84570ec8b-24",
@@ -4907,8 +4907,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-02-28 16:11:26",
-      "longitude": 29.8569,
-      "latitude": -2.3223
+      "longitude": 29.8664,
+      "latitude": -2.3204
     },
     {
       "block_id": "ccc84570ec8b-25",
@@ -5052,8 +5052,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-02-28 16:14:45",
-      "longitude": 29.8617,
-      "latitude": -2.3125
+      "longitude": 29.8565,
+      "latitude": -2.3138
     },
     {
       "block_id": "ccc84570ec8b-26",
@@ -5184,8 +5184,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2024-02-05 08:32:21",
-      "longitude": 29.8725,
-      "latitude": -2.3243
+      "longitude": 29.8517,
+      "latitude": -2.3216
     },
     {
       "block_id": "ccc84570ec8b-27",
@@ -5328,8 +5328,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-02-28 16:19:01",
-      "longitude": 29.8656,
-      "latitude": -2.327
+      "longitude": 29.8719,
+      "latitude": -2.3282
     },
     {
       "block_id": "ccc84570ec8b-28",
@@ -5474,8 +5474,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-22 16:17:38",
-      "longitude": 29.8538,
-      "latitude": -2.3262
+      "longitude": 29.8616,
+      "latitude": -2.3356
     },
     {
       "block_id": "ccc84570ec8b-29",
@@ -5619,8 +5619,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-02-28 16:31:09",
-      "longitude": 29.8731,
-      "latitude": -2.3335
+      "longitude": 29.858,
+      "latitude": -2.3151
     },
     {
       "block_id": "ccc84570ec8b-30",
@@ -5765,8 +5765,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-20 08:10:32",
-      "longitude": 29.8791,
-      "latitude": -2.3192
+      "longitude": 29.8658,
+      "latitude": -2.334
     },
     {
       "block_id": "ccc84570ec8b-31",
@@ -5911,8 +5911,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-02-28 16:50:21",
-      "longitude": 29.8439,
-      "latitude": -2.3254
+      "longitude": 29.8432,
+      "latitude": -2.3262
     },
     {
       "block_id": "ccc84570ec8b-32",
@@ -6057,8 +6057,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 07:27:00",
-      "longitude": 29.8648,
-      "latitude": -2.337
+      "longitude": 29.8687,
+      "latitude": -2.3173
     },
     {
       "block_id": "ccc84570ec8b-33",
@@ -6202,8 +6202,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-22 16:21:01",
-      "longitude": 29.8643,
-      "latitude": -2.3357
+      "longitude": 29.867,
+      "latitude": -2.3126
     },
     {
       "block_id": "ccc84570ec8b-34",
@@ -6348,8 +6348,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-22 16:30:39",
-      "longitude": 29.8633,
-      "latitude": -2.3189
+      "longitude": 29.8756,
+      "latitude": -2.327
     },
     {
       "block_id": "ccc84570ec8b-35",
@@ -6494,8 +6494,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-15 10:16:49",
-      "longitude": 29.8803,
-      "latitude": -2.3228
+      "longitude": 29.8747,
+      "latitude": -2.3279
     },
     {
       "block_id": "ccc84570ec8b-36",
@@ -6640,8 +6640,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-15 10:25:41",
-      "longitude": 29.8588,
-      "latitude": -2.3238
+      "longitude": 29.8726,
+      "latitude": -2.3241
     },
     {
       "block_id": "ccc84570ec8b-37",
@@ -6786,8 +6786,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-18 07:23:30",
-      "longitude": 29.8731,
-      "latitude": -2.3202
+      "longitude": 29.859,
+      "latitude": -2.3271
     },
     {
       "block_id": "ccc84570ec8b-38",
@@ -6932,8 +6932,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-15 10:24:23",
-      "longitude": 29.8758,
-      "latitude": -2.3237
+      "longitude": 29.8662,
+      "latitude": -2.3179
     },
     {
       "block_id": "ccc84570ec8b-39",
@@ -7078,8 +7078,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-22 16:21:22",
-      "longitude": 29.8701,
-      "latitude": -2.3317
+      "longitude": 29.8591,
+      "latitude": -2.3253
     },
     {
       "block_id": "ccc84570ec8b-40",
@@ -7224,8 +7224,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-15 10:03:51",
-      "longitude": 29.8581,
-      "latitude": -2.3278
+      "longitude": 29.8537,
+      "latitude": -2.3202
     },
     {
       "block_id": "ccc84570ec8b-41",
@@ -7370,8 +7370,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-02-29 10:13:59",
-      "longitude": 29.8534,
-      "latitude": -2.323
+      "longitude": 29.8562,
+      "latitude": -2.3208
     },
     {
       "block_id": "ccc84570ec8b-42",
@@ -7516,8 +7516,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-20 08:11:16",
-      "longitude": 29.8459,
-      "latitude": -2.3106
+      "longitude": 29.8429,
+      "latitude": -2.3203
     },
     {
       "block_id": "ccc84570ec8b-43",
@@ -7662,8 +7662,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-22 16:20:49",
-      "longitude": 29.8466,
-      "latitude": -2.3236
+      "longitude": 29.8447,
+      "latitude": -2.32
     },
     {
       "block_id": "ccc84570ec8b-44",
@@ -7808,8 +7808,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-22 16:21:43",
-      "longitude": 29.8533,
-      "latitude": -2.3259
+      "longitude": 29.8538,
+      "latitude": -2.3181
     },
     {
       "block_id": "ccc84570ec8b-45",
@@ -7953,8 +7953,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-18 17:29:25",
-      "longitude": 29.8446,
-      "latitude": -2.3161
+      "longitude": 29.8383,
+      "latitude": -2.3164
     },
     {
       "block_id": "ccc84570ec8b-46",
@@ -8099,8 +8099,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-20 08:11:26",
-      "longitude": 29.8621,
-      "latitude": -2.3154
+      "longitude": 29.8346,
+      "latitude": -2.323
     },
     {
       "block_id": "ccc84570ec8b-47",
@@ -8245,8 +8245,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-22 16:16:17",
-      "longitude": 29.8447,
-      "latitude": -2.3095
+      "longitude": 29.8485,
+      "latitude": -2.3161
     },
     {
       "block_id": "ccc84570ec8b-48",
@@ -8391,8 +8391,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-15 10:20:36",
-      "longitude": 29.8535,
-      "latitude": -2.3103
+      "longitude": 29.8523,
+      "latitude": -2.3381
     },
     {
       "block_id": "ccc84570ec8b-49",
@@ -8537,8 +8537,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-24 14:21:05",
-      "longitude": 29.8566,
-      "latitude": -2.315
+      "longitude": 29.8448,
+      "latitude": -2.3024
     },
     {
       "block_id": "ccc84570ec8b-50",
@@ -8683,8 +8683,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-22 16:31:24",
-      "longitude": 29.8597,
-      "latitude": -2.3114
+      "longitude": 29.8397,
+      "latitude": -2.3064
     },
     {
       "block_id": "ccc84570ec8b-51",
@@ -8829,8 +8829,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-02-29 10:16:41",
-      "longitude": 29.8409,
-      "latitude": -2.3032
+      "longitude": 29.8577,
+      "latitude": -2.3085
     },
     {
       "block_id": "ccc84570ec8b-52",
@@ -8975,8 +8975,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-02-29 10:30:33",
-      "longitude": 29.8545,
-      "latitude": -2.3067
+      "longitude": 29.85,
+      "latitude": -2.3201
     },
     {
       "block_id": "ccc84570ec8b-53",
@@ -9121,8 +9121,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 07:28:41",
-      "longitude": 29.8592,
-      "latitude": -2.3206
+      "longitude": 29.8425,
+      "latitude": -2.3319
     },
     {
       "block_id": "ccc84570ec8b-54",
@@ -9267,8 +9267,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 07:48:12",
-      "longitude": 29.8514,
-      "latitude": -2.3195
+      "longitude": 29.8649,
+      "latitude": -2.3301
     },
     {
       "block_id": "ccc84570ec8b-55",
@@ -9413,8 +9413,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-02-29 10:34:07",
-      "longitude": 29.8481,
-      "latitude": -2.3291
+      "longitude": 29.8364,
+      "latitude": -2.3199
     },
     {
       "block_id": "ccc84570ec8b-56",
@@ -9559,8 +9559,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-22 16:21:58",
-      "longitude": 29.8621,
-      "latitude": -2.3318
+      "longitude": 29.8459,
+      "latitude": -2.3281
     },
     {
       "block_id": "ccc84570ec8b-57",
@@ -9704,8 +9704,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-20 08:09:26",
-      "longitude": 29.8463,
-      "latitude": -2.3168
+      "longitude": 29.854,
+      "latitude": -2.3173
     },
     {
       "block_id": "ccc84570ec8b-58",
@@ -9850,8 +9850,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-02-29 10:37:00",
-      "longitude": 29.856,
-      "latitude": -2.3119
+      "longitude": 29.8533,
+      "latitude": -2.3149
     },
     {
       "block_id": "ccc84570ec8b-59",
@@ -9996,8 +9996,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-15 10:19:08",
-      "longitude": 29.8356,
-      "latitude": -2.3209
+      "longitude": 29.8508,
+      "latitude": -2.3272
     },
     {
       "block_id": "ccc84570ec8b-60",
@@ -10142,8 +10142,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-18 07:30:08",
-      "longitude": 29.8648,
-      "latitude": -2.3102
+      "longitude": 29.8397,
+      "latitude": -2.3147
     },
     {
       "block_id": "ccc84570ec8b-61",
@@ -10263,8 +10263,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2024-02-28 13:56:16",
-      "longitude": 29.1497,
-      "latitude": -2.3295
+      "longitude": 29.1418,
+      "latitude": -2.3453
     },
     {
       "block_id": "ccc84570ec8b-62",
@@ -10399,8 +10399,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-09 12:16:43",
-      "longitude": 29.108,
-      "latitude": -2.3632
+      "longitude": 29.1327,
+      "latitude": -2.3378
     },
     {
       "block_id": "ccc84570ec8b-63",
@@ -10545,8 +10545,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-13 15:16:31",
-      "longitude": 29.0831,
-      "latitude": -2.3469
+      "longitude": 29.0716,
+      "latitude": -2.3656
     },
     {
       "block_id": "ccc84570ec8b-64",
@@ -10680,8 +10680,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-11 07:23:44",
-      "longitude": 29.1589,
-      "latitude": -2.3324
+      "longitude": 29.1239,
+      "latitude": -2.3394
     },
     {
       "block_id": "ccc84570ec8b-65",
@@ -10816,8 +10816,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-11 07:00:25",
-      "longitude": 29.1478,
-      "latitude": -2.3364
+      "longitude": 29.1401,
+      "latitude": -2.3491
     },
     {
       "block_id": "ccc84570ec8b-66",
@@ -10959,8 +10959,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-11 07:01:17",
-      "longitude": 29.0846,
-      "latitude": -2.3536
+      "longitude": 29.0867,
+      "latitude": -2.3523
     },
     {
       "block_id": "ccc84570ec8b-67",
@@ -11104,8 +11104,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-12 10:31:18",
-      "longitude": 29.081,
-      "latitude": -2.3695
+      "longitude": 29.0924,
+      "latitude": -2.3731
     },
     {
       "block_id": "ccc84570ec8b-68",
@@ -11248,8 +11248,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-10 14:24:18",
-      "longitude": 29.0828,
-      "latitude": -2.3522
+      "longitude": 29.0864,
+      "latitude": -2.3499
     },
     {
       "block_id": "ccc84570ec8b-69",
@@ -11382,8 +11382,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-13 11:45:27",
-      "longitude": 29.1493,
-      "latitude": -2.333
+      "longitude": 29.0855,
+      "latitude": -2.3558
     },
     {
       "block_id": "ccc84570ec8b-70",
@@ -11518,8 +11518,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-10 12:39:26",
-      "longitude": 29.0932,
-      "latitude": -2.3574
+      "longitude": 29.0901,
+      "latitude": -2.3671
     },
     {
       "block_id": "ccc84570ec8b-71",
@@ -11651,8 +11651,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-10 15:57:50",
-      "longitude": 29.0902,
-      "latitude": -2.3613
+      "longitude": 29.1425,
+      "latitude": -2.3403
     },
     {
       "block_id": "ccc84570ec8b-72",
@@ -11787,8 +11787,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-09 15:02:27",
-      "longitude": 29.1443,
-      "latitude": -2.3378
+      "longitude": 29.0918,
+      "latitude": -2.3641
     },
     {
       "block_id": "ccc84570ec8b-73",
@@ -11923,8 +11923,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C; A",
       "threshing_survey_end": "2024-04-09 14:32:03",
-      "longitude": 29.0915,
-      "latitude": -2.3553
+      "longitude": 29.0843,
+      "latitude": -2.3589
     },
     {
       "block_id": "ccc84570ec8b-74",
@@ -12058,8 +12058,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-09 14:55:50",
-      "longitude": 29.0918,
-      "latitude": -2.3716
+      "longitude": 29.0907,
+      "latitude": -2.3652
     },
     {
       "block_id": "ccc84570ec8b-75",
@@ -12194,8 +12194,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-27 12:20:04",
-      "longitude": 29.0968,
-      "latitude": -2.3684
+      "longitude": 29.1303,
+      "latitude": -2.325
     },
     {
       "block_id": "ccc84570ec8b-76",
@@ -12330,8 +12330,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-13 12:24:45",
-      "longitude": 29.089,
-      "latitude": -2.3697
+      "longitude": 29.0785,
+      "latitude": -2.3632
     },
     {
       "block_id": "ccc84570ec8b-77",
@@ -12466,8 +12466,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-13 10:30:49",
-      "longitude": 29.1446,
-      "latitude": -2.3301
+      "longitude": 29.0842,
+      "latitude": -2.363
     },
     {
       "block_id": "ccc84570ec8b-78",
@@ -12601,8 +12601,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-13 10:22:18",
-      "longitude": 29.081,
-      "latitude": -2.3693
+      "longitude": 29.1382,
+      "latitude": -2.3395
     },
     {
       "block_id": "ccc84570ec8b-79",
@@ -12737,8 +12737,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-19 07:10:20",
-      "longitude": 29.0965,
-      "latitude": -2.3713
+      "longitude": 29.1362,
+      "latitude": -2.3497
     },
     {
       "block_id": "ccc84570ec8b-80",
@@ -12880,8 +12880,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-13 10:21:01",
-      "longitude": 29.087,
-      "latitude": -2.3659
+      "longitude": 29.1078,
+      "latitude": -2.3585
     },
     {
       "block_id": "ccc84570ec8b-81",
@@ -13004,8 +13004,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-20 15:50:21",
-      "longitude": 29.132,
-      "latitude": -2.3264
+      "longitude": 29.1582,
+      "latitude": -2.2728
     },
     {
       "block_id": "ccc84570ec8b-82",
@@ -13128,8 +13128,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-01 16:06:45",
-      "longitude": 29.1624,
-      "latitude": -2.2713
+      "longitude": 29.1658,
+      "latitude": -2.2856
     },
     {
       "block_id": "ccc84570ec8b-83",
@@ -13253,8 +13253,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-02-29 11:23:14",
-      "longitude": 29.1533,
-      "latitude": -2.2884
+      "longitude": 29.1559,
+      "latitude": -2.2803
     },
     {
       "block_id": "ccc84570ec8b-84",
@@ -13376,8 +13376,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-02-29 12:17:57",
-      "longitude": 29.1509,
-      "latitude": -2.2875
+      "longitude": 29.1403,
+      "latitude": -2.2795
     },
     {
       "block_id": "ccc84570ec8b-85",
@@ -13505,8 +13505,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-11 15:02:44",
-      "longitude": 29.1873,
-      "latitude": -2.2912
+      "longitude": 29.1819,
+      "latitude": -2.2982
     },
     {
       "block_id": "ccc84570ec8b-86",
@@ -13629,8 +13629,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-18 15:05:14",
-      "longitude": 29.1426,
-      "latitude": -2.2866
+      "longitude": 29.1568,
+      "latitude": -2.2783
     },
     {
       "block_id": "ccc84570ec8b-87",
@@ -13752,8 +13752,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-28 15:11:37",
-      "longitude": 29.154,
-      "latitude": -2.2908
+      "longitude": 29.145,
+      "latitude": -2.2809
     },
     {
       "block_id": "ccc84570ec8b-88",
@@ -13875,8 +13875,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-11 14:25:26",
-      "longitude": 29.1776,
-      "latitude": -2.2746
+      "longitude": 29.1578,
+      "latitude": -2.2854
     },
     {
       "block_id": "ccc84570ec8b-89",
@@ -13984,8 +13984,8 @@
       "harvest_whichlost": "A; B; C",
       "harvest_plotlossreason": "Ntazahungura ibigori kuko yararwaye ngo yohereza abana gusarura ibigori abana barangije barabivanga vanga",
       "harvest_survey_end": "2024-02-29 13:40:09",
-      "longitude": 29.1464,
-      "latitude": -2.2766
+      "longitude": 29.1571,
+      "latitude": -2.2823
     },
     {
       "block_id": "ccc84570ec8b-90",
@@ -14107,8 +14107,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-01 16:40:24",
-      "longitude": 29.1626,
-      "latitude": -2.2751
+      "longitude": 29.1783,
+      "latitude": -2.2963
     },
     {
       "block_id": "ccc84570ec8b-91",
@@ -14230,8 +14230,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-25 13:14:01",
-      "longitude": 29.1699,
-      "latitude": -2.2812
+      "longitude": 29.1709,
+      "latitude": -2.2595
     },
     {
       "block_id": "ccc84570ec8b-92",
@@ -14353,8 +14353,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-05 16:50:06",
-      "longitude": 29.1463,
-      "latitude": -2.2809
+      "longitude": 29.1541,
+      "latitude": -2.2805
     },
     {
       "block_id": "ccc84570ec8b-93",
@@ -14476,8 +14476,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-01 16:19:33",
-      "longitude": 29.1514,
-      "latitude": -2.2905
+      "longitude": 29.1648,
+      "latitude": -2.2743
     },
     {
       "block_id": "ccc84570ec8b-94",
@@ -14600,8 +14600,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-11 19:28:24",
-      "longitude": 29.1639,
-      "latitude": -2.2841
+      "longitude": 29.1746,
+      "latitude": -2.28
     },
     {
       "block_id": "ccc84570ec8b-95",
@@ -14724,8 +14724,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-22 15:12:30",
-      "longitude": 29.1608,
-      "latitude": -2.2664
+      "longitude": 29.1488,
+      "latitude": -2.2786
     },
     {
       "block_id": "ccc84570ec8b-96",
@@ -14848,8 +14848,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-22 16:33:25",
-      "longitude": 29.1625,
-      "latitude": -2.2825
+      "longitude": 29.1617,
+      "latitude": -2.2872
     },
     {
       "block_id": "ccc84570ec8b-97",
@@ -14971,8 +14971,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-25 14:04:27",
-      "longitude": 29.1763,
-      "latitude": -2.2819
+      "longitude": 29.1583,
+      "latitude": -2.281
     },
     {
       "block_id": "ccc84570ec8b-98",
@@ -15096,8 +15096,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-25 17:11:58",
-      "longitude": 29.1871,
-      "latitude": -2.2974
+      "longitude": 29.166,
+      "latitude": -2.2854
     },
     {
       "block_id": "ccc84570ec8b-99",
@@ -15219,8 +15219,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-22 11:36:33",
-      "longitude": 29.1669,
-      "latitude": -2.2744
+      "longitude": 29.1742,
+      "latitude": -2.2789
     },
     {
       "block_id": "ccc84570ec8b-100",
@@ -15344,8 +15344,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-25 16:18:02",
-      "longitude": 29.1837,
-      "latitude": -2.2904
+      "longitude": 29.1828,
+      "latitude": -2.2787
     },
     {
       "block_id": "ccc84570ec8b-101",
@@ -15468,8 +15468,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-07 18:23:20",
-      "longitude": 29.2339,
-      "latitude": -2.226
+      "longitude": 29.2246,
+      "latitude": -2.2357
     },
     {
       "block_id": "ccc84570ec8b-102",
@@ -15592,8 +15592,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-12 17:33:37",
-      "longitude": 29.2369,
-      "latitude": -2.2367
+      "longitude": 29.232,
+      "latitude": -2.2295
     },
     {
       "block_id": "ccc84570ec8b-103",
@@ -15715,8 +15715,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-26 17:05:10",
-      "longitude": 29.2234,
-      "latitude": -2.2367
+      "longitude": 29.2199,
+      "latitude": -2.2296
     },
     {
       "block_id": "ccc84570ec8b-104",
@@ -15839,8 +15839,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-26 15:15:51",
-      "longitude": 29.217,
-      "latitude": -2.2357
+      "longitude": 29.2372,
+      "latitude": -2.2359
     },
     {
       "block_id": "ccc84570ec8b-105",
@@ -15962,8 +15962,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-12 12:39:32",
-      "longitude": 29.2239,
-      "latitude": -2.2352
+      "longitude": 29.2211,
+      "latitude": -2.2311
     },
     {
       "block_id": "ccc84570ec8b-106",
@@ -16086,8 +16086,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-19 17:55:32",
-      "longitude": 29.2355,
-      "latitude": -2.2264
+      "longitude": 29.1649,
+      "latitude": -2.2741
     },
     {
       "block_id": "ccc84570ec8b-107",
@@ -16210,8 +16210,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-26 13:47:46",
-      "longitude": 29.2389,
-      "latitude": -2.2334
+      "longitude": 29.2245,
+      "latitude": -2.2293
     },
     {
       "block_id": "ccc84570ec8b-108",
@@ -16337,8 +16337,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-12 18:40:17",
-      "longitude": 29.2232,
-      "latitude": -2.2195
+      "longitude": 29.2181,
+      "latitude": -2.2324
     },
     {
       "block_id": "ccc84570ec8b-109",
@@ -16446,8 +16446,8 @@
       "harvest_whichlost": "B; C",
       "harvest_plotlossreason": "Nasanze umuhinzi yarasharitse akarima ka A ngo niho harihari ibigori byogusharika naho B,C ngo twaridutoya ngo yaje asanga abana baduciye baratwotsa baraturya",
       "harvest_survey_end": "2024-02-19 18:00:45",
-      "longitude": 29.2417,
-      "latitude": -2.216
+      "longitude": 29.2193,
+      "latitude": -2.2266
     },
     {
       "block_id": "ccc84570ec8b-110",
@@ -16570,8 +16570,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-19 14:55:48",
-      "longitude": 29.226,
-      "latitude": -2.2359
+      "longitude": 29.2392,
+      "latitude": -2.2327
     },
     {
       "block_id": "ccc84570ec8b-111",
@@ -16694,8 +16694,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-07 12:07:09",
-      "longitude": 29.2271,
-      "latitude": -2.2304
+      "longitude": 29.232,
+      "latitude": -2.2197
     },
     {
       "block_id": "ccc84570ec8b-112",
@@ -16818,8 +16818,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-19 18:37:18",
-      "longitude": 29.2354,
-      "latitude": -2.2264
+      "longitude": 29.2272,
+      "latitude": -2.2349
     },
     {
       "block_id": "ccc84570ec8b-113",
@@ -16927,8 +16927,8 @@
       "harvest_whichlost": "A; B; C",
       "harvest_plotlossreason": "Barabyutse basanga byose babyibye ntihasigara nakimwe",
       "harvest_survey_end": "2024-02-19 18:05:47",
-      "longitude": 29.2341,
-      "latitude": -2.2173
+      "longitude": 29.221,
+      "latitude": -2.2351
     },
     {
       "block_id": "ccc84570ec8b-114",
@@ -17051,8 +17051,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-12 17:37:05",
-      "longitude": 29.2335,
-      "latitude": -2.2316
+      "longitude": 29.2248,
+      "latitude": -2.2374
     },
     {
       "block_id": "ccc84570ec8b-115",
@@ -17175,8 +17175,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-02-29 11:02:22",
-      "longitude": 29.2148,
-      "latitude": -2.2323
+      "longitude": 29.2293,
+      "latitude": -2.236
     },
     {
       "block_id": "ccc84570ec8b-116",
@@ -17299,8 +17299,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-22 16:01:44",
-      "longitude": 29.2289,
-      "latitude": -2.2303
+      "longitude": 29.2241,
+      "latitude": -2.2392
     },
     {
       "block_id": "ccc84570ec8b-117",
@@ -17423,8 +17423,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-21 14:49:23",
-      "longitude": 29.2272,
-      "latitude": -2.2321
+      "longitude": 29.2302,
+      "latitude": -2.2297
     },
     {
       "block_id": "ccc84570ec8b-118",
@@ -17547,8 +17547,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-26 12:01:28",
-      "longitude": 29.2366,
-      "latitude": -2.2288
+      "longitude": 29.2288,
+      "latitude": -2.2362
     },
     {
       "block_id": "ccc84570ec8b-119",
@@ -17671,8 +17671,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-12 14:04:52",
-      "longitude": 29.2366,
-      "latitude": -2.2315
+      "longitude": 29.2334,
+      "latitude": -2.2339
     },
     {
       "block_id": "ccc84570ec8b-120",
@@ -17794,8 +17794,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-07 16:03:04",
-      "longitude": 29.2187,
-      "latitude": -2.2351
+      "longitude": 29.2145,
+      "latitude": -2.2177
     },
     {
       "block_id": "ccc84570ec8b-121",
@@ -17926,8 +17926,8 @@
       "harvest_whichlost": "A; B; C",
       "harvest_plotlossreason": "Barabuibye",
       "harvest_survey_end": "2024-02-12 08:06:41",
-      "longitude": 28.996,
-      "latitude": -2.6143
+      "longitude": 29.0116,
+      "latitude": -2.6147
     },
     {
       "block_id": "ccc84570ec8b-122",
@@ -18072,8 +18072,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-30 08:18:39",
-      "longitude": 29.0112,
-      "latitude": -2.6185
+      "longitude": 29.0081,
+      "latitude": -2.6286
     },
     {
       "block_id": "ccc84570ec8b-123",
@@ -18218,8 +18218,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-18 05:54:36",
-      "longitude": 28.9946,
-      "latitude": -2.6108
+      "longitude": 29.0122,
+      "latitude": -2.6299
     },
     {
       "block_id": "ccc84570ec8b-124",
@@ -18364,8 +18364,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-25 13:10:20",
-      "longitude": 28.9945,
-      "latitude": -2.6307
+      "longitude": 29.0003,
+      "latitude": -2.6298
     },
     {
       "block_id": "ccc84570ec8b-125",
@@ -18510,8 +18510,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 09:00:35",
-      "longitude": 28.9825,
-      "latitude": -2.624
+      "longitude": 29.0015,
+      "latitude": -2.6238
     },
     {
       "block_id": "ccc84570ec8b-126",
@@ -18656,8 +18656,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-18 05:55:23",
-      "longitude": 29.0135,
-      "latitude": -2.6323
+      "longitude": 29.0153,
+      "latitude": -2.6369
     },
     {
       "block_id": "ccc84570ec8b-127",
@@ -18802,8 +18802,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 05:56:28",
-      "longitude": 29.0058,
-      "latitude": -2.6363
+      "longitude": 29.0184,
+      "latitude": -2.6266
     },
     {
       "block_id": "ccc84570ec8b-128",
@@ -18948,8 +18948,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-18 05:57:17",
-      "longitude": 29.0017,
-      "latitude": -2.6319
+      "longitude": 29.0062,
+      "latitude": -2.6385
     },
     {
       "block_id": "ccc84570ec8b-129",
@@ -19094,8 +19094,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-18 08:23:41",
-      "longitude": 29.0259,
-      "latitude": -2.638
+      "longitude": 28.999,
+      "latitude": -2.6227
     },
     {
       "block_id": "ccc84570ec8b-130",
@@ -19240,8 +19240,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 08:07:05",
-      "longitude": 29.0046,
-      "latitude": -2.6155
+      "longitude": 29.0065,
+      "latitude": -2.6316
     },
     {
       "block_id": "ccc84570ec8b-131",
@@ -19386,8 +19386,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 07:47:08",
-      "longitude": 28.9875,
-      "latitude": -2.6247
+      "longitude": 29.0096,
+      "latitude": -2.6321
     },
     {
       "block_id": "ccc84570ec8b-132",
@@ -19531,8 +19531,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-18 05:57:56",
-      "longitude": 28.9995,
-      "latitude": -2.6368
+      "longitude": 29.0165,
+      "latitude": -2.6385
     },
     {
       "block_id": "ccc84570ec8b-133",
@@ -19676,8 +19676,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-18 05:58:35",
-      "longitude": 28.9942,
-      "latitude": -2.6335
+      "longitude": 29.0029,
+      "latitude": -2.6405
     },
     {
       "block_id": "ccc84570ec8b-134",
@@ -19822,7 +19822,7 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-18 05:59:30",
-      "longitude": 29.0065,
+      "longitude": 29.0015,
       "latitude": -2.6358
     },
     {
@@ -19968,8 +19968,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-30 09:32:19",
-      "longitude": 29.0158,
-      "latitude": -2.7047
+      "longitude": 29.0022,
+      "latitude": -2.6237
     },
     {
       "block_id": "ccc84570ec8b-136",
@@ -20114,8 +20114,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-14 16:51:43",
-      "longitude": 28.9914,
-      "latitude": -2.6222
+      "longitude": 28.9958,
+      "latitude": -2.6174
     },
     {
       "block_id": "ccc84570ec8b-137",
@@ -20260,8 +20260,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-25 13:15:20",
-      "longitude": 29.0056,
-      "latitude": -2.6293
+      "longitude": 28.9941,
+      "latitude": -2.6298
     },
     {
       "block_id": "ccc84570ec8b-138",
@@ -20406,8 +20406,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-14 08:38:15",
-      "longitude": 28.993,
-      "latitude": -2.6151
+      "longitude": 29.0031,
+      "latitude": -2.6375
     },
     {
       "block_id": "ccc84570ec8b-139",
@@ -20552,8 +20552,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-25 13:06:18",
-      "longitude": 29.0065,
-      "latitude": -2.6172
+      "longitude": 29.0012,
+      "latitude": -2.6301
     },
     {
       "block_id": "ccc84570ec8b-140",
@@ -20698,8 +20698,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-14 08:38:48",
-      "longitude": 28.9935,
-      "latitude": -2.6264
+      "longitude": 29.0023,
+      "latitude": -2.614
     },
     {
       "block_id": "ccc84570ec8b-141",
@@ -20844,8 +20844,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-19 07:51:08",
-      "longitude": 29.0356,
-      "latitude": -2.6721
+      "longitude": 29.0474,
+      "latitude": -2.6712
     },
     {
       "block_id": "ccc84570ec8b-142",
@@ -20990,8 +20990,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-18 06:00:45",
-      "longitude": 29.0511,
-      "latitude": -2.6794
+      "longitude": 29.0458,
+      "latitude": -2.6825
     },
     {
       "block_id": "ccc84570ec8b-143",
@@ -21135,8 +21135,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-19 07:51:00",
-      "longitude": 29.0453,
-      "latitude": -2.6959
+      "longitude": 29.0519,
+      "latitude": -2.6731
     },
     {
       "block_id": "ccc84570ec8b-144",
@@ -21281,8 +21281,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 06:01:26",
-      "longitude": 29.0398,
-      "latitude": -2.6987
+      "longitude": 29.0516,
+      "latitude": -2.6847
     },
     {
       "block_id": "ccc84570ec8b-145",
@@ -21427,8 +21427,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A; B; C",
       "threshing_survey_end": "2024-03-24 19:57:37",
-      "longitude": 29.0278,
-      "latitude": -2.6772
+      "longitude": 29.0412,
+      "latitude": -2.685
     },
     {
       "block_id": "ccc84570ec8b-146",
@@ -21573,8 +21573,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-18 06:02:00",
-      "longitude": 29.0521,
-      "latitude": -2.6924
+      "longitude": 29.0478,
+      "latitude": -2.6922
     },
     {
       "block_id": "ccc84570ec8b-147",
@@ -21719,8 +21719,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-14 08:39:29",
-      "longitude": 29.0406,
-      "latitude": -2.6804
+      "longitude": 29.0417,
+      "latitude": -2.6785
     },
     {
       "block_id": "ccc84570ec8b-148",
@@ -21865,8 +21865,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-18 06:02:36",
-      "longitude": 29.0388,
-      "latitude": -2.691
+      "longitude": 29.0415,
+      "latitude": -2.6934
     },
     {
       "block_id": "ccc84570ec8b-149",
@@ -22011,8 +22011,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-14 08:41:12",
-      "longitude": 29.0392,
-      "latitude": -2.6798
+      "longitude": 29.0349,
+      "latitude": -2.675
     },
     {
       "block_id": "ccc84570ec8b-150",
@@ -22156,8 +22156,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-19 07:26:08",
-      "longitude": 29.0427,
-      "latitude": -2.6674
+      "longitude": 29.0451,
+      "latitude": -2.664
     },
     {
       "block_id": "ccc84570ec8b-151",
@@ -22302,8 +22302,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-24 19:57:44",
-      "longitude": 29.0415,
-      "latitude": -2.6818
+      "longitude": 29.0391,
+      "latitude": -2.6581
     },
     {
       "block_id": "ccc84570ec8b-152",
@@ -22448,8 +22448,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-24 19:57:51",
-      "longitude": 29.0588,
-      "latitude": -2.6794
+      "longitude": 29.0542,
+      "latitude": -2.6853
     },
     {
       "block_id": "ccc84570ec8b-153",
@@ -22594,8 +22594,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-18 06:03:23",
-      "longitude": 29.0371,
-      "latitude": -2.68
+      "longitude": 29.0568,
+      "latitude": -2.6793
     },
     {
       "block_id": "ccc84570ec8b-154",
@@ -22726,8 +22726,8 @@
       "harvest_whichlost": "A; B; C",
       "harvest_plotlossreason": "Byose barabyibye, yagiye kubisarura asanga babyibye.",
       "harvest_survey_end": "2024-03-24 19:57:58",
-      "longitude": 29.0417,
-      "latitude": -2.6713
+      "longitude": 29.0403,
+      "latitude": -2.6821
     },
     {
       "block_id": "ccc84570ec8b-155",
@@ -22872,8 +22872,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-18 06:04:58",
-      "longitude": 29.0551,
-      "latitude": -2.6852
+      "longitude": 29.04,
+      "latitude": -2.6739
     },
     {
       "block_id": "ccc84570ec8b-156",
@@ -22979,8 +22979,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2024-03-09 16:25:01",
-      "longitude": 29.0496,
-      "latitude": -2.6921
+      "longitude": 29.0499,
+      "latitude": -2.6953
     },
     {
       "block_id": "ccc84570ec8b-157",
@@ -23086,8 +23086,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2024-03-09 16:30:24",
-      "longitude": 29.0366,
-      "latitude": -2.6932
+      "longitude": 29.0437,
+      "latitude": -2.6817
     },
     {
       "block_id": "ccc84570ec8b-158",
@@ -23232,8 +23232,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-16 19:23:59",
-      "longitude": 29.0448,
-      "latitude": -2.6824
+      "longitude": 29.0454,
+      "latitude": -2.6882
     },
     {
       "block_id": "ccc84570ec8b-159",
@@ -23378,8 +23378,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 06:06:19",
-      "longitude": 29.056,
-      "latitude": -2.686
+      "longitude": 29.0482,
+      "latitude": -2.6808
     },
     {
       "block_id": "ccc84570ec8b-160",
@@ -23524,8 +23524,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-14 08:41:49",
-      "longitude": 29.057,
-      "latitude": -2.672
+      "longitude": 29.0541,
+      "latitude": -2.6764
     },
     {
       "block_id": "ccc84570ec8b-161",
@@ -23668,8 +23668,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 10:33:49",
-      "longitude": 29.0136,
-      "latitude": -2.3895
+      "longitude": 29.0324,
+      "latitude": -2.389
     },
     {
       "block_id": "ccc84570ec8b-162",
@@ -23799,8 +23799,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2024-02-07 08:49:02",
-      "longitude": 29.0119,
-      "latitude": -2.3961
+      "longitude": 29.0195,
+      "latitude": -2.3908
     },
     {
       "block_id": "ccc84570ec8b-163",
@@ -23906,8 +23906,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2024-03-01 13:22:42",
-      "longitude": 29.0062,
-      "latitude": -2.424
+      "longitude": 29.0188,
+      "latitude": -2.3873
     },
     {
       "block_id": "ccc84570ec8b-164",
@@ -24051,8 +24051,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-12 12:13:58",
-      "longitude": 29.0158,
-      "latitude": -2.3915
+      "longitude": 29.0149,
+      "latitude": -2.3856
     },
     {
       "block_id": "ccc84570ec8b-165",
@@ -24196,8 +24196,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-12 12:35:59",
-      "longitude": 29.0158,
-      "latitude": -2.4038
+      "longitude": 29.0322,
+      "latitude": -2.3927
     },
     {
       "block_id": "ccc84570ec8b-166",
@@ -24321,8 +24321,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2024-03-01 14:16:17",
-      "longitude": 29.0185,
-      "latitude": -2.3693
+      "longitude": 29.0109,
+      "latitude": -2.3735
     },
     {
       "block_id": "ccc84570ec8b-167",
@@ -24466,8 +24466,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-20 15:31:37",
-      "longitude": 29.0157,
-      "latitude": -2.3698
+      "longitude": 29.0088,
+      "latitude": -2.3868
     },
     {
       "block_id": "ccc84570ec8b-168",
@@ -24611,8 +24611,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-18 10:34:03",
-      "longitude": 29.016,
-      "latitude": -2.3732
+      "longitude": 29.021,
+      "latitude": -2.3676
     },
     {
       "block_id": "ccc84570ec8b-169",
@@ -24755,8 +24755,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-05 09:53:57",
-      "longitude": 29.0234,
-      "latitude": -2.3889
+      "longitude": 29.0228,
+      "latitude": -2.3805
     },
     {
       "block_id": "ccc84570ec8b-170",
@@ -24900,8 +24900,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-15 11:21:07",
-      "longitude": 29.0281,
-      "latitude": -2.3895
+      "longitude": 29.0202,
+      "latitude": -2.3971
     },
     {
       "block_id": "ccc84570ec8b-171",
@@ -25046,8 +25046,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-20 13:36:20",
-      "longitude": 29.0089,
-      "latitude": -2.374
+      "longitude": 29.0188,
+      "latitude": -2.3841
     },
     {
       "block_id": "ccc84570ec8b-172",
@@ -25188,8 +25188,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-27 13:17:39",
-      "longitude": 29.0297,
-      "latitude": -2.3875
+      "longitude": 29.0168,
+      "latitude": -2.3955
     },
     {
       "block_id": "ccc84570ec8b-173",
@@ -25334,8 +25334,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-20 15:07:58",
-      "longitude": 29.008,
-      "latitude": -2.3805
+      "longitude": 29.0171,
+      "latitude": -2.382
     },
     {
       "block_id": "ccc84570ec8b-174",
@@ -25479,8 +25479,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-15 15:43:05",
-      "longitude": 29.0279,
-      "latitude": -2.3761
+      "longitude": 29.0232,
+      "latitude": -2.3793
     },
     {
       "block_id": "ccc84570ec8b-175",
@@ -25625,8 +25625,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-05 12:47:06",
-      "longitude": 29.006,
-      "latitude": -2.3831
+      "longitude": 29.0172,
+      "latitude": -2.395
     },
     {
       "block_id": "ccc84570ec8b-176",
@@ -25771,8 +25771,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-20 17:57:22",
-      "longitude": 29.0125,
-      "latitude": -2.3909
+      "longitude": 29.0221,
+      "latitude": -2.3855
     },
     {
       "block_id": "ccc84570ec8b-177",
@@ -25916,8 +25916,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-12 12:49:54",
-      "longitude": 29.0206,
-      "latitude": -2.3901
+      "longitude": 29.023,
+      "latitude": -2.3948
     },
     {
       "block_id": "ccc84570ec8b-178",
@@ -26062,8 +26062,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-27 10:22:17",
-      "longitude": 29.0095,
-      "latitude": -2.3798
+      "longitude": 29.0146,
+      "latitude": -2.3939
     },
     {
       "block_id": "ccc84570ec8b-179",
@@ -26207,8 +26207,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-15 15:58:45",
-      "longitude": 29.0151,
-      "latitude": -2.3746
+      "longitude": 29.0206,
+      "latitude": -2.371
     },
     {
       "block_id": "ccc84570ec8b-180",
@@ -26350,8 +26350,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-04 09:25:23",
-      "longitude": 29.0214,
-      "latitude": -2.4943
+      "longitude": 29.0358,
+      "latitude": -2.4984
     },
     {
       "block_id": "ccc84570ec8b-181",
@@ -26495,8 +26495,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-01 17:23:35",
-      "longitude": 29.0337,
-      "latitude": -2.4799
+      "longitude": 29.044,
+      "latitude": -2.4903
     },
     {
       "block_id": "ccc84570ec8b-182",
@@ -26600,8 +26600,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2024-02-29 20:05:51",
-      "longitude": 29.0419,
-      "latitude": -2.4874
+      "longitude": 29.0294,
+      "latitude": -2.4857
     },
     {
       "block_id": "ccc84570ec8b-183",
@@ -26706,8 +26706,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2024-02-28 11:59:30",
-      "longitude": 29.026,
-      "latitude": -2.4776
+      "longitude": 29.0252,
+      "latitude": -2.4847
     },
     {
       "block_id": "ccc84570ec8b-184",
@@ -26851,8 +26851,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-01 16:41:34",
-      "longitude": 29.0327,
-      "latitude": -2.4798
+      "longitude": 29.0411,
+      "latitude": -2.4928
     },
     {
       "block_id": "ccc84570ec8b-185",
@@ -26995,8 +26995,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-19 11:16:42",
-      "longitude": 29.023,
-      "latitude": -2.482
+      "longitude": 29.0364,
+      "latitude": -2.4677
     },
     {
       "block_id": "ccc84570ec8b-186",
@@ -27140,8 +27140,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-01 07:56:57",
-      "longitude": 29.0214,
-      "latitude": -2.4746
+      "longitude": 29.0287,
+      "latitude": -2.4714
     },
     {
       "block_id": "ccc84570ec8b-187",
@@ -27245,8 +27245,8 @@
       "socioeconomicsurvey_extensionservice": "Yes",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2024-02-28 14:45:53",
-      "longitude": 29.0754,
-      "latitude": -2.4238
+      "longitude": 29.0367,
+      "latitude": -2.4809
     },
     {
       "block_id": "ccc84570ec8b-188",
@@ -27377,8 +27377,8 @@
       "harvest_whichlost": "A; B; C",
       "harvest_plotlossreason": "Ubujura",
       "harvest_survey_end": "2024-02-28 09:12:50",
-      "longitude": 29.0358,
-      "latitude": -2.4736
+      "longitude": 29.0439,
+      "latitude": -2.4713
     },
     {
       "block_id": "ccc84570ec8b-189",
@@ -27522,8 +27522,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-04 10:05:16",
-      "longitude": 29.0287,
-      "latitude": -2.4868
+      "longitude": 29.0188,
+      "latitude": -2.3728
     },
     {
       "block_id": "ccc84570ec8b-190",
@@ -27667,8 +27667,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-18 09:47:44",
-      "longitude": 29.031,
-      "latitude": -2.4818
+      "longitude": 29.0776,
+      "latitude": -2.4128
     },
     {
       "block_id": "ccc84570ec8b-191",
@@ -27813,8 +27813,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-04 08:14:19",
-      "longitude": 29.0346,
-      "latitude": -2.4938
+      "longitude": 29.0432,
+      "latitude": -2.4832
     },
     {
       "block_id": "ccc84570ec8b-192",
@@ -27959,8 +27959,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "C; A",
       "threshing_survey_end": "2024-04-01 11:35:49",
-      "longitude": 29.0482,
-      "latitude": -2.4853
+      "longitude": 29.027,
+      "latitude": -2.4974
     },
     {
       "block_id": "ccc84570ec8b-193",
@@ -28105,8 +28105,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-21 13:44:47",
-      "longitude": 29.0505,
-      "latitude": -2.4826
+      "longitude": 29.0809,
+      "latitude": -2.4263
     },
     {
       "block_id": "ccc84570ec8b-194",
@@ -28250,8 +28250,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-21 12:15:09",
-      "longitude": 29.0631,
-      "latitude": -2.4868
+      "longitude": 29.0646,
+      "latitude": -2.4892
     },
     {
       "block_id": "ccc84570ec8b-195",
@@ -28392,8 +28392,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-04 08:53:29",
-      "longitude": 29.0361,
-      "latitude": -2.4932
+      "longitude": 29.0383,
+      "latitude": -2.4816
     },
     {
       "block_id": "ccc84570ec8b-196",
@@ -28530,8 +28530,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-11 11:05:25",
-      "longitude": 29.023,
-      "latitude": -2.4902
+      "longitude": 29.0349,
+      "latitude": -2.4845
     },
     {
       "block_id": "ccc84570ec8b-197",
@@ -28676,8 +28676,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-19 16:37:02",
-      "longitude": 29.0416,
-      "latitude": -2.485
+      "longitude": 29.0318,
+      "latitude": -2.4756
     },
     {
       "block_id": "ccc84570ec8b-198",
@@ -28822,8 +28822,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-21 14:27:55",
-      "longitude": 29.0824,
-      "latitude": -2.4191
+      "longitude": 29.0379,
+      "latitude": -2.4961
     },
     {
       "block_id": "ccc84570ec8b-199",
@@ -28967,8 +28967,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-19 14:11:50",
-      "longitude": 29.0339,
-      "latitude": -2.4764
+      "longitude": 29.0411,
+      "latitude": -2.4838
     },
     {
       "block_id": "ccc84570ec8b-200",
@@ -29094,8 +29094,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-22 07:21:51",
-      "longitude": 28.9001,
-      "latitude": -2.5041
+      "longitude": 28.8894,
+      "latitude": -2.5081
     },
     {
       "block_id": "ccc84570ec8b-201",
@@ -29219,8 +29219,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-05 10:19:29",
-      "longitude": 28.8944,
-      "latitude": -2.4982
+      "longitude": 28.8866,
+      "latitude": -2.4929
     },
     {
       "block_id": "ccc84570ec8b-202",
@@ -29343,8 +29343,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-21 16:55:07",
-      "longitude": 28.874,
-      "latitude": -2.5141
+      "longitude": 28.8742,
+      "latitude": -2.5071
     },
     {
       "block_id": "ccc84570ec8b-203",
@@ -29469,8 +29469,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-09 12:47:34",
-      "longitude": 28.8903,
-      "latitude": -2.5066
+      "longitude": 28.8934,
+      "latitude": -2.5159
     },
     {
       "block_id": "ccc84570ec8b-204",
@@ -29594,8 +29594,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-19 09:51:53",
-      "longitude": 28.8888,
-      "latitude": -2.4923
+      "longitude": 28.8932,
+      "latitude": -2.4988
     },
     {
       "block_id": "ccc84570ec8b-205",
@@ -29720,8 +29720,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-16 18:20:11",
-      "longitude": 28.8838,
-      "latitude": -2.4946
+      "longitude": 28.8928,
+      "latitude": -2.5066
     },
     {
       "block_id": "ccc84570ec8b-206",
@@ -29845,8 +29845,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-18 07:51:16",
-      "longitude": 28.8745,
-      "latitude": -2.5075
+      "longitude": 28.8891,
+      "latitude": -2.4992
     },
     {
       "block_id": "ccc84570ec8b-207",
@@ -29969,8 +29969,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-05 13:09:26",
-      "longitude": 28.889,
-      "latitude": -2.5035
+      "longitude": 28.899,
+      "latitude": -2.5095
     },
     {
       "block_id": "ccc84570ec8b-208",
@@ -30100,8 +30100,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-02-29 15:22:36",
-      "longitude": 28.891,
-      "latitude": -2.5066
+      "longitude": 28.8851,
+      "latitude": -2.5086
     },
     {
       "block_id": "ccc84570ec8b-209",
@@ -30225,8 +30225,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-29 10:24:53",
-      "longitude": 28.8896,
-      "latitude": -2.5151
+      "longitude": 28.8905,
+      "latitude": -2.5133
     },
     {
       "block_id": "ccc84570ec8b-210",
@@ -30350,8 +30350,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-23 16:21:55",
-      "longitude": 28.8877,
-      "latitude": -2.5054
+      "longitude": 28.9054,
+      "latitude": -2.5063
     },
     {
       "block_id": "ccc84570ec8b-211",
@@ -30476,8 +30476,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-18 10:17:37",
-      "longitude": 28.8938,
-      "latitude": -2.5184
+      "longitude": 28.8836,
+      "latitude": -2.5209
     },
     {
       "block_id": "ccc84570ec8b-212",
@@ -30603,8 +30603,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-17 17:05:41",
-      "longitude": 28.8723,
-      "latitude": -2.5191
+      "longitude": 28.8876,
+      "latitude": -2.5102
     },
     {
       "block_id": "ccc84570ec8b-213",
@@ -30729,8 +30729,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-18 08:30:39",
-      "longitude": 28.9017,
-      "latitude": -2.508
+      "longitude": 28.8899,
+      "latitude": -2.5147
     },
     {
       "block_id": "ccc84570ec8b-214",
@@ -30842,8 +30842,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2024-02-29 15:49:55",
-      "longitude": 28.8874,
-      "latitude": -2.4882
+      "longitude": 28.8905,
+      "latitude": -2.499
     },
     {
       "block_id": "ccc84570ec8b-215",
@@ -30969,8 +30969,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-06 16:39:01",
-      "longitude": 28.8849,
-      "latitude": -2.5014
+      "longitude": 28.8976,
+      "latitude": -2.5126
     },
     {
       "block_id": "ccc84570ec8b-216",
@@ -31095,8 +31095,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "None",
       "threshing_survey_end": "2024-04-09 14:34:56",
-      "longitude": 28.8853,
-      "latitude": -2.4992
+      "longitude": 28.9054,
+      "latitude": -2.5003
     },
     {
       "block_id": "ccc84570ec8b-217",
@@ -31223,8 +31223,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-06 08:15:32",
-      "longitude": 28.8923,
-      "latitude": -2.5015
+      "longitude": 28.8981,
+      "latitude": -2.4918
     },
     {
       "block_id": "ccc84570ec8b-218",
@@ -31351,8 +31351,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-16 11:57:42",
-      "longitude": 28.8886,
-      "latitude": -2.4983
+      "longitude": 28.8919,
+      "latitude": -2.4892
     },
     {
       "block_id": "ccc84570ec8b-219",
@@ -31474,8 +31474,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-22 13:17:11",
-      "longitude": 29.3725,
-      "latitude": -2.0243
+      "longitude": 29.397,
+      "latitude": -2.0025
     },
     {
       "block_id": "ccc84570ec8b-220",
@@ -31597,8 +31597,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-22 08:51:24",
-      "longitude": 29.3781,
-      "latitude": -2.0248
+      "longitude": 29.3859,
+      "latitude": -2.0123
     },
     {
       "block_id": "ccc84570ec8b-221",
@@ -31720,8 +31720,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-26 15:35:02",
-      "longitude": 29.3707,
-      "latitude": -2.0058
+      "longitude": 29.3937,
+      "latitude": -2.009
     },
     {
       "block_id": "ccc84570ec8b-222",
@@ -31842,8 +31842,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-03-22 09:01:55",
-      "longitude": 29.3762,
-      "latitude": -2.0138
+      "longitude": 29.3796,
+      "latitude": -2.0068
     },
     {
       "block_id": "ccc84570ec8b-223",
@@ -31950,8 +31950,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2024-03-26 14:11:48",
-      "longitude": 29.3773,
-      "latitude": -2.004
+      "longitude": 29.3737,
+      "latitude": -2
     },
     {
       "block_id": "ccc84570ec8b-224",
@@ -32072,8 +32072,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-26 11:40:49",
-      "longitude": 29.3614,
-      "latitude": -2.022
+      "longitude": 29.3791,
+      "latitude": -2.0253
     },
     {
       "block_id": "ccc84570ec8b-225",
@@ -32194,8 +32194,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-26 11:50:07",
-      "longitude": 29.3647,
-      "latitude": -2.0211
+      "longitude": 29.3763,
+      "latitude": -2.0308
     },
     {
       "block_id": "ccc84570ec8b-226",
@@ -32316,8 +32316,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-22 15:30:56",
-      "longitude": 29.3804,
-      "latitude": -1.9901
+      "longitude": 29.3668,
+      "latitude": -2.0214
     },
     {
       "block_id": "ccc84570ec8b-227",
@@ -32438,8 +32438,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-04-05 10:05:35",
-      "longitude": 29.3718,
-      "latitude": -2.0205
+      "longitude": 29.3668,
+      "latitude": -2.0083
     },
     {
       "block_id": "ccc84570ec8b-228",
@@ -32560,8 +32560,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-22 13:51:30",
-      "longitude": 29.3761,
-      "latitude": -1.9977
+      "longitude": 29.3804,
+      "latitude": -2.0241
     },
     {
       "block_id": "ccc84570ec8b-229",
@@ -32683,8 +32683,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-04-05 11:57:51",
-      "longitude": 29.3848,
-      "latitude": -2.004
+      "longitude": 29.374,
+      "latitude": -1.9946
     },
     {
       "block_id": "ccc84570ec8b-230",
@@ -32770,8 +32770,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2024-03-22 13:46:57",
-      "longitude": 29.3881,
-      "latitude": -2.0162
+      "longitude": 29.3709,
+      "latitude": -1.9998
     },
     {
       "block_id": "ccc84570ec8b-231",
@@ -32892,8 +32892,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-26 10:32:06",
-      "longitude": 29.3642,
-      "latitude": -2.0089
+      "longitude": 29.3766,
+      "latitude": -2.0206
     },
     {
       "block_id": "ccc84570ec8b-232",
@@ -33014,8 +33014,8 @@
       "threshing_item_C_vs_local": "Worse",
       "threshing_grownexttricot": "B",
       "threshing_survey_end": "2024-04-05 08:19:13",
-      "longitude": 29.3671,
-      "latitude": -2.025
+      "longitude": 29.359,
+      "latitude": -2.0104
     },
     {
       "block_id": "ccc84570ec8b-233",
@@ -33136,8 +33136,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "A",
       "threshing_survey_end": "2024-03-22 14:38:48",
-      "longitude": 29.3883,
-      "latitude": -2.015
+      "longitude": 29.3803,
+      "latitude": -2.0073
     },
     {
       "block_id": "ccc84570ec8b-234",
@@ -33258,8 +33258,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-22 09:45:46",
-      "longitude": 29.3826,
-      "latitude": -2.0316
+      "longitude": 29.3679,
+      "latitude": -2.0199
     },
     {
       "block_id": "ccc84570ec8b-235",
@@ -33380,8 +33380,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-26 13:52:08",
-      "longitude": 29.3902,
-      "latitude": -2.017
+      "longitude": 29.3821,
+      "latitude": -2.0023
     },
     {
       "block_id": "ccc84570ec8b-236",
@@ -33482,8 +33482,8 @@
       "socioeconomicsurvey_extensionservice": "No",
       "socioeconomicsurvey_extensionserviceprivate": "Yes",
       "socioeconomicsurvey_survey_end": "2024-01-05 10:41:16",
-      "longitude": 29.373,
-      "latitude": -2.0192
+      "longitude": 29.3764,
+      "latitude": -2.0178
     },
     {
       "block_id": "ccc84570ec8b-237",
@@ -33604,8 +33604,8 @@
       "threshing_item_C_vs_local": "Better",
       "threshing_grownexttricot": "C",
       "threshing_survey_end": "2024-03-26 11:42:07",
-      "longitude": 29.3888,
-      "latitude": -2.017
+      "longitude": 29.3761,
+      "latitude": -2.0251
     },
     {
       "block_id": "ccc84570ec8b-238",
@@ -33712,8 +33712,8 @@
       "harvest_whichlost": "None",
       "harvest_plotlossreason": "Ok",
       "harvest_survey_end": "2024-03-22 12:47:58",
-      "longitude": 29.3855,
-      "latitude": -2.0101
+      "longitude": 29.3677,
+      "latitude": -2.0047
     }
   ],
   "plot_data": [

@@ -1,11 +1,11 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-08",
+      "version": "v2025-11-14",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
-        "package_version": "1.7"
+        "package_version": "1.8"
       }
     },
     "identifier": "https://doi.org/10.5281/zenodo.17112492",
@@ -175,20 +175,6 @@
         "description": "End of survey",
         "ontology_id": "No information provided",
         "value_type": "datetime",
-        "controlled_vocabulary": "No information provided"
-      },
-      {
-        "variable_name": "registration_biogps_elevation",
-        "description": "GPS Point Elevation",
-        "ontology_id": "No information provided",
-        "value_type": "decimal",
-        "controlled_vocabulary": "No information provided"
-      },
-      {
-        "variable_name": "registration_biogps_gps_precision",
-        "description": "GPS Point Precision",
-        "ontology_id": "No information provided",
-        "value_type": "decimal",
         "controlled_vocabulary": "No information provided"
       },
       {
@@ -542,8 +528,6 @@
       "registration_submitted_date": "2021-10-08 07:37:17",
       "registration_survey_start": "2021-10-05 16:19:49",
       "registration_survey_end": "2021-10-08 15:36:28",
-      "registration_biogps_elevation": 1516.5434,
-      "registration_biogps_gps_precision": 4.801,
       "vegetative145days_submitted_date": "2021-12-02 06:51:05",
       "vegetative145days_survey_start": "2021-12-02 14:49:44",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -574,16 +558,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-28 17:37:42",
-      "longitude": 30.5145,
-      "latitude": -2.0625
+      "longitude": 30.5075,
+      "latitude": -2.0636
     },
     {
       "block_id": "3c94d78b016d-2",
       "registration_submitted_date": "2021-10-08 07:37:44",
       "registration_survey_start": "2021-10-08 15:14:30",
       "registration_survey_end": "2021-10-08 15:35:15",
-      "registration_biogps_elevation": 1517.6911,
-      "registration_biogps_gps_precision": 4.744,
       "vegetative145days_submitted_date": "2021-11-29 00:03:12",
       "vegetative145days_survey_start": "2021-11-29 08:02:12",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -615,16 +597,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-12 11:55:30",
-      "longitude": 30.4956,
-      "latitude": -2.0691
+      "longitude": 30.5122,
+      "latitude": -2.0688
     },
     {
       "block_id": "3c94d78b016d-3",
       "registration_submitted_date": "2021-10-08 07:37:20",
       "registration_survey_start": "2021-10-08 15:15:22",
       "registration_survey_end": "2021-10-08 15:33:35",
-      "registration_biogps_elevation": 1521.0194,
-      "registration_biogps_gps_precision": 3.977,
       "vegetative145days_submitted_date": "2021-12-05 22:39:28",
       "vegetative145days_survey_start": "2021-12-06 06:38:09",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -656,16 +636,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-12 17:21:57",
-      "longitude": 30.5086,
-      "latitude": -2.0654
+      "longitude": 30.5074,
+      "latitude": -2.0618
     },
     {
       "block_id": "3c94d78b016d-4",
       "registration_submitted_date": "2021-10-08 07:37:20",
       "registration_survey_start": "2021-10-08 15:16:58",
       "registration_survey_end": "2021-10-08 15:35:03",
-      "registration_biogps_elevation": 1521.0194,
-      "registration_biogps_gps_precision": 3.997,
       "vegetative145days_submitted_date": "2021-11-29 03:32:59",
       "vegetative145days_survey_start": "2021-11-29 11:31:36",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -697,16 +675,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-10 08:16:45",
-      "longitude": 30.5047,
-      "latitude": -2.0639
+      "longitude": 30.4956,
+      "latitude": -2.0642
     },
     {
       "block_id": "3c94d78b016d-5",
       "registration_submitted_date": "2021-10-08 07:37:21",
       "registration_survey_start": "2021-10-08 15:18:11",
       "registration_survey_end": "2021-10-08 15:35:48",
-      "registration_biogps_elevation": 1520.4943,
-      "registration_biogps_gps_precision": 4.63,
       "vegetative145days_submitted_date": "2021-12-01 23:13:28",
       "vegetative145days_survey_start": "2021-12-02 07:10:56",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -736,16 +712,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-05-05 16:19:59",
-      "longitude": 30.5181,
-      "latitude": -2.0673
+      "longitude": 30.4941,
+      "latitude": -2.0688
     },
     {
       "block_id": "3c94d78b016d-6",
       "registration_submitted_date": "2021-10-08 07:37:21",
       "registration_survey_start": "2021-10-08 15:19:28",
       "registration_survey_end": "2021-10-08 15:20:17",
-      "registration_biogps_elevation": 1519.5113,
-      "registration_biogps_gps_precision": 4.288,
       "vegetative145days_submitted_date": "2021-11-26 04:49:18",
       "vegetative145days_survey_start": "2021-11-26 12:44:02",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -776,16 +750,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 15:25:45",
-      "longitude": 30.5198,
-      "latitude": -2.0692
+      "longitude": 30.4999,
+      "latitude": -2.0585
     },
     {
       "block_id": "3c94d78b016d-7",
       "registration_submitted_date": "2021-10-08 07:37:22",
       "registration_survey_start": "2021-10-08 15:20:21",
       "registration_survey_end": "2021-10-08 15:34:04",
-      "registration_biogps_elevation": 1520.0818,
-      "registration_biogps_gps_precision": 4.99,
       "vegetative145days_submitted_date": "2021-11-25 08:24:58",
       "vegetative145days_survey_start": "2021-11-25 16:23:07",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -817,16 +789,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-05-05 17:06:50",
-      "longitude": 30.5117,
-      "latitude": -2.0757
+      "longitude": 30.4965,
+      "latitude": -2.0628
     },
     {
       "block_id": "3c94d78b016d-8",
       "registration_submitted_date": "2021-10-08 07:37:23",
       "registration_survey_start": "2021-10-08 15:21:10",
       "registration_survey_end": "2021-10-08 15:35:59",
-      "registration_biogps_elevation": 1519.4236,
-      "registration_biogps_gps_precision": 4.288,
       "vegetative145days_submitted_date": "2021-11-29 00:27:17",
       "vegetative145days_survey_start": "2021-11-29 08:25:34",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -858,16 +828,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-12 13:22:31",
-      "longitude": 30.5023,
-      "latitude": -2.0621
+      "longitude": 30.4976,
+      "latitude": -2.0758
     },
     {
       "block_id": "3c94d78b016d-9",
       "registration_submitted_date": "2021-10-08 07:37:23",
       "registration_survey_start": "2021-10-08 15:21:53",
       "registration_survey_end": "2021-10-08 15:33:13",
-      "registration_biogps_elevation": 1518.3521,
-      "registration_biogps_gps_precision": 4.561,
       "vegetative145days_submitted_date": "2021-11-26 08:25:54",
       "vegetative145days_survey_start": "2021-11-26 15:57:15",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -898,16 +866,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 17:18:58",
-      "longitude": 30.5026,
-      "latitude": -2.0718
+      "longitude": 30.5119,
+      "latitude": -2.0573
     },
     {
       "block_id": "3c94d78b016d-10",
       "registration_submitted_date": "2021-10-08 07:37:24",
       "registration_survey_start": "2021-10-08 15:23:25",
       "registration_survey_end": "2021-10-08 15:33:54",
-      "registration_biogps_elevation": 1518.3626,
-      "registration_biogps_gps_precision": 4.288,
       "vegetative145days_submitted_date": "2021-12-02 08:10:43",
       "vegetative145days_survey_start": "2021-12-02 16:09:45",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -939,16 +905,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 18:00:15",
-      "longitude": 30.5122,
-      "latitude": -2.0767
+      "longitude": 30.5106,
+      "latitude": -2.0793
     },
     {
       "block_id": "3c94d78b016d-11",
       "registration_submitted_date": "2021-10-08 07:37:26",
       "registration_survey_start": "2021-10-08 15:24:34",
       "registration_survey_end": "2021-10-08 15:33:25",
-      "registration_biogps_elevation": 1520.4337,
-      "registration_biogps_gps_precision": 4.63,
       "vegetative145days_submitted_date": "2021-11-29 02:52:08",
       "vegetative145days_survey_start": "2021-11-29 10:49:38",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -980,16 +944,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 18:28:48",
-      "longitude": 30.5127,
-      "latitude": -2.0612
+      "longitude": 30.5167,
+      "latitude": -2.0675
     },
     {
       "block_id": "3c94d78b016d-12",
       "registration_submitted_date": "2021-10-08 07:37:26",
       "registration_survey_start": "2021-10-08 15:25:48",
       "registration_survey_end": "2021-10-08 15:34:44",
-      "registration_biogps_elevation": 1526.1439,
-      "registration_biogps_gps_precision": 4.744,
       "vegetative145days_submitted_date": "2021-12-02 01:04:45",
       "vegetative145days_survey_start": "2021-12-02 09:03:53",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1020,16 +982,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-13 08:04:05",
-      "longitude": 30.5136,
-      "latitude": -2.0671
+      "longitude": 30.5086,
+      "latitude": -2.0729
     },
     {
       "block_id": "3c94d78b016d-13",
       "registration_submitted_date": "2021-10-08 07:37:27",
       "registration_survey_start": "2021-10-08 15:26:34",
       "registration_survey_end": "2021-10-08 15:34:14",
-      "registration_biogps_elevation": 1523.3865,
-      "registration_biogps_gps_precision": 4.995,
       "vegetative145days_submitted_date": "2021-11-29 01:54:05",
       "vegetative145days_survey_start": "2021-11-29 09:52:32",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1060,16 +1020,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-28 14:40:10",
-      "longitude": 30.5144,
-      "latitude": -2.0678
+      "longitude": 30.5072,
+      "latitude": -2.0599
     },
     {
       "block_id": "3c94d78b016d-14",
       "registration_submitted_date": "2021-10-08 07:37:28",
       "registration_survey_start": "2021-10-08 15:27:19",
       "registration_survey_end": "2021-10-08 15:35:38",
-      "registration_biogps_elevation": 1520.2783,
-      "registration_biogps_gps_precision": 4.987,
       "vegetative145days_submitted_date": "2021-11-25 22:47:20",
       "vegetative145days_survey_start": "2021-11-26 06:44:07",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1100,16 +1058,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-11 14:16:15",
-      "longitude": 30.5008,
-      "latitude": -2.0725
+      "longitude": 30.4992,
+      "latitude": -2.0563
     },
     {
       "block_id": "3c94d78b016d-15",
       "registration_submitted_date": "2021-10-08 07:37:28",
       "registration_survey_start": "2021-10-08 15:28:00",
       "registration_survey_end": "2021-10-08 15:34:53",
-      "registration_biogps_elevation": 1517.6737,
-      "registration_biogps_gps_precision": 4.288,
       "vegetative145days_submitted_date": "2021-11-30 23:36:19",
       "vegetative145days_survey_start": "2021-12-01 07:34:19",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1142,16 +1098,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-13 06:25:36",
-      "longitude": 30.518,
-      "latitude": -2.0678
+      "longitude": 30.509,
+      "latitude": -2.0618
     },
     {
       "block_id": "3c94d78b016d-16",
       "registration_submitted_date": "2021-10-08 07:37:29",
       "registration_survey_start": "2021-10-08 15:29:03",
       "registration_survey_end": "2021-10-08 15:34:33",
-      "registration_biogps_elevation": 1520.963,
-      "registration_biogps_gps_precision": 4.912,
       "vegetative145days_submitted_date": "2021-11-26 02:27:40",
       "vegetative145days_survey_start": "2021-11-26 08:54:10",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1182,16 +1136,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-12 18:38:58",
-      "longitude": 30.5094,
-      "latitude": -2.0682
+      "longitude": 30.5141,
+      "latitude": -2.0573
     },
     {
       "block_id": "3c94d78b016d-17",
       "registration_submitted_date": "2021-10-08 07:37:29",
       "registration_survey_start": "2021-10-08 15:29:56",
       "registration_survey_end": "2021-10-08 15:35:27",
-      "registration_biogps_elevation": 1520.6307,
-      "registration_biogps_gps_precision": 4.63,
       "vegetative145days_submitted_date": "2021-11-25 23:18:35",
       "vegetative145days_survey_start": "2021-11-26 07:13:08",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1224,16 +1176,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-23 10:41:21",
-      "longitude": 30.5162,
-      "latitude": -2.0558
+      "longitude": 30.5026,
+      "latitude": -2.055
     },
     {
       "block_id": "3c94d78b016d-18",
       "registration_submitted_date": "2021-10-08 07:37:31",
       "registration_survey_start": "2021-10-08 15:31:13",
       "registration_survey_end": "2021-10-08 15:34:24",
-      "registration_biogps_elevation": 1523.2911,
-      "registration_biogps_gps_precision": 4.873,
       "vegetative145days_submitted_date": "2021-11-29 03:21:09",
       "vegetative145days_survey_start": "2021-11-29 11:18:53",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1265,16 +1215,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-10 07:56:50",
-      "longitude": 30.5111,
-      "latitude": -2.0599
+      "longitude": 30.5103,
+      "latitude": -2.0606
     },
     {
       "block_id": "3c94d78b016d-19",
       "registration_submitted_date": "2021-10-08 08:44:11",
       "registration_survey_start": "2021-10-08 16:41:39",
       "registration_survey_end": "2021-10-08 16:43:57",
-      "registration_biogps_elevation": 1515.5577,
-      "registration_biogps_gps_precision": 4.824,
       "vegetative145days_submitted_date": "2021-12-02 02:50:47",
       "vegetative145days_survey_start": "2021-12-02 10:48:45",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1307,16 +1255,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 16:01:24",
-      "longitude": 30.5021,
-      "latitude": -2.0568
+      "longitude": 30.4997,
+      "latitude": -2.0753
     },
     {
       "block_id": "3c94d78b016d-20",
       "registration_submitted_date": "2021-10-11 06:03:12",
       "registration_survey_start": "2021-10-11 14:01:26",
       "registration_survey_end": "2021-10-11 14:02:59",
-      "registration_biogps_elevation": 1525.3564,
-      "registration_biogps_gps_precision": 4.879,
       "vegetative145days_submitted_date": "2021-12-02 07:42:04",
       "vegetative145days_survey_start": "2021-12-02 15:39:49",
       "vegetative145days_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -1348,16 +1294,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 18:46:11",
-      "longitude": 30.5105,
-      "latitude": -2.0769
+      "longitude": 30.5009,
+      "latitude": -2.0767
     },
     {
       "block_id": "3c94d78b016d-21",
       "registration_submitted_date": "2021-10-08 04:37:59",
       "registration_survey_start": "2021-10-08 11:39:44",
       "registration_survey_end": "2021-10-08 11:41:11",
-      "registration_biogps_elevation": 1476.3774,
-      "registration_biogps_gps_precision": 4.873,
       "vegetative145days_submitted_date": "2021-11-26 13:39:56",
       "vegetative145days_survey_start": "2021-11-26 13:40:23",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1392,16 +1336,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-12 18:19:51",
-      "longitude": 30.2895,
-      "latitude": -1.6318
+      "longitude": 30.2955,
+      "latitude": -1.6338
     },
     {
       "block_id": "3c94d78b016d-22",
       "registration_submitted_date": "2021-10-08 04:37:59",
       "registration_survey_start": "2021-10-08 11:41:45",
       "registration_survey_end": "2021-10-08 12:36:09",
-      "registration_biogps_elevation": 1476.0894,
-      "registration_biogps_gps_precision": 4.858,
       "vegetative145days_submitted_date": "2021-12-27 12:31:31",
       "vegetative145days_survey_start": "2021-12-27 17:18:05",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1435,16 +1377,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-12 18:16:18",
-      "longitude": 30.3077,
-      "latitude": -1.6341
+      "longitude": 30.3055,
+      "latitude": -1.6347
     },
     {
       "block_id": "3c94d78b016d-23",
       "registration_submitted_date": "2021-10-08 04:38:00",
       "registration_survey_start": "2021-10-08 11:43:13",
       "registration_survey_end": "2021-10-08 11:43:56",
-      "registration_biogps_elevation": 1478.1978,
-      "registration_biogps_gps_precision": 3.9,
       "vegetative145days_submitted_date": "2021-11-25 10:21:38",
       "vegetative145days_survey_start": "2021-11-24 13:50:47",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1478,16 +1418,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-10 19:48:59",
-      "longitude": 30.3116,
-      "latitude": -1.6435
+      "longitude": 30.3043,
+      "latitude": -1.6529
     },
     {
       "block_id": "3c94d78b016d-24",
       "registration_submitted_date": "2021-10-08 04:38:02",
       "registration_survey_start": "2021-10-08 11:44:13",
       "registration_survey_end": "2021-10-08 11:45:52",
-      "registration_biogps_elevation": 1469.3549,
-      "registration_biogps_gps_precision": 4.288,
       "vegetative145days_submitted_date": "2021-12-01 01:34:27",
       "vegetative145days_survey_start": "2021-12-01 09:33:41",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1521,16 +1459,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-12 18:29:21",
-      "longitude": 30.3089,
-      "latitude": -1.6512
+      "longitude": 30.3037,
+      "latitude": -1.6395
     },
     {
       "block_id": "3c94d78b016d-25",
       "registration_submitted_date": "2021-10-08 04:38:02",
       "registration_survey_start": "2021-10-08 11:45:57",
       "registration_survey_end": "2021-10-08 11:47:39",
-      "registration_biogps_elevation": 1477.5707,
-      "registration_biogps_gps_precision": 4.533,
       "vegetative145days_submitted_date": "2021-11-25 10:21:38",
       "vegetative145days_survey_start": "2021-11-24 12:27:34",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1564,16 +1500,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 14:03:04",
-      "longitude": 30.2991,
-      "latitude": -1.6286
+      "longitude": 30.2927,
+      "latitude": -1.6331
     },
     {
       "block_id": "3c94d78b016d-26",
       "registration_submitted_date": "2021-10-08 04:38:03",
       "registration_survey_start": "2021-10-08 11:47:56",
       "registration_survey_end": "2021-10-08 11:48:29",
-      "registration_biogps_elevation": 1478.8591,
-      "registration_biogps_gps_precision": 4.63,
       "vegetative145days_submitted_date": "2021-11-28 14:14:48",
       "vegetative145days_survey_start": "2021-11-28 22:13:11",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1607,7 +1541,7 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-05-06 13:20:24",
-      "longitude": 30.2974,
+      "longitude": 30.2906,
       "latitude": -1.6406
     },
     {
@@ -1615,8 +1549,6 @@
       "registration_submitted_date": "2021-10-08 04:38:04",
       "registration_survey_start": "2021-10-08 11:48:33",
       "registration_survey_end": "2021-10-08 11:49:28",
-      "registration_biogps_elevation": 1477.7892,
-      "registration_biogps_gps_precision": 3.977,
       "vegetative145days_submitted_date": "2021-11-28 14:14:48",
       "vegetative145days_survey_start": "2021-11-28 22:10:19",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1650,16 +1582,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-05-06 12:29:22",
-      "longitude": 30.2912,
-      "latitude": -1.6332
+      "longitude": 30.3077,
+      "latitude": -1.6476
     },
     {
       "block_id": "3c94d78b016d-28",
       "registration_submitted_date": "2021-10-08 04:38:04",
       "registration_survey_start": "2021-10-08 11:49:46",
       "registration_survey_end": "2021-10-08 11:50:31",
-      "registration_biogps_elevation": 1480.3001,
-      "registration_biogps_gps_precision": 3.9,
       "vegetative145days_submitted_date": "2021-11-25 13:16:39",
       "vegetative145days_survey_start": "2021-11-25 20:58:51",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1693,8 +1623,8 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-28 12:34:35",
-      "longitude": 30.2853,
-      "latitude": -1.6401
+      "longitude": 30.299,
+      "latitude": -1.6545
     },
     {
       "block_id": "3c94d78b016d-29",
@@ -1779,8 +1709,6 @@
       "registration_submitted_date": "2021-10-08 04:38:07",
       "registration_survey_start": "2021-10-08 11:52:44",
       "registration_survey_end": "2021-10-08 11:54:05",
-      "registration_biogps_elevation": 1474.125,
-      "registration_biogps_gps_precision": 4.269,
       "vegetative145days_submitted_date": "2021-11-26 02:21:50",
       "vegetative145days_survey_start": "2021-11-26 10:09:19",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1814,8 +1742,8 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-05-06 11:12:40",
-      "longitude": 30.2924,
-      "latitude": -1.6444
+      "longitude": 30.2951,
+      "latitude": -1.6342
     },
     {
       "block_id": "3c94d78b016d-32",
@@ -1861,8 +1789,6 @@
       "registration_submitted_date": "2021-10-08 04:38:09",
       "registration_survey_start": "2021-10-08 11:55:06",
       "registration_survey_end": "2021-10-08 11:55:46",
-      "registration_biogps_elevation": 1477.0922,
-      "registration_biogps_gps_precision": 4.484,
       "vegetative145days_submitted_date": "2021-12-01 01:25:12",
       "vegetative145days_survey_start": "2021-12-01 09:24:30",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1896,16 +1822,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-05-06 14:22:17",
-      "longitude": 30.2927,
-      "latitude": -1.6328
+      "longitude": 30.3004,
+      "latitude": -1.6536
     },
     {
       "block_id": "3c94d78b016d-34",
       "registration_submitted_date": "2021-10-08 04:38:11",
       "registration_survey_start": "2021-10-08 11:56:02",
       "registration_survey_end": "2021-10-08 11:56:43",
-      "registration_biogps_elevation": 1477.7003,
-      "registration_biogps_gps_precision": 4.873,
       "vegetative145days_submitted_date": "2021-11-26 13:39:56",
       "vegetative145days_survey_start": "2021-11-26 14:15:09",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1939,16 +1863,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-05-06 15:35:28",
-      "longitude": 30.2956,
-      "latitude": -1.6477
+      "longitude": 30.2893,
+      "latitude": -1.637
     },
     {
       "block_id": "3c94d78b016d-35",
       "registration_submitted_date": "2021-10-08 04:38:11",
       "registration_survey_start": "2021-10-08 11:57:02",
       "registration_survey_end": "2021-10-08 11:57:46",
-      "registration_biogps_elevation": 1480.0285,
-      "registration_biogps_gps_precision": 4.912,
       "vegetative145days_submitted_date": "2021-12-01 01:55:07",
       "vegetative145days_survey_start": "2021-12-01 09:54:07",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1982,16 +1904,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-05-09 10:01:40",
-      "longitude": 30.296,
-      "latitude": -1.6336
+      "longitude": 30.3035,
+      "latitude": -1.637
     },
     {
       "block_id": "3c94d78b016d-36",
       "registration_submitted_date": "2021-10-08 04:38:12",
       "registration_survey_start": "2021-10-08 11:58:17",
       "registration_survey_end": "2021-10-08 12:36:59",
-      "registration_biogps_elevation": 1474.1977,
-      "registration_biogps_gps_precision": 4.995,
       "vegetative145days_submitted_date": "2021-11-30 00:16:10",
       "vegetative145days_survey_start": "2021-11-29 08:25:08",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2024,16 +1944,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-10 20:03:13",
-      "longitude": 30.2958,
-      "latitude": -1.6313
+      "longitude": 30.3007,
+      "latitude": -1.6328
     },
     {
       "block_id": "3c94d78b016d-37",
       "registration_submitted_date": "2021-10-08 07:11:03",
       "registration_survey_start": "2021-10-08 13:57:03",
       "registration_survey_end": "2021-10-08 13:58:35",
-      "registration_biogps_elevation": 1495.0827,
-      "registration_biogps_gps_precision": 4.502,
       "vegetative145days_submitted_date": "2021-12-05 13:27:15",
       "vegetative145days_survey_start": "2021-12-05 21:25:00",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2067,16 +1985,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-08 15:39:08",
-      "longitude": 30.2943,
-      "latitude": -1.6439
+      "longitude": 30.3097,
+      "latitude": -1.6491
     },
     {
       "block_id": "3c94d78b016d-38",
       "registration_submitted_date": "2021-10-08 07:11:04",
       "registration_survey_start": "2021-10-08 14:12:54",
       "registration_survey_end": "2021-10-08 14:14:12",
-      "registration_biogps_elevation": 1495.2227,
-      "registration_biogps_gps_precision": 4.029,
       "vegetative145days_submitted_date": "2021-12-05 13:28:33",
       "vegetative145days_survey_start": "2021-12-05 21:27:29",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2087,16 +2003,14 @@
       "vegetative275days_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "vegetative275days_trialsuccess_oth": "Yes",
       "vegetative275days_survey_end": "2021-12-31 22:13:28",
-      "longitude": 30.3006,
-      "latitude": -1.6555
+      "longitude": 30.3091,
+      "latitude": -1.6509
     },
     {
       "block_id": "3c94d78b016d-39",
       "registration_submitted_date": "2021-10-08 07:11:05",
       "registration_survey_start": "2021-10-08 15:07:10",
       "registration_survey_end": "2021-10-08 15:07:59",
-      "registration_biogps_elevation": 1452.8961,
-      "registration_biogps_gps_precision": 4.898,
       "vegetative145days_submitted_date": "2021-12-19 14:53:09",
       "vegetative145days_survey_start": "2021-12-19 22:29:44",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2130,16 +2044,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-05-05 18:35:58",
-      "longitude": 30.3144,
-      "latitude": -1.6447
+      "longitude": 30.3081,
+      "latitude": -1.6538
     },
     {
       "block_id": "3c94d78b016d-40",
       "registration_submitted_date": "2021-10-08 07:11:06",
       "registration_survey_start": "2021-10-08 15:08:56",
       "registration_survey_end": "2021-10-08 15:10:18",
-      "registration_biogps_elevation": 1457.3875,
-      "registration_biogps_gps_precision": 4.192,
       "vegetative145days_submitted_date": "2021-12-01 04:35:06",
       "vegetative145days_survey_start": "2021-12-01 12:24:26",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2173,16 +2085,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 08:59:56",
-      "longitude": 30.3066,
-      "latitude": -1.6435
+      "longitude": 30.2942,
+      "latitude": -1.657
     },
     {
       "block_id": "3c94d78b016d-41",
       "registration_submitted_date": "2021-10-10 13:57:49",
       "registration_survey_start": "2021-10-08 11:23:30",
       "registration_survey_end": "2021-10-08 11:24:43",
-      "registration_biogps_elevation": 1493.1232,
-      "registration_biogps_gps_precision": 4.561,
       "vegetative145days_submitted_date": "2021-11-29 06:08:16",
       "vegetative145days_survey_start": "2021-11-26 17:17:15",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2210,16 +2120,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-28 08:48:14",
-      "longitude": 30.4737,
-      "latitude": -1.8254
+      "longitude": 30.4666,
+      "latitude": -1.8313
     },
     {
       "block_id": "3c94d78b016d-42",
       "registration_submitted_date": "2021-10-10 13:57:49",
       "registration_survey_start": "2021-10-08 11:20:25",
       "registration_survey_end": "2021-10-08 11:23:26",
-      "registration_biogps_elevation": 1487.6999,
-      "registration_biogps_gps_precision": 4.931,
       "vegetative145days_submitted_date": "2021-11-26 00:55:03",
       "vegetative145days_survey_start": "2021-11-25 15:15:15",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2249,16 +2157,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-28 11:30:35",
-      "longitude": 30.4549,
-      "latitude": -1.8413
+      "longitude": 30.46,
+      "latitude": -1.8388
     },
     {
       "block_id": "3c94d78b016d-43",
       "registration_submitted_date": "2021-10-17 13:56:33",
       "registration_survey_start": "2021-10-15 17:01:40",
       "registration_survey_end": "2021-10-15 17:02:42",
-      "registration_biogps_elevation": 1498.6797,
-      "registration_biogps_gps_precision": 4.21,
       "vegetative145days_submitted_date": "2021-12-01 13:24:10",
       "vegetative145days_survey_start": "2021-12-01 09:04:17",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2286,16 +2192,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-05-04 07:40:03",
-      "longitude": 30.4623,
-      "latitude": -1.8284
+      "longitude": 30.4532,
+      "latitude": -1.8342
     },
     {
       "block_id": "3c94d78b016d-44",
       "registration_submitted_date": "2021-10-10 13:57:52",
       "registration_survey_start": "2021-10-08 11:28:23",
       "registration_survey_end": "2021-10-08 11:29:15",
-      "registration_biogps_elevation": 1495.7453,
-      "registration_biogps_gps_precision": 4.402,
       "vegetative145days_submitted_date": "2021-11-26 00:55:02",
       "vegetative145days_survey_start": "2021-11-25 15:13:52",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2325,16 +2229,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 07:14:01",
-      "longitude": 30.4709,
-      "latitude": -1.8357
+      "longitude": 30.4724,
+      "latitude": -1.8396
     },
     {
       "block_id": "3c94d78b016d-45",
       "registration_submitted_date": "2021-10-18 06:54:53",
       "registration_survey_start": "2021-10-18 09:11:55",
       "registration_survey_end": "2021-10-18 09:13:24",
-      "registration_biogps_elevation": 1490.9228,
-      "registration_biogps_gps_precision": 4.824,
       "vegetative145days_submitted_date": "2021-12-01 13:24:11",
       "vegetative145days_survey_start": "2021-12-01 09:46:23",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2364,16 +2266,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-22 08:37:29",
-      "longitude": 30.4657,
-      "latitude": -1.8397
+      "longitude": 30.461,
+      "latitude": -1.8289
     },
     {
       "block_id": "3c94d78b016d-46",
       "registration_submitted_date": "2021-10-18 06:54:55",
       "registration_survey_start": "2021-10-18 14:47:25",
       "registration_survey_end": "2021-10-18 14:48:16",
-      "registration_biogps_elevation": 1475.2124,
-      "registration_biogps_gps_precision": 4.716,
       "vegetative145days_submitted_date": "2021-12-01 13:24:07",
       "vegetative145days_survey_start": "2021-12-01 08:42:04",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2404,15 +2304,13 @@
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-05-09 07:57:03",
       "longitude": 30.4639,
-      "latitude": -1.8269
+      "latitude": -1.8242
     },
     {
       "block_id": "3c94d78b016d-47",
       "registration_submitted_date": "2021-10-10 13:57:51",
       "registration_survey_start": "2021-10-08 11:24:48",
       "registration_survey_end": "2021-10-08 11:26:15",
-      "registration_biogps_elevation": 1493.1232,
-      "registration_biogps_gps_precision": 4.561,
       "vegetative145days_submitted_date": "2021-12-01 13:24:11",
       "vegetative145days_survey_start": "2021-12-01 12:56:02",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2442,16 +2340,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 12:41:52",
-      "longitude": 30.4547,
-      "latitude": -1.8455
+      "longitude": 30.4709,
+      "latitude": -1.8275
     },
     {
       "block_id": "3c94d78b016d-48",
       "registration_submitted_date": "2021-10-18 06:54:55",
       "registration_survey_start": "2021-10-18 14:46:16",
       "registration_survey_end": "2021-10-18 14:47:20",
-      "registration_biogps_elevation": 1475.2124,
-      "registration_biogps_gps_precision": 4.716,
       "vegetative145days_submitted_date": "2021-12-10 10:04:23",
       "vegetative145days_survey_start": "2021-12-10 14:23:44",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2481,16 +2377,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 10:50:12",
-      "longitude": 30.4663,
-      "latitude": -1.8486
+      "longitude": 30.4543,
+      "latitude": -1.8352
     },
     {
       "block_id": "3c94d78b016d-49",
       "registration_submitted_date": "2021-10-18 06:54:56",
       "registration_survey_start": "2021-10-18 14:48:54",
       "registration_survey_end": "2021-10-18 14:54:30",
-      "registration_biogps_elevation": 1493.8261,
-      "registration_biogps_gps_precision": 3.9,
       "vegetative145days_submitted_date": "2021-12-01 13:24:12",
       "vegetative145days_survey_start": "2021-12-01 14:22:42",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2520,16 +2414,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 11:00:17",
-      "longitude": 30.4684,
-      "latitude": -1.8406
+      "longitude": 30.4549,
+      "latitude": -1.835
     },
     {
       "block_id": "3c94d78b016d-50",
       "registration_submitted_date": "2021-10-10 13:57:52",
       "registration_survey_start": "2021-10-08 11:26:22",
       "registration_survey_end": "2021-10-08 11:27:45",
-      "registration_biogps_elevation": 1495.7453,
-      "registration_biogps_gps_precision": 4.402,
       "vegetative145days_submitted_date": "2021-12-01 13:24:08",
       "vegetative145days_survey_start": "2021-12-01 08:55:16",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2559,16 +2451,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 10:57:27",
-      "longitude": 30.4634,
-      "latitude": -1.8269
+      "longitude": 30.4691,
+      "latitude": -1.828
     },
     {
       "block_id": "3c94d78b016d-51",
       "registration_submitted_date": "2021-10-10 13:57:44",
       "registration_survey_start": "2021-10-08 11:10:48",
       "registration_survey_end": "2021-10-08 11:11:38",
-      "registration_biogps_elevation": 1495.7235,
-      "registration_biogps_gps_precision": 4.5,
       "vegetative145days_submitted_date": "2021-11-26 00:55:01",
       "vegetative145days_survey_start": "2021-11-25 15:11:21",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2598,16 +2488,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 10:52:55",
-      "longitude": 30.4601,
-      "latitude": -1.8389
+      "longitude": 30.4701,
+      "latitude": -1.8459
     },
     {
       "block_id": "3c94d78b016d-52",
       "registration_submitted_date": "2021-10-10 13:57:45",
       "registration_survey_start": "2021-10-08 11:11:44",
       "registration_survey_end": "2021-10-08 11:13:35",
-      "registration_biogps_elevation": 1486.11,
-      "registration_biogps_gps_precision": 4.645,
       "vegetative145days_submitted_date": "2021-11-26 00:54:59",
       "vegetative145days_survey_start": "2021-11-25 15:08:39",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2637,16 +2525,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 17:13:43",
-      "longitude": 30.4678,
-      "latitude": -1.8246
+      "longitude": 30.4623,
+      "latitude": -1.8217
     },
     {
       "block_id": "3c94d78b016d-53",
       "registration_submitted_date": "2021-10-10 13:57:47",
       "registration_survey_start": "2021-10-08 11:16:24",
       "registration_survey_end": "2021-10-08 11:18:01",
-      "registration_biogps_elevation": 1493.5356,
-      "registration_biogps_gps_precision": 4.931,
       "vegetative145days_submitted_date": "2021-11-26 00:55:01",
       "vegetative145days_survey_start": "2021-11-25 15:12:37",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2676,16 +2562,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-19 10:46:08",
-      "longitude": 30.4726,
-      "latitude": -1.8338
+      "longitude": 30.4543,
+      "latitude": -1.8299
     },
     {
       "block_id": "3c94d78b016d-54",
       "registration_submitted_date": "2021-10-10 13:57:44",
       "registration_survey_start": "2021-10-08 11:08:22",
       "registration_survey_end": "2021-10-08 11:10:21",
-      "registration_biogps_elevation": 1495.7235,
-      "registration_biogps_gps_precision": 4.5,
       "vegetative145days_submitted_date": "2021-11-26 00:54:59",
       "vegetative145days_survey_start": "2021-11-25 15:09:55",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2717,16 +2601,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 10:54:34",
-      "longitude": 30.4689,
-      "latitude": -1.8323
+      "longitude": 30.4718,
+      "latitude": -1.8327
     },
     {
       "block_id": "3c94d78b016d-55",
       "registration_submitted_date": "2021-10-10 13:57:46",
       "registration_survey_start": "2021-10-08 11:15:36",
       "registration_survey_end": "2021-10-08 11:16:18",
-      "registration_biogps_elevation": 1487.5596,
-      "registration_biogps_gps_precision": 4.759,
       "vegetative145days_submitted_date": "2021-11-26 00:54:58",
       "vegetative145days_survey_start": "2021-11-25 14:20:34",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2756,16 +2638,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-11 06:40:33",
-      "longitude": 30.4701,
-      "latitude": -1.8437
+      "longitude": 30.4642,
+      "latitude": -1.8443
     },
     {
       "block_id": "3c94d78b016d-56",
       "registration_submitted_date": "2021-10-10 13:57:46",
       "registration_survey_start": "2021-10-08 11:14:26",
       "registration_survey_end": "2021-10-08 11:15:32",
-      "registration_biogps_elevation": 1487.5596,
-      "registration_biogps_gps_precision": 4.759,
       "vegetative145days_submitted_date": "2022-01-20 23:28:36",
       "vegetative145days_survey_start": "2022-01-21 07:11:22",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2793,16 +2673,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-11 08:30:58",
-      "longitude": 30.4609,
-      "latitude": -1.8245
+      "longitude": 30.462,
+      "latitude": -1.8409
     },
     {
       "block_id": "3c94d78b016d-57",
       "registration_submitted_date": "2021-10-10 13:57:45",
       "registration_survey_start": "2021-10-08 11:13:39",
       "registration_survey_end": "2021-10-08 11:14:21",
-      "registration_biogps_elevation": 1486.11,
-      "registration_biogps_gps_precision": 4.645,
       "vegetative145days_submitted_date": "2021-12-01 13:24:12",
       "vegetative145days_survey_start": "2021-12-01 12:58:47",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2832,16 +2710,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 12:45:25",
-      "longitude": 30.4735,
-      "latitude": -1.8245
+      "longitude": 30.4791,
+      "latitude": -1.8368
     },
     {
       "block_id": "3c94d78b016d-58",
       "registration_submitted_date": "2021-10-18 06:54:52",
       "registration_survey_start": "2021-10-08 11:50:41",
       "registration_survey_end": "2021-10-08 11:53:32",
-      "registration_biogps_elevation": 1497.3296,
-      "registration_biogps_gps_precision": 4.164,
       "vegetative145days_submitted_date": "2021-12-01 13:24:07",
       "vegetative145days_survey_start": "2021-12-01 08:47:47",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2859,16 +2735,14 @@
       "postharvest15daysafterharvest_trialsuccess_oth": "Ntabwo ubushakashatsi buzakomeza kuko urugo rwajemo amakimbirane , umugabo aruvamo none iyaje murugo badahari yangiza ibintu byo murugo muburyo bwagahimano, muri ibyo bikorwa bye byogahimano  izo mbuto zibirayi zaburiwe irengero.",
       "postharvest15daysafterharvest_tuberstoobserve": "No, The Farmer Cannot Make Observations Due To Another Reason",
       "postharvest15daysafterharvest_survey_end": "2022-02-07 14:27:00",
-      "longitude": 30.4602,
-      "latitude": -1.8385
+      "longitude": 30.4552,
+      "latitude": -1.828
     },
     {
       "block_id": "3c94d78b016d-59",
       "registration_submitted_date": "2021-10-10 13:57:48",
       "registration_survey_start": "2021-10-08 11:18:55",
       "registration_survey_end": "2021-10-08 11:20:22",
-      "registration_biogps_elevation": 1487.6999,
-      "registration_biogps_gps_precision": 4.931,
       "vegetative145days_submitted_date": "2021-12-01 13:24:08",
       "vegetative145days_survey_start": "2021-12-01 09:00:17",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2898,16 +2772,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-25 08:12:15",
-      "longitude": 30.4632,
-      "latitude": -1.8342
+      "longitude": 30.456,
+      "latitude": -1.8378
     },
     {
       "block_id": "3c94d78b016d-60",
       "registration_submitted_date": "2021-10-10 13:57:48",
       "registration_survey_start": "2021-10-08 11:18:06",
       "registration_survey_end": "2021-10-08 11:18:51",
-      "registration_biogps_elevation": 1493.5356,
-      "registration_biogps_gps_precision": 4.931,
       "vegetative145days_submitted_date": "2021-11-29 06:08:14",
       "vegetative145days_survey_start": "2021-11-26 16:37:17",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2920,16 +2792,14 @@
       "vegetative275days_trialsuccess_oth": "Ntabwo buzakomeza ",
       "vegetative275days_problemexplain": "Ntabwo ubushakashatsi buzakomeza kuko plot zose zarwaye kirabiranya none ntagihingwa nakimwe kikirangwa mumurima (plot)",
       "vegetative275days_survey_end": "2021-12-30 10:49:45",
-      "longitude": 30.4654,
-      "latitude": -1.8401
+      "longitude": 30.4656,
+      "latitude": -1.8232
     },
     {
       "block_id": "3c94d78b016d-61",
       "registration_submitted_date": "2021-10-07 06:35:15",
       "registration_survey_start": "2021-10-07 14:16:53",
       "registration_survey_end": "2021-10-07 14:17:36",
-      "registration_biogps_elevation": 1644.1417,
-      "registration_biogps_gps_precision": 4.931,
       "vegetative145days_submitted_date": "2021-11-29 06:48:21",
       "vegetative145days_survey_start": "2021-11-26 10:28:45",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2957,16 +2827,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-08 16:09:55",
-      "longitude": 30.3302,
-      "latitude": -2.0327
+      "longitude": 30.3393,
+      "latitude": -2.0231
     },
     {
       "block_id": "3c94d78b016d-62",
       "registration_submitted_date": "2021-10-10 07:30:50",
       "registration_survey_start": "2021-10-09 11:57:56",
       "registration_survey_end": "2021-10-09 11:58:55",
-      "registration_biogps_elevation": 1656.5388,
-      "registration_biogps_gps_precision": 3.977,
       "vegetative145days_submitted_date": "2021-11-23 05:21:48",
       "vegetative145days_survey_start": "2021-11-23 13:00:05",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2994,16 +2862,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-08 11:43:13",
-      "longitude": 30.3366,
-      "latitude": -2.0303
+      "longitude": 30.3397,
+      "latitude": -2.0273
     },
     {
       "block_id": "3c94d78b016d-63",
       "registration_submitted_date": "2021-10-07 06:35:10",
       "registration_survey_start": "2021-10-07 14:07:38",
       "registration_survey_end": "2021-10-07 14:08:16",
-      "registration_biogps_elevation": 1653.077,
-      "registration_biogps_gps_precision": 4.347,
       "vegetative145days_submitted_date": "2021-11-29 06:48:22",
       "vegetative145days_survey_start": "2021-11-29 14:42:52",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3031,16 +2897,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-27 13:26:03",
-      "longitude": 30.3467,
-      "latitude": -2.0242
+      "longitude": 30.3237,
+      "latitude": -2.0304
     },
     {
       "block_id": "3c94d78b016d-64",
       "registration_submitted_date": "2021-10-07 06:35:28",
       "registration_survey_start": "2021-10-07 14:25:30",
       "registration_survey_end": "2021-10-07 14:27:12",
-      "registration_biogps_elevation": 1655.8385,
-      "registration_biogps_gps_precision": 4.995,
       "vegetative145days_submitted_date": "2021-11-29 11:07:10",
       "vegetative145days_survey_start": "2021-11-29 18:37:39",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3068,16 +2932,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-19 13:14:33",
-      "longitude": 30.337,
-      "latitude": -2.0281
+      "longitude": 30.3466,
+      "latitude": -2.0322
     },
     {
       "block_id": "3c94d78b016d-65",
       "registration_submitted_date": "2021-10-07 06:35:09",
       "registration_survey_start": "2021-10-07 14:03:12",
       "registration_survey_end": "2021-10-07 14:05:29",
-      "registration_biogps_elevation": 1655.5792,
-      "registration_biogps_gps_precision": 4.716,
       "vegetative145days_submitted_date": "2021-11-26 00:01:17",
       "vegetative145days_survey_start": "2021-11-24 08:37:07",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3105,16 +2967,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-06 12:12:42",
-      "longitude": 30.3251,
-      "latitude": -2.0301
+      "longitude": 30.3374,
+      "latitude": -2.0249
     },
     {
       "block_id": "3c94d78b016d-66",
       "registration_submitted_date": "2021-10-07 06:35:10",
       "registration_survey_start": "2021-10-07 14:06:11",
       "registration_survey_end": "2021-10-07 14:06:53",
-      "registration_biogps_elevation": 1655.5792,
-      "registration_biogps_gps_precision": 4.716,
       "vegetative145days_submitted_date": "2021-11-26 00:01:20",
       "vegetative145days_survey_start": "2021-11-25 08:07:59",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3142,16 +3002,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-20 10:54:12",
-      "longitude": 30.3357,
-      "latitude": -2.0161
+      "longitude": 30.325,
+      "latitude": -2.0317
     },
     {
       "block_id": "3c94d78b016d-67",
       "registration_submitted_date": "2021-10-10 07:30:51",
       "registration_survey_start": "2021-10-09 11:58:58",
       "registration_survey_end": "2021-10-09 12:00:28",
-      "registration_biogps_elevation": 1654.5019,
-      "registration_biogps_gps_precision": 4.99,
       "vegetative145days_submitted_date": "2021-11-26 00:01:22",
       "vegetative145days_survey_start": "2021-11-25 12:02:50",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3179,16 +3037,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 10:35:35",
-      "longitude": 30.3349,
-      "latitude": -2.0143
+      "longitude": 30.3298,
+      "latitude": -2.0262
     },
     {
       "block_id": "3c94d78b016d-68",
       "registration_submitted_date": "2021-10-07 06:35:16",
       "registration_survey_start": "2021-10-07 14:17:48",
       "registration_survey_end": "2021-10-07 14:19:04",
-      "registration_biogps_elevation": 1651.1959,
-      "registration_biogps_gps_precision": 4.645,
       "vegetative145days_submitted_date": "2022-03-01 09:31:38",
       "vegetative145days_survey_start": "2022-03-01 17:05:00",
       "vegetative145days_trialsuccess": "No Due To Other Reason",
@@ -3218,16 +3074,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-05-16 17:29:53",
-      "longitude": 30.3468,
-      "latitude": -2.0285
+      "longitude": 30.3448,
+      "latitude": -2.0362
     },
     {
       "block_id": "3c94d78b016d-69",
       "registration_submitted_date": "2021-10-07 06:35:28",
       "registration_survey_start": "2021-10-07 14:24:05",
       "registration_survey_end": "2021-10-07 14:25:13",
-      "registration_biogps_elevation": 1655.1673,
-      "registration_biogps_gps_precision": 4.634,
       "vegetative145days_submitted_date": "2021-12-02 14:59:43",
       "vegetative145days_survey_start": "2021-12-02 11:46:01",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3255,16 +3109,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-11 15:40:26",
-      "longitude": 30.3236,
-      "latitude": -2.0192
+      "longitude": 30.3275,
+      "latitude": -2.0155
     },
     {
       "block_id": "3c94d78b016d-70",
       "registration_submitted_date": "2021-10-07 06:35:29",
       "registration_survey_start": "2021-10-07 14:27:25",
       "registration_survey_end": "2021-10-07 14:28:42",
-      "registration_biogps_elevation": 1653.9834,
-      "registration_biogps_gps_precision": 4.938,
       "vegetative145days_submitted_date": "2021-11-29 06:48:21",
       "vegetative145days_survey_start": "2021-11-26 11:27:05",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3297,16 +3149,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-05-16 17:33:32",
-      "longitude": 30.3389,
-      "latitude": -2.037
+      "longitude": 30.3334,
+      "latitude": -2.0336
     },
     {
       "block_id": "3c94d78b016d-71",
       "registration_submitted_date": "2021-10-10 07:30:48",
       "registration_survey_start": "2021-10-09 11:54:42",
       "registration_survey_end": "2021-10-09 11:56:14",
-      "registration_biogps_elevation": 1652.7851,
-      "registration_biogps_gps_precision": 3.964,
       "vegetative145days_submitted_date": "2021-11-29 11:07:11",
       "vegetative145days_survey_start": "2021-11-29 19:05:21",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3334,16 +3184,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-05-04 18:50:43",
-      "longitude": 30.3267,
-      "latitude": -2.0352
+      "longitude": 30.327,
+      "latitude": -2.0214
     },
     {
       "block_id": "3c94d78b016d-72",
       "registration_submitted_date": "2021-10-07 06:35:11",
       "registration_survey_start": "2021-10-07 14:08:34",
       "registration_survey_end": "2021-10-07 14:09:51",
-      "registration_biogps_elevation": 1657.7497,
-      "registration_biogps_gps_precision": 4.424,
       "vegetative145days_submitted_date": "2021-11-26 00:01:18",
       "vegetative145days_survey_start": "2021-11-24 09:00:52",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3371,16 +3219,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-28 09:17:03",
-      "longitude": 30.3392,
-      "latitude": -2.0264
+      "longitude": 30.3383,
+      "latitude": -2.0277
     },
     {
       "block_id": "3c94d78b016d-73",
       "registration_submitted_date": "2021-10-07 06:35:17",
       "registration_survey_start": "2021-10-07 14:21:07",
       "registration_survey_end": "2021-10-07 14:23:02",
-      "registration_biogps_elevation": 1656.2439,
-      "registration_biogps_gps_precision": 4.912,
       "vegetative145days_submitted_date": "2021-12-02 14:59:40",
       "vegetative145days_survey_start": "2021-12-02 09:30:42",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3408,16 +3254,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-08 12:56:32",
-      "longitude": 30.335,
-      "latitude": -2.016
+      "longitude": 30.3357,
+      "latitude": -2.0314
     },
     {
       "block_id": "3c94d78b016d-74",
       "registration_submitted_date": "2021-10-07 06:35:13",
       "registration_survey_start": "2021-10-07 14:10:02",
       "registration_survey_end": "2021-10-07 14:10:43",
-      "registration_biogps_elevation": 1656.9711,
-      "registration_biogps_gps_precision": 4.824,
       "vegetative145days_submitted_date": "2021-11-23 05:21:48",
       "vegetative145days_survey_start": "2021-11-23 11:20:39",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3445,16 +3289,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-14 12:45:24",
-      "longitude": 30.3382,
-      "latitude": -2.0238
+      "longitude": 30.3418,
+      "latitude": -2.0318
     },
     {
       "block_id": "3c94d78b016d-75",
       "registration_submitted_date": "2021-10-07 06:35:14",
       "registration_survey_start": "2021-10-07 14:14:30",
       "registration_survey_end": "2021-10-07 14:15:06",
-      "registration_biogps_elevation": 1653.6729,
-      "registration_biogps_gps_precision": 4.931,
       "vegetative145days_submitted_date": "2021-12-02 14:59:41",
       "vegetative145days_survey_start": "2021-12-02 09:56:00",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3482,16 +3324,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-21 11:04:01",
-      "longitude": 30.3448,
-      "latitude": -2.021
+      "longitude": 30.3466,
+      "latitude": -2.0305
     },
     {
       "block_id": "3c94d78b016d-76",
       "registration_submitted_date": "2021-10-07 06:35:14",
       "registration_survey_start": "2021-10-07 14:10:59",
       "registration_survey_end": "2021-10-07 14:11:53",
-      "registration_biogps_elevation": 1655.0408,
-      "registration_biogps_gps_precision": 4.747,
       "vegetative145days_submitted_date": "2021-11-26 00:01:20",
       "vegetative145days_survey_start": "2021-11-24 12:47:36",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3519,16 +3359,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Worse",
       "postharvest360daysafterharvest_survey_end": "2022-04-11 15:55:36",
-      "longitude": 30.3457,
-      "latitude": -2.0279
+      "longitude": 30.3391,
+      "latitude": -2.0252
     },
     {
       "block_id": "3c94d78b016d-77",
       "registration_submitted_date": "2021-10-10 07:30:49",
       "registration_survey_start": "2021-10-09 11:57:12",
       "registration_survey_end": "2021-10-09 11:57:47",
-      "registration_biogps_elevation": 1654.3882,
-      "registration_biogps_gps_precision": 4.824,
       "vegetative145days_submitted_date": "2021-12-02 14:59:43",
       "vegetative145days_survey_start": "2021-12-02 10:31:14",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3547,16 +3385,14 @@
       "postharvest245daysafterharvest_survey_start": "2022-03-21 18:34:38",
       "postharvest245daysafterharvest_tuberstoobserve": "Yes, The Farmer Possesses Sufficient Tubers Of All No, The Farmer Cannot Make Observations Due To Another Reason Varieties",
       "postharvest245daysafterharvest_survey_end": "2022-03-21 18:35:38",
-      "longitude": 30.3449,
-      "latitude": -2.0273
+      "longitude": 30.3467,
+      "latitude": -2.0313
     },
     {
       "block_id": "3c94d78b016d-78",
       "registration_submitted_date": "2021-10-07 06:35:25",
       "registration_survey_start": "2021-10-07 14:23:18",
       "registration_survey_end": "2021-10-07 14:23:50",
-      "registration_biogps_elevation": 1655.3456,
-      "registration_biogps_gps_precision": 4.639,
       "vegetative145days_submitted_date": "2021-11-26 00:01:23",
       "vegetative145days_survey_start": "2021-11-25 12:51:17",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3578,16 +3414,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-08 14:16:30",
-      "longitude": 30.3315,
-      "latitude": -2.0136
+      "longitude": 30.3295,
+      "latitude": -2.0164
     },
     {
       "block_id": "3c94d78b016d-79",
       "registration_submitted_date": "2021-10-07 06:35:15",
       "registration_survey_start": "2021-10-07 14:15:36",
       "registration_survey_end": "2021-10-07 14:16:17",
-      "registration_biogps_elevation": 1651.3119,
-      "registration_biogps_gps_precision": 4.347,
       "vegetative145days_submitted_date": "2021-11-26 00:01:23",
       "vegetative145days_survey_start": "2021-11-25 13:38:15",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3615,16 +3449,14 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Better",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-08 15:03:34",
-      "longitude": 30.3406,
-      "latitude": -2.0277
+      "longitude": 30.3314,
+      "latitude": -2.035
     },
     {
       "block_id": "3c94d78b016d-80",
       "registration_submitted_date": "2021-10-07 06:35:17",
       "registration_survey_start": "2021-10-07 14:19:08",
       "registration_survey_end": "2021-10-07 14:21:04",
-      "registration_biogps_elevation": 1651.6428,
-      "registration_biogps_gps_precision": 4.561,
       "vegetative145days_submitted_date": "2021-11-26 00:01:21",
       "vegetative145days_survey_start": "2021-11-25 09:55:18",
       "vegetative145days_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3652,8 +3484,8 @@
       "postharvest360daysafterharvest_item_B_vs_local": "Worse",
       "postharvest360daysafterharvest_item_C_vs_local": "Better",
       "postharvest360daysafterharvest_survey_end": "2022-04-08 12:39:02",
-      "longitude": 30.3276,
-      "latitude": -2.0151
+      "longitude": 30.337,
+      "latitude": -2.0348
     }
   ],
   "plot_data": [

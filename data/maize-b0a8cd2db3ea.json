@@ -1,11 +1,11 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-08",
+      "version": "v2025-11-14",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
-        "package_version": "1.7"
+        "package_version": "1.8"
       }
     },
     "identifier": "https://doi.org/10.5281/zenodo.17112492",
@@ -174,20 +174,6 @@
         "controlled_vocabulary": "No information provided"
       },
       {
-        "variable_name": "registration_biogps_elevation",
-        "description": "GPS Point Elevation",
-        "ontology_id": "No information provided",
-        "value_type": "decimal",
-        "controlled_vocabulary": "No information provided"
-      },
-      {
-        "variable_name": "registration_biogps_gps_precision",
-        "description": "GPS Point Precision",
-        "ontology_id": "No information provided",
-        "value_type": "decimal",
-        "controlled_vocabulary": "No information provided"
-      },
-      {
         "variable_name": "plantingdatephone100_submitted_date",
         "description": "Submitted date",
         "ontology_id": "No information provided",
@@ -260,13 +246,6 @@
       {
         "variable_name": "visit1vegetativev6_farm_geo_elevation",
         "description": "GPS Point Elevation",
-        "ontology_id": "No information provided",
-        "value_type": "decimal",
-        "controlled_vocabulary": "No information provided"
-      },
-      {
-        "variable_name": "visit1vegetativev6_farm_geo_gps_precision",
-        "description": "GPS Point Precision",
         "ontology_id": "No information provided",
         "value_type": "decimal",
         "controlled_vocabulary": "No information provided"
@@ -696,8 +675,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:31:38",
-      "registration_biogps_elevation": 1546.1696,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-07 22:34:14",
       "plantingdatephone100_survey_start": "2021-10-07 14:38:52",
       "plantingdatephone100_plantingdate": "2021-10-06",
@@ -708,7 +685,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-11 17:30:39",
       "visit1vegetativev6_farm_geo_elevation": 1436.3383,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 07:46:56",
       "visit2freshmaturity_survey_start": "2022-01-14 11:15:25",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -738,8 +714,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 13:47:52",
-      "longitude": 29.8618,
-      "latitude": -2.3174
+      "longitude": 29.8523,
+      "latitude": -2.3064
     },
     {
       "block_id": "b0a8cd2db3ea-2",
@@ -750,8 +726,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:33:21",
-      "registration_biogps_elevation": 1548.1357,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-06 07:50:21",
       "plantingdatephone100_survey_start": "2021-10-05 16:13:03",
       "plantingdatephone100_plantingdate": "2021-10-05",
@@ -762,7 +736,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-12 13:56:27",
       "visit1vegetativev6_farm_geo_elevation": 1454.3142,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 07:46:57",
       "visit2freshmaturity_survey_start": "2022-01-14 11:40:27",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -789,8 +762,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-28 14:02:55",
-      "longitude": 29.8484,
-      "latitude": -2.299
+      "longitude": 29.8552,
+      "latitude": -2.3126
     },
     {
       "block_id": "b0a8cd2db3ea-3",
@@ -801,8 +774,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:34:57",
-      "registration_biogps_elevation": 1558.5234,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-06 07:50:23",
       "plantingdatephone100_survey_start": "2021-10-06 15:48:38",
       "plantingdatephone100_plantingdate": "2021-10-06",
@@ -813,7 +784,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-18 12:12:04",
       "visit1vegetativev6_farm_geo_elevation": 1428.1248,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-21 01:48:12",
       "visit2freshmaturity_survey_start": "2022-01-21 09:45:14",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -843,8 +813,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-28 16:03:28",
-      "longitude": 29.8525,
-      "latitude": -2.3145
+      "longitude": 29.8542,
+      "latitude": -2.3061
     },
     {
       "block_id": "b0a8cd2db3ea-4",
@@ -855,8 +825,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:36:57",
-      "registration_biogps_elevation": 1550.7437,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-06 07:50:20",
       "plantingdatephone100_survey_start": "2021-10-04 16:50:24",
       "plantingdatephone100_plantingdate": "2021-10-04",
@@ -867,7 +835,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-18 13:40:54",
       "visit1vegetativev6_farm_geo_elevation": 1455.4149,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "harvestrankingdatavisit350phone50_submitted_date": "2022-03-29 03:47:31",
       "harvestrankingdatavisit350phone50_survey_start": "2022-03-28 11:33:17",
       "harvestrankingdatavisit350phone50_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -889,8 +856,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-28 11:28:48",
-      "longitude": 29.8642,
-      "latitude": -2.3115
+      "longitude": 29.8395,
+      "latitude": -2.3096
     },
     {
       "block_id": "b0a8cd2db3ea-5",
@@ -901,8 +868,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:38:01",
-      "registration_biogps_elevation": 1549.4126,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-17 02:58:32",
       "plantingdatephone100_survey_start": "2021-10-13 10:58:49",
       "plantingdatephone100_plantingdate": "2021-10-13",
@@ -913,7 +878,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-24 06:42:13",
       "visit1vegetativev6_farm_geo_elevation": 1488.0795,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-20 03:04:06",
       "visit2freshmaturity_survey_start": "2022-01-20 06:29:19",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -943,8 +907,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-08 15:30:38",
-      "longitude": 29.8427,
-      "latitude": -2.3255
+      "longitude": 29.8372,
+      "latitude": -2.3187
     },
     {
       "block_id": "b0a8cd2db3ea-6",
@@ -955,8 +919,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:51:23",
-      "registration_biogps_elevation": 1532.8606,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-06 07:50:23",
       "plantingdatephone100_survey_start": "2021-10-06 15:49:26",
       "plantingdatephone100_plantingdate": "2021-10-06",
@@ -967,7 +929,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-18 06:50:28",
       "visit1vegetativev6_farm_geo_elevation": 1473.5968,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:35",
       "visit2freshmaturity_survey_start": "2022-01-13 11:45:35",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -994,8 +955,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-01 15:21:07",
-      "longitude": 29.8536,
-      "latitude": -2.3242
+      "longitude": 29.8427,
+      "latitude": -2.3112
     },
     {
       "block_id": "b0a8cd2db3ea-7",
@@ -1006,8 +967,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:41:55",
-      "registration_biogps_elevation": 1547.4266,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-09-30 22:44:57",
       "plantingdatephone100_survey_start": "2021-09-27 13:25:19",
       "plantingdatephone100_plantingdate": "2021-09-27",
@@ -1018,7 +977,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-11 12:49:20",
       "visit1vegetativev6_farm_geo_elevation": 1527.6675,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:23",
       "visit2freshmaturity_survey_start": "2022-01-11 17:12:04",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1048,8 +1006,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-30 10:14:40",
-      "longitude": 29.842,
-      "latitude": -2.3341
+      "longitude": 29.8332,
+      "latitude": -2.3194
     },
     {
       "block_id": "b0a8cd2db3ea-8",
@@ -1060,8 +1018,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:43:17",
-      "registration_biogps_elevation": 1550.1592,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-10 22:54:32",
       "plantingdatephone100_survey_start": "2021-10-10 16:20:22",
       "plantingdatephone100_plantingdate": "2021-09-30",
@@ -1072,7 +1028,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-23 16:27:38",
       "visit1vegetativev6_farm_geo_elevation": 1519.592,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:22",
       "visit2freshmaturity_survey_start": "2022-01-11 16:30:13",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1099,8 +1054,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 11:53:51",
-      "longitude": 29.843,
-      "latitude": -2.3317
+      "longitude": 29.8357,
+      "latitude": -2.3325
     },
     {
       "block_id": "b0a8cd2db3ea-9",
@@ -1111,8 +1066,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:44:42",
-      "registration_biogps_elevation": 1548.0168,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:21",
       "plantingdatephone100_survey_start": "2021-09-30 14:56:12",
       "plantingdatephone100_plantingdate": "2021-09-30",
@@ -1123,7 +1076,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-15 16:37:31",
       "visit1vegetativev6_farm_geo_elevation": 1502.3352,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:21",
       "visit2freshmaturity_survey_start": "2022-01-07 13:55:47",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1153,8 +1105,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 15:28:58",
-      "longitude": 29.8458,
-      "latitude": -2.3298
+      "longitude": 29.8532,
+      "latitude": -2.3121
     },
     {
       "block_id": "b0a8cd2db3ea-10",
@@ -1165,8 +1117,6 @@
       "registration_region": "South",
       "registration_cell": "GATI",
       "registration_survey_end": "2021-09-07 15:46:14",
-      "registration_biogps_elevation": 1549.061,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:10",
       "plantingdatephone100_survey_start": "2021-09-27 15:37:25",
       "plantingdatephone100_plantingdate": "2021-09-27",
@@ -1177,7 +1127,6 @@
       "visit1vegetativev6_problemexplain": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-19 15:33:42",
       "visit1vegetativev6_farm_geo_elevation": 1528.4451,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:28",
       "visit2freshmaturity_survey_start": "2022-01-12 16:26:09",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1204,8 +1153,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 13:15:51",
-      "longitude": 29.8436,
-      "latitude": -2.3198
+      "longitude": 29.8519,
+      "latitude": -2.3383
     },
     {
       "block_id": "b0a8cd2db3ea-11",
@@ -1216,8 +1165,6 @@
       "registration_region": "South",
       "registration_cell": "GATI",
       "registration_survey_end": "2021-09-07 15:47:57",
-      "registration_biogps_elevation": 1555.6013,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-22 03:39:27",
       "plantingdatephone100_survey_start": "2021-10-22 11:37:38",
       "plantingdatephone100_plantingdate": "2021-10-18",
@@ -1228,7 +1175,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-18 14:50:43",
       "visit1vegetativev6_farm_geo_elevation": 1523.2297,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-20 03:04:07",
       "visit2freshmaturity_survey_start": "2022-01-20 06:39:08",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1255,8 +1201,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-31 07:24:01",
-      "longitude": 29.8579,
-      "latitude": -2.3148
+      "longitude": 29.8587,
+      "latitude": -2.3174
     },
     {
       "block_id": "b0a8cd2db3ea-12",
@@ -1267,8 +1213,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 15:49:53",
-      "registration_biogps_elevation": 1529.3812,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-17 02:58:33",
       "plantingdatephone100_survey_start": "2021-10-13 15:31:01",
       "plantingdatephone100_plantingdate": "2021-10-10",
@@ -1279,7 +1223,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-12-06 08:42:55",
       "visit1vegetativev6_farm_geo_elevation": 1465.8101,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-20 03:04:08",
       "visit2freshmaturity_survey_start": "2022-01-20 06:51:03",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1306,8 +1249,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-30 12:33:02",
-      "longitude": 29.8368,
-      "latitude": -2.3128
+      "longitude": 29.8477,
+      "latitude": -2.321
     },
     {
       "block_id": "b0a8cd2db3ea-13",
@@ -1318,8 +1261,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 17:15:35",
-      "registration_biogps_elevation": 1532.959,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-10 22:54:32",
       "plantingdatephone100_survey_start": "2021-10-10 16:49:40",
       "plantingdatephone100_plantingdate": "2021-10-06",
@@ -1330,7 +1271,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-26 14:37:15",
       "visit1vegetativev6_farm_geo_elevation": 1578.9141,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:24",
       "visit2freshmaturity_survey_start": "2022-01-12 10:37:39",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1360,8 +1300,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-29 11:47:01",
-      "longitude": 29.8554,
-      "latitude": -2.3142
+      "longitude": 29.8561,
+      "latitude": -2.3182
     },
     {
       "block_id": "b0a8cd2db3ea-14",
@@ -1372,8 +1312,6 @@
       "registration_region": "South",
       "registration_cell": "GATI",
       "registration_survey_end": "2021-09-07 16:25:01",
-      "registration_biogps_elevation": 1531.2767,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-17 02:58:33",
       "plantingdatephone100_survey_start": "2021-10-14 13:35:17",
       "plantingdatephone100_plantingdate": "2021-10-01",
@@ -1384,7 +1322,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-23 14:54:23",
       "visit1vegetativev6_farm_geo_elevation": 1532.1024,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-19 05:46:54",
       "visit2freshmaturity_survey_start": "2022-01-19 11:53:16",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1397,8 +1334,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Akarima ka gatatu barabyibye babimaramo kuburyo ntahungura rizabaho",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-04-10 13:25:47",
-      "longitude": 29.8558,
-      "latitude": -2.3198
+      "longitude": 29.8437,
+      "latitude": -2.3159
     },
     {
       "block_id": "b0a8cd2db3ea-15",
@@ -1409,8 +1346,6 @@
       "registration_region": "South",
       "registration_cell": "GATI",
       "registration_survey_end": "2021-09-07 16:23:19",
-      "registration_biogps_elevation": 1535.2797,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-06 07:50:22",
       "plantingdatephone100_survey_start": "2021-10-06 07:08:46",
       "plantingdatephone100_plantingdate": "2021-10-05",
@@ -1421,7 +1356,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-18 07:02:14",
       "visit1vegetativev6_farm_geo_elevation": 1479.8926,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:36",
       "visit2freshmaturity_survey_start": "2022-01-13 13:40:28",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1451,8 +1385,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-31 07:20:16",
-      "longitude": 29.8527,
-      "latitude": -2.3169
+      "longitude": 29.8526,
+      "latitude": -2.3141
     },
     {
       "block_id": "b0a8cd2db3ea-16",
@@ -1463,8 +1397,6 @@
       "registration_region": "South",
       "registration_cell": "GATI",
       "registration_survey_end": "2021-09-07 16:31:39",
-      "registration_biogps_elevation": 1541.0474,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-10 23:00:01",
       "plantingdatephone100_survey_start": "2021-10-11 06:59:16",
       "plantingdatephone100_plantingdate": "2021-10-08",
@@ -1475,7 +1407,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-18 09:03:52",
       "visit1vegetativev6_farm_geo_elevation": 1455.9108,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:35",
       "visit2freshmaturity_survey_start": "2022-01-13 13:38:11",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1502,8 +1433,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-01 10:18:21",
-      "longitude": 29.8546,
-      "latitude": -2.3095
+      "longitude": 29.8594,
+      "latitude": -2.3068
     },
     {
       "block_id": "b0a8cd2db3ea-17",
@@ -1514,8 +1445,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 17:35:24",
-      "registration_biogps_elevation": 1541.764,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:22",
       "plantingdatephone100_survey_start": "2021-09-30 17:48:28",
       "plantingdatephone100_plantingdate": "2021-09-30",
@@ -1526,7 +1455,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-15 15:14:34",
       "visit1vegetativev6_farm_geo_elevation": 1594.354,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-21 01:48:11",
       "visit2freshmaturity_survey_start": "2022-01-20 18:14:58",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1556,8 +1484,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-30 17:59:14",
-      "longitude": 29.8603,
-      "latitude": -2.319
+      "longitude": 29.8473,
+      "latitude": -2.317
     },
     {
       "block_id": "b0a8cd2db3ea-18",
@@ -1568,8 +1496,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 16:29:02",
-      "registration_biogps_elevation": 1538.7567,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-04 03:28:10",
       "plantingdatephone100_survey_start": "2021-10-04 11:25:54",
       "plantingdatephone100_plantingdate": "2021-09-30",
@@ -1581,7 +1507,6 @@
       "visit1vegetativev6_problemexplain": "Imirongo yayigize 6naho ibyobo abigira 5",
       "visit1vegetativev6_survey_end": "2021-11-17 08:10:17",
       "visit1vegetativev6_farm_geo_elevation": 1525.6927,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 10:38:22",
       "visit2freshmaturity_survey_start": "2022-01-14 15:52:36",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1608,8 +1533,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-31 08:02:37",
-      "longitude": 29.8542,
-      "latitude": -2.3275
+      "longitude": 29.8532,
+      "latitude": -2.3194
     },
     {
       "block_id": "b0a8cd2db3ea-19",
@@ -1620,8 +1545,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 17:09:36",
-      "registration_biogps_elevation": 1536.1624,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-09-30 22:44:56",
       "plantingdatephone100_survey_start": "2021-09-27 13:23:07",
       "plantingdatephone100_plantingdate": "2021-09-27",
@@ -1632,7 +1555,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-19 15:42:48",
       "visit1vegetativev6_farm_geo_elevation": 1483.8926,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:20",
       "visit2freshmaturity_survey_start": "2022-01-07 11:50:45",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1662,8 +1584,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-01 15:39:58",
-      "longitude": 29.8554,
-      "latitude": -2.3117
+      "longitude": 29.842,
+      "latitude": -2.3269
     },
     {
       "block_id": "b0a8cd2db3ea-20",
@@ -1674,8 +1596,6 @@
       "registration_region": "South",
       "registration_cell": "GATI ",
       "registration_survey_end": "2021-09-07 17:11:20",
-      "registration_biogps_elevation": 1538.245,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-22 03:39:26",
       "plantingdatephone100_survey_start": "2021-10-22 11:36:35",
       "plantingdatephone100_plantingdate": "2021-10-22",
@@ -1686,7 +1606,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes b",
       "visit1vegetativev6_survey_end": "2021-11-26 15:02:32",
       "visit1vegetativev6_farm_geo_elevation": 1541.3872,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-21 01:48:11",
       "visit2freshmaturity_survey_start": "2022-01-21 08:34:33",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1716,8 +1635,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-30 15:12:43",
-      "longitude": 29.8378,
-      "latitude": -2.3362
+      "longitude": 29.8423,
+      "latitude": -2.3359
     },
     {
       "block_id": "b0a8cd2db3ea-21",
@@ -1728,8 +1647,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:19:51",
-      "registration_biogps_elevation": 1602.001,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-04 03:28:11",
       "plantingdatephone100_survey_start": "2021-10-04 11:27:21",
       "plantingdatephone100_plantingdate": "2021-10-04",
@@ -1740,7 +1657,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-24 09:21:21",
       "visit1vegetativev6_farm_geo_elevation": 1508.5424,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 07:46:53",
       "visit2freshmaturity_survey_start": "2022-01-14 08:59:13",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1770,8 +1686,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 16:39:25",
-      "longitude": 29.8626,
-      "latitude": -2.3144
+      "longitude": 29.8644,
+      "latitude": -2.3193
     },
     {
       "block_id": "b0a8cd2db3ea-22",
@@ -1782,8 +1698,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:21:01",
-      "registration_biogps_elevation": 1605.3225,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:44:59",
       "plantingdatephone100_survey_start": "2021-09-27 13:34:09",
       "plantingdatephone100_plantingdate": "2021-09-25",
@@ -1794,7 +1708,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-10 10:18:32",
       "visit1vegetativev6_farm_geo_elevation": 1499.6829,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:19",
       "visit2freshmaturity_survey_start": "2022-01-06 10:12:43",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1821,8 +1734,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-24 17:36:32",
-      "longitude": 29.8546,
-      "latitude": -2.3299
+      "longitude": 29.8735,
+      "latitude": -2.3197
     },
     {
       "block_id": "b0a8cd2db3ea-23",
@@ -1843,7 +1756,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Y",
       "visit1vegetativev6_survey_end": "2021-11-16 11:37:01",
       "visit1vegetativev6_farm_geo_elevation": 1548.2966,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-20 03:04:09",
       "visit2freshmaturity_survey_start": "2022-01-20 08:13:12",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1873,8 +1785,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-25 16:07:18",
-      "longitude": 29.8586,
-      "latitude": -2.3182
+      "longitude": 29.872,
+      "latitude": -2.3357
     },
     {
       "block_id": "b0a8cd2db3ea-24",
@@ -1885,8 +1797,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:22:52",
-      "registration_biogps_elevation": 1596.5723,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:01",
       "plantingdatephone100_survey_start": "2021-09-27 13:37:36",
       "plantingdatephone100_plantingdate": "2021-09-23",
@@ -1897,7 +1807,6 @@
       "visit1vegetativev6_problemexplain": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-24 10:51:37",
       "visit1vegetativev6_farm_geo_elevation": 1516.4199,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:34",
       "visit2freshmaturity_survey_start": "2022-01-13 10:02:53",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1910,8 +1819,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Bibye akarima 1 kose basaruye bahita babivangavanga kuko babonaga kubigereranya bigoye harimo akarima kamwe bibye bityo ifishi yihungurwa ntabwo izuzuzwa",
       "harvestrankingdatavisit350phone50_strigapresence": "Yes",
       "harvestrankingdatavisit350phone50_survey_end": "2022-04-10 13:25:06",
-      "longitude": 29.8665,
-      "latitude": -2.3284
+      "longitude": 29.8682,
+      "latitude": -2.3229
     },
     {
       "block_id": "b0a8cd2db3ea-25",
@@ -1922,8 +1831,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:23:49",
-      "registration_biogps_elevation": 1600.0264,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-09-30 22:44:56",
       "plantingdatephone100_survey_start": "2021-09-27 13:21:40",
       "plantingdatephone100_plantingdate": "2021-09-27",
@@ -1934,7 +1841,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-12 10:50:24",
       "visit1vegetativev6_farm_geo_elevation": 1537.4172,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:26",
       "visit2freshmaturity_survey_start": "2022-01-12 11:16:55",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -1964,8 +1870,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 16:51:25",
-      "longitude": 29.8535,
-      "latitude": -2.3232
+      "longitude": 29.8613,
+      "latitude": -2.316
     },
     {
       "block_id": "b0a8cd2db3ea-26",
@@ -1976,8 +1882,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:24:40",
-      "registration_biogps_elevation": 1599.678,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:44:58",
       "plantingdatephone100_survey_start": "2021-09-27 13:27:40",
       "plantingdatephone100_plantingdate": "2021-09-24",
@@ -1988,7 +1892,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-12 10:28:07",
       "visit1vegetativev6_farm_geo_elevation": 1467.6206,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:32",
       "visit2freshmaturity_survey_start": "2022-01-13 09:49:57",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2015,8 +1918,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-29 13:28:09",
-      "longitude": 29.8641,
-      "latitude": -2.3367
+      "longitude": 29.8558,
+      "latitude": -2.3256
     },
     {
       "block_id": "b0a8cd2db3ea-27",
@@ -2027,8 +1930,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:25:55",
-      "registration_biogps_elevation": 1601.1357,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:00",
       "plantingdatephone100_survey_start": "2021-09-27 13:35:34",
       "plantingdatephone100_plantingdate": "2021-09-18",
@@ -2039,7 +1940,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-10 09:10:02",
       "visit1vegetativev6_farm_geo_elevation": 1487.3873,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:29",
       "visit2freshmaturity_survey_start": "2022-01-13 08:21:38",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2069,8 +1969,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-24 16:13:28",
-      "longitude": 29.8713,
-      "latitude": -2.3168
+      "longitude": 29.8723,
+      "latitude": -2.3326
     },
     {
       "block_id": "b0a8cd2db3ea-28",
@@ -2081,8 +1981,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:27:33",
-      "registration_biogps_elevation": 1599.6174,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-10-04 03:28:10",
       "plantingdatephone100_survey_start": "2021-10-01 07:19:50",
       "plantingdatephone100_plantingdate": "2021-09-30",
@@ -2093,7 +1991,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-24 12:47:22",
       "visit1vegetativev6_farm_geo_elevation": 1584.7256,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:27",
       "visit2freshmaturity_survey_start": "2022-01-12 11:26:45",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2120,8 +2017,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-29 17:33:34",
-      "longitude": 29.8777,
-      "latitude": -2.326
+      "longitude": 29.8679,
+      "latitude": -2.3346
     },
     {
       "block_id": "b0a8cd2db3ea-29",
@@ -2132,8 +2029,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:28:47",
-      "registration_biogps_elevation": 1599.8992,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:16",
       "plantingdatephone100_survey_start": "2021-09-30 09:53:58",
       "plantingdatephone100_plantingdate": "2021-09-30",
@@ -2144,7 +2039,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-24 17:08:35",
       "visit1vegetativev6_farm_geo_elevation": 1553.1743,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:25",
       "visit2freshmaturity_survey_start": "2022-01-12 10:46:52",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2174,8 +2068,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-24 15:33:02",
-      "longitude": 29.8761,
-      "latitude": -2.3218
+      "longitude": 29.8612,
+      "latitude": -2.3159
     },
     {
       "block_id": "b0a8cd2db3ea-30",
@@ -2186,8 +2080,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:29:52",
-      "registration_biogps_elevation": 1597.5593,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-04 03:28:09",
       "plantingdatephone100_survey_start": "2021-10-01 07:14:31",
       "plantingdatephone100_plantingdate": "2021-09-27",
@@ -2199,7 +2091,6 @@
       "visit1vegetativev6_problemexplain": "Ntabwo uturima turi kumurongo akarima ka C kari iminsi ya A na B kandi yateyemo IBISHYIMBO uturima twose",
       "visit1vegetativev6_survey_end": "2021-11-19 14:20:42",
       "visit1vegetativev6_farm_geo_elevation": 1573.0752,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:23",
       "visit2freshmaturity_survey_start": "2022-01-12 08:56:02",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2226,8 +2117,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-30 16:42:08",
-      "longitude": 29.8558,
-      "latitude": -2.3315
+      "longitude": 29.8545,
+      "latitude": -2.3449
     },
     {
       "block_id": "b0a8cd2db3ea-31",
@@ -2238,8 +2129,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:30:59",
-      "registration_biogps_elevation": 1597.0229,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:08",
       "plantingdatephone100_survey_start": "2021-09-27 13:38:31",
       "plantingdatephone100_plantingdate": "2021-09-23",
@@ -2250,7 +2139,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-15 12:20:42",
       "visit1vegetativev6_farm_geo_elevation": 1479.2925,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:30",
       "visit2freshmaturity_survey_start": "2022-01-13 08:57:23",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2280,8 +2168,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-31 16:08:11",
-      "longitude": 29.8598,
-      "latitude": -2.3352
+      "longitude": 29.8581,
+      "latitude": -2.3234
     },
     {
       "block_id": "b0a8cd2db3ea-32",
@@ -2292,8 +2180,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:33:18",
-      "registration_biogps_elevation": 1599.1758,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:15",
       "plantingdatephone100_survey_start": "2021-09-30 09:53:02",
       "plantingdatephone100_plantingdate": "2021-09-29",
@@ -2304,7 +2190,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-12 12:49:15",
       "visit1vegetativev6_farm_geo_elevation": 1579.5889,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 07:46:55",
       "visit2freshmaturity_survey_start": "2022-01-14 10:27:19",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2331,8 +2216,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-24 17:22:11",
-      "longitude": 29.873,
-      "latitude": -2.3129
+      "longitude": 29.8692,
+      "latitude": -2.3174
     },
     {
       "block_id": "b0a8cd2db3ea-33",
@@ -2343,8 +2228,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 15:15:57",
-      "registration_biogps_elevation": 1592.5049,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:15",
       "plantingdatephone100_survey_start": "2021-09-30 09:52:19",
       "plantingdatephone100_plantingdate": "2021-09-23",
@@ -2355,7 +2238,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-25 16:52:47",
       "visit1vegetativev6_farm_geo_elevation": 1543.9623,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:28",
       "visit2freshmaturity_survey_start": "2022-01-13 07:59:37",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2385,8 +2267,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-24 15:54:24",
-      "longitude": 29.8697,
-      "latitude": -2.3117
+      "longitude": 29.8634,
+      "latitude": -2.3152
     },
     {
       "block_id": "b0a8cd2db3ea-34",
@@ -2397,8 +2279,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:35:42",
-      "registration_biogps_elevation": 1599.3667,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:44:55",
       "plantingdatephone100_survey_start": "2021-09-27 13:07:01",
       "plantingdatephone100_plantingdate": "2021-09-27",
@@ -2409,7 +2289,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-17 13:33:06",
       "visit1vegetativev6_farm_geo_elevation": 1510.5107,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:32",
       "visit2freshmaturity_survey_start": "2022-01-13 09:37:41",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2436,8 +2315,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-01 10:29:44",
-      "longitude": 29.8721,
-      "latitude": -2.3279
+      "longitude": 29.8723,
+      "latitude": -2.3334
     },
     {
       "block_id": "b0a8cd2db3ea-35",
@@ -2448,8 +2327,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:36:38",
-      "registration_biogps_elevation": 1600.1436,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-04 03:28:08",
       "plantingdatephone100_survey_start": "2021-10-01 07:07:16",
       "plantingdatephone100_plantingdate": "2021-09-28",
@@ -2460,7 +2337,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-24 10:16:09",
       "visit1vegetativev6_farm_geo_elevation": 1457.5011,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:31",
       "visit2freshmaturity_survey_start": "2022-01-13 09:24:14",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2473,8 +2349,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye byose ntakarima nakamwe nigeze nsarura ifishi yihungurwa ntabwo izuzuzwa",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-04-10 13:26:34",
-      "longitude": 29.8784,
-      "latitude": -2.3345
+      "longitude": 29.8751,
+      "latitude": -2.3353
     },
     {
       "block_id": "b0a8cd2db3ea-36",
@@ -2485,8 +2361,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:37:25",
-      "registration_biogps_elevation": 1599.5215,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:44:57",
       "plantingdatephone100_survey_start": "2021-09-27 13:24:04",
       "plantingdatephone100_plantingdate": "2021-09-27",
@@ -2497,7 +2371,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-19 10:20:52",
       "visit1vegetativev6_farm_geo_elevation": 1463.9934,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:31",
       "visit2freshmaturity_survey_start": "2022-01-13 09:09:44",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2524,8 +2397,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 17:21:01",
-      "longitude": 29.8673,
-      "latitude": -2.3206
+      "longitude": 29.8744,
+      "latitude": -2.3302
     },
     {
       "block_id": "b0a8cd2db3ea-37",
@@ -2536,8 +2409,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:38:52",
-      "registration_biogps_elevation": 1598.4971,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-07 22:34:15",
       "plantingdatephone100_survey_start": "2021-10-08 06:32:44",
       "plantingdatephone100_plantingdate": "2021-09-30",
@@ -2548,7 +2419,6 @@
       "visit1vegetativev6_problemexplain": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-16 15:26:05",
       "visit1vegetativev6_farm_geo_elevation": 1541.6381,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 07:46:54",
       "visit2freshmaturity_survey_start": "2022-01-14 09:00:30",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2578,8 +2448,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-31 17:31:16",
-      "longitude": 29.8662,
-      "latitude": -2.3288
+      "longitude": 29.8548,
+      "latitude": -2.3296
     },
     {
       "block_id": "b0a8cd2db3ea-38",
@@ -2590,8 +2460,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 15:01:38",
-      "registration_biogps_elevation": 1596.5085,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:45:21",
       "plantingdatephone100_survey_start": "2021-09-30 11:09:44",
       "plantingdatephone100_plantingdate": "2021-09-28",
@@ -2603,7 +2471,6 @@
       "visit1vegetativev6_problemexplain": "Yateye imirongo kandi yari gutera itanu",
       "visit1vegetativev6_survey_end": "2021-11-12 12:22:16",
       "visit1vegetativev6_farm_geo_elevation": 1597.9668,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:19",
       "visit2freshmaturity_survey_start": "2022-01-06 12:03:29",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2633,8 +2500,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-31 14:29:44",
-      "longitude": 29.8737,
-      "latitude": -2.3204
+      "longitude": 29.8694,
+      "latitude": -2.3172
     },
     {
       "block_id": "b0a8cd2db3ea-39",
@@ -2645,8 +2512,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:41:13",
-      "registration_biogps_elevation": 1598.7744,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-10-06 07:50:19",
       "plantingdatephone100_survey_start": "2021-10-04 16:49:56",
       "plantingdatephone100_plantingdate": "2021-10-04",
@@ -2657,7 +2522,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-25 10:38:51",
       "visit1vegetativev6_farm_geo_elevation": 1597.7588,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-14 07:46:54",
       "visit2freshmaturity_survey_start": "2022-01-14 09:31:17",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2687,8 +2551,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-31 15:42:40",
-      "longitude": 29.8597,
-      "latitude": -2.3257
+      "longitude": 29.8639,
+      "latitude": -2.3242
     },
     {
       "block_id": "b0a8cd2db3ea-40",
@@ -2699,8 +2563,6 @@
       "registration_region": "South",
       "registration_cell": "NYAMIYAGA ",
       "registration_survey_end": "2021-09-08 13:43:05",
-      "registration_biogps_elevation": 1598.7266,
-      "registration_biogps_gps_precision": 3.216,
       "plantingdatephone100_submitted_date": "2021-09-30 22:44:59",
       "plantingdatephone100_survey_start": "2021-09-27 13:34:52",
       "plantingdatephone100_plantingdate": "2021-09-20",
@@ -2711,7 +2573,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-12 09:23:31",
       "visit1vegetativev6_farm_geo_elevation": 1440.1168,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.216,
       "visit2freshmaturity_submitted_date": "2022-01-14 00:52:29",
       "visit2freshmaturity_survey_start": "2022-01-13 08:31:52",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2738,8 +2599,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-01 14:31:44",
-      "longitude": 29.8628,
-      "latitude": -2.342
+      "longitude": 29.8533,
+      "latitude": -2.3275
     },
     {
       "block_id": "b0a8cd2db3ea-41",
@@ -2750,8 +2611,6 @@
       "registration_region": "South West",
       "registration_cell": "Rwesero",
       "registration_survey_end": "2021-09-04 10:04:48",
-      "registration_biogps_elevation": 1597.3381,
-      "registration_biogps_gps_precision": 3.9,
       "plantingdatephone100_submitted_date": "2021-09-26 22:31:29",
       "plantingdatephone100_survey_start": "2021-09-21 11:33:33",
       "plantingdatephone100_plantingdate": "2021-09-18",
@@ -2762,7 +2621,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yego",
       "visit1vegetativev6_survey_end": "2021-11-19 07:39:16",
       "visit1vegetativev6_farm_geo_elevation": 1572.7225,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.565,
       "visit2freshmaturity_submitted_date": "2022-01-14 10:05:54",
       "visit2freshmaturity_survey_start": "2022-01-13 11:42:23",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2788,8 +2646,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-30 10:42:06",
-      "longitude": 29.0902,
-      "latitude": -2.3734
+      "longitude": 29.0929,
+      "latitude": -2.3678
     },
     {
       "block_id": "b0a8cd2db3ea-42",
@@ -2809,7 +2667,6 @@
       "visit1vegetativev6_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit1vegetativev6_survey_end": "2021-12-10 12:11:37",
       "visit1vegetativev6_farm_geo_elevation": 1463.8298,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.833,
       "visit2freshmaturity_submitted_date": "2022-01-19 02:02:35",
       "visit2freshmaturity_survey_start": "2022-01-18 09:14:38",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2829,8 +2686,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-26 10:27:15",
-      "longitude": 29.0811,
-      "latitude": -2.3662
+      "longitude": 29.0785,
+      "latitude": -2.3502
     },
     {
       "block_id": "b0a8cd2db3ea-43",
@@ -2850,7 +2707,6 @@
       "visit1vegetativev6_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit1vegetativev6_survey_end": "2021-12-16 12:11:59",
       "visit1vegetativev6_farm_geo_elevation": 1545.7324,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.824,
       "visit2freshmaturity_submitted_date": "2022-01-14 10:05:55",
       "visit2freshmaturity_survey_start": "2022-01-14 09:01:22",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2876,8 +2732,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-04 13:40:58",
-      "longitude": 29.0801,
-      "latitude": -2.3608
+      "longitude": 29.0873,
+      "latitude": -2.351
     },
     {
       "block_id": "b0a8cd2db3ea-44",
@@ -2897,7 +2753,6 @@
       "visit1vegetativev6_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit1vegetativev6_survey_end": "2021-12-10 09:01:05",
       "visit1vegetativev6_farm_geo_elevation": 1577.4866,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.337,
       "visit2freshmaturity_submitted_date": "2022-01-13 03:42:06",
       "visit2freshmaturity_survey_start": "2022-01-13 08:16:43",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2916,8 +2771,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-28 14:49:35",
-      "longitude": 29.0862,
-      "latitude": -2.3458
+      "longitude": 29.0952,
+      "latitude": -2.3495
     },
     {
       "block_id": "b0a8cd2db3ea-45",
@@ -2937,7 +2792,6 @@
       "visit1vegetativev6_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
       "visit1vegetativev6_survey_end": "2021-12-06 11:41:59",
       "visit1vegetativev6_farm_geo_elevation": 1622.9099,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-13 03:42:10",
       "visit2freshmaturity_survey_start": "2022-01-13 09:34:28",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -2965,8 +2819,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-28 10:02:15",
-      "longitude": 29.091,
-      "latitude": -2.362
+      "longitude": 29.0893,
+      "latitude": -2.3651
     },
     {
       "block_id": "b0a8cd2db3ea-46",
@@ -2987,7 +2841,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yego",
       "visit1vegetativev6_survey_end": "2021-11-18 11:52:43",
       "visit1vegetativev6_farm_geo_elevation": 1515.3389,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.562,
       "visit2freshmaturity_submitted_date": "2022-01-13 03:42:08",
       "visit2freshmaturity_survey_start": "2022-01-13 09:11:55",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3006,8 +2859,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-11 13:09:48",
-      "longitude": 29.0934,
-      "latitude": -2.3655
+      "longitude": 29.0838,
+      "latitude": -2.3662
     },
     {
       "block_id": "b0a8cd2db3ea-47",
@@ -3029,7 +2882,6 @@
       "visit1vegetativev6_problemexplain": "Yubahirije ibisabwa ariko Variation ya C yayegeje karuguru ho gato",
       "visit1vegetativev6_survey_end": "2021-11-12 11:00:52",
       "visit1vegetativev6_farm_geo_elevation": 1568.7783,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.694,
       "visit2freshmaturity_submitted_date": "2022-01-13 03:42:09",
       "visit2freshmaturity_survey_start": "2022-01-13 09:27:14",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3057,8 +2909,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-28 12:31:20",
-      "longitude": 29.0848,
-      "latitude": -2.3702
+      "longitude": 29.0978,
+      "latitude": -2.357
     },
     {
       "block_id": "b0a8cd2db3ea-48",
@@ -3078,7 +2930,6 @@
       "visit1vegetativev6_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
       "visit1vegetativev6_survey_end": "2021-12-10 10:39:31",
       "visit1vegetativev6_farm_geo_elevation": 1582.4639,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-13 03:42:11",
       "visit2freshmaturity_survey_start": "2022-01-13 09:48:56",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3097,8 +2948,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-05-03 22:10:36",
-      "longitude": 29.0999,
-      "latitude": -2.3568
+      "longitude": 29.0996,
+      "latitude": -2.3747
     },
     {
       "block_id": "b0a8cd2db3ea-49",
@@ -3118,7 +2969,6 @@
       "visit1vegetativev6_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit1vegetativev6_survey_end": "2021-12-10 09:43:46",
       "visit1vegetativev6_farm_geo_elevation": 1591.3787,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-13 03:42:07",
       "visit2freshmaturity_survey_start": "2022-01-13 08:29:01",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3144,8 +2994,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-30 11:56:53",
-      "longitude": 29.0989,
-      "latitude": -2.3663
+      "longitude": 29.0881,
+      "latitude": -2.3424
     },
     {
       "block_id": "b0a8cd2db3ea-50",
@@ -3165,7 +3015,6 @@
       "visit1vegetativev6_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit1vegetativev6_survey_end": "2021-12-10 09:29:43",
       "visit1vegetativev6_farm_geo_elevation": 1586.0083,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-13 03:42:07",
       "visit2freshmaturity_survey_start": "2022-01-13 08:31:08",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3184,8 +3033,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-04 11:57:08",
-      "longitude": 29.0965,
-      "latitude": -2.3516
+      "longitude": 29.0801,
+      "latitude": -2.3506
     },
     {
       "block_id": "b0a8cd2db3ea-51",
@@ -3196,8 +3045,6 @@
       "registration_region": "South West",
       "registration_cell": "Rwesero",
       "registration_survey_end": "2021-09-04 10:22:37",
-      "registration_biogps_elevation": 1586.3259,
-      "registration_biogps_gps_precision": 4.695,
       "plantingdatephone100_submitted_date": "2021-09-18 04:00:31",
       "plantingdatephone100_survey_start": "2021-09-18 11:59:14",
       "plantingdatephone100_plantingdate": "2021-09-17",
@@ -3209,7 +3056,6 @@
       "visit1vegetativev6_problemexplain": "Yubahirije ibisabwa",
       "visit1vegetativev6_survey_end": "2021-11-15 12:55:49",
       "visit1vegetativev6_farm_geo_elevation": 1460.3354,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-14 10:05:59",
       "visit2freshmaturity_survey_start": "2022-01-14 18:01:45",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3235,8 +3081,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-05 13:06:46",
-      "longitude": 29.0784,
-      "latitude": -2.3649
+      "longitude": 29.0867,
+      "latitude": -2.3585
     },
     {
       "block_id": "b0a8cd2db3ea-52",
@@ -3247,8 +3093,6 @@
       "registration_region": "South West",
       "registration_cell": "Rwesero",
       "registration_survey_end": "2021-09-04 10:16:24",
-      "registration_biogps_elevation": 1592.9453,
-      "registration_biogps_gps_precision": 4.451,
       "plantingdatephone100_submitted_date": "2021-09-26 22:31:32",
       "plantingdatephone100_survey_start": "2021-09-21 11:36:31",
       "plantingdatephone100_plantingdate": "2021-09-20",
@@ -3259,7 +3103,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-19 12:32:15",
       "visit1vegetativev6_farm_geo_elevation": 1459.8709,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.931,
       "visit2freshmaturity_submitted_date": "2022-01-14 10:08:52",
       "visit2freshmaturity_survey_start": "2022-01-14 18:06:46",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3278,8 +3121,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-26 13:43:18",
-      "longitude": 29.0771,
-      "latitude": -2.3543
+      "longitude": 29.0804,
+      "latitude": -2.3703
     },
     {
       "block_id": "b0a8cd2db3ea-53",
@@ -3290,8 +3133,6 @@
       "registration_region": "South West",
       "registration_cell": "Rwesero",
       "registration_survey_end": "2021-09-05 05:57:13",
-      "registration_biogps_elevation": 1588.418,
-      "registration_biogps_gps_precision": 4.824,
       "plantingdatephone100_submitted_date": "2021-09-16 08:01:18",
       "plantingdatephone100_survey_start": "2021-09-16 15:54:20",
       "plantingdatephone100_plantingdate": "2021-09-08",
@@ -3303,7 +3144,6 @@
       "visit1vegetativev6_problemexplain": "Burakomeje ariko yateye ubuso burenze ngo kuko yabonaga utubuto turi gusaguka atera imyobo irindwi kumirongo irindwi",
       "visit1vegetativev6_survey_end": "2021-11-12 12:26:43",
       "visit1vegetativev6_farm_geo_elevation": 1561.962,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.63,
       "visit2freshmaturity_submitted_date": "2022-01-10 06:08:09",
       "visit2freshmaturity_survey_start": "2022-01-10 14:03:40",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3332,8 +3172,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-28 13:25:22",
-      "longitude": 29.0921,
-      "latitude": -2.3626
+      "longitude": 29.0892,
+      "latitude": -2.3709
     },
     {
       "block_id": "b0a8cd2db3ea-54",
@@ -3344,8 +3184,6 @@
       "registration_region": "South West",
       "registration_cell": "Wiamana",
       "registration_survey_end": "2021-09-04 10:09:30",
-      "registration_biogps_elevation": 1593.176,
-      "registration_biogps_gps_precision": 4.801,
       "plantingdatephone100_submitted_date": "2021-10-13 05:29:47",
       "plantingdatephone100_survey_start": "2021-10-13 13:28:01",
       "plantingdatephone100_plantingdate": "2021-10-13",
@@ -3355,7 +3193,6 @@
       "visit1vegetativev6_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit1vegetativev6_survey_end": "2021-12-16 10:02:33",
       "visit1vegetativev6_farm_geo_elevation": 1578.3359,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.99,
       "visit2freshmaturity_submitted_date": "2022-02-23 12:27:21",
       "visit2freshmaturity_survey_start": "2022-02-23 19:57:06",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3374,8 +3211,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-11 16:28:38",
-      "longitude": 29.0849,
-      "latitude": -2.3543
+      "longitude": 29.1082,
+      "latitude": -2.3601
     },
     {
       "block_id": "b0a8cd2db3ea-55",
@@ -3386,8 +3223,6 @@
       "registration_region": "South West",
       "registration_cell": "Rwesero",
       "registration_survey_end": "2021-09-04 10:12:34",
-      "registration_biogps_elevation": 1598.5961,
-      "registration_biogps_gps_precision": 4.897,
       "plantingdatephone100_submitted_date": "2021-09-30 12:44:27",
       "plantingdatephone100_survey_start": "2021-09-30 11:26:50",
       "plantingdatephone100_plantingdate": "2021-09-18",
@@ -3399,13 +3234,12 @@
       "visit1vegetativev6_problemexplain": "Yubahirije ibisabwa",
       "visit1vegetativev6_survey_end": "2021-11-15 11:00:19",
       "visit1vegetativev6_farm_geo_elevation": 1468.2725,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.99,
       "visit2freshmaturity_submitted_date": "2022-01-19 02:02:34",
       "visit2freshmaturity_survey_start": "2022-01-18 09:07:43",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit2freshmaturity_survey_end": "2022-01-18 09:09:44",
-      "longitude": 29.0789,
-      "latitude": -2.3554
+      "longitude": 29.0727,
+      "latitude": -2.3495
     },
     {
       "block_id": "b0a8cd2db3ea-56",
@@ -3427,7 +3261,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi plots yazikurikiranyije neza nkuko yabyigishijwe nuko gusa yayate kuntera niniho gatoya ",
       "visit1vegetativev6_survey_end": "2021-11-28 16:37:52",
       "visit1vegetativev6_farm_geo_elevation": 1138.6378,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.561,
       "visit2freshmaturity_submitted_date": "2022-01-11 08:57:39",
       "visit2freshmaturity_survey_start": "2022-01-11 16:55:24",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3459,8 +3292,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-20 07:54:59",
-      "longitude": 29.0172,
-      "latitude": -2.6218
+      "longitude": 28.9981,
+      "latitude": -2.632
     },
     {
       "block_id": "b0a8cd2db3ea-57",
@@ -3482,7 +3315,6 @@
       "visit1vegetativev6_problemexplain": "Yego umuinzi yakurikije plots neza",
       "visit1vegetativev6_survey_end": "2021-12-12 17:03:17",
       "visit1vegetativev6_farm_geo_elevation": 1137.6252,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-23 09:11:01",
       "visit2freshmaturity_survey_start": "2022-01-23 17:06:18",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3514,8 +3346,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-19 13:42:42",
-      "longitude": 29.0001,
-      "latitude": -2.6187
+      "longitude": 29.0078,
+      "latitude": -2.6174
     },
     {
       "block_id": "b0a8cd2db3ea-58",
@@ -3537,7 +3369,6 @@
       "visit1vegetativev6_problemexplain": "Nubwobigaragarako udukaro atatunganyije ariko yadukuriranyije neza ",
       "visit1vegetativev6_survey_end": "2021-11-14 07:18:03",
       "visit1vegetativev6_farm_geo_elevation": 1243.3971,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.873,
       "visit2freshmaturity_submitted_date": "2022-01-11 01:24:34",
       "visit2freshmaturity_survey_start": "2022-01-11 07:31:06",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3561,8 +3392,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-25 08:00:43",
-      "longitude": 28.9959,
-      "latitude": -2.6186
+      "longitude": 29.008,
+      "latitude": -2.6209
     },
     {
       "block_id": "b0a8cd2db3ea-59",
@@ -3584,7 +3415,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi nubwo atatondekanyije plots neza ariko yemejenezako aho signs zishinze ninaho yateye imbuto ",
       "visit1vegetativev6_survey_end": "2021-11-11 08:35:27",
       "visit1vegetativev6_farm_geo_elevation": 1271.7118,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.272,
       "visit2freshmaturity_submitted_date": "2022-01-13 07:24:38",
       "visit2freshmaturity_survey_start": "2022-01-13 14:25:01",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -3616,8 +3446,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-16 12:12:17",
-      "longitude": 28.996,
-      "latitude": -2.6155
+      "longitude": 29.0048,
+      "latitude": -2.6262
     },
     {
       "block_id": "b0a8cd2db3ea-60",
@@ -3639,7 +3469,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yatondekanyije plots neza nkuko yabihuguriwe ",
       "visit1vegetativev6_survey_end": "2021-11-12 07:07:40",
       "visit1vegetativev6_farm_geo_elevation": 1142.6783,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-11 01:24:39",
       "visit2freshmaturity_survey_start": "2022-01-11 08:50:32",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3663,8 +3492,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-16 15:34:55",
-      "longitude": 29.0144,
-      "latitude": -2.6204
+      "longitude": 28.9961,
+      "latitude": -2.6315
     },
     {
       "block_id": "b0a8cd2db3ea-61",
@@ -3686,7 +3515,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yazikurikije neza bt nuko yashyizemo intera ndende ",
       "visit1vegetativev6_survey_end": "2021-11-27 12:46:17",
       "visit1vegetativev6_farm_geo_elevation": 1132.2845,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.698,
       "visit2freshmaturity_submitted_date": "2022-01-11 01:24:38",
       "visit2freshmaturity_survey_start": "2022-01-11 08:29:04",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3718,8 +3546,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-17 16:34:02",
-      "longitude": 28.9977,
-      "latitude": -2.6225
+      "longitude": 29.02,
+      "latitude": -2.6354
     },
     {
       "block_id": "b0a8cd2db3ea-62",
@@ -3741,7 +3569,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yabikoze neza nkuko yabyigishijwe ",
       "visit1vegetativev6_survey_end": "2021-11-27 17:01:35",
       "visit1vegetativev6_farm_geo_elevation": 1147.5194,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.192,
       "visit2freshmaturity_submitted_date": "2022-01-11 08:57:38",
       "visit2freshmaturity_survey_start": "2022-01-11 16:45:54",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3765,8 +3592,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-17 14:56:21",
-      "longitude": 28.9942,
-      "latitude": -2.6311
+      "longitude": 29.0099,
+      "latitude": -2.6271
     },
     {
       "block_id": "b0a8cd2db3ea-63",
@@ -3788,7 +3615,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yakuriranyije plots neza ariko mugutera harahabonetse imirongo myinshi nibyobo byinshi, ahandi bikeya ",
       "visit1vegetativev6_survey_end": "2021-11-12 09:58:31",
       "visit1vegetativev6_farm_geo_elevation": 1318.8425,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.824,
       "visit2freshmaturity_submitted_date": "2022-01-19 09:25:30",
       "visit2freshmaturity_survey_start": "2022-01-19 15:45:59",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -3820,8 +3646,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-24 14:56:26",
-      "longitude": 28.9905,
-      "latitude": -2.6359
+      "longitude": 28.9883,
+      "latitude": -2.6294
     },
     {
       "block_id": "b0a8cd2db3ea-64",
@@ -3843,7 +3669,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yabanje atera VA haruguru variation B munsi, Vc ayishyira iburyo, ",
       "visit1vegetativev6_survey_end": "2021-12-12 17:54:21",
       "visit1vegetativev6_farm_geo_elevation": 1150.6572,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-19 09:25:33",
       "visit2freshmaturity_survey_start": "2022-01-19 16:51:30",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -3867,8 +3692,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-17 17:43:25",
-      "longitude": 29.0013,
-      "latitude": -2.6242
+      "longitude": 29.0011,
+      "latitude": -2.6286
     },
     {
       "block_id": "b0a8cd2db3ea-65",
@@ -3890,7 +3715,6 @@
       "visit1vegetativev6_problemexplain": "Yabiteye neza bt yasizemo intera ndende ",
       "visit1vegetativev6_survey_end": "2021-11-27 13:00:25",
       "visit1vegetativev6_farm_geo_elevation": 1130.8005,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.347,
       "visit2freshmaturity_submitted_date": "2022-01-11 01:24:35",
       "visit2freshmaturity_survey_start": "2022-01-11 08:17:15",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3922,8 +3746,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-04 06:56:41",
-      "longitude": 29.0144,
-      "latitude": -2.6302
+      "longitude": 29.0173,
+      "latitude": -2.6384
     },
     {
       "block_id": "b0a8cd2db3ea-66",
@@ -3945,7 +3769,6 @@
       "visit1vegetativev6_problemexplain": "Nubwo umuhinzi yateye kuntera ndende bt yakurikije plots uko zikurikirana ",
       "visit1vegetativev6_survey_end": "2021-11-29 09:42:58",
       "visit1vegetativev6_farm_geo_elevation": 1432.3766,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.158,
       "visit2freshmaturity_submitted_date": "2022-01-19 09:25:34",
       "visit2freshmaturity_survey_start": "2022-01-19 16:54:46",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -3977,8 +3800,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-04 07:19:57",
-      "longitude": 28.9901,
-      "latitude": -2.6251
+      "longitude": 28.9866,
+      "latitude": -2.608
     },
     {
       "block_id": "b0a8cd2db3ea-67",
@@ -3989,8 +3812,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:04:03",
-      "registration_biogps_elevation": 1261.9591,
-      "registration_biogps_gps_precision": 4.942,
       "plantingdatephone100_submitted_date": "2021-10-17 22:18:34",
       "plantingdatephone100_survey_start": "2021-10-18 06:17:16",
       "plantingdatephone100_plantingdate": "2021-10-14",
@@ -4002,9 +3823,8 @@
       "visit1vegetativev6_problemexplain": "Ibigori ntibyameze ",
       "visit1vegetativev6_survey_end": "2021-12-02 19:53:46",
       "visit1vegetativev6_farm_geo_elevation": 1257.3135,
-      "visit1vegetativev6_farm_geo_gps_precision": 21.44,
-      "longitude": 28.9993,
-      "latitude": -2.6172
+      "longitude": 29.002,
+      "latitude": -2.6315
     },
     {
       "block_id": "b0a8cd2db3ea-68",
@@ -4015,8 +3835,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:05:57",
-      "registration_biogps_elevation": 1242.7577,
-      "registration_biogps_gps_precision": 4.824,
       "plantingdatephone100_submitted_date": "2021-10-12 13:13:09",
       "plantingdatephone100_survey_start": "2021-10-12 15:59:40",
       "plantingdatephone100_plantingdate": "2021-10-12",
@@ -4028,7 +3846,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yakurikije plots nkuko yabyigishijwe ",
       "visit1vegetativev6_survey_end": "2021-11-21 09:26:55",
       "visit1vegetativev6_farm_geo_elevation": 1333.3703,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.931,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:24:51",
       "visit2freshmaturity_survey_start": "2022-01-13 17:20:23",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4060,8 +3877,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-24 18:38:17",
-      "longitude": 28.9813,
-      "latitude": -2.612
+      "longitude": 28.9809,
+      "latitude": -2.6176
     },
     {
       "block_id": "b0a8cd2db3ea-69",
@@ -4072,8 +3889,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:08:36",
-      "registration_biogps_elevation": 1235.3079,
-      "registration_biogps_gps_precision": 4.759,
       "plantingdatephone100_submitted_date": "2021-09-28 09:16:40",
       "plantingdatephone100_survey_start": "2021-09-28 17:15:16",
       "plantingdatephone100_plantingdate": "2021-09-28",
@@ -4085,7 +3900,6 @@
       "visit1vegetativev6_problemexplain": "Yabiteye neza nkuko yabihuguriwe ",
       "visit1vegetativev6_survey_end": "2021-11-29 08:51:28",
       "visit1vegetativev6_farm_geo_elevation": 1418.1139,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.269,
       "visit2freshmaturity_submitted_date": "2022-01-23 09:10:55",
       "visit2freshmaturity_survey_start": "2022-01-23 16:50:19",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4117,8 +3931,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-24 16:01:50",
-      "longitude": 29.0012,
-      "latitude": -2.6198
+      "longitude": 28.9978,
+      "latitude": -2.6223
     },
     {
       "block_id": "b0a8cd2db3ea-70",
@@ -4129,8 +3943,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:09:59",
-      "registration_biogps_elevation": 1241.2991,
-      "registration_biogps_gps_precision": 4.055,
       "plantingdatephone100_submitted_date": "2021-10-04 08:14:30",
       "plantingdatephone100_survey_start": "2021-10-04 16:12:25",
       "plantingdatephone100_plantingdate": "2021-10-04",
@@ -4142,7 +3954,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yakurikiranyije plots ukozipanze ",
       "visit1vegetativev6_survey_end": "2021-11-19 10:45:54",
       "visit1vegetativev6_farm_geo_elevation": 1151.1694,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.835,
       "visit2freshmaturity_submitted_date": "2022-01-11 01:24:40",
       "visit2freshmaturity_survey_start": "2022-01-11 09:13:30",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4166,8 +3977,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-22 18:05:26",
-      "longitude": 29.0031,
-      "latitude": -2.6153
+      "longitude": 29.0076,
+      "latitude": -2.6328
     },
     {
       "block_id": "b0a8cd2db3ea-71",
@@ -4178,8 +3989,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:11:42",
-      "registration_biogps_elevation": 1242.1637,
-      "registration_biogps_gps_precision": 4.561,
       "plantingdatephone100_submitted_date": "2021-10-07 06:33:35",
       "plantingdatephone100_survey_start": "2021-10-06 15:14:16",
       "plantingdatephone100_plantingdate": "2021-10-06",
@@ -4191,7 +4000,6 @@
       "visit1vegetativev6_problemexplain": "Yego umuhinzi yakurikije plots uko ziteganyijwe ",
       "visit1vegetativev6_survey_end": "2021-12-05 17:10:36",
       "visit1vegetativev6_farm_geo_elevation": 1226.8709,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-19 09:25:35",
       "visit2freshmaturity_survey_start": "2022-01-19 17:21:11",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4223,8 +4031,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-03 17:29:01",
-      "longitude": 29.0017,
-      "latitude": -2.6152
+      "longitude": 29.0116,
+      "latitude": -2.6306
     },
     {
       "block_id": "b0a8cd2db3ea-72",
@@ -4235,8 +4043,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:13:03",
-      "registration_biogps_elevation": 1241.7634,
-      "registration_biogps_gps_precision": 4.995,
       "plantingdatephone100_submitted_date": "2021-10-02 07:55:42",
       "plantingdatephone100_survey_start": "2021-10-02 15:54:33",
       "plantingdatephone100_plantingdate": "2021-10-02",
@@ -4248,7 +4054,6 @@
       "visit1vegetativev6_problemexplain": "Yego, umuhinzi yakurikije plots neza nkuko yabyigishijwe ",
       "visit1vegetativev6_survey_end": "2021-11-21 10:11:20",
       "visit1vegetativev6_farm_geo_elevation": 1453.9783,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.272,
       "visit2freshmaturity_submitted_date": "2022-01-19 09:25:30",
       "visit2freshmaturity_survey_start": "2022-01-19 11:03:55",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -4262,8 +4067,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Oya ntibukoje, uyumuhinzi ngo yasanze baratangiye kubyiba udusigayemo adusarura atuvanga,kuko twaridukeya.",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-14 06:20:58",
-      "longitude": 29.0037,
-      "latitude": -2.6119
+      "longitude": 29.0048,
+      "latitude": -2.6218
     },
     {
       "block_id": "b0a8cd2db3ea-73",
@@ -4274,8 +4079,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:15:56",
-      "registration_biogps_elevation": 1241.5512,
-      "registration_biogps_gps_precision": 4.824,
       "plantingdatephone100_submitted_date": "2021-10-09 07:48:51",
       "plantingdatephone100_survey_start": "2021-10-09 15:44:05",
       "plantingdatephone100_plantingdate": "2021-10-09",
@@ -4287,7 +4090,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi nubwo yahereye iburyo ajya ibumoso ariko asobanurako aho icyapa gishinze niho yagiye atera imbuto ",
       "visit1vegetativev6_survey_end": "2021-11-27 17:58:10",
       "visit1vegetativev6_farm_geo_elevation": 1138.45,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.912,
       "visit2freshmaturity_submitted_date": "2022-01-13 07:43:58",
       "visit2freshmaturity_survey_start": "2022-01-13 15:36:39",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -4319,8 +4121,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-19 15:14:18",
-      "longitude": 29.0036,
-      "latitude": -2.6259
+      "longitude": 29.0117,
+      "latitude": -2.6274
     },
     {
       "block_id": "b0a8cd2db3ea-74",
@@ -4331,8 +4133,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:18:39",
-      "registration_biogps_elevation": 1243.733,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-09 07:48:51",
       "plantingdatephone100_survey_start": "2021-10-09 15:45:02",
       "plantingdatephone100_plantingdate": "2021-10-08",
@@ -4344,7 +4144,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yabikoze nkuko yabihuguriwe nubwo yakoresheje intera zidahuye ",
       "visit1vegetativev6_survey_end": "2021-11-28 16:16:36",
       "visit1vegetativev6_farm_geo_elevation": 1140.0083,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.565,
       "visit2freshmaturity_submitted_date": "2022-01-11 08:57:37",
       "visit2freshmaturity_survey_start": "2022-01-11 16:34:58",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4358,8 +4157,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Umuhinzi yabisaruye arangije arabivanga",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-20 13:52:07",
-      "longitude": 28.9967,
-      "latitude": -2.6262
+      "longitude": 29.018,
+      "latitude": -2.6336
     },
     {
       "block_id": "b0a8cd2db3ea-75",
@@ -4370,10 +4169,8 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:20:12",
-      "registration_biogps_elevation": 1242.2772,
-      "registration_biogps_gps_precision": 4.716,
-      "longitude": 29.0048,
-      "latitude": -2.6301
+      "longitude": 28.998,
+      "latitude": -2.6142
     },
     {
       "block_id": "b0a8cd2db3ea-76",
@@ -4395,7 +4192,6 @@
       "visit1vegetativev6_problemexplain": "Yabikoze nkuko yabyigishijwe ",
       "visit1vegetativev6_survey_end": "2021-11-29 08:35:02",
       "visit1vegetativev6_farm_geo_elevation": 1396.2906,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.801,
       "visit2freshmaturity_submitted_date": "2022-01-23 09:10:56",
       "visit2freshmaturity_survey_start": "2022-01-23 16:58:04",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4418,8 +4214,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-24 16:33:16",
-      "longitude": 28.9906,
-      "latitude": -2.6317
+      "longitude": 28.991,
+      "latitude": -2.6309
     },
     {
       "block_id": "b0a8cd2db3ea-77",
@@ -4441,7 +4237,6 @@
       "visit1vegetativev6_problemexplain": "Yego plots yazitondekanyije ukoyabyigishijwe ",
       "visit1vegetativev6_survey_end": "2021-11-27 13:56:08",
       "visit1vegetativev6_farm_geo_elevation": 1144.3746,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.898,
       "visit2freshmaturity_submitted_date": "2022-01-13 07:24:39",
       "visit2freshmaturity_survey_start": "2022-01-13 14:47:34",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4473,8 +4268,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-27 10:58:04",
-      "longitude": 29.0052,
-      "latitude": -2.6214
+      "longitude": 29.0092,
+      "latitude": -2.6366
     },
     {
       "block_id": "b0a8cd2db3ea-78",
@@ -4485,8 +4280,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:23:36",
-      "registration_biogps_elevation": 1243.2961,
-      "registration_biogps_gps_precision": 4.931,
       "plantingdatephone100_submitted_date": "2021-10-01 03:12:10",
       "plantingdatephone100_survey_start": "2021-10-01 11:11:10",
       "plantingdatephone100_plantingdate": "2021-10-01",
@@ -4498,7 +4291,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yakurikije plots nkuko yabyigishijwe ",
       "visit1vegetativev6_survey_end": "2021-12-12 16:20:23",
       "visit1vegetativev6_farm_geo_elevation": 1142.4846,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-19 09:25:32",
       "visit2freshmaturity_survey_start": "2022-01-19 16:19:15",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4521,8 +4313,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-24 16:38:39",
-      "longitude": 29.0145,
-      "latitude": -2.6187
+      "longitude": 29.0099,
+      "latitude": -2.6328
     },
     {
       "block_id": "b0a8cd2db3ea-79",
@@ -4544,7 +4336,6 @@
       "visit1vegetativev6_problemexplain": "Yego umuhinzi yakurikije protocol yigishijwe ",
       "visit1vegetativev6_survey_end": "2021-11-16 11:01:02",
       "visit1vegetativev6_farm_geo_elevation": 1150.0816,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.801,
       "visit2freshmaturity_submitted_date": "2022-01-13 07:24:40",
       "visit2freshmaturity_survey_start": "2022-01-13 15:03:54",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4571,8 +4362,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-17 11:49:20",
-      "longitude": 28.9929,
-      "latitude": -2.6289
+      "longitude": 29.0054,
+      "latitude": -2.6423
     },
     {
       "block_id": "b0a8cd2db3ea-80",
@@ -4583,8 +4374,6 @@
       "registration_region": "South West",
       "registration_cell": "Hangabashi ",
       "registration_survey_end": "2021-09-06 10:25:20",
-      "registration_biogps_elevation": 1247.2697,
-      "registration_biogps_gps_precision": 4.853,
       "plantingdatephone100_submitted_date": "2021-10-12 13:13:09",
       "plantingdatephone100_survey_start": "2021-10-12 15:59:12",
       "plantingdatephone100_plantingdate": "2021-10-09",
@@ -4596,7 +4385,6 @@
       "visit1vegetativev6_problemexplain": "Yabikoze nkuko yabihuguriwe ",
       "visit1vegetativev6_survey_end": "2021-12-12 17:32:50",
       "visit1vegetativev6_farm_geo_elevation": 1138.1085,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.922,
       "visit2freshmaturity_submitted_date": "2022-01-19 09:25:33",
       "visit2freshmaturity_survey_start": "2022-01-19 16:21:36",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4620,8 +4408,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-18 17:29:57",
-      "longitude": 29.0029,
-      "latitude": -2.6414
+      "longitude": 29.0194,
+      "latitude": -2.6315
     },
     {
       "block_id": "b0a8cd2db3ea-81",
@@ -4632,8 +4420,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:15:47",
-      "registration_biogps_elevation": 1134.9852,
-      "registration_biogps_gps_precision": 4.873,
       "plantingdatephone100_submitted_date": "2021-10-17 22:20:45",
       "plantingdatephone100_survey_start": "2021-10-18 06:19:53",
       "plantingdatephone100_plantingdate": "2021-10-15",
@@ -4645,7 +4431,6 @@
       "visit1vegetativev6_problemexplain": "Yego burakomeje bt umuhinzi ntiyakurikiranyije neza plots kuko yahere kuri variation ya C aheruka variation A",
       "visit1vegetativev6_survey_end": "2021-12-08 11:13:36",
       "visit1vegetativev6_farm_geo_elevation": 1030.4336,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.132,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:51:31",
       "visit2freshmaturity_survey_start": "2022-01-12 10:01:50",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -4677,8 +4462,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-20 14:01:24",
-      "longitude": 29.0515,
-      "latitude": -2.6896
+      "longitude": 29.0464,
+      "latitude": -2.6768
     },
     {
       "block_id": "b0a8cd2db3ea-82",
@@ -4689,8 +4474,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:17:43",
-      "registration_biogps_elevation": 1131.1403,
-      "registration_biogps_gps_precision": 3.9,
       "plantingdatephone100_submitted_date": "2021-10-07 06:33:55",
       "plantingdatephone100_survey_start": "2021-10-07 10:07:47",
       "plantingdatephone100_plantingdate": "2021-10-06",
@@ -4702,7 +4485,6 @@
       "visit1vegetativev6_problemexplain": "Hano umuhinzi yahereye ibumoso ajya iburyo uko umurima upanze ni C,B,A yemezako iho icyapa gishinze arinaho hateye imbuto bijyanye ",
       "visit1vegetativev6_survey_end": "2021-11-20 11:24:02",
       "visit1vegetativev6_farm_geo_elevation": 1104.9768,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.565,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:51:37",
       "visit2freshmaturity_survey_start": "2022-01-12 13:37:03",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -4729,8 +4511,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-29 12:39:57",
-      "longitude": 29.0394,
-      "latitude": -2.6828
+      "longitude": 29.0498,
+      "latitude": -2.6837
     },
     {
       "block_id": "b0a8cd2db3ea-83",
@@ -4741,8 +4523,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura",
       "registration_survey_end": "2021-09-04 12:20:01",
-      "registration_biogps_elevation": 1129.6052,
-      "registration_biogps_gps_precision": 3.9,
       "plantingdatephone100_submitted_date": "2021-10-17 10:44:08",
       "plantingdatephone100_survey_start": "2021-10-17 18:40:05",
       "plantingdatephone100_plantingdate": "2021-10-13",
@@ -4754,7 +4534,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yakurikije plots nkuko yabyigishijwe gusa nuko yagiye afata ubugari butaribwo nuburebure ",
       "visit1vegetativev6_survey_end": "2021-12-14 08:45:56",
       "visit1vegetativev6_farm_geo_elevation": 1063.9392,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.132,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:51:14",
       "visit2freshmaturity_survey_start": "2022-01-12 08:59:34",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4786,8 +4565,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-25 13:18:04",
-      "longitude": 29.0306,
-      "latitude": -2.6842
+      "longitude": 29.0529,
+      "latitude": -2.6758
     },
     {
       "block_id": "b0a8cd2db3ea-84",
@@ -4798,8 +4577,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:22:03",
-      "registration_biogps_elevation": 1133.0135,
-      "registration_biogps_gps_precision": 4.912,
       "plantingdatephone100_submitted_date": "2021-10-17 10:44:08",
       "plantingdatephone100_survey_start": "2021-10-17 18:42:58",
       "plantingdatephone100_plantingdate": "2021-10-13",
@@ -4811,9 +4588,8 @@
       "visit1vegetativev6_problemexplain": "Variation ya A ntiyameze umuhinzi ateramo ibindi ",
       "visit1vegetativev6_survey_end": "2021-12-14 10:30:42",
       "visit1vegetativev6_farm_geo_elevation": 996.126,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.744,
-      "longitude": 29.0658,
-      "latitude": -2.6909
+      "longitude": 29.049,
+      "latitude": -2.6756
     },
     {
       "block_id": "b0a8cd2db3ea-85",
@@ -4824,8 +4600,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:23:00",
-      "registration_biogps_elevation": 1134.2863,
-      "registration_biogps_gps_precision": 4.99,
       "plantingdatephone100_submitted_date": "2021-10-05 10:30:24",
       "plantingdatephone100_survey_start": "2021-10-05 18:25:35",
       "plantingdatephone100_plantingdate": "2021-10-03",
@@ -4837,7 +4611,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yabigenje neza nkuko yabyigishijwe ",
       "visit1vegetativev6_survey_end": "2021-12-16 14:21:36",
       "visit1vegetativev6_farm_geo_elevation": 1136.4873,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.931,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:51:36",
       "visit2freshmaturity_survey_start": "2022-01-12 13:13:59",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -4871,8 +4644,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-21 11:13:06",
-      "longitude": 29.0347,
-      "latitude": -2.6781
+      "longitude": 29.0521,
+      "latitude": -2.6918
     },
     {
       "block_id": "b0a8cd2db3ea-86",
@@ -4883,8 +4656,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:24:42",
-      "registration_biogps_elevation": 1133.9098,
-      "registration_biogps_gps_precision": 4.094,
       "plantingdatephone100_submitted_date": "2021-10-23 23:46:19",
       "plantingdatephone100_survey_start": "2021-10-24 07:45:01",
       "plantingdatephone100_plantingdate": "2021-10-19",
@@ -4896,9 +4667,8 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi avuzeko yabiteye imbeba zirabirya ashyiramo ibindi.ahandi ashyiramo inyanya muri Variation ya A ",
       "visit1vegetativev6_survey_end": "2021-12-16 14:07:23",
       "visit1vegetativev6_farm_geo_elevation": 1144.3608,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.451,
-      "longitude": 29.0577,
-      "latitude": -2.6837
+      "longitude": 29.0572,
+      "latitude": -2.6747
     },
     {
       "block_id": "b0a8cd2db3ea-87",
@@ -4909,8 +4679,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura",
       "registration_survey_end": "2021-09-04 12:26:11",
-      "registration_biogps_elevation": 1131.1947,
-      "registration_biogps_gps_precision": 3.977,
       "plantingdatephone100_submitted_date": "2021-10-25 05:35:26",
       "plantingdatephone100_survey_start": "2021-10-25 11:01:47",
       "plantingdatephone100_plantingdate": "2021-10-05",
@@ -4922,7 +4690,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yabanje variation ya C akurikizaho B aheruka A",
       "visit1vegetativev6_survey_end": "2021-12-14 13:04:01",
       "visit1vegetativev6_farm_geo_elevation": 1141.3291,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.922,
       "visit2freshmaturity_submitted_date": "2022-01-15 08:53:09",
       "visit2freshmaturity_survey_start": "2022-01-15 12:03:17",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -4954,8 +4721,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-21 08:40:45",
-      "longitude": 29.0362,
-      "latitude": -2.6664
+      "longitude": 29.0422,
+      "latitude": -2.6716
     },
     {
       "block_id": "b0a8cd2db3ea-88",
@@ -4966,8 +4733,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:27:41",
-      "registration_biogps_elevation": 1148.1865,
-      "registration_biogps_gps_precision": 4.288,
       "plantingdatephone100_submitted_date": "2021-10-04 08:27:09",
       "plantingdatephone100_survey_start": "2021-10-04 16:23:41",
       "plantingdatephone100_plantingdate": "2021-10-04",
@@ -4979,7 +4744,6 @@
       "visit1vegetativev6_problemexplain": "Arko imirongo nibyobo yagiye ashyiramo bikeya nkuko twabiteganyaka ",
       "visit1vegetativev6_survey_end": "2021-11-20 10:42:59",
       "visit1vegetativev6_farm_geo_elevation": 1138.1267,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.466,
       "visit2freshmaturity_submitted_date": "2022-01-15 08:53:12",
       "visit2freshmaturity_survey_start": "2022-01-15 16:07:57",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5002,8 +4766,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-25 11:13:51",
-      "longitude": 29.0429,
-      "latitude": -2.6889
+      "longitude": 29.0376,
+      "latitude": -2.6881
     },
     {
       "block_id": "b0a8cd2db3ea-89",
@@ -5014,8 +4778,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura",
       "registration_survey_end": "2021-09-04 12:29:10",
-      "registration_biogps_elevation": 1132.055,
-      "registration_biogps_gps_precision": 4.824,
       "plantingdatephone100_submitted_date": "2021-10-17 09:29:18",
       "plantingdatephone100_survey_start": "2021-10-17 17:03:26",
       "plantingdatephone100_plantingdate": "2021-10-12",
@@ -5027,7 +4789,6 @@
       "visit1vegetativev6_problemexplain": "Nubwo variation ya A itameze neza, yariyazikurikiranyije neza ",
       "visit1vegetativev6_survey_end": "2021-12-11 12:54:17",
       "visit1vegetativev6_farm_geo_elevation": 1119.6628,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.931,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:51:34",
       "visit2freshmaturity_survey_start": "2022-01-12 13:10:12",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5061,8 +4822,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 13:04:55",
-      "longitude": 29.0521,
-      "latitude": -2.6699
+      "longitude": 29.0578,
+      "latitude": -2.6737
     },
     {
       "block_id": "b0a8cd2db3ea-90",
@@ -5073,8 +4834,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:30:27",
-      "registration_biogps_elevation": 1133.3164,
-      "registration_biogps_gps_precision": 4.63,
       "plantingdatephone100_submitted_date": "2021-10-11 05:59:26",
       "plantingdatephone100_survey_start": "2021-10-11 13:58:19",
       "plantingdatephone100_plantingdate": "2021-10-06",
@@ -5086,15 +4845,14 @@
       "visit1vegetativev6_problemexplain": "Gusa umuhinzi yateye gatoya bishoboka cyane ",
       "visit1vegetativev6_survey_end": "2021-12-08 10:44:46",
       "visit1vegetativev6_farm_geo_elevation": 1115.1251,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:51:38",
       "visit2freshmaturity_survey_start": "2022-01-12 13:53:52",
       "visit2freshmaturity_trialsuccess": "No Because Crop Did Not Survive",
       "visit2freshmaturity_trialsuccess_oth": "Not",
       "visit2freshmaturity_problemexplain": "Umuhinzi ntiyakurikiranye ibihingwa neza ",
       "visit2freshmaturity_survey_end": "2022-01-12 13:55:23",
-      "longitude": 29.0517,
-      "latitude": -2.6742
+      "longitude": 29.0603,
+      "latitude": -2.6897
     },
     {
       "block_id": "b0a8cd2db3ea-91",
@@ -5105,8 +4863,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura",
       "registration_survey_end": "2021-09-04 12:32:12",
-      "registration_biogps_elevation": 1132.6916,
-      "registration_biogps_gps_precision": 4.912,
       "plantingdatephone100_submitted_date": "2021-10-07 06:33:33",
       "plantingdatephone100_survey_start": "2021-10-06 15:06:40",
       "plantingdatephone100_plantingdate": "2021-10-06",
@@ -5118,7 +4874,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi ntiyakurikije plots kuko aharikujya variation A, yahabanje C.nikoyabigenje C,B,A",
       "visit1vegetativev6_survey_end": "2021-12-08 13:55:42",
       "visit1vegetativev6_farm_geo_elevation": 1123.7307,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:51:39",
       "visit2freshmaturity_survey_start": "2022-01-12 14:04:37",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -5149,8 +4904,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-29 10:55:16",
-      "longitude": 29.0447,
-      "latitude": -2.6715
+      "longitude": 29.0492,
+      "latitude": -2.6683
     },
     {
       "block_id": "b0a8cd2db3ea-92",
@@ -5161,8 +4916,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:33:48",
-      "registration_biogps_elevation": 1138.9163,
-      "registration_biogps_gps_precision": 4.484,
       "plantingdatephone100_submitted_date": "2021-10-23 23:46:18",
       "plantingdatephone100_survey_start": "2021-10-24 07:36:07",
       "plantingdatephone100_plantingdate": "2021-10-08",
@@ -5174,7 +4927,6 @@
       "visit1vegetativev6_problemexplain": "Umugore niwe wahuguwe, umugabo arabitera ariko umugore ngo yariyabanje kumusobanurira ",
       "visit1vegetativev6_survey_end": "2021-12-26 07:55:45",
       "visit1vegetativev6_farm_geo_elevation": 1257.9679,
-      "visit1vegetativev6_farm_geo_gps_precision": 6.432,
       "visit2freshmaturity_submitted_date": "2022-01-15 08:53:11",
       "visit2freshmaturity_survey_start": "2022-01-15 15:59:58",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5198,8 +4950,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-05-13 15:57:00",
-      "longitude": 29.0104,
-      "latitude": -2.6282
+      "longitude": 29.0107,
+      "latitude": -2.6204
     },
     {
       "block_id": "b0a8cd2db3ea-93",
@@ -5210,8 +4962,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:34:45",
-      "registration_biogps_elevation": 1140.9817,
-      "registration_biogps_gps_precision": 4.873,
       "plantingdatephone100_submitted_date": "2021-10-17 09:29:17",
       "plantingdatephone100_survey_start": "2021-10-17 17:01:34",
       "plantingdatephone100_plantingdate": "2021-10-10",
@@ -5223,9 +4973,8 @@
       "visit1vegetativev6_problemexplain": "Ubigori ntibyameze umuhinzi ateramo ibindi muri variation ya AnaC",
       "visit1vegetativev6_survey_end": "2021-12-14 09:13:18",
       "visit1vegetativev6_farm_geo_elevation": 1119.7339,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.317,
-      "longitude": 29.0428,
-      "latitude": -2.6839
+      "longitude": 29.0484,
+      "latitude": -2.667
     },
     {
       "block_id": "b0a8cd2db3ea-94",
@@ -5236,8 +4985,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:36:14",
-      "registration_biogps_elevation": 1137.1405,
-      "registration_biogps_gps_precision": 4.898,
       "plantingdatephone100_submitted_date": "2021-10-07 06:33:34",
       "plantingdatephone100_survey_start": "2021-10-06 15:08:32",
       "plantingdatephone100_plantingdate": "2021-10-05",
@@ -5249,9 +4996,8 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi avuzeko ibigori bitameze neza agenda yongeramo ibindi. ",
       "visit1vegetativev6_survey_end": "2021-12-16 15:51:25",
       "visit1vegetativev6_farm_geo_elevation": 1122.4062,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
-      "longitude": 29.039,
-      "latitude": -2.6878
+      "longitude": 29.0576,
+      "latitude": -2.6768
     },
     {
       "block_id": "b0a8cd2db3ea-95",
@@ -5262,8 +5008,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:37:38",
-      "registration_biogps_elevation": 1136.3634,
-      "registration_biogps_gps_precision": 4.094,
       "plantingdatephone100_submitted_date": "2021-10-25 05:35:27",
       "plantingdatephone100_survey_start": "2021-10-25 13:30:33",
       "plantingdatephone100_plantingdate": "2021-10-07",
@@ -5275,9 +5019,8 @@
       "visit1vegetativev6_problemexplain": "Ibigori ntibyameze umuhinzi yongeramo ibindi ",
       "visit1vegetativev6_survey_end": "2021-12-16 11:20:59",
       "visit1vegetativev6_farm_geo_elevation": 984.5007,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.208,
-      "longitude": 29.0566,
-      "latitude": -2.6643
+      "longitude": 29.0355,
+      "latitude": -2.6716
     },
     {
       "block_id": "b0a8cd2db3ea-96",
@@ -5288,8 +5031,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:38:57",
-      "registration_biogps_elevation": 1135.3515,
-      "registration_biogps_gps_precision": 4.744,
       "plantingdatephone100_submitted_date": "2021-10-17 06:36:46",
       "plantingdatephone100_survey_start": "2021-10-17 14:35:56",
       "plantingdatephone100_plantingdate": "2021-10-15",
@@ -5301,7 +5042,6 @@
       "visit1vegetativev6_problemexplain": "Yeg umuhinzi yazikurikiranyije neza nkuko bisabwa (variation)",
       "visit1vegetativev6_survey_end": "2021-12-11 13:30:19",
       "visit1vegetativev6_farm_geo_elevation": 1120.6826,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:51:33",
       "visit2freshmaturity_survey_start": "2022-01-12 11:16:35",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5333,8 +5073,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-20 14:33:52",
-      "longitude": 29.0453,
-      "latitude": -2.6805
+      "longitude": 29.0463,
+      "latitude": -2.6872
     },
     {
       "block_id": "b0a8cd2db3ea-97",
@@ -5345,8 +5085,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:40:23",
-      "registration_biogps_elevation": 1134.93,
-      "registration_biogps_gps_precision": 4.63,
       "plantingdatephone100_submitted_date": "2021-10-03 22:50:56",
       "plantingdatephone100_survey_start": "2021-10-04 06:25:50",
       "plantingdatephone100_plantingdate": "2021-10-03",
@@ -5357,7 +5095,6 @@
       "visit1vegetativev6_problemexplain": "Ntabwo batondekanyije neza utu variations ",
       "visit1vegetativev6_survey_end": "2021-11-20 12:25:13",
       "visit1vegetativev6_farm_geo_elevation": 1007.1798,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-15 08:53:09",
       "visit2freshmaturity_survey_start": "2022-01-15 12:28:55",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -5389,8 +5126,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-12 20:30:03",
-      "longitude": 29.038,
-      "latitude": -2.6669
+      "longitude": 29.0367,
+      "latitude": -2.68
     },
     {
       "block_id": "b0a8cd2db3ea-98",
@@ -5401,8 +5138,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura",
       "registration_survey_end": "2021-09-04 12:42:04",
-      "registration_biogps_elevation": 1136.3636,
-      "registration_biogps_gps_precision": 3.9,
       "plantingdatephone100_submitted_date": "2021-10-25 05:53:50",
       "plantingdatephone100_survey_start": "2021-10-25 13:52:48",
       "plantingdatephone100_plantingdate": "2021-10-18",
@@ -5414,9 +5149,8 @@
       "visit1vegetativev6_problemexplain": "Ntibyameze, nutwameze dukeya ntiyadukurikiranye ngo atwiteho ",
       "visit1vegetativev6_survey_end": "2021-12-14 10:47:08",
       "visit1vegetativev6_farm_geo_elevation": 995.153,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.192,
-      "longitude": 29.0662,
-      "latitude": -2.6759
+      "longitude": 29.0447,
+      "latitude": -2.6772
     },
     {
       "block_id": "b0a8cd2db3ea-99",
@@ -5427,8 +5161,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:43:53",
-      "registration_biogps_elevation": 1134.8076,
-      "registration_biogps_gps_precision": 4.873,
       "plantingdatephone100_submitted_date": "2021-10-21 09:55:04",
       "plantingdatephone100_survey_start": "2021-10-21 17:53:19",
       "plantingdatephone100_plantingdate": "2021-10-19",
@@ -5440,7 +5172,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi nubwo variations yazigize ntoya arkoyarazikurikiranyije ",
       "visit1vegetativev6_survey_end": "2021-12-11 13:19:40",
       "visit1vegetativev6_farm_geo_elevation": 1120.6826,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-15 08:53:10",
       "visit2freshmaturity_survey_start": "2022-01-15 14:03:54",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5464,8 +5195,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-29 12:19:29",
-      "longitude": 29.0547,
-      "latitude": -2.6824
+      "longitude": 29.0589,
+      "latitude": -2.6886
     },
     {
       "block_id": "b0a8cd2db3ea-100",
@@ -5476,8 +5207,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:45:32",
-      "registration_biogps_elevation": 1137.8559,
-      "registration_biogps_gps_precision": 4.63,
       "plantingdatephone100_submitted_date": "2021-10-24 07:19:28",
       "plantingdatephone100_survey_start": "2021-10-24 15:18:41",
       "plantingdatephone100_plantingdate": "2021-10-24",
@@ -5489,9 +5218,8 @@
       "visit1vegetativev6_problemexplain": "Ntibyameze umuhinzi ateramo ibindi ",
       "visit1vegetativev6_survey_end": "2021-12-14 09:26:20",
       "visit1vegetativev6_farm_geo_elevation": 1117.4912,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.5,
-      "longitude": 29.0515,
-      "latitude": -2.6676
+      "longitude": 29.0518,
+      "latitude": -2.673
     },
     {
       "block_id": "b0a8cd2db3ea-101",
@@ -5502,8 +5230,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-04 12:47:25",
-      "registration_biogps_elevation": 1131.9299,
-      "registration_biogps_gps_precision": 4.727,
       "plantingdatephone100_submitted_date": "2021-10-04 06:46:30",
       "plantingdatephone100_survey_start": "2021-10-04 14:45:14",
       "plantingdatephone100_plantingdate": "2021-10-04",
@@ -5515,9 +5241,8 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yateye ibigori hanyuma umuvu unyuramo (isuri)birapfa ateramo ibindi bigori",
       "visit1vegetativev6_survey_end": "2021-12-08 14:27:47",
       "visit1vegetativev6_farm_geo_elevation": 1127.2812,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.63,
-      "longitude": 29.0522,
-      "latitude": -2.6805
+      "longitude": 29.05,
+      "latitude": -2.6909
     },
     {
       "block_id": "b0a8cd2db3ea-102",
@@ -5528,8 +5253,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura",
       "registration_survey_end": "2021-09-07 11:53:49",
-      "registration_biogps_elevation": 1133.3573,
-      "registration_biogps_gps_precision": 4.912,
       "plantingdatephone100_submitted_date": "2021-10-31 07:54:37",
       "plantingdatephone100_survey_start": "2021-10-31 15:53:35",
       "plantingdatephone100_plantingdate": "2021-10-15",
@@ -5541,7 +5264,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yabanje atera Vc, akurikizaho B, aheruka C ",
       "visit1vegetativev6_survey_end": "2021-12-14 13:24:51",
       "visit1vegetativev6_farm_geo_elevation": 1102.0098,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-15 08:53:11",
       "visit2freshmaturity_survey_start": "2022-01-15 15:54:51",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -5573,8 +5295,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 10:11:30",
-      "longitude": 29.0504,
-      "latitude": -2.6604
+      "longitude": 29.0473,
+      "latitude": -2.6747
     },
     {
       "block_id": "b0a8cd2db3ea-103",
@@ -5585,8 +5307,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-07 11:56:38",
-      "registration_biogps_elevation": 1134.8981,
-      "registration_biogps_gps_precision": 4.63,
       "plantingdatephone100_submitted_date": "2021-11-07 23:06:48",
       "plantingdatephone100_survey_start": "2021-11-08 07:02:17",
       "plantingdatephone100_plantingdate": "2021-11-06",
@@ -5598,7 +5318,6 @@
       "visit1vegetativev6_problemexplain": "Yego umuhinzi yakurikije plots neza ",
       "visit1vegetativev6_survey_end": "2021-12-16 10:37:09",
       "visit1vegetativev6_farm_geo_elevation": 1002.621,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-02-01 23:41:30",
       "visit2freshmaturity_survey_start": "2022-02-02 07:38:44",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5612,8 +5331,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ibigori barabyibye byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-07 10:12:01",
-      "longitude": 29.0469,
-      "latitude": -2.6786
+      "longitude": 29.04,
+      "latitude": -2.6671
     },
     {
       "block_id": "b0a8cd2db3ea-104",
@@ -5624,8 +5343,6 @@
       "registration_region": "East",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-07 11:59:45",
-      "registration_biogps_elevation": 1137.5813,
-      "registration_biogps_gps_precision": 3.9,
       "plantingdatephone100_submitted_date": "2021-10-20 10:40:47",
       "plantingdatephone100_survey_start": "2021-10-20 18:39:50",
       "plantingdatephone100_plantingdate": "2021-10-19",
@@ -5637,7 +5354,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yahereye iburyo ajya ibumoso ",
       "visit1vegetativev6_survey_end": "2021-12-11 09:37:41",
       "visit1vegetativev6_farm_geo_elevation": 1069.4246,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.716,
       "visit2freshmaturity_submitted_date": "2022-01-15 08:53:08",
       "visit2freshmaturity_survey_start": "2022-01-15 10:36:48",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5669,8 +5385,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 08:40:28",
-      "longitude": 29.048,
-      "latitude": -2.6575
+      "longitude": 29.0506,
+      "latitude": -2.6757
     },
     {
       "block_id": "b0a8cd2db3ea-105",
@@ -5681,8 +5397,6 @@
       "registration_region": "South West",
       "registration_cell": "Kizura ",
       "registration_survey_end": "2021-09-07 12:02:12",
-      "registration_biogps_elevation": 1134.4965,
-      "registration_biogps_gps_precision": 3.9,
       "plantingdatephone100_submitted_date": "2021-10-17 09:29:18",
       "plantingdatephone100_survey_start": "2021-10-17 17:28:33",
       "plantingdatephone100_plantingdate": "2021-10-12",
@@ -5694,7 +5408,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yabikurikije nkuko yabihuguriwe ",
       "visit1vegetativev6_survey_end": "2021-12-08 08:58:58",
       "visit1vegetativev6_farm_geo_elevation": 1079.5647,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.386,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:51:17",
       "visit2freshmaturity_survey_start": "2022-01-12 09:38:18",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5726,8 +5439,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-10 17:33:50",
-      "longitude": 29.0544,
-      "latitude": -2.6851
+      "longitude": 29.0396,
+      "latitude": -2.6786
     },
     {
       "block_id": "b0a8cd2db3ea-106",
@@ -5748,7 +5461,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-23 15:47:46",
       "visit1vegetativev6_farm_geo_elevation": 1623.9471,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-14 12:12:20",
       "visit2freshmaturity_survey_start": "2022-01-14 14:14:06",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5771,8 +5483,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-04 09:02:19",
-      "longitude": 29.0115,
-      "latitude": -2.4452
+      "longitude": 29.026,
+      "latitude": -2.4399
     },
     {
       "block_id": "b0a8cd2db3ea-107",
@@ -5793,7 +5505,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-15 15:19:06",
       "visit1vegetativev6_farm_geo_elevation": 1639.5396,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.995,
       "visit2freshmaturity_submitted_date": "2022-01-17 05:16:42",
       "visit2freshmaturity_survey_start": "2022-01-14 20:18:24",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5816,8 +5527,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-19 20:10:05",
-      "longitude": 28.9954,
-      "latitude": -2.4362
+      "longitude": 28.9977,
+      "latitude": -2.4443
     },
     {
       "block_id": "b0a8cd2db3ea-108",
@@ -5838,7 +5549,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-23 11:07:33",
       "visit1vegetativev6_farm_geo_elevation": 1609.7898,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.873,
       "visit2freshmaturity_submitted_date": "2022-01-11 05:44:15",
       "visit2freshmaturity_survey_start": "2022-01-11 12:57:23",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5851,8 +5561,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Yabisaruye bitumye ntiyabisharika",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-04-04 08:43:35",
-      "longitude": 29.036,
-      "latitude": -2.4364
+      "longitude": 29.0119,
+      "latitude": -2.4372
     },
     {
       "block_id": "b0a8cd2db3ea-109",
@@ -5873,7 +5583,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-03 14:49:43",
       "visit1vegetativev6_farm_geo_elevation": 1625.8236,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.727,
       "visit2freshmaturity_submitted_date": "2022-01-11 03:35:41",
       "visit2freshmaturity_survey_start": "2022-01-11 11:22:57",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5905,8 +5614,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-01 17:19:21",
-      "longitude": 29.0289,
-      "latitude": -2.4461
+      "longitude": 29.0097,
+      "latitude": -2.4381
     },
     {
       "block_id": "b0a8cd2db3ea-110",
@@ -5927,7 +5636,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-08 12:40:46",
       "visit1vegetativev6_farm_geo_elevation": 1623.2207,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.995,
       "visit2freshmaturity_submitted_date": "2022-01-14 12:12:17",
       "visit2freshmaturity_survey_start": "2022-01-14 12:32:37",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5949,8 +5657,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-28 14:50:53",
-      "longitude": 29.0172,
-      "latitude": -2.4256
+      "longitude": 29.031,
+      "latitude": -2.4399
     },
     {
       "block_id": "b0a8cd2db3ea-111",
@@ -5971,7 +5679,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-03 13:30:37",
       "visit1vegetativev6_farm_geo_elevation": 1611.9593,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.484,
       "visit2freshmaturity_submitted_date": "2022-01-11 05:44:13",
       "visit2freshmaturity_survey_start": "2022-01-11 12:47:30",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -5993,8 +5700,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-06 16:10:53",
-      "longitude": 29.0113,
-      "latitude": -2.4424
+      "longitude": 29.0339,
+      "latitude": -2.4319
     },
     {
       "block_id": "b0a8cd2db3ea-112",
@@ -6015,7 +5722,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-08 10:42:24",
       "visit1vegetativev6_farm_geo_elevation": 1581.1963,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.977,
       "visit2freshmaturity_submitted_date": "2022-01-17 05:16:43",
       "visit2freshmaturity_survey_start": "2022-01-14 20:24:00",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6027,8 +5733,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Barabyibye kuburyo nibyogusharika arintabyo",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-18 13:00:58",
-      "longitude": 29.0126,
-      "latitude": -2.4255
+      "longitude": 29.0224,
+      "latitude": -2.4322
     },
     {
       "block_id": "b0a8cd2db3ea-113",
@@ -6049,7 +5755,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-08 11:23:52",
       "visit1vegetativev6_farm_geo_elevation": 1578.2087,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.824,
       "visit2freshmaturity_submitted_date": "2022-01-11 06:23:43",
       "visit2freshmaturity_survey_start": "2022-01-11 14:16:39",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6072,8 +5777,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-08 13:14:59",
-      "longitude": 29.01,
-      "latitude": -2.4315
+      "longitude": 29.0114,
+      "latitude": -2.4408
     },
     {
       "block_id": "b0a8cd2db3ea-114",
@@ -6094,7 +5799,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-26 17:00:43",
       "visit1vegetativev6_farm_geo_elevation": 1572.8701,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.873,
       "visit2freshmaturity_submitted_date": "2022-01-14 12:12:16",
       "visit2freshmaturity_survey_start": "2022-01-14 12:30:24",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6124,8 +5828,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-21 11:08:16",
-      "longitude": 29.0324,
-      "latitude": -2.4263
+      "longitude": 29.026,
+      "latitude": -2.4454
     },
     {
       "block_id": "b0a8cd2db3ea-115",
@@ -6146,7 +5850,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-08 08:26:11",
       "visit1vegetativev6_farm_geo_elevation": 1589.0649,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.62,
       "visit2freshmaturity_submitted_date": "2022-01-14 12:12:20",
       "visit2freshmaturity_survey_start": "2022-01-14 13:56:30",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -6178,8 +5881,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-25 16:53:06",
-      "longitude": 29.0344,
-      "latitude": -2.4303
+      "longitude": 29.0273,
+      "latitude": -2.4456
     },
     {
       "block_id": "b0a8cd2db3ea-116",
@@ -6200,7 +5903,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-23 13:58:02",
       "visit1vegetativev6_farm_geo_elevation": 1617.1567,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.776,
       "visit2freshmaturity_submitted_date": "2022-01-17 05:16:45",
       "visit2freshmaturity_survey_start": "2022-01-14 20:30:57",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6213,8 +5915,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Mwitera yabiteye adakurikije amabwiriza kuburyo utamenya brimstone ahwiherereye ntiyanasaruye nakimwe byose barabimwibye",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-05-04 09:38:37",
-      "longitude": 29.0348,
-      "latitude": -2.4436
+      "longitude": 29.0196,
+      "latitude": -2.446
     },
     {
       "block_id": "b0a8cd2db3ea-117",
@@ -6235,7 +5937,6 @@
       "visit1vegetativev6_problemexplain": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-03 13:04:12",
       "visit1vegetativev6_farm_geo_elevation": 1622.8956,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-26 02:47:15",
       "visit2freshmaturity_survey_start": "2022-01-26 10:43:37",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -6267,8 +5968,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-01 14:56:08",
-      "longitude": 29.0283,
-      "latitude": -2.4338
+      "longitude": 29.0234,
+      "latitude": -2.4363
     },
     {
       "block_id": "b0a8cd2db3ea-118",
@@ -6289,7 +5990,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-03 14:08:06",
       "visit1vegetativev6_farm_geo_elevation": 1613.3207,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-28 02:42:59",
       "visit2freshmaturity_survey_start": "2022-01-27 10:53:56",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6321,8 +6021,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-01 12:31:27",
-      "longitude": 29.0239,
-      "latitude": -2.4373
+      "longitude": 29.0187,
+      "latitude": -2.4487
     },
     {
       "block_id": "b0a8cd2db3ea-119",
@@ -6343,7 +6043,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-26 18:00:00",
       "visit1vegetativev6_farm_geo_elevation": 1626.9768,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-11 03:35:40",
       "visit2freshmaturity_survey_start": "2022-01-11 11:02:43",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6356,8 +6055,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ntitwamusaruriye kuko abajurababyibye",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-03 13:42:29",
-      "longitude": 29.034,
-      "latitude": -2.4321
+      "longitude": 29.0298,
+      "latitude": -2.4441
     },
     {
       "block_id": "b0a8cd2db3ea-120",
@@ -6378,7 +6077,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-03 14:11:22",
       "visit1vegetativev6_farm_geo_elevation": 1617.7672,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.912,
       "visit2freshmaturity_submitted_date": "2022-01-17 05:16:44",
       "visit2freshmaturity_survey_start": "2022-01-14 20:26:22",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6410,8 +6108,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-01 13:35:35",
-      "longitude": 29.0347,
-      "latitude": -2.4342
+      "longitude": 29.0159,
+      "latitude": -2.43
     },
     {
       "block_id": "b0a8cd2db3ea-121",
@@ -6432,7 +6130,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-08 14:31:51",
       "visit1vegetativev6_farm_geo_elevation": 1620.2126,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-17 05:16:45",
       "visit2freshmaturity_survey_start": "2022-01-14 20:28:18",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6462,8 +6159,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-01 14:31:30",
-      "longitude": 29.0199,
-      "latitude": -2.4392
+      "longitude": 29.0321,
+      "latitude": -2.4252
     },
     {
       "block_id": "b0a8cd2db3ea-122",
@@ -6484,7 +6181,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-08 13:58:52",
       "visit1vegetativev6_farm_geo_elevation": 1621.4194,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.347,
       "visit2freshmaturity_submitted_date": "2022-01-11 06:10:02",
       "visit2freshmaturity_survey_start": "2022-01-11 13:46:23",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6507,8 +6203,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-08 14:49:38",
-      "longitude": 29.0159,
-      "latitude": -2.4383
+      "longitude": 29.0293,
+      "latitude": -2.4405
     },
     {
       "block_id": "b0a8cd2db3ea-123",
@@ -6529,7 +6225,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-26 18:13:46",
       "visit1vegetativev6_farm_geo_elevation": 1625.6615,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-11 03:35:41",
       "visit2freshmaturity_survey_start": "2022-01-11 11:13:54",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6559,8 +6254,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-19 15:06:20",
-      "longitude": 29.0321,
-      "latitude": -2.4331
+      "longitude": 29.0307,
+      "latitude": -2.4422
     },
     {
       "block_id": "b0a8cd2db3ea-124",
@@ -6581,7 +6276,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-08 13:37:45",
       "visit1vegetativev6_farm_geo_elevation": 1622.4365,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.912,
       "visit2freshmaturity_submitted_date": "2022-01-14 12:12:18",
       "visit2freshmaturity_survey_start": "2022-01-14 13:46:52",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6603,8 +6297,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-01 16:27:53",
-      "longitude": 29.0134,
-      "latitude": -2.4374
+      "longitude": 29.0151,
+      "latitude": -2.4372
     },
     {
       "block_id": "b0a8cd2db3ea-125",
@@ -6625,7 +6319,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-26 15:22:46",
       "visit1vegetativev6_farm_geo_elevation": 1594.3426,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.824,
       "visit2freshmaturity_submitted_date": "2022-01-14 12:12:19",
       "visit2freshmaturity_survey_start": "2022-01-14 13:49:52",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6657,8 +6350,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-13 15:39:06",
-      "longitude": 29.0188,
-      "latitude": -2.4365
+      "longitude": 29.0212,
+      "latitude": -2.4291
     },
     {
       "block_id": "b0a8cd2db3ea-126",
@@ -6679,7 +6372,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-23 11:05:51",
       "visit1vegetativev6_farm_geo_elevation": 1614.7005,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.565,
       "visit2freshmaturity_submitted_date": "2022-01-11 07:43:16",
       "visit2freshmaturity_survey_start": "2022-01-11 15:37:14",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6711,8 +6403,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-13 18:04:41",
-      "longitude": 29.0141,
-      "latitude": -2.4433
+      "longitude": 29.0315,
+      "latitude": -2.4424
     },
     {
       "block_id": "b0a8cd2db3ea-127",
@@ -6733,7 +6425,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-10 10:28:11",
       "visit1vegetativev6_farm_geo_elevation": 1615.3501,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-26 02:47:14",
       "visit2freshmaturity_survey_start": "2022-01-26 08:51:36",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6763,8 +6454,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-28 12:21:05",
-      "longitude": 29.0253,
-      "latitude": -2.4242
+      "longitude": 29.0315,
+      "latitude": -2.4339
     },
     {
       "block_id": "b0a8cd2db3ea-128",
@@ -6785,7 +6476,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-12-03 12:13:39",
       "visit1vegetativev6_farm_geo_elevation": 1635.0533,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.929,
       "visit2freshmaturity_submitted_date": "2022-01-11 05:44:11",
       "visit2freshmaturity_survey_start": "2022-01-11 12:19:04",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6797,8 +6487,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Yabisaruye abivangavanga",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-28 08:12:53",
-      "longitude": 29.0112,
-      "latitude": -2.4368
+      "longitude": 29.0239,
+      "latitude": -2.4525
     },
     {
       "block_id": "b0a8cd2db3ea-129",
@@ -6819,7 +6509,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-10 10:08:29",
       "visit1vegetativev6_farm_geo_elevation": 1613.3184,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.744,
       "visit2freshmaturity_submitted_date": "2022-01-11 03:35:38",
       "visit2freshmaturity_survey_start": "2022-01-11 10:25:37",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6831,8 +6520,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Uyumuhinzi ntiyasaruye byaribwe byose",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-14 13:33:10",
-      "longitude": 29.0281,
-      "latitude": -2.4425
+      "longitude": 29.0147,
+      "latitude": -2.4314
     },
     {
       "block_id": "b0a8cd2db3ea-130",
@@ -6853,7 +6542,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-08 15:31:18",
       "visit1vegetativev6_farm_geo_elevation": 1619.4087,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.977,
       "visit2freshmaturity_submitted_date": "2022-01-17 05:16:38",
       "visit2freshmaturity_survey_start": "2022-01-14 20:13:31",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6876,8 +6564,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-08 13:45:47",
-      "longitude": 29.0274,
-      "latitude": -2.4477
+      "longitude": 29.0199,
+      "latitude": -2.4387
     },
     {
       "block_id": "b0a8cd2db3ea-131",
@@ -6898,7 +6586,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-30 11:02:57",
       "visit1vegetativev6_farm_geo_elevation": 1643.866,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.835,
       "harvestrankingdatavisit350phone50_submitted_date": "2022-05-03 23:34:12",
       "harvestrankingdatavisit350phone50_survey_start": "2022-05-04 07:25:20",
       "harvestrankingdatavisit350phone50_trialsuccess": "No Because Farmer Did Not Implement The Trial",
@@ -6906,8 +6593,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Ntiyasaruye barabimwibye",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-05-04 07:32:10",
-      "longitude": 29.0251,
-      "latitude": -2.4903
+      "longitude": 29.0412,
+      "latitude": -2.4992
     },
     {
       "block_id": "b0a8cd2db3ea-132",
@@ -6928,7 +6615,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-02 11:11:13",
       "visit1vegetativev6_farm_geo_elevation": 1574.865,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-26 02:47:01",
       "visit2freshmaturity_survey_start": "2022-01-19 10:06:55",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6950,8 +6636,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-22 09:24:52",
-      "longitude": 29.0397,
-      "latitude": -2.4806
+      "longitude": 29.0433,
+      "latitude": -2.4816
     },
     {
       "block_id": "b0a8cd2db3ea-133",
@@ -6972,7 +6658,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-29 11:06:43",
       "visit1vegetativev6_farm_geo_elevation": 1638.0232,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-12 05:06:38",
       "visit2freshmaturity_survey_start": "2022-01-12 12:32:24",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -6994,8 +6679,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-31 17:54:27",
-      "longitude": 29.0216,
-      "latitude": -2.489
+      "longitude": 29.0309,
+      "latitude": -2.4987
     },
     {
       "block_id": "b0a8cd2db3ea-134",
@@ -7016,14 +6701,13 @@
       "visit1vegetativev6_problemexplain": "Yarabivangavanze the ",
       "visit1vegetativev6_survey_end": "2021-12-14 14:56:39",
       "visit1vegetativev6_farm_geo_elevation": 1603.6328,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.873,
       "visit2freshmaturity_submitted_date": "2022-01-26 02:47:02",
       "visit2freshmaturity_survey_start": "2022-01-19 10:13:41",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit2freshmaturity_trialsuccess_oth": "Yes",
       "visit2freshmaturity_survey_end": "2022-01-19 10:15:50",
-      "longitude": 29.0474,
-      "latitude": -2.4971
+      "longitude": 29.0337,
+      "latitude": -2.5125
     },
     {
       "block_id": "b0a8cd2db3ea-135",
@@ -7044,7 +6728,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-14 15:44:50",
       "visit1vegetativev6_farm_geo_elevation": 1591.1343,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.898,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:38:56",
       "visit2freshmaturity_survey_start": "2022-01-13 11:47:28",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7074,8 +6757,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-30 15:15:23",
-      "longitude": 29.0497,
-      "latitude": -2.5099
+      "longitude": 29.0376,
+      "latitude": -2.5029
     },
     {
       "block_id": "b0a8cd2db3ea-136",
@@ -7096,7 +6779,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-02 11:50:56",
       "visit1vegetativev6_farm_geo_elevation": 1588.0782,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.931,
       "visit2freshmaturity_submitted_date": "2022-01-28 02:43:02",
       "visit2freshmaturity_survey_start": "2022-01-28 10:15:12",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7128,8 +6810,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-31 13:27:14",
-      "longitude": 29.0236,
-      "latitude": -2.4819
+      "longitude": 29.0284,
+      "latitude": -2.4705
     },
     {
       "block_id": "b0a8cd2db3ea-137",
@@ -7150,14 +6832,13 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-14 10:41:52",
       "visit1vegetativev6_farm_geo_elevation": 1681.998,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.029,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:38:59",
       "visit2freshmaturity_survey_start": "2022-01-13 14:09:30",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
       "visit2freshmaturity_trialsuccess_oth": "Yes",
       "visit2freshmaturity_survey_end": "2022-01-13 14:11:57",
-      "longitude": 29.0495,
-      "latitude": -2.4972
+      "longitude": 29.0413,
+      "latitude": -2.4956
     },
     {
       "block_id": "b0a8cd2db3ea-138",
@@ -7178,7 +6859,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-13 13:28:50",
       "visit1vegetativev6_farm_geo_elevation": 1604.9023,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:38:57",
       "visit2freshmaturity_survey_start": "2022-01-13 12:37:24",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7190,8 +6870,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess_oth": "Yes",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-05-04 07:55:41",
-      "longitude": 29.0344,
-      "latitude": -2.5119
+      "longitude": 29.0307,
+      "latitude": -2.5116
     },
     {
       "block_id": "b0a8cd2db3ea-139",
@@ -7213,7 +6893,6 @@
       "visit1vegetativev6_problemexplain": "Ngokuberuburwayi yagize ntiyarahari mugihecyogutera ntiyamenya iyabanjwe niyasojwe ntanasgne zirimwo",
       "visit1vegetativev6_survey_end": "2021-12-16 15:48:48",
       "visit1vegetativev6_farm_geo_elevation": 1671.0693,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit3harvestquantitativedata50_submitted_date": "2022-02-14 09:57:35",
       "visit3harvestquantitativedata50_survey_start": "2022-02-14 11:29:27",
       "visit3harvestquantitativedata50_survey_end": "2022-02-14 11:43:29",
@@ -7223,8 +6902,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Dusaruye 4 line ",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-02-14 11:51:13",
-      "longitude": 29.0572,
-      "latitude": -2.4843
+      "longitude": 29.0421,
+      "latitude": -2.4894
     },
     {
       "block_id": "b0a8cd2db3ea-140",
@@ -7245,7 +6924,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-16 12:37:32",
       "visit1vegetativev6_farm_geo_elevation": 1682.7822,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.808,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:38:58",
       "visit2freshmaturity_survey_start": "2022-01-13 12:50:50",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -7277,8 +6955,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-06 16:52:41",
-      "longitude": 29.0406,
-      "latitude": -2.4991
+      "longitude": 29.0401,
+      "latitude": -2.4776
     },
     {
       "block_id": "b0a8cd2db3ea-141",
@@ -7299,7 +6977,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-30 09:22:03",
       "visit1vegetativev6_farm_geo_elevation": 1657.1893,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:38:58",
       "visit2freshmaturity_survey_start": "2022-01-13 13:19:41",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7331,8 +7008,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-06 17:17:55",
-      "longitude": 29.0402,
-      "latitude": -2.4997
+      "longitude": 29.0488,
+      "latitude": -2.4866
     },
     {
       "block_id": "b0a8cd2db3ea-142",
@@ -7353,15 +7030,14 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-14 12:59:17",
       "visit1vegetativev6_farm_geo_elevation": 1667.5044,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.835,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:38:55",
       "visit2freshmaturity_survey_start": "2022-01-13 11:33:45",
       "visit2freshmaturity_trialsuccess": "No Due To Other Reason",
       "visit2freshmaturity_trialsuccess_oth": "Non",
       "visit2freshmaturity_problemexplain": "Ntibyahetse mudukaro B,C abyahirira amatungo",
       "visit2freshmaturity_survey_end": "2022-01-13 11:41:35",
-      "longitude": 29.0293,
-      "latitude": -2.5021
+      "longitude": 29.0407,
+      "latitude": -2.4891
     },
     {
       "block_id": "b0a8cd2db3ea-143",
@@ -7382,7 +7058,6 @@
       "visit1vegetativev6_problemexplain": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-14 16:06:26",
       "visit1vegetativev6_farm_geo_elevation": 1599.0776,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.698,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:38:57",
       "visit2freshmaturity_survey_start": "2022-01-13 11:58:07",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7397,8 +7072,8 @@
       "harvestrankingdatavisit350phone50_trialsuccess_oth": "Yes",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-02-21 13:53:18",
-      "longitude": 29.0304,
-      "latitude": -2.4998
+      "longitude": 29.0466,
+      "latitude": -2.4929
     },
     {
       "block_id": "b0a8cd2db3ea-144",
@@ -7419,7 +7094,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-29 09:34:08",
       "visit1vegetativev6_farm_geo_elevation": 1634.5076,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.898,
       "visit2freshmaturity_submitted_date": "2022-01-12 05:06:39",
       "visit2freshmaturity_survey_start": "2022-01-12 12:58:05",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7441,8 +7115,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-31 15:45:17",
-      "longitude": 29.0444,
-      "latitude": -2.493
+      "longitude": 29.0425,
+      "latitude": -2.486
     },
     {
       "block_id": "b0a8cd2db3ea-145",
@@ -7464,9 +7138,8 @@
       "visit1vegetativev6_problemexplain": "Uyuyarabivangavanze ntiwamenya ahowapima nahutapima kuko yavanzenimbuto",
       "visit1vegetativev6_survey_end": "2021-12-16 15:54:08",
       "visit1vegetativev6_farm_geo_elevation": 1665.5911,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.898,
-      "longitude": 29.0338,
-      "latitude": -2.4997
+      "longitude": 29.0401,
+      "latitude": -2.5011
     },
     {
       "block_id": "b0a8cd2db3ea-146",
@@ -7487,7 +7160,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-14 13:44:53",
       "visit1vegetativev6_farm_geo_elevation": 1583.4883,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-26 02:47:04",
       "visit2freshmaturity_survey_start": "2022-01-19 10:19:16",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7510,8 +7182,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-05-04 09:08:39",
-      "longitude": 29.0481,
-      "latitude": -2.5109
+      "longitude": 29.0434,
+      "latitude": -2.513
     },
     {
       "block_id": "b0a8cd2db3ea-147",
@@ -7532,7 +7204,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-29 10:45:21",
       "visit1vegetativev6_farm_geo_elevation": 1634.6437,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.873,
       "visit2freshmaturity_submitted_date": "2022-01-12 05:06:39",
       "visit2freshmaturity_survey_start": "2022-01-12 12:45:44",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7554,8 +7225,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-31 16:39:18",
-      "longitude": 29.0386,
-      "latitude": -2.4772
+      "longitude": 29.0297,
+      "latitude": -2.4843
     },
     {
       "block_id": "b0a8cd2db3ea-148",
@@ -7576,7 +7247,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-30 11:24:34",
       "visit1vegetativev6_farm_geo_elevation": 1648.0255,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-28 02:43:06",
       "visit2freshmaturity_survey_start": "2022-01-28 10:38:08",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7600,8 +7270,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-06 17:56:03",
-      "longitude": 29.0238,
-      "latitude": -2.4953
+      "longitude": 29.0345,
+      "latitude": -2.4998
     },
     {
       "block_id": "b0a8cd2db3ea-149",
@@ -7622,7 +7292,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-30 12:43:08",
       "visit1vegetativev6_farm_geo_elevation": 1652.4548,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.63,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:39:00",
       "visit2freshmaturity_survey_start": "2022-01-13 14:12:05",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7644,8 +7313,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-05-04 08:27:52",
-      "longitude": 29.0565,
-      "latitude": -2.479
+      "longitude": 29.0349,
+      "latitude": -2.4849
     },
     {
       "block_id": "b0a8cd2db3ea-150",
@@ -7666,7 +7335,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-29 11:57:41",
       "visit1vegetativev6_farm_geo_elevation": 1634.4751,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-12 05:06:38",
       "visit2freshmaturity_survey_start": "2022-01-12 11:45:48",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7688,8 +7356,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-31 17:30:31",
-      "longitude": 29.0358,
-      "latitude": -2.493
+      "longitude": 29.0391,
+      "latitude": -2.4799
     },
     {
       "block_id": "b0a8cd2db3ea-151",
@@ -7710,7 +7378,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-29 12:52:34",
       "visit1vegetativev6_farm_geo_elevation": 1644.5609,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.912,
       "visit2freshmaturity_submitted_date": "2022-01-12 03:33:55",
       "visit2freshmaturity_survey_start": "2022-01-12 11:14:04",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7740,8 +7407,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-06 14:39:20",
-      "longitude": 29.0275,
-      "latitude": -2.4927
+      "longitude": 29.0356,
+      "latitude": -2.4726
     },
     {
       "block_id": "b0a8cd2db3ea-152",
@@ -7762,7 +7429,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-02 12:01:00",
       "visit1vegetativev6_farm_geo_elevation": 1601.8823,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.801,
       "visit2freshmaturity_submitted_date": "2022-01-12 02:16:48",
       "visit2freshmaturity_survey_start": "2022-01-12 10:11:08",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7794,8 +7460,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-31 13:17:02",
-      "longitude": 29.032,
-      "latitude": -2.4812
+      "longitude": 29.043,
+      "latitude": -2.4835
     },
     {
       "block_id": "b0a8cd2db3ea-153",
@@ -7816,7 +7482,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-16 13:33:04",
       "visit1vegetativev6_farm_geo_elevation": 1670.511,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.639,
       "visit2freshmaturity_submitted_date": "2022-01-12 03:33:55",
       "visit2freshmaturity_survey_start": "2022-01-12 11:26:55",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7846,8 +7511,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-06 14:25:06",
-      "longitude": 29.0442,
-      "latitude": -2.4775
+      "longitude": 29.0502,
+      "latitude": -2.4876
     },
     {
       "block_id": "b0a8cd2db3ea-154",
@@ -7868,7 +7533,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-16 11:39:01",
       "visit1vegetativev6_farm_geo_elevation": 1671.0693,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.63,
       "visit2freshmaturity_submitted_date": "2022-01-13 09:38:59",
       "visit2freshmaturity_survey_start": "2022-01-13 13:41:27",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7880,8 +7544,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Muri A bibyemwo 8",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-03-10 16:21:34",
-      "longitude": 29.0558,
-      "latitude": -2.4788
+      "longitude": 29.0391,
+      "latitude": -2.4906
     },
     {
       "block_id": "b0a8cd2db3ea-155",
@@ -7902,7 +7566,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-29 14:05:09",
       "visit1vegetativev6_farm_geo_elevation": 1611.9322,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.898,
       "visit2freshmaturity_submitted_date": "2022-01-12 01:50:29",
       "visit2freshmaturity_survey_start": "2022-01-12 09:36:23",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -7933,8 +7596,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-30 16:05:41",
-      "longitude": 29.0283,
-      "latitude": -2.4874
+      "longitude": 29.0299,
+      "latitude": -2.4632
     },
     {
       "block_id": "b0a8cd2db3ea-156",
@@ -7955,7 +7618,6 @@
       "visit1vegetativev6_problemexplain": "That is protocol don,t well",
       "visit1vegetativev6_survey_end": "2021-11-15 14:09:13",
       "visit1vegetativev6_farm_geo_elevation": 1591.8297,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:31:43",
       "visit2freshmaturity_survey_start": "2022-01-12 16:29:46",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -7974,8 +7636,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-05-11 12:12:23",
-      "longitude": 29.3091,
-      "latitude": -2.1296
+      "longitude": 29.316,
+      "latitude": -2.1319
     },
     {
       "block_id": "b0a8cd2db3ea-157",
@@ -7996,7 +7658,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-10-23 11:40:33",
       "visit1vegetativev6_farm_geo_elevation": 1571.831,
-      "visit1vegetativev6_farm_geo_gps_precision": 8.79,
       "visit2freshmaturity_submitted_date": "2022-01-09 23:13:10",
       "visit2freshmaturity_survey_start": "2022-01-06 10:53:04",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8024,8 +7685,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-17 09:24:31",
-      "longitude": 29.3054,
-      "latitude": -2.1248
+      "longitude": 29.3096,
+      "latitude": -2.1182
     },
     {
       "block_id": "b0a8cd2db3ea-158",
@@ -8047,7 +7708,6 @@
       "visit1vegetativev6_problemexplain": "Imirongo  nibyinshi  ibyobo nabyo nibike kubyateguwe",
       "visit1vegetativev6_survey_end": "2021-12-01 07:59:41",
       "visit1vegetativev6_farm_geo_elevation": 1685.5129,
-      "visit1vegetativev6_farm_geo_gps_precision": 14.793,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:31:41",
       "visit2freshmaturity_survey_start": "2022-01-12 08:26:09",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -8066,8 +7726,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-17 12:17:05",
-      "longitude": 29.3026,
-      "latitude": -2.1298
+      "longitude": 29.3095,
+      "latitude": -2.1318
     },
     {
       "block_id": "b0a8cd2db3ea-159",
@@ -8088,7 +7748,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-12 09:17:05",
       "visit1vegetativev6_farm_geo_elevation": 1637.6307,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-25 04:37:30",
       "visit2freshmaturity_survey_start": "2022-01-20 18:18:12",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8114,8 +7773,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-04-14 08:49:16",
-      "longitude": 29.3074,
-      "latitude": -2.1356
+      "longitude": 29.3193,
+      "latitude": -2.1383
     },
     {
       "block_id": "b0a8cd2db3ea-160",
@@ -8136,7 +7795,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-02 11:02:01",
       "visit1vegetativev6_farm_geo_elevation": 1568.0851,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.639,
       "visit2freshmaturity_submitted_date": "2022-01-09 23:13:10",
       "visit2freshmaturity_survey_start": "2022-01-06 11:26:08",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8155,8 +7813,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-17 13:49:52",
-      "longitude": 29.3038,
-      "latitude": -2.1153
+      "longitude": 29.3264,
+      "latitude": -2.1206
     },
     {
       "block_id": "b0a8cd2db3ea-161",
@@ -8178,7 +7836,6 @@
       "visit1vegetativev6_problemexplain": "Uturima Ntabwo dutondetse neza ",
       "visit1vegetativev6_survey_end": "2021-12-01 12:46:34",
       "visit1vegetativev6_farm_geo_elevation": 1675.3866,
-      "visit1vegetativev6_farm_geo_gps_precision": 6.432,
       "visit2freshmaturity_submitted_date": "2022-01-28 02:52:06",
       "visit2freshmaturity_survey_start": "2022-01-28 10:50:06",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8204,8 +7861,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-05-11 10:48:17",
-      "longitude": 29.3126,
-      "latitude": -2.1201
+      "longitude": 29.3207,
+      "latitude": -2.1244
     },
     {
       "block_id": "b0a8cd2db3ea-162",
@@ -8226,7 +7883,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-15 12:48:19",
       "visit1vegetativev6_farm_geo_elevation": 1591.8297,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-28 02:52:05",
       "visit2freshmaturity_survey_start": "2022-01-28 10:45:47",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8238,8 +7894,8 @@
       "harvestrankingdatavisit350phone50_problemexplain": "Nabwo twabihunguye kuko bivangavanze.",
       "harvestrankingdatavisit350phone50_strigapresence": "No",
       "harvestrankingdatavisit350phone50_survey_end": "2022-04-19 09:07:50",
-      "longitude": 29.3062,
-      "latitude": -2.1113
+      "longitude": 29.3158,
+      "latitude": -2.1178
     },
     {
       "block_id": "b0a8cd2db3ea-163",
@@ -8260,7 +7916,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-12-06 16:07:33",
       "visit1vegetativev6_farm_geo_elevation": 1712.3008,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.824,
       "visit2freshmaturity_submitted_date": "2022-01-10 01:32:24",
       "visit2freshmaturity_survey_start": "2022-01-10 08:04:48",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8287,8 +7942,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-06 08:24:32",
-      "longitude": 29.3156,
-      "latitude": -2.1313
+      "longitude": 29.3125,
+      "latitude": -2.1249
     },
     {
       "block_id": "b0a8cd2db3ea-164",
@@ -8309,7 +7964,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-15 14:36:22",
       "visit1vegetativev6_farm_geo_elevation": 1624.9547,
-      "visit1vegetativev6_farm_geo_gps_precision": 6.253,
       "visit2freshmaturity_submitted_date": "2022-01-12 08:31:43",
       "visit2freshmaturity_survey_start": "2022-01-12 11:11:17",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8328,8 +7982,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-18 11:22:50",
-      "longitude": 29.3123,
-      "latitude": -2.1089
+      "longitude": 29.3068,
+      "latitude": -2.1142
     },
     {
       "block_id": "b0a8cd2db3ea-165",
@@ -8350,7 +8004,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes ",
       "visit1vegetativev6_survey_end": "2021-11-02 09:45:43",
       "visit1vegetativev6_farm_geo_elevation": 1553.45,
-      "visit1vegetativev6_farm_geo_gps_precision": 5.181,
       "visit2freshmaturity_submitted_date": "2022-01-14 02:43:02",
       "visit2freshmaturity_survey_start": "2022-01-13 10:04:43",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8377,8 +8030,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-02-28 03:32:42",
-      "longitude": 29.3239,
-      "latitude": -2.1115
+      "longitude": 29.3229,
+      "latitude": -2.1121
     },
     {
       "block_id": "b0a8cd2db3ea-166",
@@ -8399,7 +8052,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Y",
       "visit1vegetativev6_survey_end": "2021-10-23 07:44:15",
       "visit1vegetativev6_farm_geo_elevation": 1726.8527,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.484,
       "visit2freshmaturity_submitted_date": "2022-01-09 23:13:11",
       "visit2freshmaturity_survey_start": "2022-01-10 06:57:35",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8420,8 +8072,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-04-02 11:26:19",
-      "longitude": 29.3045,
-      "latitude": -2.1191
+      "longitude": 29.305,
+      "latitude": -2.1137
     },
     {
       "block_id": "b0a8cd2db3ea-167",
@@ -8442,7 +8094,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-10-23 08:12:39",
       "visit1vegetativev6_farm_geo_elevation": 1697.2204,
-      "visit1vegetativev6_farm_geo_gps_precision": 8.576,
       "visit2freshmaturity_submitted_date": "2022-01-25 04:37:25",
       "visit2freshmaturity_survey_start": "2022-01-18 09:13:30",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8464,8 +8115,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-28 15:29:01",
-      "longitude": 29.3133,
-      "latitude": -2.1341
+      "longitude": 29.3011,
+      "latitude": -2.13
     },
     {
       "block_id": "b0a8cd2db3ea-168",
@@ -8486,7 +8137,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-30 09:42:11",
       "visit1vegetativev6_farm_geo_elevation": 1471.7833,
-      "visit1vegetativev6_farm_geo_gps_precision": 6.871,
       "visit2freshmaturity_submitted_date": "2022-01-11 02:39:03",
       "visit2freshmaturity_survey_start": "2022-01-11 08:41:57",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8512,8 +8162,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-14 10:10:00",
-      "longitude": 29.3747,
-      "latitude": -2.0231
+      "longitude": 29.3823,
+      "latitude": -2.0126
     },
     {
       "block_id": "b0a8cd2db3ea-169",
@@ -8534,7 +8184,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-11 11:10:14",
       "visit1vegetativev6_farm_geo_elevation": 1579.3467,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.727,
       "visit2freshmaturity_submitted_date": "2022-01-20 03:42:48",
       "visit2freshmaturity_survey_start": "2022-01-18 09:28:37",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8560,8 +8209,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-08 17:09:15",
-      "longitude": 29.3922,
-      "latitude": -2.0477
+      "longitude": 29.4035,
+      "latitude": -2.0328
     },
     {
       "block_id": "b0a8cd2db3ea-170",
@@ -8583,7 +8232,6 @@
       "visit1vegetativev6_problemexplain": "Uturima dutondetse nabi ",
       "visit1vegetativev6_survey_end": "2021-11-04 11:00:26",
       "visit1vegetativev6_farm_geo_elevation": 1474.1237,
-      "visit1vegetativev6_farm_geo_gps_precision": 50.205,
       "visit2freshmaturity_submitted_date": "2022-01-08 03:56:58",
       "visit2freshmaturity_survey_start": "2022-01-07 11:01:16",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -8602,7 +8250,7 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-08 16:54:41",
-      "longitude": 29.3782,
+      "longitude": 29.3808,
       "latitude": -2.0319
     },
     {
@@ -8624,7 +8272,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-16 10:43:52",
       "visit1vegetativev6_farm_geo_elevation": 1463.5544,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.406,
       "visit2freshmaturity_submitted_date": "2022-01-08 03:57:00",
       "visit2freshmaturity_survey_start": "2022-01-07 11:04:22",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8650,8 +8297,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-08 17:12:17",
-      "longitude": 29.3893,
-      "latitude": -2.0302
+      "longitude": 29.3783,
+      "latitude": -2.0313
     },
     {
       "block_id": "b0a8cd2db3ea-172",
@@ -8672,7 +8319,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-11 10:46:01",
       "visit1vegetativev6_farm_geo_elevation": 1527.7955,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.645,
       "visit2freshmaturity_submitted_date": "2022-01-30 01:37:24",
       "visit2freshmaturity_survey_start": "2022-01-30 08:47:46",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -8693,8 +8339,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-20 08:17:58",
-      "longitude": 29.3955,
-      "latitude": -2.0274
+      "longitude": 29.3948,
+      "latitude": -2.0494
     },
     {
       "block_id": "b0a8cd2db3ea-173",
@@ -8714,7 +8360,6 @@
       "visit1vegetativev6_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
       "visit1vegetativev6_survey_end": "2021-11-30 10:33:57",
       "visit1vegetativev6_farm_geo_elevation": 1460.2737,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.744,
       "visit2freshmaturity_submitted_date": "2022-01-20 03:40:06",
       "visit2freshmaturity_survey_start": "2022-01-18 08:28:52",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8740,8 +8385,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-05-17 12:46:31",
-      "longitude": 29.3748,
-      "latitude": -2.0104
+      "longitude": 29.373,
+      "latitude": -2.0264
     },
     {
       "block_id": "b0a8cd2db3ea-174",
@@ -8762,7 +8407,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-11 10:26:50",
       "visit1vegetativev6_farm_geo_elevation": 1528.1407,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.824,
       "visit2freshmaturity_submitted_date": "2022-01-30 01:37:23",
       "visit2freshmaturity_survey_start": "2022-01-30 08:46:20",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -8781,8 +8425,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-03 11:51:44",
-      "longitude": 29.3947,
-      "latitude": -2.0451
+      "longitude": 29.4015,
+      "latitude": -2.0323
     },
     {
       "block_id": "b0a8cd2db3ea-175",
@@ -8804,7 +8448,6 @@
       "visit1vegetativev6_problemexplain": "Uturima dutondetse nabi yateye imirongo myinshi ",
       "visit1vegetativev6_survey_end": "2021-11-16 10:08:03",
       "visit1vegetativev6_farm_geo_elevation": 1469.1317,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.99,
       "visit2freshmaturity_submitted_date": "2022-01-11 02:39:03",
       "visit2freshmaturity_survey_start": "2022-01-11 08:46:21",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -8823,8 +8466,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-14 14:30:30",
-      "longitude": 29.384,
-      "latitude": -2.0356
+      "longitude": 29.3793,
+      "latitude": -2.0326
     },
     {
       "block_id": "b0a8cd2db3ea-176",
@@ -8846,7 +8489,6 @@
       "visit1vegetativev6_problemexplain": "Ntago uturima dukurikiranye uko bikwiye ",
       "visit1vegetativev6_survey_end": "2021-11-04 08:33:12",
       "visit1vegetativev6_farm_geo_elevation": 1701.4303,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.977,
       "visit2freshmaturity_submitted_date": "2022-01-30 01:37:23",
       "visit2freshmaturity_survey_start": "2022-01-30 08:25:41",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -8865,8 +8507,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-14 13:41:32",
-      "longitude": 29.4028,
-      "latitude": -2.0056
+      "longitude": 29.3955,
+      "latitude": -2.0142
     },
     {
       "block_id": "b0a8cd2db3ea-177",
@@ -8888,7 +8530,6 @@
       "visit1vegetativev6_problemexplain": "Uturima dutondetse duturutse iburyo,aharikujya ibyobo yahashyize imirongo ",
       "visit1vegetativev6_survey_end": "2021-11-04 11:13:52",
       "visit1vegetativev6_farm_geo_elevation": 1483.0511,
-      "visit1vegetativev6_farm_geo_gps_precision": 8.576,
       "visit2freshmaturity_submitted_date": "2022-01-08 03:56:56",
       "visit2freshmaturity_survey_start": "2022-01-07 10:56:59",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -8914,8 +8555,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-08 17:06:15",
-      "longitude": 29.389,
-      "latitude": -2.0328
+      "longitude": 29.3833,
+      "latitude": -2.0303
     },
     {
       "block_id": "b0a8cd2db3ea-178",
@@ -8937,7 +8578,6 @@
       "visit1vegetativev6_problemexplain": "Uturima dutondetse tugerekeranye ",
       "visit1vegetativev6_survey_end": "2021-11-04 10:01:52",
       "visit1vegetativev6_farm_geo_elevation": 1476.6827,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.824,
       "visit2freshmaturity_submitted_date": "2022-01-15 23:45:42",
       "visit2freshmaturity_survey_start": "2022-01-12 08:31:48",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -8957,8 +8597,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-03 09:44:08",
-      "longitude": 29.3876,
-      "latitude": -2.0335
+      "longitude": 29.3719,
+      "latitude": -2.0369
     },
     {
       "block_id": "b0a8cd2db3ea-179",
@@ -8979,7 +8619,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-12-11 10:55:04",
       "visit1vegetativev6_farm_geo_elevation": 1531.9659,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.938,
       "visit2freshmaturity_submitted_date": "2022-01-28 05:49:42",
       "visit2freshmaturity_survey_start": "2022-01-25 07:42:30",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -9002,8 +8641,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-14 09:43:21",
-      "longitude": 29.4076,
-      "latitude": -2.0336
+      "longitude": 29.3977,
+      "latitude": -2.0291
     },
     {
       "block_id": "b0a8cd2db3ea-180",
@@ -9025,7 +8664,6 @@
       "visit1vegetativev6_problemexplain": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-16 09:02:46",
       "visit1vegetativev6_farm_geo_elevation": 1469.9027,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.931,
       "visit2freshmaturity_submitted_date": "2022-01-08 03:56:53",
       "visit2freshmaturity_survey_start": "2022-01-07 10:18:48",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -9044,8 +8682,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-15 15:12:45",
-      "longitude": 29.3781,
-      "latitude": -2.0215
+      "longitude": 29.3866,
+      "latitude": -2.0357
     },
     {
       "block_id": "b0a8cd2db3ea-181",
@@ -9066,7 +8704,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-16 07:41:21",
       "visit1vegetativev6_farm_geo_elevation": 1612.0994,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-11 02:38:59",
       "visit2freshmaturity_survey_start": "2022-01-11 08:22:03",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -9092,8 +8729,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-01 13:40:23",
-      "longitude": 29.377,
-      "latitude": -2.028
+      "longitude": 29.3989,
+      "latitude": -2.025
     },
     {
       "block_id": "b0a8cd2db3ea-182",
@@ -9115,7 +8752,6 @@
       "visit1vegetativev6_problemexplain": "Umuhinzi yateye  imirongo itanu kubyobo bitanu",
       "visit1vegetativev6_survey_end": "2021-10-28 12:48:04",
       "visit1vegetativev6_farm_geo_elevation": 1455.4707,
-      "visit1vegetativev6_farm_geo_gps_precision": 3.9,
       "visit2freshmaturity_submitted_date": "2022-01-11 02:39:04",
       "visit2freshmaturity_survey_start": "2022-01-11 08:49:27",
       "visit2freshmaturity_trialsuccess": "Yes And Farmer Managed The Plots Well",
@@ -9134,8 +8770,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-03 11:12:30",
-      "longitude": 29.3888,
-      "latitude": -2.0324
+      "longitude": 29.3787,
+      "latitude": -2.0244
     },
     {
       "block_id": "b0a8cd2db3ea-183",
@@ -9157,7 +8793,6 @@
       "visit1vegetativev6_problemexplain": "Yateye imirongo myinshi",
       "visit1vegetativev6_survey_end": "2021-11-16 09:27:35",
       "visit1vegetativev6_farm_geo_elevation": 1470.5059,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.912,
       "visit2freshmaturity_submitted_date": "2022-01-11 02:39:05",
       "visit2freshmaturity_survey_start": "2022-01-11 08:51:43",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -9176,8 +8811,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-15 07:26:33",
-      "longitude": 29.3931,
-      "latitude": -2.0307
+      "longitude": 29.371,
+      "latitude": -2.0333
     },
     {
       "block_id": "b0a8cd2db3ea-184",
@@ -9199,7 +8834,6 @@
       "visit1vegetativev6_problemexplain": "Yateye ibyobo icumi ku imirongo itanu yavanzemo ibishyimbo ",
       "visit1vegetativev6_survey_end": "2021-10-28 12:17:42",
       "visit1vegetativev6_farm_geo_elevation": 1463.3018,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.362,
       "visit2freshmaturity_submitted_date": "2022-01-11 02:38:58",
       "visit2freshmaturity_survey_start": "2022-01-07 10:26:42",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -9218,8 +8852,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-01 13:13:03",
-      "longitude": 29.3904,
-      "latitude": -2.0293
+      "longitude": 29.3829,
+      "latitude": -2.0311
     },
     {
       "block_id": "b0a8cd2db3ea-185",
@@ -9240,7 +8874,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-30 10:05:58",
       "visit1vegetativev6_farm_geo_elevation": 1477.0541,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.288,
       "visit2freshmaturity_submitted_date": "2022-01-11 02:39:05",
       "visit2freshmaturity_survey_start": "2022-01-11 08:57:41",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -9266,8 +8899,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Better",
       "visit4threshing100_survey_end": "2022-03-15 12:59:59",
-      "longitude": 29.3843,
-      "latitude": -2.0174
+      "longitude": 29.3814,
+      "latitude": -2.0148
     },
     {
       "block_id": "b0a8cd2db3ea-186",
@@ -9288,7 +8921,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-30 08:16:55",
       "visit1vegetativev6_farm_geo_elevation": 1569.1462,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.055,
       "visit2freshmaturity_submitted_date": "2022-01-30 01:37:22",
       "visit2freshmaturity_survey_start": "2022-01-30 08:21:24",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -9307,8 +8939,8 @@
       "visit4threshing100_item_B_vs_local": "Worse",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-14 08:42:44",
-      "longitude": 29.3931,
-      "latitude": -2.0312
+      "longitude": 29.3849,
+      "latitude": -2.0258
     },
     {
       "block_id": "b0a8cd2db3ea-187",
@@ -9329,7 +8961,6 @@
       "visit1vegetativev6_trialsuccess_oth": "Yes",
       "visit1vegetativev6_survey_end": "2021-11-30 09:07:21",
       "visit1vegetativev6_farm_geo_elevation": 1555.019,
-      "visit1vegetativev6_farm_geo_gps_precision": 4.931,
       "visit2freshmaturity_submitted_date": "2022-01-11 02:38:57",
       "visit2freshmaturity_survey_start": "2022-01-07 10:02:22",
       "visit2freshmaturity_trialsuccess": "Yes But Farmer Did Not Manage The Plots Well",
@@ -9355,8 +8986,8 @@
       "visit4threshing100_item_B_vs_local": "Better",
       "visit4threshing100_item_C_vs_local": "Worse",
       "visit4threshing100_survey_end": "2022-03-15 11:09:50",
-      "longitude": 29.3813,
-      "latitude": -2.0146
+      "longitude": 29.3888,
+      "latitude": -2.0181
     }
   ],
   "plot_data": [

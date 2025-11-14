@@ -1,11 +1,11 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-03",
+      "version": "v2025-11-14",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
-        "package_version": "1.7"
+        "package_version": "1.8"
       }
     },
     "identifier": "https://doi.org/10.5281/zenodo.17112492",
@@ -1005,8 +1005,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:48",
-      "longitude": 2.6058,
-      "latitude": 6.8919
+      "longitude": 2.6,
+      "latitude": 6.889
     },
     {
       "block_id": "1e94bed9e90b-2",
@@ -1059,8 +1059,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-11 10:23:29",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-15",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-23 09:37:48",
-      "longitude": 2.613,
-      "latitude": 6.9963
+      "longitude": 2.609,
+      "latitude": 6.9984
     },
     {
       "block_id": "1e94bed9e90b-3",
@@ -1140,8 +1140,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:49",
-      "longitude": 2.5102,
-      "latitude": 6.9026
+      "longitude": 2.5227,
+      "latitude": 6.8966
     },
     {
       "block_id": "1e94bed9e90b-4",
@@ -1221,8 +1221,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:52",
-      "longitude": 2.6346,
-      "latitude": 6.9614
+      "longitude": 2.6285,
+      "latitude": 6.9488
     },
     {
       "block_id": "1e94bed9e90b-5",
@@ -1300,8 +1300,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:51",
-      "longitude": 2.636,
-      "latitude": 7.0012
+      "longitude": 2.618,
+      "latitude": 7.0014
     },
     {
       "block_id": "1e94bed9e90b-6",
@@ -1380,8 +1380,8 @@
       "recolte3_anyloss": "Oui",
       "recolte3_whichlost": "C",
       "recolte3_survey_end": "2024-12-02 11:25:51",
-      "longitude": 2.6058,
-      "latitude": 6.9731
+      "longitude": 2.5969,
+      "latitude": 6.9751
     },
     {
       "block_id": "1e94bed9e90b-7",
@@ -1434,8 +1434,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-27 07:50:57",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-08",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-01 17:05:27",
-      "longitude": 2.6097,
-      "latitude": 6.9899
+      "longitude": 2.6079,
+      "latitude": 7.0017
     },
     {
       "block_id": "1e94bed9e90b-8",
@@ -1514,8 +1514,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:52",
-      "longitude": 2.6146,
-      "latitude": 6.9909
+      "longitude": 2.6242,
+      "latitude": 6.9837
     },
     {
       "block_id": "1e94bed9e90b-9",
@@ -1592,8 +1592,8 @@
       "recolte3_anyloss": "Oui",
       "recolte3_whichlost": "A; C",
       "recolte3_survey_end": "2024-12-02 11:25:51",
-      "longitude": 2.6188,
-      "latitude": 7.003
+      "longitude": 2.6025,
+      "latitude": 6.996
     },
     {
       "block_id": "1e94bed9e90b-10",
@@ -1667,8 +1667,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:48",
-      "longitude": 2.5122,
-      "latitude": 7.2088
+      "longitude": 2.506,
+      "latitude": 7.2267
     },
     {
       "block_id": "1e94bed9e90b-11",
@@ -1721,8 +1721,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-27 07:49:24",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-07",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-01 17:05:27",
-      "longitude": 2.5935,
-      "latitude": 6.9923
+      "longitude": 2.5923,
+      "latitude": 6.994
     },
     {
       "block_id": "1e94bed9e90b-12",
@@ -1801,8 +1801,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:48",
-      "longitude": 2.506,
-      "latitude": 7.2115
+      "longitude": 2.5013,
+      "latitude": 7.2122
     },
     {
       "block_id": "1e94bed9e90b-13",
@@ -1881,8 +1881,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:50",
-      "longitude": 2.5235,
-      "latitude": 6.9036
+      "longitude": 2.5414,
+      "latitude": 6.9105
     },
     {
       "block_id": "1e94bed9e90b-14",
@@ -1961,8 +1961,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:49",
-      "longitude": 2.6021,
-      "latitude": 6.9893
+      "longitude": 2.614,
+      "latitude": 7.0064
     },
     {
       "block_id": "1e94bed9e90b-15",
@@ -2015,8 +2015,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-30 11:51:40",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-15",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-01 17:05:28",
-      "longitude": 2.5971,
-      "latitude": 6.988
+      "longitude": 2.6053,
+      "latitude": 6.9889
     },
     {
       "block_id": "1e94bed9e90b-16",
@@ -2095,8 +2095,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:53",
-      "longitude": 2.6029,
-      "latitude": 6.8928
+      "longitude": 2.6147,
+      "latitude": 6.8967
     },
     {
       "block_id": "1e94bed9e90b-17",
@@ -2175,8 +2175,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:53",
-      "longitude": 2.6039,
-      "latitude": 6.893
+      "longitude": 2.6001,
+      "latitude": 6.885
     },
     {
       "block_id": "1e94bed9e90b-18",
@@ -2255,8 +2255,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:52",
-      "longitude": 2.6101,
-      "latitude": 6.8909
+      "longitude": 2.6002,
+      "latitude": 6.8891
     },
     {
       "block_id": "1e94bed9e90b-19",
@@ -2335,8 +2335,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:52",
-      "longitude": 2.6069,
-      "latitude": 6.8829
+      "longitude": 2.6162,
+      "latitude": 6.8928
     },
     {
       "block_id": "1e94bed9e90b-20",
@@ -2415,8 +2415,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:50",
-      "longitude": 2.6033,
-      "latitude": 7.0068
+      "longitude": 2.6081,
+      "latitude": 7.0069
     },
     {
       "block_id": "1e94bed9e90b-21",
@@ -2469,8 +2469,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-09 12:52:51",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-15",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-23 09:37:47",
-      "longitude": 2.6315,
-      "latitude": 6.9394
+      "longitude": 2.6389,
+      "latitude": 6.9417
     },
     {
       "block_id": "1e94bed9e90b-22",
@@ -2548,8 +2548,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:49",
-      "longitude": 2.569,
-      "latitude": 7.0889
+      "longitude": 2.5805,
+      "latitude": 7.0756
     },
     {
       "block_id": "1e94bed9e90b-23",
@@ -2628,8 +2628,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:51",
-      "longitude": 2.5958,
-      "latitude": 6.9959
+      "longitude": 2.6213,
+      "latitude": 6.9934
     },
     {
       "block_id": "1e94bed9e90b-24",
@@ -2682,8 +2682,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-01 12:33:10",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-12",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-01 17:05:29",
-      "longitude": 2.6293,
-      "latitude": 6.8907
+      "longitude": 2.6139,
+      "latitude": 6.8839
     },
     {
       "block_id": "1e94bed9e90b-25",
@@ -2762,8 +2762,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:48",
-      "longitude": 2.6168,
-      "latitude": 6.9001
+      "longitude": 2.6093,
+      "latitude": 6.8772
     },
     {
       "block_id": "1e94bed9e90b-26",
@@ -2842,8 +2842,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:49",
-      "longitude": 2.5142,
-      "latitude": 6.9003
+      "longitude": 2.531,
+      "latitude": 6.9023
     },
     {
       "block_id": "1e94bed9e90b-27",
@@ -2896,8 +2896,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-01 15:29:54",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-10",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-01 17:05:30",
-      "longitude": 2.6129,
-      "latitude": 7.0048
+      "longitude": 2.6179,
+      "latitude": 6.9976
     },
     {
       "block_id": "1e94bed9e90b-28",
@@ -2951,8 +2951,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-01 12:55:48",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-10",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-01 17:05:30",
-      "longitude": 2.5108,
-      "latitude": 6.9108
+      "longitude": 2.5266,
+      "latitude": 6.9206
     },
     {
       "block_id": "1e94bed9e90b-29",
@@ -3032,8 +3032,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:50",
-      "longitude": 2.5449,
-      "latitude": 6.9024
+      "longitude": 2.5486,
+      "latitude": 6.8889
     },
     {
       "block_id": "1e94bed9e90b-30",
@@ -3086,8 +3086,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-29 19:45:33",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-16",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-01 17:05:28",
-      "longitude": 2.6036,
-      "latitude": 6.9893
+      "longitude": 2.6062,
+      "latitude": 6.9928
     },
     {
       "block_id": "1e94bed9e90b-31",
@@ -3166,8 +3166,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:50",
-      "longitude": 2.6374,
-      "latitude": 6.9884
+      "longitude": 2.6539,
+      "latitude": 6.9869
     },
     {
       "block_id": "1e94bed9e90b-32",
@@ -3246,8 +3246,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:50",
-      "longitude": 2.5516,
-      "latitude": 6.9333
+      "longitude": 2.5539,
+      "latitude": 6.9405
     },
     {
       "block_id": "1e94bed9e90b-33",
@@ -3326,8 +3326,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:48",
-      "longitude": 2.5143,
-      "latitude": 7.2205
+      "longitude": 2.5188,
+      "latitude": 7.2151
     },
     {
       "block_id": "1e94bed9e90b-34",
@@ -3407,8 +3407,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:52",
-      "longitude": 2.6123,
-      "latitude": 6.8807
+      "longitude": 2.609,
+      "latitude": 6.8854
     },
     {
       "block_id": "1e94bed9e90b-35",
@@ -3489,8 +3489,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:47",
-      "longitude": 2.6145,
-      "latitude": 6.8987
+      "longitude": 2.6171,
+      "latitude": 6.8787
     },
     {
       "block_id": "1e94bed9e90b-36",
@@ -3543,8 +3543,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-01 16:35:48",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-15",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-01 17:05:30",
-      "longitude": 2.5939,
-      "latitude": 6.9948
+      "longitude": 2.6078,
+      "latitude": 6.988
     },
     {
       "block_id": "1e94bed9e90b-37",
@@ -3623,8 +3623,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:49",
-      "longitude": 2.5725,
-      "latitude": 7.0816
+      "longitude": 2.5855,
+      "latitude": 7.092
     },
     {
       "block_id": "1e94bed9e90b-38",
@@ -3703,8 +3703,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:50",
-      "longitude": 2.6062,
-      "latitude": 6.9713
+      "longitude": 2.5862,
+      "latitude": 6.9727
     },
     {
       "block_id": "1e94bed9e90b-39",
@@ -3772,8 +3772,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:49",
-      "longitude": 2.6002,
-      "latitude": 6.9954
+      "longitude": 2.6138,
+      "latitude": 6.9923
     },
     {
       "block_id": "1e94bed9e90b-40",
@@ -3853,8 +3853,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:51",
-      "longitude": 2.6075,
-      "latitude": 6.9896
+      "longitude": 2.6053,
+      "latitude": 7.0013
     },
     {
       "block_id": "1e94bed9e90b-41",
@@ -3909,8 +3909,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-09 12:32:40",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-19",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-23 09:37:47",
-      "longitude": 2.616,
-      "latitude": 6.9953
+      "longitude": 2.6146,
+      "latitude": 6.9856
     },
     {
       "block_id": "1e94bed9e90b-42",
@@ -3963,8 +3963,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-11 10:20:06",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-15",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-23 09:37:47",
-      "longitude": 2.6077,
-      "latitude": 6.9924
+      "longitude": 2.6034,
+      "latitude": 6.9828
     },
     {
       "block_id": "1e94bed9e90b-43",
@@ -4017,8 +4017,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-11 10:19:21",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-15",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-23 09:37:47",
-      "longitude": 2.6123,
-      "latitude": 6.8774
+      "longitude": 2.61,
+      "latitude": 6.896
     },
     {
       "block_id": "1e94bed9e90b-44",
@@ -4071,8 +4071,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-11 10:18:12",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-15",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-23 09:37:47",
-      "longitude": 2.5939,
-      "latitude": 6.9957
+      "longitude": 2.6041,
+      "latitude": 6.9905
     },
     {
       "block_id": "1e94bed9e90b-45",
@@ -4151,8 +4151,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:52",
-      "longitude": 2.6025,
-      "latitude": 6.8947
+      "longitude": 2.6062,
+      "latitude": 6.8919
     },
     {
       "block_id": "1e94bed9e90b-46",
@@ -4207,8 +4207,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-09 12:31:52",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-19",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-23 09:37:47",
-      "longitude": 2.633,
-      "latitude": 6.9509
+      "longitude": 2.6349,
+      "latitude": 6.9551
     },
     {
       "block_id": "1e94bed9e90b-47",
@@ -4287,8 +4287,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:47",
-      "longitude": 2.6245,
-      "latitude": 6.893
+      "longitude": 2.6114,
+      "latitude": 6.8869
     },
     {
       "block_id": "1e94bed9e90b-48",
@@ -4367,8 +4367,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:47",
-      "longitude": 2.6088,
-      "latitude": 6.8814
+      "longitude": 2.6076,
+      "latitude": 6.8926
     },
     {
       "block_id": "1e94bed9e90b-49",
@@ -4449,8 +4449,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-02 11:25:48",
-      "longitude": 2.6119,
-      "latitude": 6.8937
+      "longitude": 2.6156,
+      "latitude": 6.8758
     },
     {
       "block_id": "1e94bed9e90b-50",
@@ -4503,8 +4503,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-11 10:22:47",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-15",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-23 09:37:48",
-      "longitude": 2.6086,
-      "latitude": 7.0022
+      "longitude": 2.6132,
+      "latitude": 6.9935
     },
     {
       "block_id": "1e94bed9e90b-51",
@@ -4568,8 +4568,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "null",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-10 14:58:46",
-      "longitude": 2.5113,
-      "latitude": 6.6592
+      "longitude": 2.5106,
+      "latitude": 6.6597
     },
     {
       "block_id": "1e94bed9e90b-52",
@@ -4640,8 +4640,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-02 11:20:16",
-      "longitude": 2.5123,
-      "latitude": 6.6589
+      "longitude": 2.5279,
+      "latitude": 6.6561
     },
     {
       "block_id": "1e94bed9e90b-53",
@@ -4711,8 +4711,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-02 11:09:39",
-      "longitude": 2.5175,
-      "latitude": 6.6661
+      "longitude": 2.5184,
+      "latitude": 6.6467
     },
     {
       "block_id": "1e94bed9e90b-54",
@@ -4776,8 +4776,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "akikon",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-01 08:07:54",
-      "longitude": 2.5158,
-      "latitude": 6.6481
+      "longitude": 2.5226,
+      "latitude": 6.6591
     },
     {
       "block_id": "1e94bed9e90b-55",
@@ -4838,8 +4838,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "null",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-30 11:23:01",
-      "longitude": 2.5134,
-      "latitude": 6.7707
+      "longitude": 2.5145,
+      "latitude": 6.7658
     },
     {
       "block_id": "1e94bed9e90b-56",
@@ -4904,8 +4904,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-18 03:10:04",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-14 16:49:09",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-14 16:49:35",
-      "longitude": 2.5063,
-      "latitude": 6.7658
+      "longitude": 2.5174,
+      "latitude": 6.7737
     },
     {
       "block_id": "1e94bed9e90b-57",
@@ -4977,8 +4977,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 16:46:37",
-      "longitude": 2.5199,
-      "latitude": 6.646
+      "longitude": 2.5381,
+      "latitude": 6.6464
     },
     {
       "block_id": "1e94bed9e90b-58",
@@ -5043,8 +5043,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-11-01 08:17:09",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-30 11:15:33",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-30 11:16:14",
-      "longitude": 2.5111,
-      "latitude": 6.7828
+      "longitude": 2.523,
+      "latitude": 6.7837
     },
     {
       "block_id": "1e94bed9e90b-59",
@@ -5117,8 +5117,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-05 15:36:37",
-      "longitude": 2.4991,
-      "latitude": 6.6261
+      "longitude": 2.5049,
+      "latitude": 6.6194
     },
     {
       "block_id": "1e94bed9e90b-60",
@@ -5182,8 +5182,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "null",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-01 08:56:43",
-      "longitude": 2.5055,
-      "latitude": 6.673
+      "longitude": 2.4945,
+      "latitude": 6.6741
     },
     {
       "block_id": "1e94bed9e90b-61",
@@ -5254,8 +5254,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 15:03:11",
-      "longitude": 2.5458,
-      "latitude": 6.6481
+      "longitude": 2.5383,
+      "latitude": 6.6298
     },
     {
       "block_id": "1e94bed9e90b-62",
@@ -5328,7 +5328,7 @@
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 13:38:35",
       "longitude": 2.5686,
-      "latitude": 6.6296
+      "latitude": 6.6236
     },
     {
       "block_id": "1e94bed9e90b-63",
@@ -5398,8 +5398,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "B; A; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 13:40:56",
-      "longitude": 2.5688,
-      "latitude": 6.6165
+      "longitude": 2.5599,
+      "latitude": 6.6033
     },
     {
       "block_id": "1e94bed9e90b-64",
@@ -5469,8 +5469,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; C; B",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-25 14:25:20",
-      "longitude": 2.5299,
-      "latitude": 6.6208
+      "longitude": 2.5468,
+      "latitude": 6.612
     },
     {
       "block_id": "1e94bed9e90b-65",
@@ -5542,8 +5542,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 14:42:56",
-      "longitude": 2.5547,
-      "latitude": 6.6276
+      "longitude": 2.543,
+      "latitude": 6.6342
     },
     {
       "block_id": "1e94bed9e90b-66",
@@ -5615,8 +5615,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 14:37:00",
-      "longitude": 2.5452,
-      "latitude": 6.6309
+      "longitude": 2.5445,
+      "latitude": 6.6409
     },
     {
       "block_id": "1e94bed9e90b-67",
@@ -5693,8 +5693,8 @@
       "rcolte2_anyloss": "Non",
       "rcolte2_whichlost": "Rien",
       "rcolte2_survey_end": "2024-11-12 14:31:44",
-      "longitude": 2.5468,
-      "latitude": 6.6487
+      "longitude": 2.5436,
+      "latitude": 6.6285
     },
     {
       "block_id": "1e94bed9e90b-68",
@@ -5765,8 +5765,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-25 14:08:10",
-      "longitude": 2.5483,
-      "latitude": 6.6171
+      "longitude": 2.5322,
+      "latitude": 6.6212
     },
     {
       "block_id": "1e94bed9e90b-69",
@@ -5836,8 +5836,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 14:00:48",
-      "longitude": 2.541,
-      "latitude": 6.6247
+      "longitude": 2.5498,
+      "latitude": 6.6221
     },
     {
       "block_id": "1e94bed9e90b-70",
@@ -5902,8 +5902,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "akikon",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-10 13:54:53",
-      "longitude": 2.5332,
-      "latitude": 6.6271
+      "longitude": 2.5487,
+      "latitude": 6.6196
     },
     {
       "block_id": "1e94bed9e90b-71",
@@ -5974,8 +5974,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 15:56:23",
-      "longitude": 2.518,
-      "latitude": 6.6189
+      "longitude": 2.521,
+      "latitude": 6.6139
     },
     {
       "block_id": "1e94bed9e90b-72",
@@ -6047,8 +6047,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-25 13:53:18",
-      "longitude": 2.5317,
-      "latitude": 6.637
+      "longitude": 2.5253,
+      "latitude": 6.6413
     },
     {
       "block_id": "1e94bed9e90b-73",
@@ -6120,8 +6120,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 14:50:08",
-      "longitude": 2.5565,
-      "latitude": 6.6371
+      "longitude": 2.5438,
+      "latitude": 6.6475
     },
     {
       "block_id": "1e94bed9e90b-74",
@@ -6193,8 +6193,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 14:56:41",
-      "longitude": 2.5524,
-      "latitude": 6.6406
+      "longitude": 2.5506,
+      "latitude": 6.6374
     },
     {
       "block_id": "1e94bed9e90b-75",
@@ -6266,8 +6266,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 16:28:50",
-      "longitude": 2.5175,
-      "latitude": 6.6345
+      "longitude": 2.517,
+      "latitude": 6.6386
     },
     {
       "block_id": "1e94bed9e90b-76",
@@ -6338,8 +6338,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-19 10:44:30",
-      "longitude": 2.5272,
-      "latitude": 6.6404
+      "longitude": 2.5194,
+      "latitude": 6.6319
     },
     {
       "block_id": "1e94bed9e90b-77",
@@ -6410,8 +6410,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 13:25:16",
-      "longitude": 2.5685,
-      "latitude": 6.6319
+      "longitude": 2.5534,
+      "latitude": 6.6147
     },
     {
       "block_id": "1e94bed9e90b-78",
@@ -6484,8 +6484,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-25 14:16:46",
-      "longitude": 2.5442,
-      "latitude": 6.5772
+      "longitude": 2.5459,
+      "latitude": 6.5707
     },
     {
       "block_id": "1e94bed9e90b-79",
@@ -6556,8 +6556,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-25 14:12:00",
-      "longitude": 2.5431,
-      "latitude": 6.6108
+      "longitude": 2.5533,
+      "latitude": 6.6193
     },
     {
       "block_id": "1e94bed9e90b-80",
@@ -6628,8 +6628,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "B; A; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-25 14:09:52",
-      "longitude": 2.5435,
-      "latitude": 6.6233
+      "longitude": 2.5421,
+      "latitude": 6.6132
     },
     {
       "block_id": "1e94bed9e90b-81",
@@ -6693,8 +6693,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "null",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-17 13:36:26",
-      "longitude": 2.4898,
-      "latitude": 6.7113
+      "longitude": 2.481,
+      "latitude": 6.7104
     },
     {
       "block_id": "1e94bed9e90b-82",
@@ -6759,8 +6759,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-18 03:10:00",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-10 15:33:39",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-10 15:33:54",
-      "longitude": 2.4805,
-      "latitude": 6.7061
+      "longitude": 2.4922,
+      "latitude": 6.7281
     },
     {
       "block_id": "1e94bed9e90b-83",
@@ -6830,8 +6830,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-05 08:12:44",
-      "longitude": 2.5201,
-      "latitude": 6.6678
+      "longitude": 2.5191,
+      "latitude": 6.6601
     },
     {
       "block_id": "1e94bed9e90b-84",
@@ -6894,8 +6894,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "null",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-10 15:53:32",
-      "longitude": 2.4897,
-      "latitude": 6.7121
+      "longitude": 2.4872,
+      "latitude": 6.7215
     },
     {
       "block_id": "1e94bed9e90b-85",
@@ -6958,8 +6958,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "null",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-14 16:09:42",
-      "longitude": 2.4966,
-      "latitude": 6.6511
+      "longitude": 2.4873,
+      "latitude": 6.6595
     },
     {
       "block_id": "1e94bed9e90b-86",
@@ -7023,8 +7023,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "Akikon",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-10 14:34:58",
-      "longitude": 2.4992,
-      "latitude": 6.6561
+      "longitude": 2.5105,
+      "latitude": 6.6526
     },
     {
       "block_id": "1e94bed9e90b-87",
@@ -7092,8 +7092,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-18 03:09:59",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-10 14:44:07",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-10 14:45:21",
-      "longitude": 2.4979,
-      "latitude": 6.6551
+      "longitude": 2.5152,
+      "latitude": 6.652
     },
     {
       "block_id": "1e94bed9e90b-88",
@@ -7157,8 +7157,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "null",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-01 12:41:22",
-      "longitude": 2.5052,
-      "latitude": 6.6417
+      "longitude": 2.4933,
+      "latitude": 6.6475
     },
     {
       "block_id": "1e94bed9e90b-89",
@@ -7221,8 +7221,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "akikon",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-01 10:06:47",
-      "longitude": 2.501,
-      "latitude": 6.6612
+      "longitude": 2.4938,
+      "latitude": 6.6591
     },
     {
       "block_id": "1e94bed9e90b-90",
@@ -7290,8 +7290,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-18 03:09:42",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-07 16:30:59",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-07 16:32:08",
-      "longitude": 2.506,
-      "latitude": 6.6912
+      "longitude": 2.4985,
+      "latitude": 6.7053
     },
     {
       "block_id": "1e94bed9e90b-91",
@@ -7355,8 +7355,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "akikon",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-01 10:05:45",
-      "longitude": 2.5096,
-      "latitude": 6.6738
+      "longitude": 2.5125,
+      "latitude": 6.6642
     },
     {
       "block_id": "1e94bed9e90b-92",
@@ -7426,8 +7426,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-10 10:48:20",
-      "longitude": 2.4946,
-      "latitude": 6.6818
+      "longitude": 2.5093,
+      "latitude": 6.6722
     },
     {
       "block_id": "1e94bed9e90b-93",
@@ -7495,8 +7495,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-18 03:10:04",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-14 14:22:45",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-14 14:23:14",
-      "longitude": 2.4764,
-      "latitude": 6.8221
+      "longitude": 2.4629,
+      "latitude": 6.8065
     },
     {
       "block_id": "1e94bed9e90b-94",
@@ -7568,8 +7568,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-10 10:31:55",
-      "longitude": 2.4672,
-      "latitude": 6.7936
+      "longitude": 2.4829,
+      "latitude": 6.8009
     },
     {
       "block_id": "1e94bed9e90b-95",
@@ -7633,8 +7633,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "null",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "30",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-01 08:55:25",
-      "longitude": 2.5071,
-      "latitude": 6.6639
+      "longitude": 2.4991,
+      "latitude": 6.674
     },
     {
       "block_id": "1e94bed9e90b-96",
@@ -7705,8 +7705,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-05 14:54:48",
-      "longitude": 2.5271,
-      "latitude": 6.652
+      "longitude": 2.5056,
+      "latitude": 6.6562
     },
     {
       "block_id": "1e94bed9e90b-97",
@@ -7777,8 +7777,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-02 12:07:27",
-      "longitude": 2.5272,
-      "latitude": 6.6664
+      "longitude": 2.5203,
+      "latitude": 6.6519
     },
     {
       "block_id": "1e94bed9e90b-98",
@@ -7849,8 +7849,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-02 11:05:27",
-      "longitude": 2.5158,
-      "latitude": 6.6649
+      "longitude": 2.5282,
+      "latitude": 6.6548
     },
     {
       "block_id": "1e94bed9e90b-99",
@@ -7922,8 +7922,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A; B; C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-02 10:59:33",
-      "longitude": 2.5088,
-      "latitude": 6.6491
+      "longitude": 2.5071,
+      "latitude": 6.653
     },
     {
       "block_id": "1e94bed9e90b-100",
@@ -7994,8 +7994,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-12 17:18:08",
-      "longitude": 2.5158,
-      "latitude": 6.6497
+      "longitude": 2.5223,
+      "latitude": 6.6703
     },
     {
       "block_id": "1e94bed9e90b-101",
@@ -8047,8 +8047,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-20 12:35:38",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-10",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-20 12:36:55",
-      "longitude": 1.9679,
-      "latitude": 6.6587
+      "longitude": 1.9724,
+      "latitude": 6.6382
     },
     {
       "block_id": "1e94bed9e90b-102",
@@ -8107,8 +8107,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "RAS",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-09-26 07:49:19",
-      "longitude": 1.9726,
-      "latitude": 6.6363
+      "longitude": 1.9882,
+      "latitude": 6.6297
     },
     {
       "block_id": "1e94bed9e90b-103",
@@ -8171,8 +8171,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:11",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 10:32:47",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 10:34:49",
-      "longitude": 1.9751,
-      "latitude": 6.6547
+      "longitude": 1.9991,
+      "latitude": 6.6596
     },
     {
       "block_id": "1e94bed9e90b-104",
@@ -8236,8 +8236,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:10",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 10:03:06",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 10:04:22",
-      "longitude": 1.9911,
-      "latitude": 6.6679
+      "longitude": 1.9875,
+      "latitude": 6.6709
     },
     {
       "block_id": "1e94bed9e90b-105",
@@ -8297,8 +8297,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "Aklikonkoui",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-13 08:29:16",
-      "longitude": 1.958,
-      "latitude": 6.5925
+      "longitude": 1.9546,
+      "latitude": 6.6015
     },
     {
       "block_id": "1e94bed9e90b-106",
@@ -8351,8 +8351,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-28 14:59:28",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-10",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-28 15:00:15",
-      "longitude": 1.9698,
-      "latitude": 6.6315
+      "longitude": 1.9725,
+      "latitude": 6.6355
     },
     {
       "block_id": "1e94bed9e90b-107",
@@ -8416,8 +8416,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-11-04 07:39:36",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 10:22:02",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-11-04 14:29:13",
-      "longitude": 1.9989,
-      "latitude": 6.6685
+      "longitude": 1.9773,
+      "latitude": 6.6726
     },
     {
       "block_id": "1e94bed9e90b-108",
@@ -8484,8 +8484,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-27 12:43:57",
-      "longitude": 1.9827,
-      "latitude": 6.6527
+      "longitude": 1.9733,
+      "latitude": 6.662
     },
     {
       "block_id": "1e94bed9e90b-109",
@@ -8552,8 +8552,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "C",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-11 04:35:25",
-      "longitude": 2.0173,
-      "latitude": 6.7087
+      "longitude": 2.0182,
+      "latitude": 6.7092
     },
     {
       "block_id": "1e94bed9e90b-110",
@@ -8616,8 +8616,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:06:59",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 08:38:28",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 08:40:34",
-      "longitude": 2.0274,
-      "latitude": 6.7076
+      "longitude": 2.0268,
+      "latitude": 6.7211
     },
     {
       "block_id": "1e94bed9e90b-111",
@@ -8684,8 +8684,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Oui",
       "rcolte12moisenvironaprsrepiquage_whichlost": "A",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-11 04:37:15",
-      "longitude": 2.0095,
-      "latitude": 6.7079
+      "longitude": 2.0132,
+      "latitude": 6.72
     },
     {
       "block_id": "1e94bed9e90b-112",
@@ -8749,8 +8749,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:14",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 12:34:25",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 12:35:24",
-      "longitude": 1.9919,
-      "latitude": 6.6513
+      "longitude": 1.9732,
+      "latitude": 6.6365
     },
     {
       "block_id": "1e94bed9e90b-113",
@@ -8802,8 +8802,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-14 13:13:46",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-18",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-14 13:14:25",
-      "longitude": 1.9757,
-      "latitude": 6.6509
+      "longitude": 1.9892,
+      "latitude": 6.6409
     },
     {
       "block_id": "1e94bed9e90b-114",
@@ -8863,8 +8863,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "Ras",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-21 02:26:51",
-      "longitude": 1.9962,
-      "latitude": 6.6645
+      "longitude": 1.9923,
+      "latitude": 6.6485
     },
     {
       "block_id": "1e94bed9e90b-115",
@@ -8934,8 +8934,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-30 09:13:07",
-      "longitude": 2.0262,
-      "latitude": 6.7073
+      "longitude": 2.0157,
+      "latitude": 6.7103
     },
     {
       "block_id": "1e94bed9e90b-116",
@@ -8999,8 +8999,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-11-01 13:04:56",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-11-01 09:46:06",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-11-01 09:47:27",
-      "longitude": 1.9395,
-      "latitude": 6.5851
+      "longitude": 1.9477,
+      "latitude": 6.5887
     },
     {
       "block_id": "1e94bed9e90b-117",
@@ -9052,8 +9052,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-09-16 07:42:53",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-11",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-09-16 07:44:09",
-      "longitude": 1.9432,
-      "latitude": 6.607
+      "longitude": 1.9465,
+      "latitude": 6.6004
     },
     {
       "block_id": "1e94bed9e90b-118",
@@ -9116,7 +9116,7 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-11-01 13:04:57",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-11-01 10:05:35",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-11-01 10:07:07",
-      "longitude": 1.9313,
+      "longitude": 1.9353,
       "latitude": 6.589
     },
     {
@@ -9180,8 +9180,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "Aklikonkoui",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "32150",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-09-26 12:36:56",
-      "longitude": 1.9697,
-      "latitude": 6.5662
+      "longitude": 1.9576,
+      "latitude": 6.5674
     },
     {
       "block_id": "1e94bed9e90b-120",
@@ -9244,8 +9244,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:12",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 10:56:28",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 11:10:52",
-      "longitude": 1.9802,
-      "latitude": 6.647
+      "longitude": 1.9838,
+      "latitude": 6.6493
     },
     {
       "block_id": "1e94bed9e90b-121",
@@ -9308,8 +9308,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:09",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 08:50:29",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 08:51:19",
-      "longitude": 2.0292,
-      "latitude": 6.7179
+      "longitude": 2.0283,
+      "latitude": 6.7018
     },
     {
       "block_id": "1e94bed9e90b-122",
@@ -9371,8 +9371,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "RAS",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-09-16 07:54:23",
-      "longitude": 1.9675,
-      "latitude": 6.5568
+      "longitude": 1.9731,
+      "latitude": 6.5715
     },
     {
       "block_id": "1e94bed9e90b-123",
@@ -9436,8 +9436,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:04",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 08:46:48",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 08:47:47",
-      "longitude": 2.0318,
-      "latitude": 6.7201
+      "longitude": 2.016,
+      "latitude": 6.7173
     },
     {
       "block_id": "1e94bed9e90b-124",
@@ -9498,8 +9498,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:08",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 08:49:50",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 08:50:24",
-      "longitude": 2.0093,
-      "latitude": 6.72
+      "longitude": 2.0252,
+      "latitude": 6.7239
     },
     {
       "block_id": "1e94bed9e90b-125",
@@ -9563,8 +9563,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:05",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 08:48:01",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 08:48:41",
-      "longitude": 2.0143,
-      "latitude": 6.7178
+      "longitude": 2.012,
+      "latitude": 6.7067
     },
     {
       "block_id": "1e94bed9e90b-126",
@@ -9628,8 +9628,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:08",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 08:48:52",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 08:49:48",
-      "longitude": 2.0217,
-      "latitude": 6.6976
+      "longitude": 2.0205,
+      "latitude": 6.699
     },
     {
       "block_id": "1e94bed9e90b-127",
@@ -9695,8 +9695,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:03",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 08:46:01",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 08:46:40",
-      "longitude": 2.024,
-      "latitude": 6.7009
+      "longitude": 2.0271,
+      "latitude": 6.711
     },
     {
       "block_id": "1e94bed9e90b-128",
@@ -9758,8 +9758,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-11-04 07:39:38",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-11-04 14:23:02",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-11-04 14:24:15",
-      "longitude": 1.9847,
-      "latitude": 6.6799
+      "longitude": 1.9928,
+      "latitude": 6.6553
     },
     {
       "block_id": "1e94bed9e90b-129",
@@ -9809,8 +9809,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-20 15:12:26",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-07-30",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-20 15:20:44",
-      "longitude": 1.9978,
-      "latitude": 6.6733
+      "longitude": 1.9952,
+      "latitude": 6.6799
     },
     {
       "block_id": "1e94bed9e90b-130",
@@ -9869,8 +9869,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "RAS",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-09-26 11:13:20",
-      "longitude": 1.9817,
-      "latitude": 6.6539
+      "longitude": 1.9716,
+      "latitude": 6.6421
     },
     {
       "block_id": "1e94bed9e90b-131",
@@ -9928,8 +9928,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "RAS",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-21 02:34:48",
-      "longitude": 1.983,
-      "latitude": 6.6413
+      "longitude": 1.9856,
+      "latitude": 6.6322
     },
     {
       "block_id": "1e94bed9e90b-132",
@@ -9990,8 +9990,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "Ras",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-21 02:13:59",
-      "longitude": 1.9953,
-      "latitude": 6.6562
+      "longitude": 1.9913,
+      "latitude": 6.6675
     },
     {
       "block_id": "1e94bed9e90b-133",
@@ -10047,8 +10047,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:13",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 12:09:41",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 12:32:53",
-      "longitude": 1.9901,
-      "latitude": 6.654
+      "longitude": 1.9831,
+      "latitude": 6.6606
     },
     {
       "block_id": "1e94bed9e90b-134",
@@ -10101,8 +10101,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-20 12:29:19",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-03",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-20 12:31:52",
-      "longitude": 1.9655,
-      "latitude": 6.6459
+      "longitude": 1.9699,
+      "latitude": 6.6461
     },
     {
       "block_id": "1e94bed9e90b-135",
@@ -10161,8 +10161,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "Aklikonkoui",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-09-26 08:15:56",
-      "longitude": 1.9934,
-      "latitude": 6.6337
+      "longitude": 1.9793,
+      "latitude": 6.6418
     },
     {
       "block_id": "1e94bed9e90b-136",
@@ -10212,8 +10212,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-28 14:42:50",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-10",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-28 14:44:10",
-      "longitude": 1.9837,
-      "latitude": 6.6489
+      "longitude": 1.9704,
+      "latitude": 6.6342
     },
     {
       "block_id": "1e94bed9e90b-137",
@@ -10272,8 +10272,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "RAS",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-21 02:20:05",
-      "longitude": 1.9878,
-      "latitude": 6.6645
+      "longitude": 1.9813,
+      "latitude": 6.6671
     },
     {
       "block_id": "1e94bed9e90b-138",
@@ -10336,8 +10336,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-11-04 07:39:37",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 11:03:05",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-11-04 14:32:47",
-      "longitude": 1.9822,
-      "latitude": 6.641
+      "longitude": 1.9761,
+      "latitude": 6.6506
     },
     {
       "block_id": "1e94bed9e90b-139",
@@ -10388,8 +10388,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-20 13:08:57",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-01",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-20 13:13:37",
-      "longitude": 1.9809,
-      "latitude": 6.6506
+      "longitude": 1.9884,
+      "latitude": 6.6491
     },
     {
       "block_id": "1e94bed9e90b-140",
@@ -10449,8 +10449,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "RAS",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-09-26 11:33:34",
-      "longitude": 1.9956,
-      "latitude": 6.6421
+      "longitude": 1.992,
+      "latitude": 6.6314
     },
     {
       "block_id": "1e94bed9e90b-141",
@@ -10512,8 +10512,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:14",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 12:40:59",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 12:45:12",
-      "longitude": 1.9836,
-      "latitude": 6.6568
+      "longitude": 1.9824,
+      "latitude": 6.655
     },
     {
       "block_id": "1e94bed9e90b-142",
@@ -10574,8 +10574,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "Ras",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "31250",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-21 02:25:38",
-      "longitude": 1.9829,
-      "latitude": 6.625
+      "longitude": 1.9908,
+      "latitude": 6.6406
     },
     {
       "block_id": "1e94bed9e90b-143",
@@ -10639,8 +10639,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-10-23 06:07:12",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-10-23 11:24:08",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-10-23 11:25:49",
-      "longitude": 1.9854,
-      "latitude": 6.6456
+      "longitude": 1.964,
+      "latitude": 6.6513
     },
     {
       "block_id": "1e94bed9e90b-144",
@@ -10704,8 +10704,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-11-01 13:04:58",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-11-01 11:02:17",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-11-01 11:03:17",
-      "longitude": 1.9799,
-      "latitude": 6.6269
+      "longitude": 1.9941,
+      "latitude": 6.6349
     },
     {
       "block_id": "1e94bed9e90b-145",
@@ -10758,8 +10758,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-28 15:05:42",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-10",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-28 15:06:44",
-      "longitude": 1.9884,
-      "latitude": 6.6278
+      "longitude": 1.9717,
+      "latitude": 6.6384
     },
     {
       "block_id": "1e94bed9e90b-146",
@@ -10828,8 +10828,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-12-30 09:15:19",
-      "longitude": 2.0189,
-      "latitude": 6.7172
+      "longitude": 2.0305,
+      "latitude": 6.7214
     },
     {
       "block_id": "1e94bed9e90b-147",
@@ -10897,8 +10897,8 @@
       "rcolte12moisenvironaprsrepiquage_anyloss": "Non",
       "rcolte12moisenvironaprsrepiquage_whichlost": "Rien",
       "rcolte12moisenvironaprsrepiquage_survey_end": "2024-11-18 10:44:48",
-      "longitude": 1.989,
-      "latitude": 6.6763
+      "longitude": 1.9785,
+      "latitude": 6.6755
     },
     {
       "block_id": "1e94bed9e90b-148",
@@ -10959,8 +10959,8 @@
       "etaperepiquagedeuxsemainesaprsrepiquage_localvariety": "Ras",
       "etaperepiquagedeuxsemainesaprsrepiquage_plantdensity": "120",
       "etaperepiquagedeuxsemainesaprsrepiquage_survey_end": "2024-10-13 08:37:19",
-      "longitude": 1.9348,
-      "latitude": 6.5874
+      "longitude": 1.931,
+      "latitude": 6.5886
     },
     {
       "block_id": "1e94bed9e90b-149",
@@ -11027,8 +11027,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-11-01 13:04:57",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-11-01 11:01:09",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-11-01 11:01:55",
-      "longitude": 1.9915,
-      "latitude": 6.6381
+      "longitude": 1.9736,
+      "latitude": 6.6492
     },
     {
       "block_id": "1e94bed9e90b-150",
@@ -11092,8 +11092,8 @@
       "dveloppementvegetatifunmoisaprsrepiquage_submitted_date": "2024-11-01 13:04:58",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_start": "2024-11-01 11:08:43",
       "dveloppementvegetatifunmoisaprsrepiquage_survey_end": "2024-11-01 11:09:54",
-      "longitude": 1.9813,
-      "latitude": 6.6433
+      "longitude": 1.9842,
+      "latitude": 6.6483
     },
     {
       "block_id": "1e94bed9e90b-151",
@@ -11174,8 +11174,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:24:34",
-      "longitude": 1.703,
-      "latitude": 6.6311
+      "longitude": 1.7153,
+      "latitude": 6.6314
     },
     {
       "block_id": "1e94bed9e90b-152",
@@ -11255,8 +11255,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:25:32",
-      "longitude": 1.7143,
-      "latitude": 6.6001
+      "longitude": 1.7255,
+      "latitude": 6.5956
     },
     {
       "block_id": "1e94bed9e90b-153",
@@ -11338,8 +11338,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:23:14",
-      "longitude": 1.761,
-      "latitude": 6.618
+      "longitude": 1.7687,
+      "latitude": 6.6291
     },
     {
       "block_id": "1e94bed9e90b-154",
@@ -11420,8 +11420,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:22:22",
-      "longitude": 1.7113,
-      "latitude": 6.6157
+      "longitude": 1.7176,
+      "latitude": 6.6058
     },
     {
       "block_id": "1e94bed9e90b-155",
@@ -11502,8 +11502,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:21:20",
-      "longitude": 1.7773,
-      "latitude": 6.6197
+      "longitude": 1.7635,
+      "latitude": 6.6394
     },
     {
       "block_id": "1e94bed9e90b-156",
@@ -11582,8 +11582,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:20:25",
-      "longitude": 1.783,
-      "latitude": 6.6251
+      "longitude": 1.7644,
+      "latitude": 6.6265
     },
     {
       "block_id": "1e94bed9e90b-157",
@@ -11663,8 +11663,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:19:28",
-      "longitude": 1.7714,
-      "latitude": 6.6407
+      "longitude": 1.7735,
+      "latitude": 6.6241
     },
     {
       "block_id": "1e94bed9e90b-158",
@@ -11745,8 +11745,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:18:14",
-      "longitude": 1.754,
-      "latitude": 6.6335
+      "longitude": 1.7699,
+      "latitude": 6.6242
     },
     {
       "block_id": "1e94bed9e90b-159",
@@ -11827,8 +11827,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:17:13",
-      "longitude": 1.7038,
-      "latitude": 6.632
+      "longitude": 1.7141,
+      "latitude": 6.6309
     },
     {
       "block_id": "1e94bed9e90b-160",
@@ -11909,8 +11909,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:16:04",
-      "longitude": 1.7162,
-      "latitude": 6.6176
+      "longitude": 1.7146,
+      "latitude": 6.6121
     },
     {
       "block_id": "1e94bed9e90b-161",
@@ -11992,8 +11992,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:15:05",
-      "longitude": 1.7235,
-      "latitude": 6.5936
+      "longitude": 1.7253,
+      "latitude": 6.6064
     },
     {
       "block_id": "1e94bed9e90b-162",
@@ -12073,8 +12073,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:13:07",
-      "longitude": 1.7307,
-      "latitude": 6.6117
+      "longitude": 1.7109,
+      "latitude": 6.6024
     },
     {
       "block_id": "1e94bed9e90b-163",
@@ -12155,8 +12155,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:11:49",
-      "longitude": 1.726,
-      "latitude": 6.6153
+      "longitude": 1.7139,
+      "latitude": 6.6142
     },
     {
       "block_id": "1e94bed9e90b-164",
@@ -12237,8 +12237,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:10:28",
-      "longitude": 1.7339,
-      "latitude": 6.601
+      "longitude": 1.7307,
+      "latitude": 6.5998
     },
     {
       "block_id": "1e94bed9e90b-165",
@@ -12319,8 +12319,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:09:21",
-      "longitude": 1.7083,
-      "latitude": 6.6022
+      "longitude": 1.7297,
+      "latitude": 6.5992
     },
     {
       "block_id": "1e94bed9e90b-166",
@@ -12400,8 +12400,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:07:43",
-      "longitude": 1.7097,
-      "latitude": 6.6477
+      "longitude": 1.7282,
+      "latitude": 6.6369
     },
     {
       "block_id": "1e94bed9e90b-167",
@@ -12481,8 +12481,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:06:22",
-      "longitude": 1.7281,
-      "latitude": 6.6554
+      "longitude": 1.7325,
+      "latitude": 6.639
     },
     {
       "block_id": "1e94bed9e90b-168",
@@ -12561,8 +12561,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:03:55",
-      "longitude": 1.6707,
-      "latitude": 6.5811
+      "longitude": 1.6794,
+      "latitude": 6.583
     },
     {
       "block_id": "1e94bed9e90b-169",
@@ -12643,8 +12643,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:02:27",
-      "longitude": 1.706,
-      "latitude": 6.5679
+      "longitude": 1.6991,
+      "latitude": 6.5532
     },
     {
       "block_id": "1e94bed9e90b-170",
@@ -12723,8 +12723,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 09:00:04",
-      "longitude": 1.6544,
-      "latitude": 6.6448
+      "longitude": 1.6553,
+      "latitude": 6.6555
     },
     {
       "block_id": "1e94bed9e90b-171",
@@ -12804,8 +12804,8 @@
       "recolte3_anyloss": "Oui",
       "recolte3_whichlost": "A; C",
       "recolte3_survey_end": "2025-01-02 08:58:47",
-      "longitude": 1.6899,
-      "latitude": 6.5943
+      "longitude": 1.6841,
+      "latitude": 6.6003
     },
     {
       "block_id": "1e94bed9e90b-172",
@@ -12886,8 +12886,8 @@
       "recolte3_anyloss": "Oui",
       "recolte3_whichlost": "B; C",
       "recolte3_survey_end": "2025-01-02 08:52:03",
-      "longitude": 1.691,
-      "latitude": 6.5693
+      "longitude": 1.6984,
+      "latitude": 6.5774
     },
     {
       "block_id": "1e94bed9e90b-173",
@@ -12969,8 +12969,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:49:40",
-      "longitude": 1.7448,
-      "latitude": 6.5696
+      "longitude": 1.7317,
+      "latitude": 6.5541
     },
     {
       "block_id": "1e94bed9e90b-174",
@@ -13050,8 +13050,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:48:32",
-      "longitude": 1.7015,
-      "latitude": 6.613
+      "longitude": 1.7029,
+      "latitude": 6.5983
     },
     {
       "block_id": "1e94bed9e90b-175",
@@ -13106,8 +13106,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-27 17:34:34",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-25",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-27 17:39:51",
-      "longitude": 1.7606,
-      "latitude": 6.5823
+      "longitude": 1.7543,
+      "latitude": 6.5942
     },
     {
       "block_id": "1e94bed9e90b-176",
@@ -13187,8 +13187,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:47:09",
-      "longitude": 1.6883,
-      "latitude": 6.6009
+      "longitude": 1.6842,
+      "latitude": 6.5902
     },
     {
       "block_id": "1e94bed9e90b-177",
@@ -13266,8 +13266,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:46:00",
-      "longitude": 1.7069,
-      "latitude": 6.5677
+      "longitude": 1.7115,
+      "latitude": 6.5623
     },
     {
       "block_id": "1e94bed9e90b-178",
@@ -13347,8 +13347,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:44:46",
-      "longitude": 1.7073,
-      "latitude": 6.5887
+      "longitude": 1.7042,
+      "latitude": 6.5793
     },
     {
       "block_id": "1e94bed9e90b-179",
@@ -13429,8 +13429,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:43:22",
-      "longitude": 1.6823,
-      "latitude": 6.5702
+      "longitude": 1.6877,
+      "latitude": 6.5714
     },
     {
       "block_id": "1e94bed9e90b-180",
@@ -13509,8 +13509,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:42:08",
-      "longitude": 1.704,
-      "latitude": 6.5895
+      "longitude": 1.6917,
+      "latitude": 6.5958
     },
     {
       "block_id": "1e94bed9e90b-181",
@@ -13590,8 +13590,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:40:32",
-      "longitude": 1.6906,
-      "latitude": 6.5611
+      "longitude": 1.7034,
+      "latitude": 6.5581
     },
     {
       "block_id": "1e94bed9e90b-182",
@@ -13645,8 +13645,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-27 17:29:38",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-25",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-27 17:40:13",
-      "longitude": 1.7596,
-      "latitude": 6.5806
+      "longitude": 1.7599,
+      "latitude": 6.5877
     },
     {
       "block_id": "1e94bed9e90b-183",
@@ -13725,8 +13725,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:39:07",
-      "longitude": 1.6668,
-      "latitude": 6.58
+      "longitude": 1.6674,
+      "latitude": 6.579
     },
     {
       "block_id": "1e94bed9e90b-184",
@@ -13808,8 +13808,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:36:24",
-      "longitude": 1.7483,
-      "latitude": 6.5744
+      "longitude": 1.7484,
+      "latitude": 6.5803
     },
     {
       "block_id": "1e94bed9e90b-185",
@@ -13888,8 +13888,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:35:03",
-      "longitude": 1.7624,
-      "latitude": 6.573
+      "longitude": 1.7605,
+      "latitude": 6.5724
     },
     {
       "block_id": "1e94bed9e90b-186",
@@ -13970,8 +13970,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:32:13",
-      "longitude": 1.7284,
-      "latitude": 6.6165
+      "longitude": 1.733,
+      "latitude": 6.6154
     },
     {
       "block_id": "1e94bed9e90b-187",
@@ -14053,8 +14053,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:31:00",
-      "longitude": 1.7136,
-      "latitude": 6.6082
+      "longitude": 1.7143,
+      "latitude": 6.6111
     },
     {
       "block_id": "1e94bed9e90b-188",
@@ -14135,8 +14135,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:29:27",
-      "longitude": 1.6692,
-      "latitude": 6.6326
+      "longitude": 1.6676,
+      "latitude": 6.6425
     },
     {
       "block_id": "1e94bed9e90b-189",
@@ -14216,8 +14216,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:28:17",
-      "longitude": 1.6672,
-      "latitude": 6.5898
+      "longitude": 1.6743,
+      "latitude": 6.5816
     },
     {
       "block_id": "1e94bed9e90b-190",
@@ -14297,8 +14297,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:26:11",
-      "longitude": 1.7093,
-      "latitude": 6.6109
+      "longitude": 1.7112,
+      "latitude": 6.5935
     },
     {
       "block_id": "1e94bed9e90b-191",
@@ -14352,8 +14352,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-27 17:30:22",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-25",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-27 17:40:33",
-      "longitude": 1.7002,
-      "latitude": 6.6133
+      "longitude": 1.6995,
+      "latitude": 6.6055
     },
     {
       "block_id": "1e94bed9e90b-192",
@@ -14433,8 +14433,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:25:11",
-      "longitude": 1.759,
-      "latitude": 6.5528
+      "longitude": 1.7622,
+      "latitude": 6.548
     },
     {
       "block_id": "1e94bed9e90b-193",
@@ -14516,8 +14516,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:23:39",
-      "longitude": 1.7212,
-      "latitude": 6.5706
+      "longitude": 1.7294,
+      "latitude": 6.5798
     },
     {
       "block_id": "1e94bed9e90b-194",
@@ -14597,8 +14597,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:21:48",
-      "longitude": 1.7112,
-      "latitude": 6.5888
+      "longitude": 1.7037,
+      "latitude": 6.5923
     },
     {
       "block_id": "1e94bed9e90b-195",
@@ -14652,8 +14652,8 @@
       "etapeppinireunesemaineavantlerepiquage_survey_start": "2024-08-28 17:43:10",
       "etapeppinireunesemaineavantlerepiquage_datesemis": "2024-08-27",
       "etapeppinireunesemaineavantlerepiquage_survey_end": "2024-08-29 20:05:05",
-      "longitude": 1.7066,
-      "latitude": 6.5884
+      "longitude": 1.7177,
+      "latitude": 6.5871
     },
     {
       "block_id": "1e94bed9e90b-196",
@@ -14735,8 +14735,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:16:52",
-      "longitude": 1.6769,
-      "latitude": 6.5794
+      "longitude": 1.6674,
+      "latitude": 6.5814
     },
     {
       "block_id": "1e94bed9e90b-197",
@@ -14816,8 +14816,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2025-01-02 08:06:25",
-      "longitude": 1.6774,
-      "latitude": 6.5751
+      "longitude": 1.6775,
+      "latitude": 6.5735
     },
     {
       "block_id": "1e94bed9e90b-198",
@@ -14897,8 +14897,8 @@
       "recolte3_anyloss": "Non",
       "recolte3_whichlost": "Rien",
       "recolte3_survey_end": "2024-12-22 13:27:35",
-      "longitude": 1.7115,
-      "latitude": 6.5722
+      "longitude": 1.7021,
+      "latitude": 6.5811
     },
     {
       "block_id": "1e94bed9e90b-199",
@@ -14980,8 +14980,8 @@
       "recolte3_anyloss": "Oui",
       "recolte3_whichlost": "A",
       "recolte3_survey_end": "2024-12-22 13:17:19",
-      "longitude": 1.7454,
-      "latitude": 6.5735
+      "longitude": 1.7437,
+      "latitude": 6.5619
     },
     {
       "block_id": "1e94bed9e90b-200",
@@ -15061,8 +15061,8 @@
       "recolte3_anyloss": "Oui",
       "recolte3_whichlost": "B; C",
       "recolte3_survey_end": "2024-12-22 13:15:24",
-      "longitude": 1.7181,
-      "latitude": 6.5602
+      "longitude": 1.7231,
+      "latitude": 6.5742
     }
   ],
   "plot_data": [

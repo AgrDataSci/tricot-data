@@ -1,11 +1,11 @@
 {
   "metadata": {
     "changelog": {
-      "version": "v2025-10-08",
+      "version": "v2025-11-14",
       "notes": "Initial release",
       "software": {
         "package": "ClimMobTools",
-        "package_version": "1.7"
+        "package_version": "1.8"
       }
     },
     "identifier": "https://doi.org/10.5281/zenodo.17112492",
@@ -637,8 +637,8 @@
       "agronomicperformance_fertilizer": "No",
       "agronomicperformance_fertilizerfreq": 0,
       "agronomicperformance_survey_end": "2024-08-23 16:21:17",
-      "longitude": 8.5664,
-      "latitude": 11.9894
+      "longitude": 8.5551,
+      "latitude": 11.9917
     },
     {
       "block_id": "b473fcd6d3d2-14",
@@ -677,8 +677,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 2,
       "agronomicperformance_survey_end": "2024-08-23 16:18:51",
-      "longitude": 8.5639,
-      "latitude": 11.9852
+      "longitude": 8.5566,
+      "latitude": 11.9883
     },
     {
       "block_id": "b473fcd6d3d2-15",
@@ -705,8 +705,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:54:26",
-      "longitude": 8.554,
-      "latitude": 11.9803
+      "longitude": 8.558,
+      "latitude": 11.9929
     },
     {
       "block_id": "b473fcd6d3d2-16",
@@ -745,8 +745,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 1,
       "agronomicperformance_survey_end": "2024-08-23 16:19:31",
-      "longitude": 8.5499,
-      "latitude": 11.976
+      "longitude": 8.5526,
+      "latitude": 11.9808
     },
     {
       "block_id": "b473fcd6d3d2-17",
@@ -774,8 +774,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2024-08-23 15:58:55",
-      "longitude": 8.5632,
-      "latitude": 11.983
+      "longitude": 8.5559,
+      "latitude": 11.9951
     },
     {
       "block_id": "b473fcd6d3d2-18",
@@ -803,8 +803,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 16:05:00",
-      "longitude": 8.5485,
-      "latitude": 11.9713
+      "longitude": 8.5468,
+      "latitude": 11.9893
     },
     {
       "block_id": "b473fcd6d3d2-19",
@@ -842,8 +842,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 2,
       "agronomicperformance_survey_end": "2024-08-23 16:16:51",
-      "longitude": 8.5491,
-      "latitude": 11.9907
+      "longitude": 8.5687,
+      "latitude": 11.9742
     },
     {
       "block_id": "b473fcd6d3d2-20",
@@ -881,8 +881,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 4,
       "agronomicperformance_survey_end": "2024-08-23 16:19:02",
-      "longitude": 8.5685,
-      "latitude": 11.9877
+      "longitude": 8.5555,
+      "latitude": 11.982
     },
     {
       "block_id": "b473fcd6d3d2-21",
@@ -920,8 +920,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 3,
       "agronomicperformance_survey_end": "2024-08-23 16:20:43",
-      "longitude": 8.5654,
-      "latitude": 11.9875
+      "longitude": 8.5544,
+      "latitude": 11.9709
     },
     {
       "block_id": "b473fcd6d3d2-22",
@@ -948,8 +948,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:42:24",
-      "longitude": 8.5566,
-      "latitude": 11.9723
+      "longitude": 8.5613,
+      "latitude": 11.9861
     },
     {
       "block_id": "b473fcd6d3d2-23",
@@ -961,7 +961,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 3,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:21:42"
+      "registration_survey_end": "2024-08-23 12:21:42",
+      "longitude": 8.5696,
+      "latitude": 11.9795
     },
     {
       "block_id": "b473fcd6d3d2-24",
@@ -988,8 +990,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:55:59",
-      "longitude": 8.5635,
-      "latitude": 11.9726
+      "longitude": 8.5532,
+      "latitude": 11.9759
     },
     {
       "block_id": "b473fcd6d3d2-25",
@@ -1001,7 +1003,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 10,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:16:40"
+      "registration_survey_end": "2024-08-23 12:16:40",
+      "longitude": 8.5469,
+      "latitude": 11.9885
     },
     {
       "block_id": "b473fcd6d3d2-26",
@@ -1013,7 +1017,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 10,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:23:26"
+      "registration_survey_end": "2024-08-23 12:23:26",
+      "longitude": 8.5583,
+      "latitude": 11.9764
     },
     {
       "block_id": "b473fcd6d3d2-27",
@@ -1025,7 +1031,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:29:45"
+      "registration_survey_end": "2024-08-23 12:29:45",
+      "longitude": 8.5511,
+      "latitude": 11.9774
     },
     {
       "block_id": "b473fcd6d3d2-28",
@@ -1065,8 +1073,8 @@
       "agronomicperformance_fertilizer": "No",
       "agronomicperformance_fertilizerfreq": 0,
       "agronomicperformance_survey_end": "2024-08-23 16:18:26",
-      "longitude": 8.5718,
-      "latitude": 11.9791
+      "longitude": 8.5556,
+      "latitude": 11.9868
     },
     {
       "block_id": "b473fcd6d3d2-29",
@@ -1104,8 +1112,8 @@
       "agronomicperformance_fertilizer": "No",
       "agronomicperformance_fertilizerfreq": 0,
       "agronomicperformance_survey_end": "2024-08-23 16:18:26",
-      "longitude": 8.5522,
-      "latitude": 11.973
+      "longitude": 8.543,
+      "latitude": 11.9814
     },
     {
       "block_id": "b473fcd6d3d2-30",
@@ -1117,7 +1125,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 20,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:17:29"
+      "registration_survey_end": "2024-08-23 12:17:29",
+      "longitude": 8.5563,
+      "latitude": 11.9786
     },
     {
       "block_id": "b473fcd6d3d2-31",
@@ -1129,7 +1139,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:15:37"
+      "registration_survey_end": "2024-08-23 12:15:37",
+      "longitude": 8.5661,
+      "latitude": 11.9886
     },
     {
       "block_id": "b473fcd6d3d2-32",
@@ -1141,7 +1153,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 9,
       "registration_tricotexperience": 2,
-      "registration_survey_end": "2024-08-23 12:23:16"
+      "registration_survey_end": "2024-08-23 12:23:16",
+      "longitude": 8.5533,
+      "latitude": 11.9746
     },
     {
       "block_id": "b473fcd6d3d2-33",
@@ -1153,7 +1167,9 @@
       "registration_civilstatus": "Widowed",
       "registration_experiencecrop": 3,
       "registration_tricotexperience": 1,
-      "registration_survey_end": "2024-08-23 12:28:02"
+      "registration_survey_end": "2024-08-23 12:28:02",
+      "longitude": 8.5653,
+      "latitude": 11.9817
     },
     {
       "block_id": "b473fcd6d3d2-34",
@@ -1181,8 +1197,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:50:04",
-      "longitude": 8.5651,
-      "latitude": 11.9923
+      "longitude": 8.5559,
+      "latitude": 11.9786
     },
     {
       "block_id": "b473fcd6d3d2-35",
@@ -1194,7 +1210,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 25,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:14:48"
+      "registration_survey_end": "2024-08-23 12:14:48",
+      "longitude": 8.562,
+      "latitude": 11.9838
     },
     {
       "block_id": "b473fcd6d3d2-36",
@@ -1207,7 +1225,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 27,
       "registration_tricotexperience": 1,
-      "registration_survey_end": "2024-08-23 12:24:12"
+      "registration_survey_end": "2024-08-23 12:24:12",
+      "longitude": 8.5684,
+      "latitude": 11.9794
     },
     {
       "block_id": "b473fcd6d3d2-37",
@@ -1219,7 +1239,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 0,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:16:40"
+      "registration_survey_end": "2024-08-23 12:16:40",
+      "longitude": 8.5479,
+      "latitude": 11.98
     },
     {
       "block_id": "b473fcd6d3d2-38",
@@ -1232,7 +1254,9 @@
       "registration_civilstatus_oth": "Banker",
       "registration_experiencecrop": 2,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:29:36"
+      "registration_survey_end": "2024-08-23 12:29:36",
+      "longitude": 8.552,
+      "latitude": 11.9903
     },
     {
       "block_id": "b473fcd6d3d2-39",
@@ -1244,7 +1268,9 @@
       "registration_civilstatus": "Single",
       "registration_experiencecrop": 3,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:28:56"
+      "registration_survey_end": "2024-08-23 12:28:56",
+      "longitude": 8.5474,
+      "latitude": 11.9758
     },
     {
       "block_id": "b473fcd6d3d2-43",
@@ -1275,8 +1301,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Yes",
       "vegetative_survey_end": "2024-08-23 15:20:13",
-      "longitude": 8.5554,
-      "latitude": 11.9735
+      "longitude": 8.5448,
+      "latitude": 11.9776
     },
     {
       "block_id": "b473fcd6d3d2-44",
@@ -1305,8 +1331,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:42:24",
-      "longitude": 8.5471,
-      "latitude": 11.9807
+      "longitude": 8.5596,
+      "latitude": 11.9758
     },
     {
       "block_id": "b473fcd6d3d2-45",
@@ -1335,8 +1361,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2024-08-23 15:55:48",
-      "longitude": 8.5639,
-      "latitude": 11.9916
+      "longitude": 8.5704,
+      "latitude": 11.9822
     },
     {
       "block_id": "b473fcd6d3d2-49",
@@ -1348,7 +1374,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 3,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:41:04"
+      "registration_survey_end": "2024-08-23 12:41:04",
+      "longitude": 8.5666,
+      "latitude": 11.9831
     },
     {
       "block_id": "b473fcd6d3d2-50",
@@ -1360,7 +1388,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 3,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:44:35"
+      "registration_survey_end": "2024-08-23 12:44:35",
+      "longitude": 8.555,
+      "latitude": 11.99
     },
     {
       "block_id": "b473fcd6d3d2-51",
@@ -1372,7 +1402,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 2,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:46:58"
+      "registration_survey_end": "2024-08-23 12:46:58",
+      "longitude": 8.5694,
+      "latitude": 11.9847
     },
     {
       "block_id": "b473fcd6d3d2-52",
@@ -1384,7 +1416,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 2,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:28:29"
+      "registration_survey_end": "2024-08-23 12:28:29",
+      "longitude": 8.5654,
+      "latitude": 11.9841
     },
     {
       "block_id": "b473fcd6d3d2-53",
@@ -1396,7 +1430,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 2,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:30:44"
+      "registration_survey_end": "2024-08-23 12:30:44",
+      "longitude": 8.5634,
+      "latitude": 11.9786
     },
     {
       "block_id": "b473fcd6d3d2-54",
@@ -1408,7 +1444,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 3,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:32:33"
+      "registration_survey_end": "2024-08-23 12:32:33",
+      "longitude": 8.5598,
+      "latitude": 11.9782
     },
     {
       "block_id": "b473fcd6d3d2-55",
@@ -1449,8 +1487,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 2,
       "agronomicperformance_survey_end": "2024-08-23 16:12:11",
-      "longitude": 8.5535,
-      "latitude": 11.9685
+      "longitude": 8.5591,
+      "latitude": 11.9812
     },
     {
       "block_id": "b473fcd6d3d2-56",
@@ -1492,8 +1530,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 1,
       "agronomicperformance_survey_end": "2024-08-23 16:13:52",
-      "longitude": 8.549,
-      "latitude": 11.9914
+      "longitude": 8.5446,
+      "latitude": 11.9826
     },
     {
       "block_id": "b473fcd6d3d2-57",
@@ -1524,8 +1562,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:27:16",
-      "longitude": 8.5497,
-      "latitude": 11.9703
+      "longitude": 8.5573,
+      "latitude": 11.9698
     },
     {
       "block_id": "b473fcd6d3d2-58",
@@ -1556,8 +1594,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:30:18",
-      "longitude": 8.546,
-      "latitude": 11.9805
+      "longitude": 8.5539,
+      "latitude": 11.9902
     },
     {
       "block_id": "b473fcd6d3d2-59",
@@ -1588,8 +1626,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:32:49",
-      "longitude": 8.5535,
-      "latitude": 11.9719
+      "longitude": 8.5516,
+      "latitude": 11.9891
     },
     {
       "block_id": "b473fcd6d3d2-60",
@@ -1620,8 +1658,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:35:28",
-      "longitude": 8.5621,
-      "latitude": 11.9823
+      "longitude": 8.5437,
+      "latitude": 11.9825
     },
     {
       "block_id": "b473fcd6d3d2-70",
@@ -1659,8 +1697,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 1,
       "agronomicperformance_survey_end": "2024-08-23 16:19:36",
-      "longitude": 8.5547,
-      "latitude": 11.9781
+      "longitude": 8.5581,
+      "latitude": 11.9835
     },
     {
       "block_id": "b473fcd6d3d2-71",
@@ -1687,8 +1725,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:42:31",
-      "longitude": 8.5613,
-      "latitude": 11.9725
+      "longitude": 8.5472,
+      "latitude": 11.9854
     },
     {
       "block_id": "b473fcd6d3d2-72",
@@ -1715,8 +1753,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:48:36",
-      "longitude": 8.5476,
-      "latitude": 11.9765
+      "longitude": 8.5473,
+      "latitude": 11.991
     },
     {
       "block_id": "b473fcd6d3d2-73",
@@ -1728,7 +1766,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:12:59"
+      "registration_survey_end": "2024-08-23 12:12:59",
+      "longitude": 8.5632,
+      "latitude": 11.9935
     },
     {
       "block_id": "b473fcd6d3d2-74",
@@ -1755,8 +1795,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:54:00",
-      "longitude": 8.5496,
-      "latitude": 11.9773
+      "longitude": 8.565,
+      "latitude": 11.9693
     },
     {
       "block_id": "b473fcd6d3d2-75",
@@ -1768,7 +1808,9 @@
       "registration_civilstatus": "Divorced",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:18:14"
+      "registration_survey_end": "2024-08-23 12:18:14",
+      "longitude": 8.5685,
+      "latitude": 11.9788
     },
     {
       "block_id": "b473fcd6d3d2-76",
@@ -1795,8 +1837,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2024-08-23 15:48:56",
-      "longitude": 8.5667,
-      "latitude": 11.9903
+      "longitude": 8.5652,
+      "latitude": 11.9781
     },
     {
       "block_id": "b473fcd6d3d2-77",
@@ -1808,7 +1850,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 3,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:07:57"
+      "registration_survey_end": "2024-08-23 12:07:57",
+      "longitude": 8.5459,
+      "latitude": 11.9764
     },
     {
       "block_id": "b473fcd6d3d2-78",
@@ -1820,7 +1864,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 2,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:10:14"
+      "registration_survey_end": "2024-08-23 12:10:14",
+      "longitude": 8.564,
+      "latitude": 11.9901
     },
     {
       "block_id": "b473fcd6d3d2-85",
@@ -1847,8 +1893,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Yes",
       "vegetative_survey_end": "2024-08-23 15:26:32",
-      "longitude": 8.5606,
-      "latitude": 11.9727
+      "longitude": 8.5607,
+      "latitude": 11.9697
     },
     {
       "block_id": "b473fcd6d3d2-86",
@@ -1860,7 +1906,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 10,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:42:06"
+      "registration_survey_end": "2024-08-23 12:42:06",
+      "longitude": 8.5485,
+      "latitude": 11.9866
     },
     {
       "block_id": "b473fcd6d3d2-87",
@@ -1887,8 +1935,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:59:01",
-      "longitude": 8.55,
-      "latitude": 11.9776
+      "longitude": 8.569,
+      "latitude": 11.9805
     },
     {
       "block_id": "b473fcd6d3d2-88",
@@ -1926,8 +1974,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 1,
       "agronomicperformance_survey_end": "2024-08-23 16:16:03",
-      "longitude": 8.56,
-      "latitude": 11.9794
+      "longitude": 8.5503,
+      "latitude": 11.9779
     },
     {
       "block_id": "b473fcd6d3d2-89",
@@ -1966,8 +2014,8 @@
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 1,
       "agronomicperformance_survey_end": "2024-08-23 16:17:15",
-      "longitude": 8.5636,
-      "latitude": 11.9898
+      "longitude": 8.5588,
+      "latitude": 11.9848
     },
     {
       "block_id": "b473fcd6d3d2-90",
@@ -1990,7 +2038,9 @@
       "agronomicperformance_pesticidefreq": 2,
       "agronomicperformance_fertilizer": "Yes",
       "agronomicperformance_fertilizerfreq": 1,
-      "agronomicperformance_survey_end": "2024-08-23 16:24:04"
+      "agronomicperformance_survey_end": "2024-08-23 16:24:04",
+      "longitude": 8.5544,
+      "latitude": 11.9832
     },
     {
       "block_id": "b473fcd6d3d2-91",
@@ -2002,7 +2052,9 @@
       "registration_civilstatus": "Single",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:42:39"
+      "registration_survey_end": "2024-08-23 12:42:39",
+      "longitude": 8.5626,
+      "latitude": 11.9787
     },
     {
       "block_id": "b473fcd6d3d2-94",
@@ -2014,7 +2066,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 2,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:46:22"
+      "registration_survey_end": "2024-08-23 12:46:22",
+      "longitude": 8.5693,
+      "latitude": 11.9859
     },
     {
       "block_id": "b473fcd6d3d2-95",
@@ -2026,7 +2080,9 @@
       "registration_civilstatus": "Widowed",
       "registration_experiencecrop": 8,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:51:08"
+      "registration_survey_end": "2024-08-23 12:51:08",
+      "longitude": 8.5697,
+      "latitude": 11.9845
     },
     {
       "block_id": "b473fcd6d3d2-96",
@@ -2038,7 +2094,9 @@
       "registration_civilstatus": "Divorced",
       "registration_experiencecrop": 3,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:53:39"
+      "registration_survey_end": "2024-08-23 12:53:39",
+      "longitude": 8.5621,
+      "latitude": 11.9801
     },
     {
       "block_id": "b473fcd6d3d2-97",
@@ -2066,8 +2124,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Yes",
       "vegetative_survey_end": "2024-08-23 15:42:51",
-      "longitude": 8.5606,
-      "latitude": 11.9868
+      "longitude": 8.5462,
+      "latitude": 11.9885
     },
     {
       "block_id": "b473fcd6d3d2-98",
@@ -2094,8 +2152,8 @@
       "vegetative_plantdamag": "Yes",
       "vegetative_diseasesany": "Yes",
       "vegetative_survey_end": "2024-08-23 15:42:58",
-      "longitude": 8.5456,
-      "latitude": 11.9828
+      "longitude": 8.5506,
+      "latitude": 11.9702
     },
     {
       "block_id": "b473fcd6d3d2-99",
@@ -2122,8 +2180,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Yes",
       "vegetative_survey_end": "2024-08-23 15:51:04",
-      "longitude": 8.5573,
-      "latitude": 11.9862
+      "longitude": 8.5609,
+      "latitude": 11.9933
     },
     {
       "block_id": "b473fcd6d3d2-100",
@@ -2152,8 +2210,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:42:23",
-      "longitude": 8.5563,
-      "latitude": 11.9809
+      "longitude": 8.5543,
+      "latitude": 11.9739
     },
     {
       "block_id": "b473fcd6d3d2-101",
@@ -2182,8 +2240,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "Not Applicable",
       "vegetative_survey_end": "2024-08-23 15:53:35",
-      "longitude": 8.5583,
-      "latitude": 11.9797
+      "longitude": 8.571,
+      "latitude": 11.9815
     },
     {
       "block_id": "b473fcd6d3d2-102",
@@ -2197,7 +2255,9 @@
       "registration_civilstatus_oth": "Hand work",
       "registration_experiencecrop": 1,
       "registration_tricotexperience": 1,
-      "registration_survey_end": "2024-08-23 12:28:34"
+      "registration_survey_end": "2024-08-23 12:28:34",
+      "longitude": 8.5698,
+      "latitude": 11.9847
     },
     {
       "block_id": "b473fcd6d3d2-103",
@@ -2209,7 +2269,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 1,
-      "registration_survey_end": "2024-08-23 12:10:01"
+      "registration_survey_end": "2024-08-23 12:10:01",
+      "longitude": 8.5584,
+      "latitude": 11.9914
     },
     {
       "block_id": "b473fcd6d3d2-104",
@@ -2221,7 +2283,9 @@
       "registration_civilstatus": "Single",
       "registration_experiencecrop": 1,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:15:18"
+      "registration_survey_end": "2024-08-23 12:15:18",
+      "longitude": 8.5598,
+      "latitude": 11.9754
     },
     {
       "block_id": "b473fcd6d3d2-105",
@@ -2233,7 +2297,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 0,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:20:41"
+      "registration_survey_end": "2024-08-23 12:20:41",
+      "longitude": 8.5522,
+      "latitude": 11.9842
     },
     {
       "block_id": "b473fcd6d3d2-106",
@@ -2264,8 +2330,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:38:11",
-      "longitude": 8.57,
-      "latitude": 11.9862
+      "longitude": 8.5691,
+      "latitude": 11.9733
     },
     {
       "block_id": "b473fcd6d3d2-107",
@@ -2296,8 +2362,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:40:37",
-      "longitude": 8.5599,
-      "latitude": 11.978
+      "longitude": 8.5622,
+      "latitude": 11.9884
     },
     {
       "block_id": "b473fcd6d3d2-108",
@@ -2328,8 +2394,8 @@
       "vegetative_plantdamag": "No",
       "vegetative_diseasesany": "No",
       "vegetative_survey_end": "2024-08-23 15:42:57",
-      "longitude": 8.5568,
-      "latitude": 11.9761
+      "longitude": 8.5577,
+      "latitude": 11.9847
     },
     {
       "block_id": "b473fcd6d3d2-109",
@@ -2341,7 +2407,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 10,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:46:32"
+      "registration_survey_end": "2024-08-23 12:46:32",
+      "longitude": 8.5522,
+      "latitude": 11.9873
     },
     {
       "block_id": "b473fcd6d3d2-110",
@@ -2353,7 +2421,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:51:43"
+      "registration_survey_end": "2024-08-23 12:51:43",
+      "longitude": 8.5547,
+      "latitude": 11.9929
     },
     {
       "block_id": "b473fcd6d3d2-111",
@@ -2365,7 +2435,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 8,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:55:10"
+      "registration_survey_end": "2024-08-23 12:55:10",
+      "longitude": 8.5583,
+      "latitude": 11.995
     },
     {
       "block_id": "b473fcd6d3d2-115",
@@ -2379,7 +2451,9 @@
       "registration_civilstatus_oth": "Nil",
       "registration_experiencecrop": 10,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:20:56"
+      "registration_survey_end": "2024-08-23 12:20:56",
+      "longitude": 8.5656,
+      "latitude": 11.9752
     },
     {
       "block_id": "b473fcd6d3d2-116",
@@ -2392,7 +2466,9 @@
       "registration_civilstatus": "Single",
       "registration_experiencecrop": 3,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:21:11"
+      "registration_survey_end": "2024-08-23 12:21:11",
+      "longitude": 8.5696,
+      "latitude": 11.9871
     },
     {
       "block_id": "b473fcd6d3d2-117",
@@ -2405,7 +2481,9 @@
       "registration_civilstatus_oth": "Chief",
       "registration_experiencecrop": 6,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:17:52"
+      "registration_survey_end": "2024-08-23 12:17:52",
+      "longitude": 8.5633,
+      "latitude": 11.969
     },
     {
       "block_id": "b473fcd6d3d2-118",
@@ -2419,7 +2497,9 @@
       "registration_civilstatus_oth": "Chirlady",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:26:03"
+      "registration_survey_end": "2024-08-23 12:26:03",
+      "longitude": 8.5648,
+      "latitude": 11.985
     },
     {
       "block_id": "b473fcd6d3d2-119",
@@ -2432,7 +2512,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 12:32:06"
+      "registration_survey_end": "2024-08-23 12:32:06",
+      "longitude": 8.566,
+      "latitude": 11.9874
     },
     {
       "block_id": "b473fcd6d3d2-120",
@@ -2444,7 +2526,9 @@
       "registration_civilstatus": "Married",
       "registration_experiencecrop": 5,
       "registration_tricotexperience": 0,
-      "registration_survey_end": "2024-08-23 14:35:58"
+      "registration_survey_end": "2024-08-23 14:35:58",
+      "longitude": 8.5551,
+      "latitude": 11.9735
     }
   ],
   "plot_data": [
