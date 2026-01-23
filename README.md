@@ -13,7 +13,6 @@ The [triadic comparison of technologies (tricot)](https://doi.org/10.1007/s13593
 
 The map below shows the crops and trial sites that are currently available for public use. Each point represents a trial location, and the legend indicates the crop(s) associated with those sites. This visualization helps to quickly identify the regions and crops that are currently represented in the dataset.
 
-
 ![Trial map](docs/trial-locations.png)
 
 ## Data structure
