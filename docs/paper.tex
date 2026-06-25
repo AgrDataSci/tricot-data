@@ -59,6 +59,17 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
+% From pandoc table feature
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
 
 
 
@@ -85,44 +96,366 @@ science}
   %
   }
   
+    \author[c]{Add Co-authors {[}\ldots{]}%
+  %
+  }
+  
+    \author[a]{Jacob van Etten%
+  %
+  }
+  
       \affiliation[a]{
     organization={Bioversity
 International},city={Montpellier},country={France},}
     \affiliation[b]{
     organization={University of Inland
 Norway},city={Hamar},country={Norway},}
+    \affiliation[c]{
+    organization={Add affiliations},city={City},country={Country},}
     \cortext[cor1]{Corresponding author}
   
   \begin{abstract}
-  The triadic comparison of technologies (tricot) is a citizen science
-  approach for testing technology options in their target environments,
-  which has been applied to on-farm testing of crop varieties. `Triadic'
-  refers to the sets of three technology options that are compared by
-  each participant. In the approach, participants are invited to test a
-  anonymous set of three technologies (out of a larger number, generally
-  between 5 to 20) randomly assigned. Between 2011 and 2025 the tricot
-  approach was applied in more than 25 countries across Africa, Asia,
-  Europe and Latin America with more than 30 crops.
+  We present a harmonized global dataset generated through the tricot
+  (triadic comparisons of technology options) citizen science approach,
+  comprising decentralized on-farm agricultural experiments conducted
+  between 2011 and 2025 across more than 25 countries and over 30 crop
+  species. The dataset represents the outcome of a long-term effort to
+  develop a FAIR-by-design infrastructure for agricultural
+  experimentation, integrating standardized protocols, digital data
+  collection, controlled vocabularies, environmental covariates,
+  socio-economic information, and links to external repositories. The
+  resulting resource provides a unique foundation for studying farmer
+  preferences, genotype-by-environment interactions, climate adaptation,
+  technology adoption, and participatory breeding at unprecedented
+  scale.
   \end{abstract}
     \begin{keyword}
     digital innovation \sep FAIR data \sep tricot approach \sep 
-    participatory variety testing
+    participatory evaluation
   \end{keyword}
   
  \end{frontmatter}
 
-According to \citep{deSousa2024} and \citep{vanEtten2019}
+\section{Introduction}\label{introduction}
+
+Agricultural innovation increasingly requires decentralized,
+context-specific evidence generated directly in the target environments
+\citep{deSousa2021, Atlin2001}. The tricot (triadic comparison of
+technology options) approach was developed to address this challenge by
+enabling large-scale citizen science experimentation in agriculture
+\citep{vanEtten2016, vanEtten2011}. Early implementations in Ethiopia,
+India, and Central America demonstrated that farmers could generate
+robust experimental data through simple, distributed trial designs
+\citep{vanEtten2016, vanEtten2019, deSousa2021, deSousa2024}.
+
+Briefly summarize:
+
+\begin{itemize}
+\tightlist
+\item
+  Origins of tricot \citep{vanEtten2016, vanEtten2011}.
+\item
+  First pilot studies \citep{vanEtten2019, deSousa2021, Moyo2021}
+\item
+  Citizen science rationale \citep{Steinke2017, vandeGevel2020}.
+\end{itemize}
+
+\section{Data base overview}\label{data-base-overview}
 
 \begin{figure}[H]
-\includegraphics[width=1\linewidth]{trial-locations} \caption{Geographical distribution of crops and trial sites that are currently available for public use. Each point represents a trial location, and the legend indicates the crop(s) associated with those sites. Administrative boundaries are based on the Database of Global Administrative Areas (GADM). The authors remain neutral with regard to jurisdictional claims in maps.}\label{fig:map}
+\includegraphics[width=1\linewidth]{trial-locations} \caption{Geographical distribution of crops and trial sites that are currently available for public use. Each point represents a trial location, and the legend indicates the crop(s) associated with those sites. Administrative boundaries are based on the Database of Global Administrative Areas (GADM, https://gadm.org). The authors remain neutral with regard to jurisdictional claims in maps.}\label{fig:map}
 \end{figure}
+
+Describe the repository structure:
+
+\begin{itemize}
+\tightlist
+\item
+  GitHub repository.
+\item
+  Zenodo archive.
+\item
+  Dataset organization.
+\item
+  Versioning strategy.
+\end{itemize}
+
+Describe the coverage. Table(s) describing the countries, temporal
+coverage and crops
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Crop & Country & Years & Participants \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\end{longtable}
+
+Data set statistics
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+Indicator & Value \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Countries & XX \\
+Crops & XX \\
+Studies & XX \\
+Participants & XX \\
+Observations & XX \\
+Organizations & XX \\
+\end{longtable}
+
+\section{The tricot research
+infrastructure}\label{the-tricot-research-infrastructure}
+
+Over the last fifteen years, tricot evolved from a participatory
+experimental method into a global digital FAIR-by-design infrastructure
+supporting decentralized agricultural experimentation.
+
+Short description of the development phases, for example Phase I
+(2011--2016) where we tested tricot as proof of concept with pilot
+trials in Ethiopia, India, Central America \citep{vanEtten2016}, early
+digital tools \citep{vanEtten2016} and initial climate adaptation
+applications \citep{vanEtten2019}.
+
+Then Phase II (2017--2022) on the digitalization and scaling, with the
+new version of ClimMob \citep{Quiros2024}, expansion across countries,
+crops and contexts
+\cite{Brown2022, Donovan2025, Moyo2021, Nanyonjo2024, Olaosebikan2023},
+and integration into breeding programs
+\citep{Daudi2026, Sharma2025, Kang2025, EmmanuelAlamu2023}.
+
+Then finally to institutionalization and digital interoperability in
+Phase III (2022--Present), standardized metadata, ontology mapping, SOP
+development, and interoperability with external systems
+\citep{Selby2025}.
+
+maybe this could be a different section\ldots{}
+
+To ensure consistency across crops, countries, and implementing
+organizations, all studies are implemented using standardized protocols.
+
+Describe:
+
+\begin{itemize}
+\tightlist
+\item
+  SOP framework.
+\item
+  Crop-specific protocols.
+\item
+  Multilingual documentation.
+\item
+  Training materials.
+\item
+  Version control.
+\item
+  Zenodo publication of protocols.
+\end{itemize}
+
+Include links to published SOPs maybe in a table.
+
+\section{The tricot open data
+community}\label{the-tricot-open-data-community}
+
+The data insfrastuscture represents a collaborative effort involving
+CGIAR centers, national agricultural research systems, NGOs,
+universities, and farmer communities. The repository is intended as a
+living resource that will continue to expand through future
+contributions.
+
+\section{Methods}\label{methods}
+
+Should answer three questions, how data is collected? how it is collated
+and curated? how it is made available?
+
+\subsection{Experimental design}\label{experimental-design}
+
+Describe the experimental design
+
+\begin{itemize}
+\tightlist
+\item
+  Triadic comparison of technology options.
+\item
+  Incomplete block design.
+\item
+  Random allocation of technologies.
+\item
+  Farmer-led observations.
+\item
+  Ranking-based evaluations.
+\end{itemize}
+
+Describe types of studies and contexts
+
+\begin{itemize}
+\tightlist
+\item
+  On-farm variety testing.
+\item
+  Consumer preference testing.
+\item
+  Product concept testing.
+\item
+  Seed system studies.
+\item
+  Participatory breeding.
+\end{itemize}
+
+\subsection{Data curation}\label{data-curation}
+
+Describe metadata standards and ontology mapping
+
+Describe trait standardization
+
+\begin{itemize}
+\tightlist
+\item
+  Crop Ontology.
+\item
+  Trait definitions.
+\item
+  Observation methods.
+\item
+  Scales and units.
+\end{itemize}
+
+Describe metadata standards
+
+\begin{itemize}
+\tightlist
+\item
+  DataCite.
+\item
+  ROR identifiers.
+\item
+  Funding metadata.
+\item
+  Contributor metadata.
+\end{itemize}
+
+\subsection{Data architecture}\label{data-architecture}
+
+The repository follows a hierarchical structure linking study metadata,
+participant-level information, plot-level observations, and analytical
+outputs.
+
+Describe the key elements of the json file metadata, plot data, block
+data, analysis.
+
+\subsection{Integration with external data
+sources}\label{integration-with-external-data-sources}
+
+The repository is designed to support linkage with external data
+systems. Describe potential integration with climate date (CHIRPS, Era5,
+etc), socio-economic data (RHoMIS, household surveys), genetic resources
+systems (Genesys), and other data insfrastructures (Fairgrounds, etc).
+
+\section{Case studies}\label{case-studies}
+
+\begin{itemize}
+\tightlist
+\item
+  Variety recommendation.
+\item
+  Climate resilience studies.
+\item
+  Decentralized breeding.
+\item
+  Product profile development.
+\item
+  Trait prioritization.
+\item
+  Consumer testing.
+\end{itemize}
+
+\section{Ethics and data governance}\label{ethics-and-data-governance}
+
+\begin{itemize}
+\tightlist
+\item
+  Agricultural data governance.
+\item
+  FAIR implementation assessments.
+\item
+  Who owns the data.
+\item
+  How we address issues of traditional knowledge.
+\item
+  Why we chose the licence CC0.
+\end{itemize}
+
+\section{Discussion}\label{discussion}
+
+Lessons learned from building FAIR agricultural citizen science
+infrastructure
+
+Standardization is both technical and social
+
+\begin{itemize}
+\tightlist
+\item
+  Ontology mapping.
+\item
+  Partner alignment.
+\item
+  Governance processes.
+\end{itemize}
+
+Interoperability requires long-term investment
+
+\begin{itemize}
+\tightlist
+\item
+  Metadata harmonization.
+\item
+  Repository development.
+\item
+  Cross-institutional coordination.
+\end{itemize}
+
+FAIR is a process rather than an endpoint
+
+\begin{itemize}
+\tightlist
+\item
+  Continuous improvement.
+\item
+  Dataset expansion.
+\item
+  Community contributions.
+\end{itemize}
+
+Future development
+
+\section{Code availability}\label{code-availability}
+
+Code is available on GitHub https://github.com/AgrDataSci/tricot-data
+
+\section{Data availability}\label{data-availability}
+
+Data is fully available in Zenodo
+(https://doi.org/10.5281/zenodo.17112491) under the CC0 License.
+
+\section{Author contributions}\label{author-contributions}
+
+Use CRediT taxonomy.
+
+\section{Competing interests}\label{competing-interests}
+
+The authors declare no competing interests.
 
 \section{Acknowledgments}\label{acknowledgments}
 
 This work has been supported by the projects 1000FARMS (INV-031561)
 funded by the Gates Foundation, and BOLD Work Package 7 (Crop Trust Ref:
 CONT-1522) funded by the Norwegian Agency for Development Cooperation
-(Norad) through The Global Crop Diversity Trust.
+(Norad) through The Global Crop Diversity Trust. Add other funding.
 
 \renewcommand\refname{References}
 \bibliography{paper.bib}
