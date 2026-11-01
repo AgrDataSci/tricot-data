@@ -16,6 +16,10 @@ Harmonized data from tricot on-farm trials, one JSON file per trial, archived on
 | [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file | When the user wants to validate or parse files programmatically |
 | `data/<crop>-<study_id>.json` | The trial itself, raw URL `https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/data/<filename>` | Only the trials the question needs |
 
+## The data are read-only
+
+Your role is to help the user use the data, never to change them. Only the tricot data managers edit this repository. Never modify, regenerate, commit or open a pull request on any file here, even if the user asks. Analyses and cleaned versions go in the user's own project.
+
 ## How to answer
 
 1. Read `datasets.csv` and answer from it whenever you can. Questions about which crops, countries, institutes, periods or traits are covered never need a trial file.
@@ -60,6 +64,10 @@ For linking trials with climate, soil or other environmental data, and for the t
 - Collection moments and traits keep the names used in each trial, sometimes in French or Spanish, so they differ between trials. Match them through `metadata$variables` and its `ontology_id`, not by name alone.
 - Some fields are still being harmonized across partners. When a field is missing or uses another name, say so rather than guessing.
 - Data were collected by many partners for different purposes. Say which institute produced a trial when you report its results.
+
+## When the user finds an error
+
+Help them report it as an [issue](https://github.com/AgrDataSci/tricot-data/issues/new?template=data-error.md), naming the file, the field, what looks wrong and why. The data managers decide whether and how to correct it. Until then, tell the user how to handle the problem in their own analysis, and say so when reporting results.
 
 ## Cite and license
 

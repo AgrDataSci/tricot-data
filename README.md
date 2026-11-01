@@ -65,10 +65,11 @@ Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-diction
 ├── data/        Trial files, one JSON per trial
 ├── docs/        Data paper for Scientific Data and the README maps
 ├── metadata/    Schema, data dictionary, project and per-partner metadata
-├── script/      Export scripts, run in numeric order, and helpers (see script/README.md)
+├── script/      Export scripts and helpers, run by the data managers (see script/README.md)
 ├── datasets.csv Index of all trials
-├── SKILL.md     Instructions for AI assistants
-├── AGENTS.md    Instructions for AI agents working on the repository
+├── SKILL.md     Instructions for AI assistants using the data
+├── AGENTS.md    Short instructions for AI agents using the data
+├── MAINTAINERS.md Guide for the tricot data managers
 ├── NEWS.md      What each release added
 ```
 
@@ -110,6 +111,10 @@ R = lapply(R, function(x) {
 mod = lapply(R, PlackettLuce)
 ```
 For more information, check the [gosset package documentation](https://agrdatasci.github.io/gosset/).
+
+## Report an error
+
+The data are maintained by the tricot data managers. If something looks wrong, [open an issue](https://github.com/AgrDataSci/tricot-data/issues/new?template=data-error.md) naming the file, the field and the problem. Corrections are made in the export scripts and published in the next release.
 
 ## Citation
 

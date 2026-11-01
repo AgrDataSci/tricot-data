@@ -1,6 +1,6 @@
 # Scripts
 
-Run every script from the project root. The export scripts read raw files from `raw/`, which is not committed.
+These scripts document how the published data were produced. They are run only by the tricot data managers (see `MAINTAINERS.md`), from the project root, with raw files in `raw/` that are not committed. Users do not need them to use the data.
 
 ## Export scripts
 
