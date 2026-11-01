@@ -1,6 +1,8 @@
 <!-- badges: start -->
-[![License](https://img.shields.io/badge/license-CC0%201.0-3182bd)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17112491.svg)](https://doi.org/10.5281/zenodo.17112491)
+[![ProjStatus](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![License](https://img.shields.io/badge/license-CC0%201.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!-- badges: end --> 
 
 # Global multi-crop agricultural trial data supported by citizen science
