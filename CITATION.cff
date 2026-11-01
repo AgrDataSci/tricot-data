@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this dataset or software, please cite it as below."
+type: dataset
 title: "Global multi-crop agricultural trial data supported by citizen science"
+doi: 10.5281/zenodo.17112491
 version: "v0.4"
 date-released: 2025-09-10
 authors:
@@ -213,7 +215,7 @@ authors:
     orcid: https://orcid.org/0000-0002-7875-4756
     affiliation: World Vegetable Center
 repository-code: https://github.com/AgrDataSci/tricot-data
-license: CC-BY-SA-4.0
+license: CC0-1.0
 keywords:
   - agriculture
   - digital innovation

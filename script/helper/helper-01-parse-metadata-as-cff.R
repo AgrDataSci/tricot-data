@@ -24,7 +24,9 @@ meta_list = setNames(as.list(metadata$value), metadata$key)
 # Start building the CFF content
 cff = c("cff-version: 1.2.0",
         'message: "If you use this dataset or software, please cite it as below."',
+        "type: dataset",
         paste0("title: \"", meta_list$title, "\""),
+        "doi: 10.5281/zenodo.17112491",
         paste0("version: \"", meta_list$version, "\""),
         paste0("date-released: ", meta_list$publication_date),
         "authors:")
