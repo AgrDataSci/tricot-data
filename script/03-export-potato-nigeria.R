@@ -15,7 +15,6 @@ load('raw/trial-data.rda')
 
 xy = read.csv("docs/trial-xy.csv") 
 
-available = read.csv("data/aa-available-datasets.csv")
 
 # read file with genotype metadata
 geno = read_excel('metadata/trials-metadata/potato-nigeria/genotype-metadata.xlsx')
@@ -26,7 +25,7 @@ funders = read_excel('metadata/trials-metadata/potato-nigeria/funder-metadata.xl
 
 names(funders) = c("funderName", "funderIdentifier", "awardTitle", "awardNumber")
 
-doi = "https://doi.org/10.5281/zenodo.17112492"
+doi = "https://doi.org/10.5281/zenodo.17112491"
 
 experimental_site = "farm"
 
@@ -76,6 +75,8 @@ for(k in seq_along(cmdata)) {
   
   # add some metadata manually
   meta$identifier = doi
+  
+  meta$license = "https://creativecommons.org/publicdomain/zero/1.0/"
   
   meta$data_producer$name = institute
   
@@ -273,19 +274,6 @@ for(k in seq_along(cmdata)) {
   
   xy = rbind(xy, coords)  
   
-  # summary table with available datasets
-  avail = data.frame(study_id = meta$study$id,
-                     crop_name = meta$crop$name,
-                     taxon = meta$crop$taxon,
-                     data_producer_institute = meta$data_producer$name,
-                     country = meta$study$country,
-                     start_date = meta$date$start,
-                     type = meta$study$type,
-                     participants = meta$participants$total,
-                     filename = paste0(filename, ".json"),
-                     check.names = FALSE)
-  
-  available = rbind(available, avail)
   
 }
 
@@ -296,10 +284,8 @@ xy[c("longitude","latitude")] = lapply(xy[c("longitude","latitude")], function(x
 # overwrite the file
 write.csv(xy, file = "docs/trial-xy.csv", row.names = FALSE)
 
-# remove duplicated entries
-available = available[!duplicated(available$study_id), ]
-
-write.csv(available, file = "data/aa-available-datasets.csv", row.names = FALSE)
+# rebuild the dataset index from all trial files
+source("script/helper/helper-05-build-dataset-index.R")
 
 
 

@@ -1,6 +1,6 @@
 <!-- badges: start -->
-[![License](https://img.shields.io/badge/license%20-%20CC%20BY%20SA%204.0%20-%20%233182bd)](https://creativecommons.org/licenses/by-sa/4.0/) 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18353694.svg)](https://doi.org/10.5281/zenodo.17112491)
+[![License](https://img.shields.io/badge/license-CC0%201.0-3182bd)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17112491.svg)](https://doi.org/10.5281/zenodo.17112491)
 <!-- badges: end --> 
 
 # Global multi-crop agricultural trial data supported by citizen science
@@ -15,116 +15,78 @@ The map below shows the crops and trial sites that are currently available for p
 
 ![Trial map](docs/trial-locations.png)
 
+## Find a dataset
+
+[`datasets.csv`](datasets.csv) lists every trial, one row each, with crop, taxon, country, data producer, start and end dates, objective, number of participants, blocks and genotypes, collection moments, ranked traits, file name, file size and license. Start there, then open only the trial files you need from [`data/`](data).
+
 ## Data structure
 
-The dataset follows a structured format designed to ensure consistency and interoperability across trials. It is organized into four main components: **metadata**, **block data**, **plot data**, and **rank analysis**.  
+Each trial is one JSON file in `data/`, named `<crop>-<study_id>.json`, with four components.
 
-- **Metadata**: Provides detailed contextual information about each trial, including identifiers, objectives, location, time frame, crops, genotypes, variables, and contributors. This ensures that each dataset is fully documented and reusable under the terms of the CC BY-SA 4.0 license.  
-- **Block data**: Contains information at the block level (e.g., farmer or experimental unit), including geolocation, planting dates, and farmer demographics.  
-- **Plot data**: Stores trial-level measurements for each genotype and trait, with flexible support for different data types (rank, numeric, text, date).  
-- **Rank analysis**: Includes the results of statistical analyses performed on ranked data, providing estimates, standard errors, and variance components.  
+- **metadata** describes the study, dates, location extent, data producer, crop, participants, funders, genotypes and variables.
+- **block_data** holds one row per participant (block), with jittered coordinates, planting dates and participant-level survey answers.
+- **plot_data** holds one row per plot, trait and collection moment. Values are stored as text and read according to `value_type` (rank, integer, decimal, date, datetime, text, select one, select all that apply).
+- **rank_analysis** holds Plackett-Luce log-worth estimates per collection moment and trait, with standard errors, quasi standard errors and quasi variances.
 
-The hierarchical organization allows users to track data from trial design through analysis while maintaining links between metadata, blocks, and plots.  
+Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-dictionary.csv), and [`metadata/tricot-trial.schema.json`](metadata/tricot-trial.schema.json) is the JSON Schema of a trial file.
 
 ``` text
 ├── metadata
-│   ├── changelog
-│   │   ├── version
-│   │   ├── notes
-│   │   ├── software
-│   │   │   ├── package
-│   │   │   ├── package version
-│   ├── identifier (doi)
+│   ├── changelog (version, notes, software)
+│   ├── identifier (concept DOI)
 │   ├── license
-│   ├── publication year
-│   ├── study
-│   │   ├── id
-│   │   ├── country (ISO2)
-│   │   ├── title
-│   │   ├── description
-│   │   ├── type
-│   │   ├── unit of analysis
-│   │   ├── objective
-│   │   ├── experimental site
-│   ├── date
-│   │   ├── start (YYYY-MM-DD)
-│   │   ├── end (YYYY-MM-DD)
-│   ├── geo location
-│   │   ├── boundingBox
-│   │   │   ├── xmin (0.00)
-│   │   │   ├── xmax (0.00)
-│   │   │   ├── ymin (0.00)
-│   │   │   ├── ymax (0.00)
-│   ├── data producer 
-│   │   ├── name
-│   │   ├── identifier (ROR id)
-│   │   ├── principal investigator
-│   │   ├── email
-│   │   ├── program
-│   ├── crop 
-│   │   ├── name
-│   │   ├── taxon
-│   ├── participants
-│   │   ├── total 
-│   │   ├── men
-│   │   ├── women
-│   ├── genotypes
-│   │   ├── genotype name
-│   │   ├── role
-│   │   ├── release year
-│   │   ├── crossing year
-│   │   ├── target trait
-│   │   ├── origin
-│   │   ├── remarks
-│   ├── funder
-│   │   ├── funderName 
-│   │   ├── funderIdentifier
-│   │   ├── awardTitle
-│   │   ├── awardNumber
-│   ├── variables
-│   │   ├── variable name
-│   │   ├── description
-│   │   ├── ontology id
-│   │   ├── value type
-│   │   ├── unit
-│   │   ├── controlled vocabulary
-├── block data
-│   ├── block id
-│   ├── longitude
-│   ├── latitude
-│   ├── planting date
-│   ├── gender
-│   ├── age
-│   ├── ...
-│   ├── any other data
-├── plot data
-│   ├── block id
-│   ├── genotype name
-│   ├── trait
-│   ├── collection moment 
-│   ├── value
-│   ├── value type (rank, numeric, text, date)
-├── rank analysis
-│   ├── collection moment
-│   ├── trait
-│   ├── genotype name
-│   ├── estimate
-│   ├── se
-│   ├── casi se
-│   ├── casi var
+│   ├── publication_year
+│   ├── study (id, country ISO2, title, description, type, unit_of_analysis, objective, experimental_site)
+│   ├── date (start, end as YYYY-MM-DD)
+│   ├── geoLocation
+│   │   ├── boundingBox (xmin, xmax, ymin, ymax)
+│   ├── data_producer (name, identifier ROR, principal_investigator, email, program)
+│   ├── crop (name, taxon)
+│   ├── participants (total, men, women)
+│   ├── funder [] (funderName, funderIdentifier, awardTitle, awardNumber)
+│   ├── genotypes [] (genotype_name, role, release_year, crossing_year, target_trait, origin, remarks)
+│   ├── variables [] (variable_name, description, ontology_id, value_type, controlled_vocabulary)
+├── block_data []
+│   ├── block_id
+│   ├── longitude, latitude (jittered)
+│   ├── <collection moment>_<variable> ...
+├── plot_data []
+│   ├── block_id, plot, genotype_name
+│   ├── collection_moment, trait
+│   ├── value, value_type
+├── rank_analysis []
+│   ├── collection_moment, trait, genotype_name
+│   ├── estimate, SE, quasiSE, quasiVar
 ```
 
-# Using the ranking data
+## Repository structure
+
+``` text
+├── data/        Trial files, one JSON per trial
+├── docs/        Data paper for Scientific Data and the README maps
+├── metadata/    Schema, data dictionary, project and per-partner metadata
+├── script/      Export scripts, run in numeric order, and helpers (see script/README.md)
+├── datasets.csv Index of all trials
+├── SKILL.md     Instructions for AI assistants
+├── AGENTS.md    Instructions for AI agents working on the repository
+├── NEWS.md      What each release added
+```
+
+## Use with AI assistants
+
+This repository is the data layer of the [AI-ready documentation for tricot](https://github.com/AgrDataSci/ai-ready-documentation). Share that link with an AI assistant to reach the data together with the published evidence, protocols and analytical approaches, or use [`SKILL.md`](SKILL.md) on its own.
+
+## Using the ranking data
 This repository provides tricot on-farm ranking data in JSON. The plot_data table stores one row per plot evaluation (e.g., block_id, genotype_name, collection_moment, trait, value, value_type). To analyze rankings, filter rows to value_type == "rank", convert to sparse rankings with rank_tricot2(), and fit Plackett–Luce models.
 
-````
+``` r
 library("jsonlite")
 library("gosset")
 library("PlackettLuce")
 
 # Load one dataset
 dat = fromJSON(
-  "https://raw.githubusercontent.com/AgrDataSci/tricot-data/refs/heads/main/data/potato-88f82a3f073e.json"
+  "https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/data/potato-88f82a3f073e.json"
 )
 
 # study metadata
@@ -146,29 +108,27 @@ R = lapply(R, function(x) {
 })
 
 mod = lapply(R, PlackettLuce)
-````
+```
 For more information, check the [gosset package documentation](https://agrdatasci.github.io/gosset/).
 
 ## Citation
 
-The dataset is archived and made publicly available through [Zenodo](https://doi.org/10.5281/zenodo.17112492).  
+The dataset is archived on [Zenodo](https://doi.org/10.5281/zenodo.17112491). This DOI always resolves to the latest version.
 
-Users of this dataset are required to provide proper citation in any publications, presentations, or derivative works.
+> The dataset is dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). You can use it without restriction. Please cite it, and the publications named in each trial's metadata, so that the farmers, data producers and funders behind the trials get credit.
 
-> The dataset is shared under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) which allows others to use, share, and adapt the material, provided appropriate credit is given and any derivative works are distributed under the same license.
-
-de Sousa, K., Laporte, M.-A., Abate, L., Abdulmalik, R. O., Abidin, E., Abolore, B., Achigan-Dako, E. G., Aglinglo, L. A., Aguilar, A., Angudubo, S., Arnaud, E., Assefa, T. M., Atieno, E., Ayenan, M., Barrios, M., Borman, G., Boukar, O., Brown, D., Carey, E., Chaves, N., … van Etten, J. (2025). Global multi-crop agricultural trial data supported by citizen science [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.17112492
-
+de Sousa, K., Laporte, M.-A., Abate, L., Abdulmalik, R. O., Abidin, E., Abolore, B., Achigan-Dako, E. G., Aglinglo, L. A., Aguilar, A., Angudubo, S., Arnaud, E., Assefa, T. M., Atieno, E., Ayenan, M., Barrios, M., Borman, G., Boukar, O., Brown, D., Carey, E., Chaves, N., … van Etten, J. (2025). Global multi-crop agricultural trial data supported by citizen science [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.17112491
 
 ### BibTeX (dataset)
 
-```@dataset{desousa_tricot_2025,
+``` bibtex
+@dataset{desousa_tricot_2025,
   author       = {de Sousa, Kauê and Laporte, Marie-Angélique and Abate, Legesse and Abdulmalik, Rekiya O. and Abidin, Erna and Abolore, Bello and Achigan-Dako, Enoch G. and Aglinglo, Lys Amavi and Aguilar, Amilcar and Angudubo, Stephen and Arnaud, Elizabeth and Assefa, Teshale M. and Atieno, Elly and Ayenan, Mathieu and Barrios, Mirna and Borman, Gareth and Boukar, Ousmane and Brown, David and Carey, Edward and Chaves, Néstor and Chase, Rachel and … and van Etten, Jacob},
   title        = {Global multi-crop agricultural trial data supported by citizen science},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17112492},
-  url          = {https://doi.org/10.5281/zenodo.17112492},
+  doi          = {10.5281/zenodo.17112491},
+  url          = {https://doi.org/10.5281/zenodo.17112491},
   note         = {Dataset}
 }
-
+```
