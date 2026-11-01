@@ -1,5 +1,4 @@
 ---
-bibliography: paper.bib
 title: Global multi-crop agricultural trial data supported by citizen science
 author:
   - name: Kauê de Sousa
@@ -36,17 +35,25 @@ keywords:
  - FAIR data
  - tricot approach
  - participatory evaluation
-journal: "Scientific Data"
-date: "`r Sys.Date()`"
-linenumbers: true
-numbersections: false
-classoption: 3p
+ - partnerships for the goals
+# journal: "Scientific Data"
+# date: "`r Sys.Date()`"
+# linenumbers: true
+# numbersections: false
+# classoption: 3p
+# output: 
+#    rticles::elsevier_article:
+#      keep_tex: true
+#bibliography: paper.bib
+#biblio-style: unsrt
+# header-includes:
+#   - \usepackage{float}
 output: 
-   rticles::elsevier_article:
-     keep_tex: true
-biblio-style: unsrt
-header-includes:
-  - \usepackage{float}
+  word_document:
+    reference_docx: "word-template.docx"
+    toc: false
+bibliography: paper.bib
+csl: citation-style.csl
 ---
 
 # Introduction
