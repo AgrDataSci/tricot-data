@@ -65,6 +65,21 @@ For linking trials with climate, soil or other environmental data, and for the t
 - Some fields are still being harmonized across partners. When a field is missing or uses another name, say so rather than guessing.
 - Data were collected by many partners for different purposes. Say which institute produced a trial when you report its results.
 
+## Maps
+
+Map trial sites in the Equal Earth projection (EPSG:8857), the equal-area world map the UN General Assembly endorsed in September 2026 and the standard across the AI-ready suite. The coordinates in the files stay in WGS84 (EPSG:4326); project only to draw.
+
+```r
+library("sf")
+library("ggplot2")
+
+xy = st_as_sf(dat$block_data, coords = c("longitude", "latitude"), crs = 4326, na.fail = FALSE)
+
+ggplot(xy) +
+  geom_sf() +
+  coord_sf(crs = st_crs("EPSG:8857"))
+```
+
 ## When the user finds an error
 
 Help them report it as an [issue](https://github.com/AgrDataSci/tricot-data/issues/new?template=data-error.md), naming the file, the field, what looks wrong and why. The data managers decide whether and how to correct it. Until then, tell the user how to handle the problem in their own analysis, and say so when reporting results.
