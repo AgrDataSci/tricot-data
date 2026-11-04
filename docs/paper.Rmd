@@ -64,7 +64,7 @@ Fifteen years of on-farm trials with the tricot approach produced rankings from 
 
 This release removes the wall. The dataset is reusable at this scale because every trial is published as one self-describing file that carries the credit of the organisation that produced it. That is the whole design, and it is what let 27 organisations agree to release 539 farmer-managed trials and 100,787 sites under CC0, with 130 researcher-managed companion trials on the same genotypes. Methods explains how heterogeneous sources became one schema without losing provenance or exposing farmers. Data Records describes the files and their coverage. Usage Notes explains how people and AI agents fetch the data and how credit flows back to the producers, which is the part of the design that made the release possible.
 
-```{r map, echo = FALSE, out.width = "100%", fig.cap = "Trial sites in release v2, by crop group. Each point is one site after displacement within 1,500 m. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps."}
+```{r map, echo = FALSE, out.width = "100%", fig.cap = "Trial sites in the dataset, by crop group. Each point is one site after displacement within 1,500 m. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps."}
 knitr::include_graphics("trial-locations.png")
 ```
 
@@ -76,7 +76,7 @@ Three features follow from the design and set the dataset apart from the trial d
 knitr::include_graphics("tricot-sites-cumulative.png")
 ```
 
-This release is the production version of the dataset. A pilot release in 2025 tested the format on 62 trials from six African countries. Release v2 supersedes it, with a new schema, naming rule and licence, so users should work with v2 and treat the pilot as superseded. It harmonises trials collected with every version of ClimMob since 2012, together with partner files and 130 researcher-managed companion trials on the same genotypes, into one schema, one naming rule and one licence, and sets the standard for future publications of tricot data from ClimMob. It is also the first release that reaches beyond Africa, to India and Central America, where tricot began.
+This release is the production version of the dataset. A pilot release in 2025 tested the format on 62 trials from six African countries. The data described here replace the pilot, with a new schema, naming rule and licence, so users should work with this release and treat the pilot as superseded. It harmonises trials collected with every version of ClimMob since 2012, together with partner files and 130 researcher-managed companion trials on the same genotypes, into one schema, one naming rule and one licence, and sets the standard for future publications of tricot data from ClimMob. It is also the first release that reaches beyond Africa, to India and Central America, where tricot began.
 
 # Methods
 
@@ -90,7 +90,7 @@ Participants grow the three options at the same time in adjacent plots of equal 
 
 The release combines four kinds of sources (Table 1). ClimMob projects were exported with their project metadata, registration survey, data collection forms and package allocation, or recovered from curated spreadsheets prepared for earlier publications [@vanEtten2019; @Brown2022]. Partner files cover trials run with the tricot design outside ClimMob, among them the national on-farm trials of Integrated Seed Sector Development Ethiopia, the NextGen Cassava trials in Nigeria and Tanzania and the consumer and concept tests run with video-based ranking tools [@Donovan2025; @Olaosebikan2023]. Researcher-managed companion data come from breeding databases and spreadsheets of the same programmes, 96 on-station breeding trials of cassava in Nigeria and groundnut in Tanzania and 34 participatory varietal selection mother trials of bread wheat and rice in India, which evaluate the same genotypes under researcher control.
 
-**Table 1. Sources of the trial files in release v2.**
+**Table 1. Sources of the trial files.**
 
 | Source platform | Trial files | Sites | Years |
 |---|---|---|---|
@@ -123,13 +123,13 @@ Most trials in this release predate the first published multi-crop collection of
 
 # Data Records
 
-The release is published on GitHub at AgrDataSci/tricot-data and archived on Zenodo under the concept DOI 10.5281/zenodo.17112491 [@deSousa2025data]. The concept DOI always resolves to the latest version. The version DOI of release v2, [10.5281/zenodo.XX], identifies the exact files described in this Data Descriptor. The GitHub release is tagged with the same version, and the Zenodo record holds the full data, never only a link. All files are released under CC0 1.0.
+The release is published on GitHub at AgrDataSci/tricot-data and archived on Zenodo under the concept DOI 10.5281/zenodo.17112491 [@deSousa2025data]. The concept DOI always resolves to the latest version. The version DOI of this release, [10.5281/zenodo.XX], identifies the exact files described in this Data Descriptor. The GitHub release is tagged with the same version, and the Zenodo record holds the full data, never only a link. All files are released under CC0 1.0.
 
 **Layout.** `datasets.csv` at the repository root is the finding aid, one row per trial with the trial id, crop and taxon, country, data producer, start and end dates, trial type and management, objective, numbers of participants, sites, genotypes and observation rows, the collection moments, the ranked traits, the size in megabytes, the licence and the path to fetch. Trial files sit in `data/<crop>/` and are named `<crop>-[kind-]<iso3>-<trial_id>.json`, where `kind` is `pvs` or `station` for companion data. Crop, country and year do not identify a trial, 313 of the 366 legacy files share all three with another file, so the trial id closes every name and no user composes a file name by hand. `metadata/` holds the JSON Schema, the data dictionary and the DataCite metadata of the release, `decisions/` the decision records of the pipeline, and `docs/` the map and this paper. The release is 1.2 GB of minified JSON. A single trial file is read with any JSON parser, and a user fetches the five trials they need, not the whole set.
 
-**File structure.** Every trial file follows release schema v2.0 with five parts (Table 2). `metadata` describes the trial, `site_data` has one row per site, `plot_data` is the long table of observations, `genotype_data` holds measurements on genotypes outside the trial design and `rank_analysis` is reserved for Plackett-Luce estimates. Site and plot rows link through `site_id`, genotype rows through `genotype_name`, and `metadata.variables` lists and describes every column of the three tables with its harmonised question id, Crop Ontology term, value type and unit. Every file states its schema version, the version and date of the release, the export script and interpreter that produced it, the concept DOI and the licence, so a file found anywhere identifies the dataset it belongs to.
+**File structure.** Every trial file follows the same release schema with five parts (Table 2). `metadata` describes the trial, `site_data` has one row per site, `plot_data` is the long table of observations, `genotype_data` holds measurements on genotypes outside the trial design and `rank_analysis` is reserved for Plackett-Luce estimates. Site and plot rows link through `site_id`, genotype rows through `genotype_name`, and `metadata.variables` lists and describes every column of the three tables with its harmonised question id, Crop Ontology term, value type and unit. Every file states its schema version, the version and date of the release, the export script and interpreter that produced it, the concept DOI and the licence, so a file found anywhere identifies the dataset it belongs to.
 
-**Table 2. Organisation of the trial files, release schema v2.0.**
+**Table 2. Organisation of the trial files.**
 
 | Component | Record unit | Principal contents |
 |---|---|---|
@@ -139,57 +139,9 @@ The release is published on GitHub at AgrDataSci/tricot-data and archived on Zen
 | genotype_data | One row per genotype, trait and replicate | Measurements made outside the trial design, such as laboratory assays of the product |
 | rank_analysis | One row per genotype, trait and moment | Plackett-Luce estimates, empty until fitted by the data managers |
 
-**Coverage.** Release v2 holds 669 trial files from 20 countries and 42 crops, produced by 27 organisations (Table 3, Figure 1). The 539 farmer-managed tricot trials comprise 527 on-farm variety trials, 8 consumer tests and 4 concept tests, with 100,787 sites, each the farm or household of one participant, and 3.26 million observation rows. The 130 researcher-managed companion trials add 596 station and mother-trial sites. Across all files `plot_data` holds 3,284,321 rows, of which 2,439,450 are rankings, 509,005 numeric measurements, 99,465 categorical answers, 93,403 dates and 90,511 comparisons with the local variety, and `genotype_data` holds 7,200 rows. Participants were 30,502 women, 40,423 men and 30,362 whose gender was not recorded. Participant identifiers are specific to each trial, so counts summed across trials are not counts of unique people. The trials cover 7,511 genotype entries, 451 published trait names and 414 harmonised question identifiers, 40 of them mapped to Crop Ontology terms. Ethiopia (227 trials, 24,887 sites), India (67 trials, 21,804 sites) and Tanzania (48 trials, 15,265 sites) hold the most sites, and common bean, bread wheat, maize, groundnut and rice the most among crops. Trials started every year from 2012 to 2026. The dataset grew in two waves, the pilots and national programmes of 2013 to 2014 and the ClimMob expansion of 2017 to 2019, and has added a steady 7,500 to 10,000 sites per year since 2021 (Figure 2).
+**Coverage.** The dataset holds 669 trial files from 20 countries and 42 crops, produced by 27 organisations (Figure 1, Table 3, Supplementary Table S1). The 539 farmer-managed tricot trials comprise 527 on-farm variety trials, 8 consumer tests and 4 concept tests, with 100,787 sites, each the farm or household of one participant, and 3.26 million observation rows. The 130 researcher-managed companion trials add 596 station and mother-trial sites. Across all files `plot_data` holds 3,284,321 rows, of which 2,439,450 are rankings, 509,005 numeric measurements, 99,465 categorical answers, 93,403 dates and 90,511 comparisons with the local variety, and `genotype_data` holds 7,200 rows. Participants were 30,502 women, 40,423 men and 30,362 whose gender was not recorded. Participant identifiers are specific to each trial, so counts summed across trials are not counts of unique people. The trials cover 7,511 genotype entries, 451 published trait names and 414 harmonised question identifiers, 40 of them mapped to Crop Ontology terms. Ethiopia (227 trials, 24,887 sites), India (67 trials, 21,804 sites) and Tanzania (48 trials, 15,265 sites) hold the most sites, and common bean, bread wheat, maize, groundnut and rice the most among crops. Trials started every year from 2012 to 2026. The dataset grew in two waves, the pilots and national programmes of 2013 to 2014 and the ClimMob expansion of 2017 to 2019, and has added a steady 7,500 to 10,000 sites per year since 2021 (Figure 2).
 
-**Table 3. Crops, countries and sites of the farmer-managed tricot trials in release v2.** Years are the start years of the trials. Companion trials are listed in the index with `management = researcher-managed`.
-
-| Crop | Taxon | Countries | Trials | Sites | Years |
-|---|---|---|---|---|---|
-| Bread wheat | *Triticum aestivum* L. | ETH, IND, RWA | 54 | 17,574 | 2012 to 2024 |
-| Common bean | *Phaseolus vulgaris* L. | CRI, ETH, GTM, HND, IND, MOZ, NIC, RWA, TZA, UGA | 98 | 11,024 | 2012 to 2024 |
-| Maize | *Zea mays* L. | ETH, GHA, GTM, HND, KEN, RWA, TZA, UGA, ZMB, ZWE | 55 | 10,507 | 2015 to 2025 |
-| Groundnut | *Arachis hypogaea* L. | GHA, NGA, TZA, UGA, ZMB | 22 | 10,174 | 2016 to 2025 |
-| Rice | *Oryza sativa* L. | IND | 26 | 8,126 | 2013 to 2019 |
-| Sorghum | *Sorghum bicolor* (L.) Moench | ETH, KEN, NGA, RWA, TZA | 37 | 6,280 | 2013 to 2025 |
-| Sweetpotato | *Ipomoea batatas* (L.) Lam. | GHA, MOZ, UGA | 35 | 4,901 | 2020 to 2026 |
-| Teff | *Eragrostis tef* (Zucc.) Trotter | ETH | 44 | 4,868 | 2017 to 2019 |
-| Amaranth | *Amaranthus* spp. | BEN, IND, MLI, TZA | 13 | 4,088 | 2019 to 2024 |
-| Cassava | *Manihot esculenta* Crantz | CMR, COD, NGA, RWA, TZA, UGA | 13 | 3,246 | 2019 to 2024 |
-| Cowpea | *Vigna unguiculata* (L.) Walp. | BFA, GHA, NGA | 12 | 2,716 | 2021 to 2025 |
-| Finger millet | *Eleusine coracana* (L.) Gaertn. | ETH, IND, KEN, UGA | 19 | 2,476 | 2017 to 2019 |
-| Faba bean | *Vicia faba* L. | ETH | 19 | 2,129 | 2017 to 2019 |
-| Durum wheat | *Triticum turgidum* subsp. *durum* (Desf.) Husn. | ETH | 13 | 2,113 | 2013 to 2019 |
-| Barley | *Hordeum vulgare* L. | ETH, IND | 19 | 1,958 | 2017 to 2019 |
-| Okra | *Abelmoschus* spp. | BEN, MLI | 4 | 1,874 | 2022 to 2023 |
-| Jute mallow | *Corchorus* spp. | BEN, MLI | 4 | 1,292 | 2022 to 2023 |
-| Forages | mixed species | ETH, RWA | 3 | 1,070 | 2022 to 2023 |
-| Potato | *Solanum tuberosum* L. | NGA, RWA | 7 | 950 | 2020 to 2023 |
-| Pearl millet | *Cenchrus americanus* (L.) Morrone | IND, NGA | 5 | 680 | 2019 to 2025 |
-| Chickpea | *Cicer arietinum* L. | ETH, TZA | 8 | 564 | 2017 to 2024 |
-| Mixed vegetables | several | KEN | 1 | 370 | 2018 |
-| African eggplant | *Solanum aethiopicum* L. | TZA | 1 | 300 | 2024 |
-| Soybean | *Glycine max* (L.) Merr. | ETH, RWA, UGA | 3 | 263 | 2019 to 2024 |
-| Chili pepper | *Capsicum* spp. | BEN | 1 | 200 | 2024 |
-| Tomato | *Solanum lycopersicum* L. | BEN | 1 | 200 | 2024 |
-| Field pea | *Pisum sativum* L. | ETH | 3 | 171 | 2018 to 2019 |
-| Lentil | *Lens culinaris* Medik. | ETH | 1 | 94 | 2018 |
-| Sesame | *Sesamum indicum* L. | ETH, IND | 2 | 89 | 2019 |
-| Black cumin | *Nigella sativa* L. | ETH | 2 | 73 | 2018 to 2019 |
-| Tepary bean | *Phaseolus acutifolius* A.Gray | GTM | 1 | 63 | 2017 |
-| Noug | *Guizotia abyssinica* (L.f.) Cass. | ETH | 1 | 50 | 2018 |
-| Kodo millet | *Paspalum scrobiculatum* L. | IND | 1 | 47 | [XX] |
-| Little millet | *Panicum sumatrense* Roth ex Roem. & Schult. | IND | 1 | 46 | [XX] |
-| Pigeonpea | *Cajanus cajan* (L.) Millsp. | KEN | 1 | 41 | 2024 |
-| Moth bean | *Vigna aconitifolia* (Jacq.) Marechal | IND | 1 | 40 | 2019 |
-| Mung bean | *Vigna radiata* (L.) R.Wilczek | IND | 1 | 40 | 2019 |
-| Oat | *Avena sativa* L. | ETH | 1 | 33 | 2019 |
-| Black gram | *Vigna mungo* (L.) Hepper | IND | 2 | 20 | 2019 |
-| Small millets | *Paspalum scrobiculatum* L.; *Panicum sumatrense* | IND | 2 | 20 | 2019 |
-| Rice bean | *Vigna umbellata* (Thunb.) Ohwi & H.Ohashi | IND | 1 | 12 | 2019 |
-| Horse gram | *Macrotyloma uniflorum* (Lam.) Verdc. | IND | 1 | 5 | 2019 |
-| **Total** | | **20 countries** | **539** | **100,787** | **2012 to 2026** |
-
-**Table 4. Summary of release v2.**
+**Table 3. Summary of the dataset.**
 
 | Indicator | Value |
 |---|---|
@@ -219,7 +171,7 @@ Each step of the pipeline carries its own check, with counts, in the decision re
 
 **Identity and privacy.** No two files map to the same path, and every file carries the same trial id in its name, its metadata and the index. Every published point lies inside its country. No value in `site_data` matches a phone number or email pattern, and no published column refers to names, phones, device identifiers or photographs.
 
-**Schema validation.** Every file is validated against the JSON Schema of release schema v2.0 before the release is tagged [XX, confirm once the v2.0 schema is written and the validation run]. The index is rebuilt from the files, so its counts agree with the files by construction.
+**Schema validation.** Every file is validated against the JSON Schema of the release before it is tagged [XX, confirm once the schema is written and the validation run]. The index is rebuilt from the files, so its counts agree with the files by construction.
 
 **Reproducibility.** The whole release is rebuilt by one command from the sources, and each file records the script and interpreter version that wrote it. Independent reanalysis of the published files reproduces results of earlier studies built on subsets of the same data [XX, cite the reproduction in tricot-analysis-workflows once run, e.g. Brown et al. 2022 for the Central American beans].
 
