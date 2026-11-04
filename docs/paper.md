@@ -1,4 +1,4 @@
-^(a) Bioversity International (CGIAR), Montpellier, France. ^(b) University of Inland Norway, Hamar, Norway. ^(c) Add affiliations, City, Country.
+^(a) Bioversity International, Montpellier, France. ^(b) University of Inland Norway, Hamar, Norway. ^(c) Add affiliations, City, Country.
 
 Draft of 4 November 2026, built on the release files of AgrDataSci/tricot-data-raw as indexed on that date. Items marked XX are placeholders to resolve before submission.
 
@@ -8,9 +8,17 @@ Fifteen years of on-farm trials with the tricot approach produced rankings from 
 
 This release removes the wall. The dataset is reusable at this scale because every trial is published as one self-describing file that carries the credit of the organisation that produced it. That is the whole design, and it is what let 27 organisations agree to release 539 farmer-managed trials and 100,787 sites under CC0, with 130 researcher-managed companion trials on the same genotypes. Methods explains how heterogeneous sources became one schema without losing provenance or exposing farmers. Data Records describes the files and their coverage. Usage Notes explains how people and AI agents fetch the data and how credit flows back to the producers, which is the part of the design that made the release possible.
 
+![Trial sites in release v2, by crop group. Each point is one site after displacement within 1,500 m. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps.](trial-locations.png)
+
+Trial sites in release v2, by crop group. Each point is one site after displacement within 1,500 m. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps.
+
 The data come from the tricot approach, proposed in 2011 for large-scale, decentralised citizen science in agriculture^(5,6). Options from a larger pool are allocated to participants in connected incomplete blocks of three. A farmer receives three coded seed lots, grows them side by side under local management and reports which performed best and worst for each trait. Because the triads overlap, the partial rankings of many farmers form one comparison network, and the relative performance of every option is estimated with Plackett-Luce models although nobody evaluates the full set^(1,7,8). Fifteen years of trials showed that these distributed observations support inference across environments¹, predict across-season performance better than station-trained genomic models⁹, extend to consumer tests and product concepts^(10,11), and aggregate into reliable estimates although each farmer’s ranking is imperfect^(12,13). The same fifteen years are why the data were scattered. Each trial was designed, run and owned by the organisation that needed the answer, a national research institute, a CGIAR centre, an NGO, a seed company or a university, under its own project, funder and platform version^(8,14). Nobody owned the whole.
 
 Three features follow from the design and set the dataset apart from the trial data breeding programmes usually release. It was built from the bottom up, so the trust of the producers is written into the files. Each trial carries its producer with a ROR identifier, its principal investigator, its contributors and its funder, and credit travels with the data wherever they go. It is wide rather than deep. One trial of 150 farms says little on its own, while several hundred trials on 42 crops across 20 countries and 15 seasons let an analyst ask which varieties perform where, how preferences differ between women and men, how performance responds to climate and whether on-farm and on-station results agree. And it is FAIR in full¹⁵ for people and for AI agents alike. One index lists every trial with the path to fetch it, one JSON file per trial describes itself completely, and nothing requires an account, a token or a database client.
+
+![Cumulative growth of the farmer-managed tricot trials by start year. The area gives the cumulative number of sites (participants) of all 539 trials, 100,787 in total. For 44 trials without a start date in the index the year was taken from the project code or, for 18 trials, from the source project \[XX, confirm the 18 estimated years in `metadata/questions/`\].](tricot-sites-cumulative.png)
+
+Cumulative growth of the farmer-managed tricot trials by start year. The area gives the cumulative number of sites (participants) of all 539 trials, 100,787 in total. For 44 trials without a start date in the index the year was taken from the project code or, for 18 trials, from the source project \[XX, confirm the 18 estimated years in `metadata/questions/`\].
 
 This is the second version of the dataset. Version 1 (2025) held 62 ClimMob v3 trials from six African countries. Version 2 adds 366 legacy trials recovered from ClimMob v2 exports, curated spreadsheets and partner files dating back to 2012, 111 further ClimMob v3 trials and 130 researcher-managed companion trials on the same genotypes, and moves the whole collection to one schema, one naming rule and one licence. It is the first release that reaches beyond Africa, to India and Central America, where tricot began.
 
@@ -125,14 +133,6 @@ The release is published on GitHub at AgrDataSci/tricot-data and archived on Zen
 | Rice bean        | *Vigna umbellata* (Thunb.) Ohwi & H.Ohashi        | IND                                              | 1       | 12          | 2019             |
 | Horse gram       | *Macrotyloma uniflorum* (Lam.) Verdc.             | IND                                              | 1       | 5           | 2019             |
 | **Total**        |                                                   | **20 countries**                                 | **539** | **100,787** | **2012 to 2026** |
-
-![Figure 1. Trial sites in release v2, by crop group. Each point is one site after displacement within 1,500 m. Hollow grey rings are sites of trials processed but pending the data producer’s approval. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps. \[Rebuild with the final counts before submission.\]](trial-locations.png)
-
-Figure 1. Trial sites in release v2, by crop group. Each point is one site after displacement within 1,500 m. Hollow grey rings are sites of trials processed but pending the data producer’s approval. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps. \[Rebuild with the final counts before submission.\]
-
-![Figure 2. Cumulative growth of the farmer-managed tricot trials by start year. The area gives the cumulative number of sites (participants) of all 539 trials, 100,787 in total. For 44 trials without a start date in the index the year was taken from the project code or, for 18 trials, from the source project \[XX, confirm the 18 estimated years in `metadata/questions/`\].](tricot-sites-cumulative.png)
-
-Figure 2. Cumulative growth of the farmer-managed tricot trials by start year. The area gives the cumulative number of sites (participants) of all 539 trials, 100,787 in total. For 44 trials without a start date in the index the year was taken from the project code or, for 18 trials, from the source project \[XX, confirm the 18 estimated years in `metadata/questions/`\].
 
 **Table 4. Summary of release v2.**
 
