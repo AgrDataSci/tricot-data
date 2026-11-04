@@ -1,819 +1,296 @@
 {
-  "titles": [
-    {
-      "title": "Global multi-crop agricultural trial data supported by citizen science"
-    }
-  ],
-  "publisher": "Zenodo",
-  "publicationYear": "2025",
-  "resourceType": {
-    "resourceTypeGeneral": "Dataset",
-    "resourceType": "Dataset"
-  },
-  "descriptions": [
-    {
-      "description": "The triadic comparison of technologies (tricot) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. In the approach, participants are invited to test a anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. Between 2011 and 2025 the tricot approach was applied in more than 25 countries across Africa, Asia, Europe and Latin America with more than 30 crops.",
-      "descriptionType": "Abstract"
-    }
-  ],
+  "title": "Global multi-crop agricultural trial data supported by citizen science",
+  "upload_type": "dataset",
+  "description": "The triadic comparison of technologies (tricot) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. In the approach, participants are invited to test a anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. Between 2011 and 2025 the tricot approach was applied in more than 25 countries across Africa, Asia, Europe and Latin America with more than 30 crops.",
+  "publication_date": "2025-09-10",
   "version": "v0.4",
   "language": "eng",
-  "rightsList": [
-    {
-      "rights": "Creative Commons Attribution 4.0 International",
-      "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "rightsIdentifier": "cc-by-sa-4.0",
-      "rightsIdentifierScheme": "SPDX"
-    }
-  ],
-  "subjects": [
-    {
-      "subject": "agriculture"
-    },
-    {
-      "subject": "digital innovation"
-    },
-    {
-      "subject": "FAIR data"
-    },
-    {
-      "subject": "partnerships for the goals"
-    },
-    {
-      "subject": "tricot approach"
-    }
+  "license": "cc0-1.0",
+  "access_right": "open",
+  "keywords": [
+    "agriculture",
+    "digital innovation",
+    "FAIR data",
+    "partnerships for the goals",
+    "tricot approach"
   ],
   "creators": [
     {
       "name": "de Sousa, Kauê",
-      "nameType": "Personal",
-      "givenName": "Kauê",
-      "familyName": "de Sousa",
-      "affiliation": [
-        "Bioversity International",
-        "University of Inland Norway"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-7571-7845",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Bioversity International; University of Inland Norway",
+      "orcid": "0000-0002-7571-7845"
     },
     {
       "name": "Laporte, Marie-Angélique",
-      "nameType": "Personal",
-      "givenName": "Marie-Angélique",
-      "familyName": "Laporte",
-      "affiliation": [
-        "Bioversity International"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-8461-9745",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Bioversity International",
+      "orcid": "0000-0002-8461-9745"
     },
     {
-      "name": "Achigan-Dako, Enoch G.",
-      "nameType": "Personal",
-      "givenName": "Enoch G.",
-      "familyName": "Achigan-Dako",
-      "affiliation": [
-        "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-5493-0516",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "name": "Achigan-Dako, Enoch G. ",
+      "affiliation": "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi",
+      "orcid": "0000-0002-5493-0516"
     },
     {
       "name": "Adonia, Joseph",
-      "nameType": "Personal",
-      "givenName": "Joseph",
-      "familyName": "Adonia",
-      "affiliation": [
-        "Tanzania Agricultural Research Institute"
-      ]
+      "affiliation": "Tanzania Agricultural Research Institute"
     },
     {
-      "name": "Aglinglo, Lys Amavi",
-      "nameType": "Personal",
-      "givenName": "Lys Amavi",
-      "familyName": "Aglinglo",
-      "affiliation": [
-        "World Vegetable Center, West and Central Africa Coastal and Humid Regions"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0009-0005-1515-4699",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "name": "Aglinglo, Lys Amavi ",
+      "affiliation": "World Vegetable Center, West and Central Africa Coastal and Humid Regions",
+      "orcid": "0009-0005-1515-4699"
     },
     {
       "name": "Atieno, Elly Ouma",
-      "nameType": "Personal",
-      "givenName": "Elly Ouma",
-      "familyName": "Atieno",
-      "affiliation": [
-        "International Potato Center"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-4354-1785",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "International Potato Center",
+      "orcid": "0000-0002-4354-1785"
     },
     {
       "name": "Ayenan, Mathieu",
-      "nameType": "Personal",
-      "givenName": "Mathieu",
-      "familyName": "Ayenan",
-      "affiliation": [
-        "World Vegetable Center, West and Central Africa Coastal and Humid Regions"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0001-5774-9029",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "World Vegetable Center, West and Central Africa Coastal and Humid Regions",
+      "orcid": "0000-0001-5774-9029"
     },
     {
       "name": "Boukar, Ousmane",
-      "nameType": "Personal",
-      "givenName": "Ousmane",
-      "familyName": "Boukar",
-      "affiliation": [
-        "International Institute of Tropical Agriculture"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0003-0234-4264",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "International Institute of Tropical Agriculture",
+      "orcid": "0000-0003-0234-4264"
     },
     {
       "name": "Bujiku, Antony",
-      "nameType": "Personal",
-      "givenName": "Antony",
-      "familyName": "Bujiku",
-      "affiliation": [
-        "Tanzania Agricultural Research Institute"
-      ]
+      "affiliation": "Tanzania Agricultural Research Institute"
     },
     {
       "name": "Chase, Rachel",
-      "nameType": "Personal",
-      "givenName": "Rachel",
-      "familyName": "Chase",
-      "affiliation": [
-        "Bioversity International"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-5859-6455",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Bioversity International",
+      "orcid": "0000-0002-5859-6455"
     },
     {
       "name": "Coto, Allan",
-      "nameType": "Personal",
-      "givenName": "Allan",
-      "familyName": "Coto",
-      "affiliation": [
-        "MrBot Software Solutions"
-      ]
+      "affiliation": "MrBot Software Solutions"
     },
     {
-      "name": "Coulibaly, Harouna",
-      "nameType": "Personal",
-      "givenName": "Harouna",
-      "familyName": "Coulibaly",
-      "affiliation": [
-        "Programme Fruits et Légumes, Institut d'Economie Rurale"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0009-0003-9366-4171",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "name": "Coulibaly, Harouna ",
+      "affiliation": "Programme Fruits et Légumes, Institut d'Economie Rurale",
+      "orcid": "0009-0003-9366-4171"
     },
     {
       "name": "Cremaschi, Almendra",
-      "nameType": "Personal",
-      "givenName": "Almendra",
-      "familyName": "Cremaschi",
-      "affiliation": [
-        "Bioversity International"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0001-8932-5626",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Bioversity International",
+      "orcid": "0000-0001-8932-5626"
     },
     {
       "name": "Das, Roma Rani",
-      "nameType": "Personal",
-      "givenName": "Roma Rani",
-      "familyName": "Das",
-      "affiliation": [
-        "International Maize and Wheat Improvement Center"
-      ]
+      "affiliation": "International Maize and Wheat Improvement Center"
     },
     {
       "name": "Daudi, Happy",
-      "nameType": "Personal",
-      "givenName": "Happy",
-      "familyName": "Daudi",
-      "affiliation": [
-        "Tanzania Agricultural Research Institute",
-        "International Maize and Wheat Improvement Center"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0001-5107-6564",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Tanzania Agricultural Research Institute; International Maize and Wheat Improvement Center",
+      "orcid": "0000-0001-5107-6564"
     },
     {
-      "name": "Diarra, Danfing dit Youssouf",
-      "nameType": "Personal",
-      "givenName": "Danfing dit Youssouf",
-      "familyName": "Diarra",
-      "affiliation": [
-        "Programme Fruits et Légumes, Institut d'Economie Rurale"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0009-0006-0868-6571",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "name": "Diarra, Danfing dit Youssouf ",
+      "affiliation": "Programme Fruits et Légumes, Institut d'Economie Rurale",
+      "orcid": "0009-0006-0868-6571"
     },
     {
-      "name": "Dolo, Aminata",
-      "nameType": "Personal",
-      "givenName": "Aminata",
-      "familyName": "Dolo",
-      "affiliation": [
-        "Programme Fruits et Légumes, Institut d'Economie Rurale"
-      ]
+      "name": "Dolo, Aminata ",
+      "affiliation": "Programme Fruits et Légumes, Institut d'Economie Rurale"
     },
     {
       "name": "Dorado-Betancourt, Hugo",
-      "nameType": "Personal",
-      "givenName": "Hugo",
-      "familyName": "Dorado-Betancourt",
-      "affiliation": [
-        "Wageningen University and Research"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-0103-7505",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Wageningen University and Research",
+      "orcid": "0000-0002-0103-7505"
     },
     {
       "name": "Ellison, James",
-      "nameType": "Personal",
-      "givenName": "James",
-      "familyName": "Ellison",
-      "affiliation": [
-        "One Acre Fund"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-4598-6323",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "One Acre Fund",
+      "orcid": "0000-0002-4598-6323"
     },
     {
       "name": "Gandhi, Harish",
-      "nameType": "Personal",
-      "givenName": "Harish",
-      "familyName": "Gandhi",
-      "affiliation": [
-        "International Maize and Wheat Improvement Center"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-1304-8877",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "International Maize and Wheat Improvement Center",
+      "orcid": "0000-0002-1304-8877"
     },
     {
-      "name": "Houdegbe, Aristide Carlos",
-      "nameType": "Personal",
-      "givenName": "Aristide Carlos",
-      "familyName": "Houdegbe",
-      "affiliation": [
-        "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0003-3774-5658",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "name": "Houdegbe, Aristide Carlos ",
+      "affiliation": "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi",
+      "orcid": "0000-0003-3774-5658"
     },
     {
       "name": "Jørgensen, Marit",
-      "nameType": "Personal",
-      "givenName": "Marit",
-      "familyName": "Jørgensen",
-      "affiliation": [
-        "Norwegian Institute of Bioeconomy Research"
-      ]
+      "affiliation": "Norwegian Institute of Bioeconomy Research",
+      "orcid": "0000-0002-6104-124X"
     },
     {
       "name": "Katamba, Emmanuel",
-      "nameType": "Personal",
-      "givenName": "Emmanuel",
-      "familyName": "Katamba",
-      "affiliation": [
-        "Tanzania Agricultural Research Institute"
-      ]
+      "affiliation": "Tanzania Agricultural Research Institute"
     },
     {
-      "name": "Kileo, Aishi",
-      "nameType": "Personal",
-      "givenName": "Aishi",
-      "familyName": "Kileo",
-      "affiliation": [
-        "Tanzania Agricultural Research Institute"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0009-0004-5010-3355",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "name": "Kileo, Aishi ",
+      "affiliation": "Tanzania Agricultural Research Institute",
+      "orcid": "0009-0004-5010-3355"
     },
     {
       "name": "Laswai, Emmanuel V.",
-      "nameType": "Personal",
-      "givenName": "Emmanuel V.",
-      "familyName": "Laswai",
-      "affiliation": [
-        "Tanzania Agricultural Research Institute"
-      ]
+      "affiliation": "Tanzania Agricultural Research Institute"
     },
     {
-      "name": "Legba, Eric C.",
-      "nameType": "Personal",
-      "givenName": "Eric C.",
-      "familyName": "Legba",
-      "affiliation": [
-        "World Vegetable Center, West and Central Africa Coastal and Humid Regions"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0009-0008-8284-0463",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "name": "Legba, Eric C. ",
+      "affiliation": "World Vegetable Center, West and Central Africa Coastal and Humid Regions",
+      "orcid": "0009-0008-8284-0463"
     },
     {
       "name": "Madriz, Brandon",
-      "nameType": "Personal",
-      "givenName": "Brandon",
-      "familyName": "Madriz",
-      "affiliation": [
-        "MrBot Software Solutions"
-      ]
+      "affiliation": "MrBot Software Solutions"
     },
     {
-      "name": "Malulu, Dickson",
-      "nameType": "Personal",
-      "givenName": "Dickson",
-      "familyName": "Malulu",
-      "affiliation": [
-        "Tanzania Agricultural Research Institute"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0009-0005-5327-6769",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "name": "Malulu, Dickson ",
+      "affiliation": "Tanzania Agricultural Research Institute",
+      "orcid": "0009-0005-5327-6769"
     },
     {
       "name": "Manrow-Villalobos, Marilyn",
-      "nameType": "Personal",
-      "givenName": "Marilyn",
-      "familyName": "Manrow-Villalobos",
-      "affiliation": [
-        "MrBot Software Solutions"
-      ]
+      "affiliation": "MrBot Software Solutions"
     },
     {
       "name": "Matumbo, Zamira",
-      "nameType": "Personal",
-      "givenName": "Zamira",
-      "familyName": "Matumbo",
-      "affiliation": [
-        "Tanzania Agricultural Research Institute"
-      ]
+      "affiliation": "Tanzania Agricultural Research Institute",
+      "orcid": "0009-0005-4091-782X"
     },
     {
       "name": "Mlaki, Anna",
-      "nameType": "Personal",
-      "givenName": "Anna",
-      "familyName": "Mlaki",
-      "affiliation": [
-        "World Vegetable Center, Eastern and Southern Africa"
-      ]
+      "affiliation": "World Vegetable Center, Eastern and Southern Africa"
     },
     {
       "name": "Mousavi, Hesam",
-      "nameType": "Personal",
-      "givenName": "Hesam",
-      "familyName": "Mousavi",
-      "affiliation": [
-        "University of Inland Norway"
-      ]
+      "affiliation": "University of Inland Norway",
+      "orcid": "0000-0003-2615-756X"
     },
     {
       "name": "Mulatu, Kalkidan Ayele",
-      "nameType": "Personal",
-      "givenName": "Kalkidan Ayele",
-      "familyName": "Mulatu",
-      "affiliation": [
-        "International Center for Tropical Agriculture"
-      ]
+      "affiliation": "International Center for Tropical Agriculture"
     },
     {
       "name": "N'Danikou, Sognigbé",
-      "nameType": "Personal",
-      "givenName": "Sognigbé",
-      "familyName": "N'Danikou",
-      "affiliation": [
-        "World Vegetable Center, Eastern and Southern Africa",
-        "Ecole d’Horticulture et d’Aménagement des Espaces Verts, Université Nationale d’Agriculture"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-4163-8567",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "World Vegetable Center, Eastern and Southern Africa; Ecole d’Horticulture et d’Aménagement des Espaces Verts, Université Nationale d’Agriculture",
+      "orcid": "0000-0002-4163-8567"
     },
     {
       "name": "Nabateregga, Mabel",
-      "nameType": "Personal",
-      "givenName": "Mabel",
-      "familyName": "Nabateregga",
-      "affiliation": [
-        "University of Inland Norway"
-      ]
+      "affiliation": "University of Inland Norway",
+      "orcid": "0000-0002-6731-152X"
     },
     {
       "name": "Nadigatla, Ganga Rao V. P. R.",
-      "nameType": "Personal",
-      "givenName": "Ganga Rao V. P. R.",
-      "familyName": "Nadigatla",
-      "affiliation": [
-        "International Maize and Wheat Improvement Center"
-      ]
+      "affiliation": "International Maize and Wheat Improvement Center"
     },
     {
       "name": "Neby, Magne",
-      "nameType": "Personal",
-      "givenName": "Magne",
-      "familyName": "Neby",
-      "affiliation": [
-        "University of Inland Norway"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0003-2098-7650",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "University of Inland Norway",
+      "orcid": "0000-0003-2098-7650"
     },
     {
       "name": "Notenbaert, An",
-      "nameType": "Personal",
-      "givenName": "An",
-      "familyName": "Notenbaert",
-      "affiliation": [
-        "International Center for Tropical Agriculture"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-6266-2240",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "International Center for Tropical Agriculture",
+      "orcid": "0000-0002-6266-2240"
     },
     {
       "name": "Nyawade, Shadrack Otieno",
-      "nameType": "Personal",
-      "givenName": "Shadrack Otieno",
-      "familyName": "Nyawade",
-      "affiliation": [
-        "International Potato Center"
-      ]
+      "affiliation": "International Potato Center"
     },
     {
       "name": "Ojiewo, Christopher Ochieng",
-      "nameType": "Personal",
-      "givenName": "Christopher Ochieng",
-      "familyName": "Ojiewo",
-      "affiliation": [
-        "International Maize and Wheat Improvement Center"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-2885-9381",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "International Maize and Wheat Improvement Center",
+      "orcid": "0000-0002-2885-9381"
     },
     {
       "name": "Ongom, Patrick Obia",
-      "nameType": "Personal",
-      "givenName": "Patrick Obia",
-      "familyName": "Ongom",
-      "affiliation": [
-        "International Institute of Tropical Agriculture"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-5303-3602",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "International Institute of Tropical Agriculture",
+      "orcid": "0000-0002-5303-3602"
     },
     {
       "name": "Ouedraogo, Colette Ouidyam",
-      "nameType": "Personal",
-      "givenName": "Colette Ouidyam",
-      "familyName": "Ouedraogo",
-      "affiliation": [
-        "World Vegetable Center, West and Central Africa Drylands"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-1997-3684",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "World Vegetable Center, West and Central Africa Drylands",
+      "orcid": "0000-0002-1997-3684"
     },
     {
       "name": "Rathore, Abhishek",
-      "nameType": "Personal",
-      "givenName": "Abhishek",
-      "familyName": "Rathore",
-      "affiliation": [
-        "International Maize and Wheat Improvement Center"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0001-6887-4095",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "International Maize and Wheat Improvement Center",
+      "orcid": "0000-0001-6887-4095"
     },
     {
       "name": "Salaou, Abdou Mouizz B.",
-      "nameType": "Personal",
-      "givenName": "Abdou Mouizz B.",
-      "familyName": "Salaou",
-      "affiliation": [
-        "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0009-0003-2379-6646",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi",
+      "orcid": "0009-0003-2379-6646"
     },
     {
       "name": "Shango, Abdul",
-      "nameType": "Personal",
-      "givenName": "Abdul",
-      "familyName": "Shango",
-      "affiliation": [
-        "World Vegetable Center, Eastern and Southern Africa"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-0233-8385",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "World Vegetable Center, Eastern and Southern Africa",
+      "orcid": "0000-0002-0233-8385"
     },
     {
       "name": "Sharma, Kalpana",
-      "nameType": "Personal",
-      "givenName": "Kalpana",
-      "familyName": "Sharma",
-      "affiliation": [
-        "International Potato Center"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-4104-8671",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "International Potato Center",
+      "orcid": "0000-0002-4104-8671"
     },
     {
       "name": "Sibomana, Milindi",
-      "nameType": "Personal",
-      "givenName": "Milindi",
-      "familyName": "Sibomana",
-      "affiliation": [
-        "One Acre Fund"
-      ]
+      "affiliation": "One Acre Fund"
     },
     {
-      "name": "Sidibe, Amadou",
-      "nameType": "Personal",
-      "givenName": "Amadou",
-      "familyName": "Sidibe",
-      "affiliation": [
-        "Programme Fruits et Légumes, Institut d'Economie Rurale"
-      ]
+      "name": "Sidibe, Amadou ",
+      "affiliation": "Programme Fruits et Légumes, Institut d'Economie Rurale"
     },
     {
       "name": "Sohindji, Silvère Fernand",
-      "nameType": "Personal",
-      "givenName": "Silvère Fernand",
-      "familyName": "Sohindji",
-      "affiliation": [
-        "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-2902-1433",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi",
+      "orcid": "0000-0002-2902-1433"
     },
     {
       "name": "Solberg, Svein Øivind",
-      "nameType": "Personal",
-      "givenName": "Svein Øivind",
-      "familyName": "Solberg",
-      "affiliation": [
-        "University of Inland Norway"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-4491-4483",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "University of Inland Norway",
+      "orcid": "0000-0002-4491-4483"
     },
     {
       "name": "Steinke, Jonathan",
-      "nameType": "Personal",
-      "givenName": "Jonathan",
-      "familyName": "Steinke",
-      "affiliation": [
-        "Bioversity International"
-      ]
+      "affiliation": "Bioversity International",
+      "orcid": "0000-0001-5742-702X"
     },
     {
       "name": "Tchokponhoue, Dèdéou Apocalypse",
-      "nameType": "Personal",
-      "givenName": "Dèdéou Apocalypse",
-      "familyName": "Tchokponhoue",
-      "affiliation": [
-        "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi"
-      ]
+      "affiliation": "Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi",
+      "orcid": "0000-0002-1285-245X"
     },
     {
       "name": "Tuyishime, Elysé",
-      "nameType": "Personal",
-      "givenName": "Elysé",
-      "familyName": "Tuyishime",
-      "affiliation": [
-        "One Acre Fund"
-      ]
+      "affiliation": "One Acre Fund"
     },
     {
       "name": "van Etten, Jacob",
-      "nameType": "Personal",
-      "givenName": "Jacob",
-      "familyName": "van Etten",
-      "affiliation": [
-        "Bioversity International"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0001-7554-2558",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Bioversity International",
+      "orcid": "0000-0001-7554-2558"
     },
     {
       "name": "van Heerwaarden, Joost",
-      "nameType": "Personal",
-      "givenName": "Joost",
-      "familyName": "van Heerwaarden",
-      "affiliation": [
-        "Wageningen University and Research"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-4959-3914",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "Wageningen University and Research",
+      "orcid": "0000-0002-4959-3914"
     },
     {
       "name": "van Zonneveld, Maarten",
-      "nameType": "Personal",
-      "givenName": "Maarten",
-      "familyName": "van Zonneveld",
-      "affiliation": [
-        "World Vegetable Center"
-      ],
-      "nameIdentifiers": [
-        {
-          "nameIdentifier": "https://orcid.org/0000-0002-7875-4756",
-          "nameIdentifierScheme": "ORCID",
-          "schemeUri": "https://orcid.org"
-        }
-      ]
+      "affiliation": "World Vegetable Center",
+      "orcid": "0000-0002-7875-4756"
     }
   ],
-  "fundingReferences": [
+  "notes": "Funding: Norwegian Agency for Development Cooperation, Biodiversity for Opportunities, Livelihoods and Development (BOLD) (CONT-1522); Gates Foundation, 1000FARMS (INV-031561); Gates Foundation, AVISA (INV-009649); BMZ, Choose Grow Thrive Using citizen science in expanding West Africa's food basket with African vegetables to tackle malnutrition (BMZ-CGT)” (81260859).",
+  "related_identifiers": [
     {
-      "funderName": "Norwegian Agency for Development Cooperation",
-      "funderIdentifier": "https://ror.org/04zbn7k04",
-      "awardTitle": "Biodiversity for Opportunities, Livelihoods and Development (BOLD)",
-      "awardNumber": "CONT-1522"
-    },
+      "identifier": "https://github.com/AgrDataSci/tricot-data",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ],
+  "communities": [
     {
-      "funderName": "Gates Foundation",
-      "funderIdentifier": "https://ror.org/0456r8d26",
-      "awardTitle": "1000FARMS",
-      "awardNumber": "INV-031561"
-    },
-    {
-      "funderName": "Gates Foundation",
-      "funderIdentifier": "https://ror.org/0456r8d26",
-      "awardTitle": "AVISA",
-      "awardNumber": "INV-009649"
-    },
-    {
-      "funderName": "BMZ",
-      "funderIdentifier": "https://ror.org/00e0ttj68",
-      "awardTitle": "Choose Grow Thrive Using citizen science in expanding West Africa's food basket with African vegetables to tackle malnutrition (BMZ-CGT)”",
-      "awardNumber": "81260859"
+      "identifier": "cropontologycop"
     }
   ]
 }
