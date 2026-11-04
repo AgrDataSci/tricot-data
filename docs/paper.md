@@ -1,25 +1,42 @@
-Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Enoch G. Achigan-Dako³, Joseph Adonia⁴, Lys Amavi Aglinglo⁵, Elly Ouma Atieno⁶, Mathieu Ayenan⁵, Ousmane Boukar⁷, Antony Bujiku⁴, Rachel Chase¹, Allan Coto⁸, Harouna Coulibaly⁹, Almendra Cremaschi¹, Roma Rani Das¹⁰, Happy Daudi⁴, Danfing dit Youssouf Diarra⁹, Aminata Dolo⁹, Hugo Dorado-Betancourt¹¹, James Ellison¹², Harish Gandhi¹⁰, Joost van Heerwaarden¹¹, Aristide Carlos Houdegbe³, Marit Jørgensen¹³, Emmanuel Katamba⁴, Aishi Kileo⁴, Emmanuel V. Laswai⁴, Eric C. Legba⁵, Brandon Madriz⁸, Dickson Malulu⁴, Marilyn Manrow-Villalobos⁸, Zamira Matumbo⁴, Anna Mlaki¹⁴, Hesam Mousavi², Kalkidan Ayele Mulatu¹⁵, Sognigbé N’Danikou¹⁴, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁰, Magne Neby², An Notenbaert¹⁵, Shadrack Otieno Nyawade⁶, Christopher Ochieng Ojiewo¹⁰, Patrick Obia Ongom⁷, Colette Ouidyam Ouedraogo¹⁶, Abhishek Rathore¹⁰, Abdou Mouizz B. Salaou³, Abdul Shango¹⁴, Kalpana Sharma⁶, Milindi Sibomana¹², Amadou Sidibe⁹, Silvère Fernand Sohindji³, Svein Øivind Solberg², Jonathan Steinke¹, Dèdéou Apocalypse Tchokponhoue³, Elysé Tuyishime¹², Brayden Youngberg¹, Maarten van Zonneveld¹⁷, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
+Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Legesse Abate³, Rekiya O. Abdulmalik⁴, Erna Abidin⁵, Bello Abolore⁶, Enoch G. Achigan-Dako⁷, Joseph Adonia⁸, Lys Amavi Aglinglo⁹, Amilcar Aguilar¹⁰, Stephen Angudubo¹, Elizabeth Arnaud¹, Teshale M. Assefa¹¹, Elly Ouma Atieno¹², Mathieu Ayenan⁹, Mirna Barrios¹⁰, Gareth Borman¹³, Ousmane Boukar⁶, David Brown¹⁴, Antony Bujiku⁸, Edward Carey⁵, Rachel Chase¹, Néstor Chaves¹⁵, Allan Coto¹⁶, Harouna Coulibaly¹⁷, Almendra Cremaschi¹, Roma Rani Das¹⁸, Happy Daudi⁸, Maryam Dawud¹⁹, Danfing dit Youssouf Diarra¹⁷, Aminata Dolo¹⁷, Hugo Dorado-Betancourt¹³, Gospel Edughaen⁶, James Ellison²⁰, Carlo Fadda¹, Harish Gandhi¹⁸, Sanusi Gaya Mohammed²¹, Yosef Gebrehawaryat Kidane¹, Marvin Gomez Cerna²², Arnab Gupta¹³, Mohammed Hassena Beko³, Juan Carlos Hernández²³, Aristide Carlos Houdegbe⁷, Paula Iragaba²⁴, Marit Jørgensen²⁵, Edith Kadege⁸, Sylvia Kalemera¹¹, Fadhili Kasubiri¹¹, Emmanuel Katamba⁸, Robert Kawuki^(24,26), Michael Kilango⁸, Aishi Kileo⁸, Basazen Lakew²⁷, Emmanuel V. Laswai⁸, Muhammad Lawan Umar²⁸, Eric C. Legba⁹, Brandon Madriz¹⁶, Tessy Ugo Madu²⁹, Dickson Malulu⁸, Rhys Manners⁶, Marilyn Manrow-Villalobos¹⁶, Zamira Matumbo⁸, Harriet Mawia¹⁸, Julius Mbiu⁸, Mercy Mbugua¹⁸, Thiago Mendes¹², Dejene K. Mengistu¹, Anna Mlaki³⁰, Hesam Mousavi², Mukani Moyo¹², James Mugo¹², Kalkidan Ayele Mulatu¹¹, Sognigbé N’Danikou³⁰, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁸, An Ritah Nanyonjo²⁴, Athanase Nduwumuremyi³¹, Magne Neby², An Notenbaert¹¹, Jean Claude Nshimiyimana¹², Shadrack Otieno Nyawade¹², Hyacinthe Nyirahabimana¹³, Christopher Ochieng Ojiewo¹⁸, Olamide Olaosebikan⁶, Patrick Obia Ongom⁶, Samuel Onwuka²⁹, Richard Oteng-Frimpong³², Colette Ouidyam Ouedraogo³³, Abhishek Rathore¹⁸, Juan Carlos Rosas³⁴, Placide Rukundo¹², Pieter Rutsaert¹⁸, Abdou Mouizz B. Salaou⁷, Mirjam Schaap¹³, Abdul Shango³⁰, Kalpana Sharma¹², Neeraj Sharma³⁵, Milindi Sibomana²⁰, Amadou Sidibe¹⁷, Silvère Fernand Sohindji⁷, Svein Øivind Solberg², Reuben Ssali¹², Jonathan Steinke¹, Jose Gabriel Suchini¹⁰, Dèdéou Apocalypse Tchokponhoue⁷, Béla Teeken⁶, Theophilus Kwabla Tengey³², Hale Ann Tufan¹⁴, Elysé Tuyishime²⁰, Jacob Ulzen¹, Joost van Heerwaarden¹³, Maarten van Zonneveld³⁶, Mary Yeye²⁸, Brayden Youngberg¹, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
 
 ¹ Bioversity International  
 ² University of Inland Norway  
-³ Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi  
-⁴ Tanzania Agricultural Research Institute  
-⁵ World Vegetable Center, West and Central Africa Coastal and Humid Regions  
-⁶ International Potato Center  
-⁷ International Institute of Tropical Agriculture  
-⁸ MrBot Software Solutions  
-⁹ Programme Fruits et Légumes, Institut d’Economie Rurale  
-¹⁰ International Maize and Wheat Improvement Center  
-¹¹ Wageningen University and Research  
-¹² One Acre Fund  
-¹³ Norwegian Institute of Bioeconomy Research  
-¹⁴ World Vegetable Center, Eastern and Southern Africa  
-¹⁵ International Center for Tropical Agriculture  
-¹⁶ World Vegetable Center, West and Central Africa Drylands  
-¹⁷ World Vegetable Center  
+³ Stichting Wageningen Research  
+⁴ Ahmadu Bello University  
+⁵ Reputed Agriculture 4 Development Stichting and Foundation  
+⁶ International Institute of Tropical Agriculture  
+⁷ Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi  
+⁸ Tanzania Agricultural Research Institute  
+⁹ World Vegetable Center, West and Central Africa Coastal and Humid Regions  
+¹⁰ Centro Agronómico Tropical de Investigación y Enseñanza  
+¹¹ International Center for Tropical Agriculture  
+¹² International Potato Center  
+¹³ Wageningen University and Research  
+¹⁴ Cornell University  
+¹⁵ Universidad de Costa Rica  
+¹⁶ MrBot Software Solutions  
+¹⁷ Programme Fruits et Légumes, Institut d’Economie Rurale  
+¹⁸ International Maize and Wheat Improvement Center  
+¹⁹ Lake Chad Research Institute  
+²⁰ One Acre Fund  
+²¹ Bayero University  
+²² Fundación para la Investigación Participativa con Agricultores de Honduras  
+²³ Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria  
+²⁴ National Crop Resources Research Institute  
+²⁵ Norwegian Institute of Bioeconomy Research  
+²⁶ World Coffee Research  
+²⁷ Ethiopian Biodiversity Institute  
+²⁸ Institute for Agricultural Research  
+²⁹ National Root Crops Research Institute  
+³⁰ World Vegetable Center, Eastern and Southern Africa  
+³¹ Rwanda Agriculture and Animal Resources Development Board  
+³² Savanna Agricultural Research Institute  
+³³ World Vegetable Center, West and Central Africa Drylands  
+³⁴ Zamorano University  
+³⁵ Tuberosum Technologies Inc  
+³⁶ World Vegetable Center  
 ^(XX) Affiliations of the additional authors
-
-Draft of 4 November 2026, built on the release files of AgrDataSci/tricot-data-raw as indexed on that date. Items marked XX are placeholders to resolve before submission.
 
 # Abstract
 
