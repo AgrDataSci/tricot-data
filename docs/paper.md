@@ -1,6 +1,48 @@
-^(a) Bioversity International, Montpellier, France. ^(b) University of Inland Norway, Hamar, Norway. ^(c) Add affiliations, City, Country.
+Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Legesse Abate³, Rekiya O. Abdulmalik⁴, Erna Abidin⁵, Bello Abolore⁶, Enoch G. Achigan-Dako⁷, Joseph Adonia⁸, Lys Amavi Aglinglo⁹, Amilcar Aguilar¹⁰, Stephen Angudubo¹, Elizabeth Arnaud¹, Teshale M. Assefa¹¹, Elly Ouma Atieno¹², Mathieu Ayenan⁹, Mirna Barrios¹⁰, Gareth Borman¹³, Ousmane Boukar⁶, David Brown¹⁴, Antony Bujiku⁸, Edward Carey⁵, Rachel Chase¹, Néstor Chaves¹⁵, Allan Coto¹⁶, Harouna Coulibaly¹⁷, Almendra Cremaschi¹, Roma Rani Das¹⁸, Happy Daudi⁸, Maryam Dawud¹⁹, Danfing dit Youssouf Diarra¹⁷, Aminata Dolo¹⁷, Hugo Dorado-Betancourt¹³, Gospel Edughaen⁶, James Ellison²⁰, Carlo Fadda¹, Harish Gandhi¹⁸, Sanusi Gaya Mohammed²¹, Yosef Gebrehawaryat Kidane¹, Marvin Gomez Cerna²², Arnab Gupta¹³, Mohammed Hassena Beko³, Juan Carlos Hernández²³, Aristide Carlos Houdegbe⁷, Paula Iragaba²⁴, Marit Jørgensen²⁵, Edith Kadege⁸, Sylvia Kalemera¹¹, Fadhili Kasubiri¹¹, Emmanuel Katamba⁸, Robert Kawuki^(24,26), Michael Kilango⁸, Aishi Kileo⁸, Basazen Lakew²⁷, Emmanuel V. Laswai⁸, Muhammad Lawan Umar²⁸, Eric C. Legba⁹, Brandon Madriz¹⁶, Tessy Ugo Madu²⁹, Dickson Malulu⁸, Rhys Manners⁶, Marilyn Manrow-Villalobos¹⁶, Zamira Matumbo⁸, Harriet Mawia¹⁸, Julius Mbiu⁸, Mercy Mbugua¹⁸, Thiago Mendes¹², Dejene K. Mengistu¹, Anna Mlaki³⁰, Hesam Mousavi², Mukani Moyo¹², James Mugo¹², Kalkidan Ayele Mulatu¹¹, Sognigbé N’Danikou³⁰, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁸, An Ritah Nanyonjo²⁴, Athanase Nduwumuremyi³¹, Magne Neby², An Notenbaert¹¹, Jean Claude Nshimiyimana¹², Shadrack Otieno Nyawade¹², Hyacinthe Nyirahabimana¹³, Christopher Ochieng Ojiewo¹⁸, Olamide Olaosebikan⁶, Patrick Obia Ongom⁶, Samuel Onwuka²⁹, Richard Oteng-Frimpong³², Colette Ouidyam Ouedraogo³³, Abhishek Rathore¹⁸, Juan Carlos Rosas³⁴, Placide Rukundo¹², Pieter Rutsaert¹⁸, Abdou Mouizz B. Salaou⁷, Mirjam Schaap¹³, Abdul Shango³⁰, Kalpana Sharma¹², Neeraj Sharma³⁵, Milindi Sibomana²⁰, Amadou Sidibe¹⁷, Silvère Fernand Sohindji⁷, Svein Øivind Solberg², Reuben Ssali¹², Jonathan Steinke¹, Jose Gabriel Suchini¹⁰, Dèdéou Apocalypse Tchokponhoue⁷, Béla Teeken⁶, Theophilus Kwabla Tengey³², Hale Ann Tufan¹⁴, Elysé Tuyishime²⁰, Jacob Ulzen¹, Joost van Heerwaarden¹³, Maarten van Zonneveld³⁶, Mary Yeye²⁸, Brayden Youngberg¹, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
 
-Draft of 4 November 2026, built on the release files of AgrDataSci/tricot-data-raw as indexed on that date. Items marked XX are placeholders to resolve before submission.
+¹ Bioversity International  
+² University of Inland Norway  
+³ Stichting Wageningen Research  
+⁴ Ahmadu Bello University  
+⁵ Reputed Agriculture 4 Development Stichting and Foundation  
+⁶ International Institute of Tropical Agriculture  
+⁷ Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi  
+⁸ Tanzania Agricultural Research Institute  
+⁹ World Vegetable Center, West and Central Africa Coastal and Humid Regions  
+¹⁰ Centro Agronómico Tropical de Investigación y Enseñanza  
+¹¹ International Center for Tropical Agriculture  
+¹² International Potato Center  
+¹³ Wageningen University and Research  
+¹⁴ Cornell University  
+¹⁵ Universidad de Costa Rica  
+¹⁶ MrBot Software Solutions  
+¹⁷ Programme Fruits et Légumes, Institut d’Economie Rurale  
+¹⁸ International Maize and Wheat Improvement Center  
+¹⁹ Lake Chad Research Institute  
+²⁰ One Acre Fund  
+²¹ Bayero University  
+²² Fundación para la Investigación Participativa con Agricultores de Honduras  
+²³ Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria  
+²⁴ National Crop Resources Research Institute  
+²⁵ Norwegian Institute of Bioeconomy Research  
+²⁶ World Coffee Research  
+²⁷ Ethiopian Biodiversity Institute  
+²⁸ Institute for Agricultural Research  
+²⁹ National Root Crops Research Institute  
+³⁰ World Vegetable Center, Eastern and Southern Africa  
+³¹ Rwanda Agriculture and Animal Resources Development Board  
+³² Savanna Agricultural Research Institute  
+³³ World Vegetable Center, West and Central Africa Drylands  
+³⁴ Zamorano University  
+³⁵ Tuberosum Technologies Inc  
+³⁶ World Vegetable Center  
+^(XX) Affiliations of the additional authors
+
+# Abstract
+
+We present the largest open dataset of decentralised on-farm agricultural experiments, produced with the tricot approach (triadic comparisons of technology options) by 27 research organisations across 20 countries in Africa, Asia and Central America. The release holds 669 trial files covering 42 crops, 100,787 farmer-managed sites and 3.28 million plot-level observations, of which 2.44 million are rankings and 0.51 million are measurements, collected between 2012 and 2026. Each trial is published as one self-describing JSON file that carries its design, its sites with displaced coordinates, its observations, its genotypes and its full provenance, with producer, contributors and funder identified through persistent identifiers. Trait names are harmonised across trials and mapped to the Crop Ontology where terms exist. Researcher-managed companion data from the same genotypes, 130 on-station and mother trials, are linked to the tricot trials they complement. The data are released under CC0 1.0 on GitHub and archived on Zenodo under a permanent concept DOI. The dataset supports research on farmer preferences, genotype by environment interaction, climate adaptation, variety release and seed systems, and it is built so that people and AI agents fetch, filter and reuse it without accounts or tooling.
+
+**Keywords.** citizen science, on-farm testing, tricot approach, participatory variety evaluation, open data, FAIR data, crop improvement, seed systems
 
 # Background and summary
 
