@@ -1,48 +1,5 @@
 ---
 title: Global multi-crop agricultural trial data supported by citizen science
-author:
-  - name: Kauê de Sousa
-    email: k.desousa@cgiar.org
-    orcid: 0000-0002-7571-7845
-    affiliation: a,b
-    corref: "Corresponding author"
-  - name: Marie-Angélique Laporte
-    orcid: 0000-0002-8461-9745
-    affiliation: a
-  - name: Almendra Cremaschi
-    affiliation: a
-  - name: Rachel Chase
-    affiliation: a
-  - name: Brayden Youngberg
-    affiliation: a
-  - name: Co-authors from the contributors and data producers of every trial file, added as the final step
-    affiliation: c
-  - name: Jacob van Etten
-    affiliation: a
-address:
-  - code: a
-    organization: Bioversity International
-    city: Montpellier
-    country: France
-  - code: b
-    organization: University of Inland Norway
-    city: Hamar
-    country: Norway
-  - code: c
-    organization: Add affiliations
-    city: City
-    country: Country
-abstract: |
-  We present the largest open dataset of decentralised on-farm agricultural experiments, produced with the tricot approach (triadic comparisons of technology options) by 27 research organisations across 20 countries in Africa, Asia and Central America. The release holds 669 trial files covering 42 crops, 100,787 farmer-managed sites and 3.28 million plot-level observations, of which 2.44 million are rankings and 0.51 million are measurements, collected between 2012 and 2026. Each trial is published as one self-describing JSON file that carries its design, its sites with displaced coordinates, its observations, its genotypes and its full provenance, with producer, contributors and funder identified through persistent identifiers. Trait names are harmonised across trials and mapped to the Crop Ontology where terms exist. Researcher-managed companion data from the same genotypes, 130 on-station and mother trials, are linked to the tricot trials they complement. The data are released under CC0 1.0 on GitHub and archived on Zenodo under a permanent concept DOI. The dataset supports research on farmer preferences, genotype by environment interaction, climate adaptation, variety release and seed systems, and it is built so that people and AI agents fetch, filter and reuse it without accounts or tooling.
-keywords:
- - citizen science
- - on-farm testing
- - tricot approach
- - participatory variety evaluation
- - open data
- - FAIR data
- - crop improvement
- - seed systems
 # journal: "Scientific Data"
 # output:
 #    rticles::elsevier_article:
@@ -56,7 +13,34 @@ bibliography: paper.bib
 csl: citation-style.csl
 ---
 
+Kauê de Sousa^1,2^, Marie-Angélique Laporte^1^, Enoch G. Achigan-Dako^3^, Joseph Adonia^4^, Lys Amavi Aglinglo^5^, Elly Ouma Atieno^6^, Mathieu Ayenan^5^, Ousmane Boukar^7^, Antony Bujiku^4^, Rachel Chase^1^, Allan Coto^8^, Harouna Coulibaly^9^, Almendra Cremaschi^1^, Roma Rani Das^10^, Happy Daudi^4^, Danfing dit Youssouf Diarra^9^, Aminata Dolo^9^, Hugo Dorado-Betancourt^11^, James Ellison^12^, Harish Gandhi^10^, Joost van Heerwaarden^11^, Aristide Carlos Houdegbe^3^, Marit Jørgensen^13^, Emmanuel Katamba^4^, Aishi Kileo^4^, Emmanuel V. Laswai^4^, Eric C. Legba^5^, Brandon Madriz^8^, Dickson Malulu^4^, Marilyn Manrow-Villalobos^8^, Zamira Matumbo^4^, Anna Mlaki^14^, Hesam Mousavi^2^, Kalkidan Ayele Mulatu^15^, Sognigbé N'Danikou^14^, Mabel Nabateregga^2^, Ganga Rao V. P. R. Nadigatla^10^, Magne Neby^2^, An Notenbaert^15^, Shadrack Otieno Nyawade^6^, Christopher Ochieng Ojiewo^10^, Patrick Obia Ongom^7^, Colette Ouidyam Ouedraogo^16^, Abhishek Rathore^10^, Abdou Mouizz B. Salaou^3^, Abdul Shango^14^, Kalpana Sharma^6^, Milindi Sibomana^12^, Amadou Sidibe^9^, Silvère Fernand Sohindji^3^, Svein Øivind Solberg^2^, Jonathan Steinke^1^, Dèdéou Apocalypse Tchokponhoue^3^, Elysé Tuyishime^12^, Brayden Youngberg^1^, Maarten van Zonneveld^17^, [additional authors from the data producers of every trial file, to be confirmed before submission]^XX^, Jacob van Etten^1^
+
+^1^ Bioversity International\
+^2^ University of Inland Norway\
+^3^ Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi\
+^4^ Tanzania Agricultural Research Institute\
+^5^ World Vegetable Center, West and Central Africa Coastal and Humid Regions\
+^6^ International Potato Center\
+^7^ International Institute of Tropical Agriculture\
+^8^ MrBot Software Solutions\
+^9^ Programme Fruits et Légumes, Institut d'Economie Rurale\
+^10^ International Maize and Wheat Improvement Center\
+^11^ Wageningen University and Research\
+^12^ One Acre Fund\
+^13^ Norwegian Institute of Bioeconomy Research\
+^14^ World Vegetable Center, Eastern and Southern Africa\
+^15^ International Center for Tropical Agriculture\
+^16^ World Vegetable Center, West and Central Africa Drylands\
+^17^ World Vegetable Center\
+^XX^ Affiliations of the additional authors
+
 Draft of 4 November 2026, built on the release files of AgrDataSci/tricot-data-raw as indexed on that date. Items marked XX are placeholders to resolve before submission.
+
+# Abstract
+
+We present the largest open dataset of decentralised on-farm agricultural experiments, produced with the tricot approach (triadic comparisons of technology options) by 27 research organisations across 20 countries in Africa, Asia and Central America. The release holds 669 trial files covering 42 crops, 100,787 farmer-managed sites and 3.28 million plot-level observations, of which 2.44 million are rankings and 0.51 million are measurements, collected between 2012 and 2026. Each trial is published as one self-describing JSON file that carries its design, its sites with displaced coordinates, its observations, its genotypes and its full provenance, with producer, contributors and funder identified through persistent identifiers. Trait names are harmonised across trials and mapped to the Crop Ontology where terms exist. Researcher-managed companion data from the same genotypes, 130 on-station and mother trials, are linked to the tricot trials they complement. The data are released under CC0 1.0 on GitHub and archived on Zenodo under a permanent concept DOI. The dataset supports research on farmer preferences, genotype by environment interaction, climate adaptation, variety release and seed systems, and it is built so that people and AI agents fetch, filter and reuse it without accounts or tooling.
+
+**Keywords.** citizen science, on-farm testing, tricot approach, participatory variety evaluation, open data, FAIR data, crop improvement, seed systems
 
 # Background and summary
 

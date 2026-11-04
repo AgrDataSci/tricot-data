@@ -1,6 +1,31 @@
-^(a) Bioversity International, Montpellier, France. ^(b) University of Inland Norway, Hamar, Norway. ^(c) Add affiliations, City, Country.
+Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Enoch G. Achigan-Dako³, Joseph Adonia⁴, Lys Amavi Aglinglo⁵, Elly Ouma Atieno⁶, Mathieu Ayenan⁵, Ousmane Boukar⁷, Antony Bujiku⁴, Rachel Chase¹, Allan Coto⁸, Harouna Coulibaly⁹, Almendra Cremaschi¹, Roma Rani Das¹⁰, Happy Daudi⁴, Danfing dit Youssouf Diarra⁹, Aminata Dolo⁹, Hugo Dorado-Betancourt¹¹, James Ellison¹², Harish Gandhi¹⁰, Joost van Heerwaarden¹¹, Aristide Carlos Houdegbe³, Marit Jørgensen¹³, Emmanuel Katamba⁴, Aishi Kileo⁴, Emmanuel V. Laswai⁴, Eric C. Legba⁵, Brandon Madriz⁸, Dickson Malulu⁴, Marilyn Manrow-Villalobos⁸, Zamira Matumbo⁴, Anna Mlaki¹⁴, Hesam Mousavi², Kalkidan Ayele Mulatu¹⁵, Sognigbé N’Danikou¹⁴, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁰, Magne Neby², An Notenbaert¹⁵, Shadrack Otieno Nyawade⁶, Christopher Ochieng Ojiewo¹⁰, Patrick Obia Ongom⁷, Colette Ouidyam Ouedraogo¹⁶, Abhishek Rathore¹⁰, Abdou Mouizz B. Salaou³, Abdul Shango¹⁴, Kalpana Sharma⁶, Milindi Sibomana¹², Amadou Sidibe⁹, Silvère Fernand Sohindji³, Svein Øivind Solberg², Jonathan Steinke¹, Dèdéou Apocalypse Tchokponhoue³, Elysé Tuyishime¹², Brayden Youngberg¹, Maarten van Zonneveld¹⁷, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
+
+¹ Bioversity International  
+² University of Inland Norway  
+³ Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi  
+⁴ Tanzania Agricultural Research Institute  
+⁵ World Vegetable Center, West and Central Africa Coastal and Humid Regions  
+⁶ International Potato Center  
+⁷ International Institute of Tropical Agriculture  
+⁸ MrBot Software Solutions  
+⁹ Programme Fruits et Légumes, Institut d’Economie Rurale  
+¹⁰ International Maize and Wheat Improvement Center  
+¹¹ Wageningen University and Research  
+¹² One Acre Fund  
+¹³ Norwegian Institute of Bioeconomy Research  
+¹⁴ World Vegetable Center, Eastern and Southern Africa  
+¹⁵ International Center for Tropical Agriculture  
+¹⁶ World Vegetable Center, West and Central Africa Drylands  
+¹⁷ World Vegetable Center  
+^(XX) Affiliations of the additional authors
 
 Draft of 4 November 2026, built on the release files of AgrDataSci/tricot-data-raw as indexed on that date. Items marked XX are placeholders to resolve before submission.
+
+# Abstract
+
+We present the largest open dataset of decentralised on-farm agricultural experiments, produced with the tricot approach (triadic comparisons of technology options) by 27 research organisations across 20 countries in Africa, Asia and Central America. The release holds 669 trial files covering 42 crops, 100,787 farmer-managed sites and 3.28 million plot-level observations, of which 2.44 million are rankings and 0.51 million are measurements, collected between 2012 and 2026. Each trial is published as one self-describing JSON file that carries its design, its sites with displaced coordinates, its observations, its genotypes and its full provenance, with producer, contributors and funder identified through persistent identifiers. Trait names are harmonised across trials and mapped to the Crop Ontology where terms exist. Researcher-managed companion data from the same genotypes, 130 on-station and mother trials, are linked to the tricot trials they complement. The data are released under CC0 1.0 on GitHub and archived on Zenodo under a permanent concept DOI. The dataset supports research on farmer preferences, genotype by environment interaction, climate adaptation, variety release and seed systems, and it is built so that people and AI agents fetch, filter and reuse it without accounts or tooling.
+
+**Keywords.** citizen science, on-farm testing, tricot approach, participatory variety evaluation, open data, FAIR data, crop improvement, seed systems
 
 # Background and summary
 
