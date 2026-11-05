@@ -1,41 +1,36 @@
-Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Legesse Abate³, Rekiya O. Abdulmalik⁴, Erna Abidin⁵, Bello Abolore⁶, Enoch G. Achigan-Dako⁷, Joseph Adonia⁸, Lys Amavi Aglinglo⁹, Amilcar Aguilar¹⁰, Stephen Angudubo¹, Elizabeth Arnaud¹, Teshale M. Assefa¹¹, Elly Ouma Atieno¹², Mathieu Ayenan⁹, Mirna Barrios¹⁰, Gareth Borman¹³, Ousmane Boukar⁶, David Brown¹⁴, Antony Bujiku⁸, Edward Carey⁵, Rachel Chase¹, Néstor Chaves¹⁵, Allan Coto¹⁶, Almendra Cremaschi¹, Harouna Coulibaly¹⁷, Roma Rani Das¹⁸, Happy Daudi⁸, Maryam Dawud¹⁹, Danfing dit Youssouf Diarra¹⁷, Aminata Dolo¹⁷, Hugo Dorado-Betancourt¹³, Gospel Edughaen⁶, James Ellison²⁰, Carlo Fadda¹, Harish Gandhi¹⁸, Sanusi Gaya Mohammed²¹, Yosef Gebrehawaryat Kidane¹, Marvin Gomez Cerna²², Arnab Gupta¹³, Mohammed Hassena Beko³, Juan Carlos Hernández²³, Aristide Carlos Houdegbe⁷, Paula Iragaba²⁴, Marit Jørgensen²⁵, Edith Kadege⁸, Sylvia Kalemera¹¹, Fadhili Kasubiri¹¹, Emmanuel Katamba⁸, Robert Kawuki^(24,26), Michael Kilango⁸, Aishi Kileo⁸, Basazen Lakew²⁷, Emmanuel V. Laswai⁸, Muhammad Lawan Umar²⁸, Eric C. Legba⁹, Brandon Madriz¹⁶, Tessy Ugo Madu²⁹, Dickson Malulu⁸, Rhys Manners⁶, Marilyn Manrow-Villalobos¹⁶, Zamira Matumbo⁸, Harriet Mawia¹⁸, Julius Mbiu⁸, Mercy Mbugua¹⁸, Thiago Mendes¹², Dejene K. Mengistu¹, Anna Mlaki³⁰, Hesam Mousavi², Mukani Moyo¹², James Mugo¹², Kalkidan Ayele Mulatu¹¹, Sognigbé N’Danikou³⁰, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁸, An Ritah Nanyonjo²⁴, Athanase Nduwumuremyi³¹, Magne Neby², An Notenbaert¹¹, Jean Claude Nshimiyimana¹², Shadrack Otieno Nyawade¹², Hyacinthe Nyirahabimana¹³, Christopher Ochieng Ojiewo¹⁸, Olamide Olaosebikan⁶, Patrick Obia Ongom⁶, Samuel Onwuka²⁹, Richard Oteng-Frimpong³², Colette Ouidyam Ouedraogo³³, Abhishek Rathore¹⁸, Juan Carlos Rosas³⁴, Placide Rukundo¹², Pieter Rutsaert¹⁸, Abdou Mouizz B. Salaou⁷, Mirjam Schaap¹³, Abdul Shango³⁰, Kalpana Sharma¹², Neeraj Sharma³⁵, Milindi Sibomana²⁰, Amadou Sidibe¹⁷, Silvère Fernand Sohindji⁷, Svein Øivind Solberg², Reuben Ssali¹², Jonathan Steinke¹, Jose Gabriel Suchini¹⁰, Dèdéou Apocalypse Tchokponhoue⁷, Béla Teeken⁶, Theophilus Kwabla Tengey³², Hale Ann Tufan¹⁴, Elysé Tuyishime²⁰, Jacob Ulzen¹, Joost van Heerwaarden¹³, Maarten van Zonneveld [CIP], Mary Yeye²⁸, Brayden Youngberg¹, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
+Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Legesse Abate³, Rekiya O. Abdulmalik⁴, Erna Abidin⁵, Bello Abolore⁶, Enoch G. Achigan-Dako⁷, Joseph Adonia⁸, Lys Amavi Aglinglo⁹, Amilcar Aguilar¹⁰, Stephen Angudubo¹, Elizabeth Arnaud¹, Teshale M. Assefa¹¹, Elly Ouma Atieno¹², Mathieu Ayenan⁹, Mirna Barrios¹⁰, Gareth Borman³, Ousmane Boukar⁶, David Brown¹³, Antony Bujiku⁸, Edward Carey⁵, Rachel Chase¹, Néstor Chaves¹⁴, Allan Coto¹⁵, Almendra Cremaschi¹, Harouna Coulibaly¹⁶, Roma Rani Das¹⁷, Happy Daudi⁸, Maryam Dawud¹⁸, Danfing dit Youssouf Diarra¹⁶, Aminata Dolo¹⁶, Hugo Dorado-Betancourt³, Gospel Edughaen⁶, James Ellison¹⁹, Carlo Fadda¹, Harish Gandhi¹⁷, Sanusi Gaya Mohammed²⁰, Yosef Gebrehawaryat Kidane¹, Marvin Gomez Cerna²¹, Arnab Gupta³, Mohammed Hassena Beko³, Juan Carlos Hernández²², Aristide Carlos Houdegbe⁷, Paula Iragaba²³, Marit Jørgensen²⁴, Edith Kadege⁸, Sylvia Kalemera¹¹, Fadhili Kasubiri¹¹, Emmanuel Katamba⁸, Robert Kawuki^(23,25), Michael Kilango⁸, Aishi Kileo⁸, Basazen Lakew²⁶, Emmanuel V. Laswai⁸, Muhammad Lawan Umar²⁷, Eric C. Legba⁹, Brandon Madriz¹⁵, Tessy Ugo Madu²⁸, Dickson Malulu⁸, Rhys Manners⁶, Marilyn Manrow-Villalobos¹⁵, Zamira Matumbo⁸, Harriet Mawia¹⁷, Julius Mbiu⁸, Mercy Mbugua¹⁷, Thiago Mendes¹², Dejene K. Mengistu¹, Anna Mlaki⁹, Hesam Mousavi², Mukani Moyo¹², James Mugo¹², Kalkidan Ayele Mulatu¹¹, Sognigbé N’Danikou⁹, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁷, An Ritah Nanyonjo²³, Athanase Nduwumuremyi²⁹, Magne Neby², An Notenbaert¹¹, Jean Claude Nshimiyimana¹², Shadrack Otieno Nyawade¹², Hyacinthe Nyirahabimana³, Christopher Ochieng Ojiewo¹⁷, Olamide Olaosebikan⁶, Patrick Obia Ongom⁶, Samuel Onwuka²⁸, Richard Oteng-Frimpong³⁰, Colette Ouidyam Ouedraogo⁹, Abhishek Rathore¹⁷, Juan Carlos Rosas³¹, Placide Rukundo¹², Pieter Rutsaert¹⁷, Abdou Mouizz B. Salaou⁷, Mirjam Schaap³, Abdul Shango⁹, Kalpana Sharma¹², Neeraj Sharma¹², Milindi Sibomana¹⁹, Amadou Sidibe¹⁶, Silvère Fernand Sohindji⁷, Svein Øivind Solberg², Reuben Ssali¹², Jonathan Steinke¹, Jose Gabriel Suchini¹⁰, Dèdéou Apocalypse Tchokponhoue⁷, Béla Teeken⁶, Theophilus Kwabla Tengey³⁰, Hale Ann Tufan¹³, Elysé Tuyishime¹⁹, Jacob Ulzen¹, Joost van Heerwaarden³, Maarten van Zonneveld¹², Mary Yeye²⁷, Brayden Youngberg¹, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
 
 ¹ Bioversity International, Rome, Italy  
 ² University of Inland Norway, Elverum, Norway  
-³ Wageningen University & Research, Wageningen, The Netherlands 
-⁴ Ahmadu Bello University, Zaria, Nigeria   
+³ Wageningen University & Research, Wageningen, The Netherlands  
+⁴ Ahmadu Bello University, Zaria, Nigeria  
 ⁵ Reputed Agriculture 4 Development Stichting and Foundation, Kumasi, Ghana  
 ⁶ International Institute of Tropical Agriculture, Ibadan, Nigeria  
-⁷ University of Abomey-Calavi, Abomey-Calavi, République du Benin
-⁸ Tanzania Agricultural Research Institute, Dodoma, Tanzania
-⁹ World Vegetable Center, Tainan, Taiwan   
+⁷ University of Abomey-Calavi, Abomey-Calavi, République du Benin  
+⁸ Tanzania Agricultural Research Institute, Dodoma, Tanzania  
+⁹ World Vegetable Center, Tainan, Taiwan  
 ¹⁰ Centro Agronómico Tropical de Investigación y Enseñanza, Turrialba, Costa Rica  
-¹¹ International Institute of Tropical Agriculture, Ibadan, Nigeria  
-¹² International Potato Center, Lima, Peru 
-¹³ Wageningen University & Research, Wageningen, The Netherlands
-¹⁴ Cornell University, Ithaca, USA
-¹⁵ Universidad de Costa Rica, San José, Costa Rica 
-¹⁶ MrBot Software Solutions, Cartago, Costa Rica
-¹⁷ Institut d’Economie Rurale, Bamako, République du Mali
-¹⁸ International Maize and Wheat Improvement Center, Texcoco, México
-¹⁹ Lake Chad Research Institute, Borno, Nigeria
-²⁰ One Acre Fund, Kakamega, Kenya
-²¹ Bayero University, Kano, Nigeria
-²² Fundación para la Investigación Participativa con Agricultores de Honduras, La Ceiba, Honduras  
-²³ Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria, San José, Costa Rica  
-²⁴ National Crop Resources Research Institute, Namulonge, Nigeria  
-²⁵ Norwegian Institute of Bioeconomy Research, Ås, Norway  
-²⁶ World Coffee Research, Portland, USA  
-²⁷ Ethiopian Biodiversity Institute, Addis Ababa, Ethiopia  
-²⁸ Institute for Agricultural Research, Kaduna, Nigeria  
-²⁹ National Crop Resources Research Institute, Namulonge, Nigeria  
-³⁰ World Vegetable Center, Tainan, Taiwan   
-³¹ Rwanda Agriculture and Animal Resources Development Board, Huye, Rwanda  
-³² Savanna Agricultural Research Institute, Tamale Ghana  
-³³ World Vegetable Center, Tainan, Taiwan   
-³⁴ Zamorano Pan-American Agricultural School, Francisco Morazán, Honduras  
-³⁵ International Potato Center, Lima, Peru 
-³⁶ World Vegetable Center, Tainan, Taiwan   
+¹¹ International Center for Tropical Agriculture, Cali, Colombia  
+¹² International Potato Center, Lima, Peru  
+¹³ Cornell University, Ithaca, USA  
+¹⁴ Universidad de Costa Rica, San José, Costa Rica  
+¹⁵ MrBot Software Solutions, Cartago, Costa Rica  
+¹⁶ Institut d’Economie Rurale, Bamako, République du Mali  
+¹⁷ International Maize and Wheat Improvement Center, Texcoco, México  
+¹⁸ Lake Chad Research Institute, Borno, Nigeria  
+¹⁹ One Acre Fund, Kakamega, Kenya  
+²⁰ Bayero University, Kano, Nigeria  
+²¹ Fundación para la Investigación Participativa con Agricultores de Honduras, La Ceiba, Honduras  
+²² Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria, San José, Costa Rica  
+²³ National Crop Resources Research Institute, Namulonge, Uganda  
+²⁴ Norwegian Institute of Bioeconomy Research, Ås, Norway  
+²⁵ World Coffee Research, Portland, USA  
+²⁶ Ethiopian Biodiversity Institute, Addis Ababa, Ethiopia  
+²⁷ Institute for Agricultural Research, Kaduna, Nigeria  
+²⁸ National Root Crops Research Institute, Umudike, Nigeria  
+²⁹ Rwanda Agriculture and Animal Resources Development Board, Huye, Rwanda  
+³⁰ Savanna Agricultural Research Institute, Tamale, Ghana  
+³¹ Zamorano Pan-American Agricultural School, Francisco Morazán, Honduras  
 ^(XX) Affiliations of the additional authors
 
 # Abstract
@@ -46,23 +41,23 @@ We present the largest open dataset of decentralised on-farm agricultural experi
 
 # Background and summary
 
-Fifteen years of on-farm trials with the tricot approach produced rankings from more than 100,000 farms on 42 crops in 20 countries, and until now none of it could be fetched, pooled or cited as one resource. The trials were run by 27 organisations under their own projects, funders and platform versions, so the same yield question was worded four ways in three languages, the same variety carried two spellings, farms were located by GPS in one file and by village name in another, and the producer of a trial was often recorded nowhere. Every tricot study published so far faced that wall and climbed it by hand, once, for its own subset^(1–4).
+For fifteen years the tricot approach has grown through partnership. National research institutes, CGIAR centres, NGOs, seed companies and universities in 20 countries ran on-farm trials with a shared method and the ClimMob platform (<https://climmob.net/>), and farmers ranked 42 crops on more than 100,000 farms. Each trial served its partner’s decision on variety release, seed system development or breeding priorities^(1–4). This release brings those trials together as one open resource for the breeding and seed system community and beyond.
 
-This release removes the wall. The dataset is reusable at this scale because every trial is published as one self-describing file that carries the credit of the organisation that produced it. That is the whole design, and it is what let 27 organisations agree to release 539 farmer-managed trials and 100,787 sites under CC0, with 130 researcher-managed companion trials on the same genotypes. Methods explains how heterogeneous sources became one schema without losing provenance or exposing farmers. Data Records describes the files and their coverage. Usage Notes explains how people and AI agents fetch the data and how credit flows back to the producers, which is the part of the design that made the release possible.
+The dataset is reusable at this scale because every trial is published as one self-describing file in a common schema, with the credit of the organisation that produced it. That design is what let 27 organisations release 539 farmer-managed trials and 100,787 sites under CC0, together with 130 researcher-managed companion trials on the same genotypes. Methods explains how trials collected in different formats and languages became one schema without losing provenance or exposing farmers. Data Records describes the files and their coverage. Usage Notes explains how people and AI agents fetch the data and how credit flows back to the producers.
 
 ![Trial sites in the dataset, by crop group. Sites of the same trial within 10 km of each other are shown as one point at the centre of their cluster, so 86,180 sites with coordinates appear as 3,337 points. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps.](trial-locations.png)
 
 Trial sites in the dataset, by crop group. Sites of the same trial within 10 km of each other are shown as one point at the centre of their cluster, so 86,180 sites with coordinates appear as 3,337 points. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps.
 
-The data come from the tricot approach, proposed in 2011 for large-scale, decentralised citizen science in agriculture^(5,6). Options from a larger pool are allocated to participants in connected incomplete blocks of three. A farmer receives three coded seed lots, grows them side by side under local management and reports which performed best and worst for each trait. Because the triads overlap, the partial rankings of many farmers form one comparison network, and the relative performance of every option is estimated with Plackett-Luce models although nobody evaluates the full set^(1,7,8). Fifteen years of trials showed that these distributed observations support inference across environments¹, predict across-season performance better than station-trained genomic models⁹, extend to consumer tests and product concepts^(10,11), and aggregate into reliable estimates although each farmer’s ranking is imperfect^(12,13). The same fifteen years are why the data were scattered. Each trial was designed, run and owned by the organisation that needed the answer, a national research institute, a CGIAR centre, an NGO, a seed company or a university, under its own project and funder, on successive versions of the ClimMob platform (<https://climmob.net/>) or in partner files^(8,14). Nobody owned the whole.
+The data come from the tricot approach, proposed in 2011 for large-scale, decentralised citizen science in agriculture^(5,6). Options from a larger pool are allocated to participants in connected incomplete blocks of three. A farmer receives three coded seed lots, grows them side by side under local management and reports which performed best and worst for each trait. Because the triads overlap, the partial rankings of many farmers form one comparison network, and the relative performance of every option is estimated with Plackett-Luce models although nobody evaluates the full set^(1,7,8). Tricot trials have shown that these distributed observations support inference across environments¹, predict across-season performance better than station-trained genomic models⁹, extend to consumer tests and product concepts^(10,11), and aggregate into reliable estimates although each farmer’s ranking is imperfect^(12,13). Each trial was designed, run and owned by the organisation that needed the answer, under its own project and funder, on successive versions of ClimMob or in partner files^(8,14). Bringing them together meant harmonising the formats, languages and conventions each partner chose for its own question, which is the work this release documents.
 
-Three features follow from the design and set the dataset apart from the trial data breeding programmes usually release. It was built from the bottom up, so the trust of the producers is written into the files. Each trial carries its producer with a ROR identifier, its principal investigator, its contributors and its funder, and credit travels with the data wherever they go. It is wide rather than deep. One trial of 150 farms says little on its own, while several hundred trials on 42 crops across 20 countries and 15 seasons let an analyst ask which varieties perform where, how preferences differ between women and men, how performance responds to climate and whether on-farm and on-station results agree. And it is FAIR in full¹⁵ for people and for AI agents alike. One index lists every trial with the path to fetch it, one JSON file per trial describes itself completely, and nothing requires an account, a token or a database client.
+Three features follow from the design and set the dataset apart from the trial data breeding programmes usually release. It was built from the bottom up, so the trust of the producers is written into the files. Each trial carries its producer with a ROR identifier, its principal investigator, its contributors and its funder, and credit travels with the data wherever they go. It is wide rather than deep. One trial of 150 farms says little on its own, while several hundred trials on 42 crops across 20 countries let an analyst ask which varieties perform where, how preferences differ between women and men, how performance responds to climate and whether on-farm and on-station results agree. And it is FAIR in full¹⁵ for people and for AI agents alike. One index lists every trial with the path to fetch it, one JSON file per trial describes itself completely, and nothing requires an account, a token or a database client.
 
 ![Cumulative growth of the farmer-managed tricot trials by start year. The area gives the cumulative number of sites (participants) of all 539 trials, 100,787 in total. For 44 trials without a start date in the index the year was taken from the project code or, for 18 trials, from the source project \[XX, confirm the 18 estimated years in `metadata/questions/`\].](tricot-sites-cumulative.png)
 
 Cumulative growth of the farmer-managed tricot trials by start year. The area gives the cumulative number of sites (participants) of all 539 trials, 100,787 in total. For 44 trials without a start date in the index the year was taken from the project code or, for 18 trials, from the source project \[XX, confirm the 18 estimated years in `metadata/questions/`\].
 
-This release is the production version of the dataset. A pilot release in 2025 tested the format on 62 trials from six African countries. The data described here replace the pilot, with a new schema, naming rule and licence, so users should work with this release and treat the pilot as superseded. It harmonises trials collected with every version of ClimMob since 2012, together with partner files and 130 researcher-managed companion trials on the same genotypes, into one schema, one naming rule and one licence, and sets the standard for future publications of tricot data from ClimMob. It is also the first release that reaches beyond Africa, to India and Central America, where tricot began.
+This release is the production version of the dataset. A pilot release in 2025 tested the format on 62 trials from six African countries, and the data described here replace it, so users should work with this release. It harmonises trials collected with every version of ClimMob since 2012 and partner files into one schema, one naming rule and one licence, and sets the standard for future publications of tricot data from ClimMob. It is also the first release that reaches beyond Africa, to India and Central America, where tricot began.
 
 # Methods
 
@@ -181,7 +176,7 @@ The data are archived on Zenodo under the concept DOI 10.5281/zenodo.17112491 an
 
 # Author contributions
 
-\[CRediT taxonomy, to complete with the final author list.\] Conceptualization, Kauê de Sousa, Jacob van Etten; data curation, Kauê de Sousa, Marie-Angélique Laporte; methodology, Kauê de Sousa, Marie-Angélique Laporte, Jacob Van Etten, Béla Teeken, Rhys Manners; software, Kauê de Sousa, Brandon Madriz, Allan Coto, Jacob van Etten; investigation and resources, all data producers; writing, original draft, Rachel Chase, Almendra Cremaschi, Kauê de Sousa; writing, review and editing, all authors; supervision and funding acquisition, Kauê de Sousa, Jacob Van Etten, Harish Gandhi, Christopher Ochieng Ojiewo, Thiago Mendes, Maarten van Zonnelveld [add more].
+\[CRediT taxonomy, to complete with the final author list.\] Conceptualization, Kauê de Sousa, Jacob van Etten; data curation, Kauê de Sousa, Marie-Angélique Laporte; methodology, Kauê de Sousa, Marie-Angélique Laporte, Jacob van Etten, Béla Teeken, Rhys Manners; software, Kauê de Sousa, Brandon Madriz, Allan Coto, Jacob van Etten; investigation and resources, all data producers; writing, original draft, Rachel Chase, Almendra Cremaschi, Kauê de Sousa; writing, review and editing, all authors; supervision and funding acquisition, Kauê de Sousa, Jacob van Etten, Harish Gandhi, Christopher Ochieng Ojiewo, Thiago Mendes, Maarten van Zonneveld \[add more\].
 
 # Competing interests
 
