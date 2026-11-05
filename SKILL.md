@@ -1,6 +1,6 @@
 ---
 name: tricot-data
-description: Use when a question asks which tricot trials exist, for which crops, countries and years, or needs the trial data itself (farmer rankings, genotypes, traits, block and plot data, Plackett-Luce estimates). Finds the right trial files, explains their structure and shows how to load and analyse them.
+description: Use when a question asks which tricot trials exist, for which crops, countries and years, or needs the trial data itself (farmer rankings, genotypes, traits, site and plot data). Finds the right trial files, explains their structure and shows how to load and analyse them.
 ---
 
 # tricot trial data
@@ -15,10 +15,10 @@ Write maniva and tricot in lowercase, always. That holds in headings, table cell
 
 | File | What it holds | When to open it |
 |---|---|---|
-| [datasets.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/datasets.csv) | One row per trial with crop, taxon, country, institute, dates, objective, participants, blocks, genotypes, collection moments, ranked traits, file name, file size and license | Always, first |
-| [metadata/data-dictionary.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/data-dictionary.csv) | Definition of every field in a trial file | When the user asks what a field means |
-| [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file | When the user wants to validate or parse files programmatically |
-| `data/<crop>-<study_id>.json` | The trial itself, raw URL `https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/data/<filename>` | Only the trials the question needs |
+| [datasets.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/datasets.csv) | One row per trial with trial id, crop, taxon, country, data producer, dates, type, objective, participants, sites, genotypes, collection moments, ranked traits, the `path` to fetch, file size and license | Always, first |
+| `data/<crop>/<crop>-<iso3>-<trial_id>.json` | The trial itself, raw URL `https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/` followed by the `path` in `datasets.csv` | Only the trials the question needs |
+
+Take the path from `datasets.csv` and never compose a file name. `metadata.variables` inside each file defines every column. `metadata/data-dictionary.csv` and `metadata/tricot-trial.schema.json` still describe schema v1.0 and are being updated, so do not rely on them for these files.
 
 ## The data are read-only
 
@@ -29,16 +29,19 @@ Your role is to help the user use the data, never to change them. Only the trico
 1. Read `datasets.csv` and answer from it whenever you can. Questions about which crops, countries, institutes, periods or traits are covered never need a trial file.
 2. Open a trial file only when the question needs its content. Check `size_mb` first. Files reach 15 MB, so open one or two, and never loop over the whole folder in a conversation.
 3. Inside a file, read `metadata` first. It names the genotypes, their roles (for example release candidate or local check), the variables and the funders.
-4. Use `rank_analysis` for quick answers on which genotype performed best for a trait. It holds Plackett-Luce log-worth estimates, with one reference genotype set to 0 and quasi standard errors for comparing any pair.
-5. For anything beyond that, give the user R code (below) rather than computing by hand. Write R with `=` for assignment.
-6. Never invent a trial, genotype, trait or number. If `datasets.csv` has nothing that fits, say so, and point to [tricot-protocols](https://github.com/AgrDataSci/tricot-protocols) or [tricot-knowledge-base](https://github.com/AgrDataSci/tricot-knowledge-base) if the question is really about methods or published results.
+4. `rank_analysis` is empty in this release. To say which genotype performed best for a trait, give the user R code (below) that fits Plackett-Luce models on the rankings in `plot_data`, rather than computing by hand. Write R with `=` for assignment.
+5. Never invent a trial, genotype, trait or number. If `datasets.csv` has nothing that fits, say so, and point to [tricot-protocols](https://github.com/AgrDataSci/tricot-protocols) or [tricot-knowledge-base](https://github.com/AgrDataSci/tricot-knowledge-base) if the question is really about methods or published results.
 
 ## Structure of a trial file
 
-- `metadata` describes the study, dates, location extent, data producer, crop, participants, funders, genotypes and variables.
-- `block_data` holds one row per participant (block), with jittered coordinates and the participant-level survey answers. Column names combine the collection moment and the variable, for example `registration_gender`.
-- `plot_data` holds one row per plot, trait and collection moment. `value` is stored as text and read according to `value_type` (rank, integer, decimal, date, datetime, text, select one, select all that apply).
-- `rank_analysis` holds the Plackett-Luce estimates per collection moment and trait.
+Every file follows release schema v2.0.
+
+- `metadata` describes the trial, its producer, contributors, crop, participants, genotypes, funders and every variable, with harmonised question ids, Crop Ontology terms, value types and units.
+- `site_data` has one row per site (the farm or household that grew a package of three genotypes), with displaced coordinates, administrative names where recorded and the participant-level answers.
+- `plot_data` is the long table of observations, one row per site, plot, collection moment and trait. `value` is stored as text and read according to `value_type` (rank, numeric, date, categorical, multiple or vs_local). Rankings are positions within the site, 1 is best.
+- `rank_analysis` is reserved for Plackett-Luce estimates and is empty in this release.
+
+Site and plot rows link through `site_id`.
 
 ## Load and model the rankings in R
 
@@ -47,14 +50,16 @@ library("jsonlite")
 library("gosset")
 library("PlackettLuce")
 
-dat = fromJSON("https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/data/potato-88f82a3f073e.json")
+base = "https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/"
+idx = read.csv(paste0(base, "datasets.csv"))
+dat = fromJSON(paste0(base, idx$path[idx$trial_id == "88f82a3f073e"]))
 
 R = dat$plot_data
 R = R[R$value_type == "rank", ]
 R$traitmoment = paste(R$collection_moment, R$trait, sep = " - ")
 
 R = lapply(split(R, R$traitmoment), function(x) {
-  rank_tricot2(data = x, items = "genotype_name", input = "value", id = "block_id")
+  rank_tricot2(data = x, items = "genotype_name", input = "value", id = "site_id")
 })
 
 mod = lapply(R, PlackettLuce)
@@ -64,8 +69,8 @@ For linking trials with climate, soil or other environmental data, and for the t
 
 ## Caveats to state
 
-- Coordinates in `block_data` are jittered to protect participants. They are fine for regional climate and soil data, not for field-level analysis.
-- Collection moments and traits keep the names used in each trial, sometimes in French or Spanish, so they differ between trials. Match them through `metadata$variables` and its `ontology_id`, not by name alone.
+- Coordinates in `site_data` are displaced to protect participants. They are fine for regional climate and soil data, not for field-level analysis.
+- Trait names are harmonised across trials, and `trait_original` keeps the label used in the trial. Match variables through `metadata$variables`, its `harmonised_id` and `ontology_id`, not by name alone.
 - Some fields are still being harmonized across partners. When a field is missing or uses another name, say so rather than guessing.
 - Data were collected by many partners for different purposes. Say which institute produced a trial when you report its results.
 
@@ -77,7 +82,7 @@ Map trial sites in the Equal Earth projection (EPSG:8857), the equal-area world 
 library("sf")
 library("ggplot2")
 
-xy = st_as_sf(dat$block_data, coords = c("longitude", "latitude"), crs = 4326, na.fail = FALSE)
+xy = st_as_sf(dat$site_data, coords = c("longitude", "latitude"), crs = 4326, na.fail = FALSE)
 
 ggplot(xy) +
   geom_sf() +
