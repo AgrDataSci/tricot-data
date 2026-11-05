@@ -1,26 +1,26 @@
-Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Legesse Abate³, Rekiya O. Abdulmalik⁴, Erna Abidin⁵, Bello Abolore⁶, Enoch G. Achigan-Dako⁷, Joseph Adonia⁸, Lys Amavi Aglinglo⁹, Amilcar Aguilar¹⁰, Stephen Angudubo¹, Elizabeth Arnaud¹, Teshale M. Assefa¹¹, Elly Ouma Atieno¹², Mathieu Ayenan⁹, Mirna Barrios¹⁰, Gareth Borman¹³, Ousmane Boukar⁶, David Brown¹⁴, Antony Bujiku⁸, Edward Carey⁵, Rachel Chase¹, Néstor Chaves¹⁵, Allan Coto¹⁶, Harouna Coulibaly¹⁷, Almendra Cremaschi¹, Roma Rani Das¹⁸, Happy Daudi⁸, Maryam Dawud¹⁹, Danfing dit Youssouf Diarra¹⁷, Aminata Dolo¹⁷, Hugo Dorado-Betancourt¹³, Gospel Edughaen⁶, James Ellison²⁰, Carlo Fadda¹, Harish Gandhi¹⁸, Sanusi Gaya Mohammed²¹, Yosef Gebrehawaryat Kidane¹, Marvin Gomez Cerna²², Arnab Gupta¹³, Mohammed Hassena Beko³, Juan Carlos Hernández²³, Aristide Carlos Houdegbe⁷, Paula Iragaba²⁴, Marit Jørgensen²⁵, Edith Kadege⁸, Sylvia Kalemera¹¹, Fadhili Kasubiri¹¹, Emmanuel Katamba⁸, Robert Kawuki^(24,26), Michael Kilango⁸, Aishi Kileo⁸, Basazen Lakew²⁷, Emmanuel V. Laswai⁸, Muhammad Lawan Umar²⁸, Eric C. Legba⁹, Brandon Madriz¹⁶, Tessy Ugo Madu²⁹, Dickson Malulu⁸, Rhys Manners⁶, Marilyn Manrow-Villalobos¹⁶, Zamira Matumbo⁸, Harriet Mawia¹⁸, Julius Mbiu⁸, Mercy Mbugua¹⁸, Thiago Mendes¹², Dejene K. Mengistu¹, Anna Mlaki³⁰, Hesam Mousavi², Mukani Moyo¹², James Mugo¹², Kalkidan Ayele Mulatu¹¹, Sognigbé N’Danikou³⁰, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁸, An Ritah Nanyonjo²⁴, Athanase Nduwumuremyi³¹, Magne Neby², An Notenbaert¹¹, Jean Claude Nshimiyimana¹², Shadrack Otieno Nyawade¹², Hyacinthe Nyirahabimana¹³, Christopher Ochieng Ojiewo¹⁸, Olamide Olaosebikan⁶, Patrick Obia Ongom⁶, Samuel Onwuka²⁹, Richard Oteng-Frimpong³², Colette Ouidyam Ouedraogo³³, Abhishek Rathore¹⁸, Juan Carlos Rosas³⁴, Placide Rukundo¹², Pieter Rutsaert¹⁸, Abdou Mouizz B. Salaou⁷, Mirjam Schaap¹³, Abdul Shango³⁰, Kalpana Sharma¹², Neeraj Sharma³⁵, Milindi Sibomana²⁰, Amadou Sidibe¹⁷, Silvère Fernand Sohindji⁷, Svein Øivind Solberg², Reuben Ssali¹², Jonathan Steinke¹, Jose Gabriel Suchini¹⁰, Dèdéou Apocalypse Tchokponhoue⁷, Béla Teeken⁶, Theophilus Kwabla Tengey³², Hale Ann Tufan¹⁴, Elysé Tuyishime²⁰, Jacob Ulzen¹, Joost van Heerwaarden¹³, Maarten van Zonneveld³⁶, Mary Yeye²⁸, Brayden Youngberg¹, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
+Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Legesse Abate³, Rekiya O. Abdulmalik⁴, Erna Abidin⁵, Bello Abolore⁶, Enoch G. Achigan-Dako⁷, Joseph Adonia⁸, Lys Amavi Aglinglo⁹, Amilcar Aguilar¹⁰, Stephen Angudubo¹, Elizabeth Arnaud¹, Teshale M. Assefa¹¹, Elly Ouma Atieno¹², Mathieu Ayenan⁹, Mirna Barrios¹⁰, Gareth Borman¹³, Ousmane Boukar⁶, David Brown¹⁴, Antony Bujiku⁸, Edward Carey⁵, Rachel Chase¹, Néstor Chaves¹⁵, Allan Coto¹⁶, Almendra Cremaschi¹, Harouna Coulibaly¹⁷, Roma Rani Das¹⁸, Happy Daudi⁸, Maryam Dawud¹⁹, Danfing dit Youssouf Diarra¹⁷, Aminata Dolo¹⁷, Hugo Dorado-Betancourt¹³, Gospel Edughaen⁶, James Ellison²⁰, Carlo Fadda¹, Harish Gandhi¹⁸, Sanusi Gaya Mohammed²¹, Yosef Gebrehawaryat Kidane¹, Marvin Gomez Cerna²², Arnab Gupta¹³, Mohammed Hassena Beko³, Juan Carlos Hernández²³, Aristide Carlos Houdegbe⁷, Paula Iragaba²⁴, Marit Jørgensen²⁵, Edith Kadege⁸, Sylvia Kalemera¹¹, Fadhili Kasubiri¹¹, Emmanuel Katamba⁸, Robert Kawuki^(24,26), Michael Kilango⁸, Aishi Kileo⁸, Basazen Lakew²⁷, Emmanuel V. Laswai⁸, Muhammad Lawan Umar²⁸, Eric C. Legba⁹, Brandon Madriz¹⁶, Tessy Ugo Madu²⁹, Dickson Malulu⁸, Rhys Manners⁶, Marilyn Manrow-Villalobos¹⁶, Zamira Matumbo⁸, Harriet Mawia¹⁸, Julius Mbiu⁸, Mercy Mbugua¹⁸, Thiago Mendes¹², Dejene K. Mengistu¹, Anna Mlaki³⁰, Hesam Mousavi², Mukani Moyo¹², James Mugo¹², Kalkidan Ayele Mulatu¹¹, Sognigbé N’Danikou³⁰, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁸, An Ritah Nanyonjo²⁴, Athanase Nduwumuremyi³¹, Magne Neby², An Notenbaert¹¹, Jean Claude Nshimiyimana¹², Shadrack Otieno Nyawade¹², Hyacinthe Nyirahabimana¹³, Christopher Ochieng Ojiewo¹⁸, Olamide Olaosebikan⁶, Patrick Obia Ongom⁶, Samuel Onwuka²⁹, Richard Oteng-Frimpong³², Colette Ouidyam Ouedraogo³³, Abhishek Rathore¹⁸, Juan Carlos Rosas³⁴, Placide Rukundo¹², Pieter Rutsaert¹⁸, Abdou Mouizz B. Salaou⁷, Mirjam Schaap¹³, Abdul Shango³⁰, Kalpana Sharma¹², Neeraj Sharma³⁵, Milindi Sibomana²⁰, Amadou Sidibe¹⁷, Silvère Fernand Sohindji⁷, Svein Øivind Solberg², Reuben Ssali¹², Jonathan Steinke¹, Jose Gabriel Suchini¹⁰, Dèdéou Apocalypse Tchokponhoue⁷, Béla Teeken⁶, Theophilus Kwabla Tengey³², Hale Ann Tufan¹⁴, Elysé Tuyishime²⁰, Jacob Ulzen¹, Joost van Heerwaarden¹³, Maarten van Zonneveld [worldveg and CIP], Mary Yeye²⁸, Brayden Youngberg¹, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
 
-¹ Bioversity International  
-² University of Inland Norway  
-³ Stichting Wageningen Research  
-⁴ Ahmadu Bello University  
-⁵ Reputed Agriculture 4 Development Stichting and Foundation  
-⁶ International Institute of Tropical Agriculture  
-⁷ Genetics, Biotechnology and Seed Science Unit (GBioS), Laboratory of Crop Production, Physiology and Plant Breeding (PAGEV), Faculty of Agricultural Sciences, University of Abomey-Calavi  
-⁸ Tanzania Agricultural Research Institute  
-⁹ World Vegetable Center, West and Central Africa Coastal and Humid Regions  
-¹⁰ Centro Agronómico Tropical de Investigación y Enseñanza  
-¹¹ International Center for Tropical Agriculture  
-¹² International Potato Center  
-¹³ Wageningen University and Research  
-¹⁴ Cornell University  
-¹⁵ Universidad de Costa Rica  
-¹⁶ MrBot Software Solutions  
-¹⁷ Programme Fruits et Légumes, Institut d’Economie Rurale  
-¹⁸ International Maize and Wheat Improvement Center  
-¹⁹ Lake Chad Research Institute  
-²⁰ One Acre Fund  
-²¹ Bayero University  
+¹ Bioversity International, Rome, Italy  
+² University of Inland Norway, Elverum, Norway  
+³ Wageningen University & Research, Wageningen, The Netherlands 
+⁴ Ahmadu Bello University, Zaria, Nigeria
+⁵ Reputed Agriculture 4 Development Stichting and Foundation, Kumasi, Ghana  
+⁶ International Institute of Tropical Agriculture, Ibadan, Nigeria  
+⁷ University of Abomey-Calavi, Abomey-Calavi, République du Benin
+⁸ Tanzania Agricultural Research Institute, Dodoma, Tanzania
+⁹ World Vegetable Center, Tainan, Taiwan
+¹⁰ Centro Agronómico Tropical de Investigación y Enseñanza, Turrialba, Costa Rica  
+¹¹ International Institute of Tropical Agriculture, Ibadan, Nigeria  
+¹² International Potato Center, Lima, Peru 
+¹³ Wageningen University & Research, Wageningen, The Netherlands
+¹⁴ Cornell University, Ithaca, USA
+¹⁵ Universidad de Costa Rica, San José, Costa Rica 
+¹⁶ MrBot Software Solutions, Cartago, Costa Rica
+¹⁷ Institut d’Economie Rurale, Bamako, République du Mali
+¹⁸ International Maize and Wheat Improvement Center, Texcoco, México
+¹⁹ Lake Chad Research Institute, Borno, Nigeria
+²⁰ One Acre Fund, Kakamega, Kenya
+²¹ Bayero University, Kano, Nigeria
 ²² Fundación para la Investigación Participativa con Agricultores de Honduras  
 ²³ Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria  
 ²⁴ National Crop Resources Research Institute  
@@ -181,7 +181,7 @@ The data are archived on Zenodo under the concept DOI 10.5281/zenodo.17112491 an
 
 # Author contributions
 
-\[CRediT taxonomy, to complete with the final author list.\] Conceptualization, K.d.S., J.v.E.; data curation, K.d.S., M.-A.L.; methodology, K.d.S., M.-A.L., A.C.; software, K.d.S., B.Y.; investigation and resources, all data producers; writing, original draft, R.C., A.C., K.d.S.; writing, review and editing, all authors; supervision and funding acquisition, J.v.E., K.d.S.
+\[CRediT taxonomy, to complete with the final author list.\] Conceptualization, Kauê de Sousa, Jacob van Etten; data curation, Kauê de Sousa, Marie-Angélique Laporte; methodology, Kauê de Sousa, Marie-Angélique Laporte, Jacob Van Etten, Béla Teeken, Rhys Manners; software, Kauê de Sousa, Brandon Madriz, Allan Coto, Jacob van Etten; investigation and resources, all data producers; writing, original draft, Rachel Chase, Almendra Cremaschi, Kauê de Sousa; writing, review and editing, all authors; supervision and funding acquisition, Kauê de Sousa, Jacob Van Etten, Harish Gandhi, Christopher Ochieng Ojiewo, Thiago Mendes, Maarten van Zonnelveld [add more].
 
 # Competing interests
 
@@ -189,7 +189,7 @@ The authors declare no competing interests.
 
 # Acknowledgements
 
-This work was supported by the Gates Foundation through 1000FARMS (INV-031561), by the Kingdom of Norway through the Global Crop Diversity Trust (BOLD Work Package 7, CONT-1773) and by the CGIAR Digital Transformation Accelerator (2026 Package of Deliverables). The trials themselves were funded by the CGIAR Research Program on Climate Change, Agriculture and Food Security, the Global Environment Facility, the Norwegian Agency for Development Cooperation, the German Federal Ministry for Economic Cooperation and Development, the Swiss Agency for Development and Cooperation, the United States Agency for International Development, the Research Council of Norway and the programmes named in each trial file. We thank the farmers who ran the trials, the field agents who collected the data, Robert Hijmans for his recommendations on the data structure, and Marcia Petraglia, Francesca Guzzo, Elena Zurli, Anastacia Safarian, Karol Araya, Luis Allen, Edith Odhiambo, Rachel Gitau, Esther Wambugu and Eszter Szarka for administrative support of the grants that led to this work.
+This work was supported by the Gates Foundation through 1000FARMS (INV-031561), by the Kingdom of Norway through the Global Crop Diversity Trust (BOLD Work Package 7, CONT-1773) and by the CGIAR Digital Transformation Accelerator (2026 Package of Deliverables). The trials themselves were funded by the CGIAR Research Program on Climate Change, Agriculture and Food Security, the Global Environment Facility, the Norwegian Agency for Development Cooperation, the German Federal Ministry for Economic Cooperation and Development, the Swiss Agency for Development and Cooperation, the United States Agency for International Development, the Research Council of Norway and the programmes named in each trial file. We thank the farmers who ran the trials, the field agents who collected the data, Robert Hijmans for his recommendations on the data structure, and Marcia Petraglia, Francesca Guzzo, Elena Zurli, Anastasia Safarian, Karol Araya, Luis Allen, Edith Odhiambo, Lazaro Tango, Brenda Atimango, Rachel Gitau, Esther Wambugu, Maria Gehring and Eszter Szarka (Alliance of Bioversity International & CIAT) for administrative support of the grants that led to this work.
 
 # References
 
