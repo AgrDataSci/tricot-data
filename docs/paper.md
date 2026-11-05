@@ -1,14 +1,14 @@
-Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Legesse Abate³, Rekiya O. Abdulmalik⁴, Erna Abidin⁵, Bello Abolore⁶, Enoch G. Achigan-Dako⁷, Joseph Adonia⁸, Lys Amavi Aglinglo⁹, Amilcar Aguilar¹⁰, Stephen Angudubo¹, Elizabeth Arnaud¹, Teshale M. Assefa¹¹, Elly Ouma Atieno¹², Mathieu Ayenan⁹, Mirna Barrios¹⁰, Gareth Borman¹³, Ousmane Boukar⁶, David Brown¹⁴, Antony Bujiku⁸, Edward Carey⁵, Rachel Chase¹, Néstor Chaves¹⁵, Allan Coto¹⁶, Almendra Cremaschi¹, Harouna Coulibaly¹⁷, Roma Rani Das¹⁸, Happy Daudi⁸, Maryam Dawud¹⁹, Danfing dit Youssouf Diarra¹⁷, Aminata Dolo¹⁷, Hugo Dorado-Betancourt¹³, Gospel Edughaen⁶, James Ellison²⁰, Carlo Fadda¹, Harish Gandhi¹⁸, Sanusi Gaya Mohammed²¹, Yosef Gebrehawaryat Kidane¹, Marvin Gomez Cerna²², Arnab Gupta¹³, Mohammed Hassena Beko³, Juan Carlos Hernández²³, Aristide Carlos Houdegbe⁷, Paula Iragaba²⁴, Marit Jørgensen²⁵, Edith Kadege⁸, Sylvia Kalemera¹¹, Fadhili Kasubiri¹¹, Emmanuel Katamba⁸, Robert Kawuki^(24,26), Michael Kilango⁸, Aishi Kileo⁸, Basazen Lakew²⁷, Emmanuel V. Laswai⁸, Muhammad Lawan Umar²⁸, Eric C. Legba⁹, Brandon Madriz¹⁶, Tessy Ugo Madu²⁹, Dickson Malulu⁸, Rhys Manners⁶, Marilyn Manrow-Villalobos¹⁶, Zamira Matumbo⁸, Harriet Mawia¹⁸, Julius Mbiu⁸, Mercy Mbugua¹⁸, Thiago Mendes¹², Dejene K. Mengistu¹, Anna Mlaki³⁰, Hesam Mousavi², Mukani Moyo¹², James Mugo¹², Kalkidan Ayele Mulatu¹¹, Sognigbé N’Danikou³⁰, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁸, An Ritah Nanyonjo²⁴, Athanase Nduwumuremyi³¹, Magne Neby², An Notenbaert¹¹, Jean Claude Nshimiyimana¹², Shadrack Otieno Nyawade¹², Hyacinthe Nyirahabimana¹³, Christopher Ochieng Ojiewo¹⁸, Olamide Olaosebikan⁶, Patrick Obia Ongom⁶, Samuel Onwuka²⁹, Richard Oteng-Frimpong³², Colette Ouidyam Ouedraogo³³, Abhishek Rathore¹⁸, Juan Carlos Rosas³⁴, Placide Rukundo¹², Pieter Rutsaert¹⁸, Abdou Mouizz B. Salaou⁷, Mirjam Schaap¹³, Abdul Shango³⁰, Kalpana Sharma¹², Neeraj Sharma³⁵, Milindi Sibomana²⁰, Amadou Sidibe¹⁷, Silvère Fernand Sohindji⁷, Svein Øivind Solberg², Reuben Ssali¹², Jonathan Steinke¹, Jose Gabriel Suchini¹⁰, Dèdéou Apocalypse Tchokponhoue⁷, Béla Teeken⁶, Theophilus Kwabla Tengey³², Hale Ann Tufan¹⁴, Elysé Tuyishime²⁰, Jacob Ulzen¹, Joost van Heerwaarden¹³, Maarten van Zonneveld [worldveg and CIP], Mary Yeye²⁸, Brayden Youngberg¹, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
+Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Legesse Abate³, Rekiya O. Abdulmalik⁴, Erna Abidin⁵, Bello Abolore⁶, Enoch G. Achigan-Dako⁷, Joseph Adonia⁸, Lys Amavi Aglinglo⁹, Amilcar Aguilar¹⁰, Stephen Angudubo¹, Elizabeth Arnaud¹, Teshale M. Assefa¹¹, Elly Ouma Atieno¹², Mathieu Ayenan⁹, Mirna Barrios¹⁰, Gareth Borman¹³, Ousmane Boukar⁶, David Brown¹⁴, Antony Bujiku⁸, Edward Carey⁵, Rachel Chase¹, Néstor Chaves¹⁵, Allan Coto¹⁶, Almendra Cremaschi¹, Harouna Coulibaly¹⁷, Roma Rani Das¹⁸, Happy Daudi⁸, Maryam Dawud¹⁹, Danfing dit Youssouf Diarra¹⁷, Aminata Dolo¹⁷, Hugo Dorado-Betancourt¹³, Gospel Edughaen⁶, James Ellison²⁰, Carlo Fadda¹, Harish Gandhi¹⁸, Sanusi Gaya Mohammed²¹, Yosef Gebrehawaryat Kidane¹, Marvin Gomez Cerna²², Arnab Gupta¹³, Mohammed Hassena Beko³, Juan Carlos Hernández²³, Aristide Carlos Houdegbe⁷, Paula Iragaba²⁴, Marit Jørgensen²⁵, Edith Kadege⁸, Sylvia Kalemera¹¹, Fadhili Kasubiri¹¹, Emmanuel Katamba⁸, Robert Kawuki^(24,26), Michael Kilango⁸, Aishi Kileo⁸, Basazen Lakew²⁷, Emmanuel V. Laswai⁸, Muhammad Lawan Umar²⁸, Eric C. Legba⁹, Brandon Madriz¹⁶, Tessy Ugo Madu²⁹, Dickson Malulu⁸, Rhys Manners⁶, Marilyn Manrow-Villalobos¹⁶, Zamira Matumbo⁸, Harriet Mawia¹⁸, Julius Mbiu⁸, Mercy Mbugua¹⁸, Thiago Mendes¹², Dejene K. Mengistu¹, Anna Mlaki³⁰, Hesam Mousavi², Mukani Moyo¹², James Mugo¹², Kalkidan Ayele Mulatu¹¹, Sognigbé N’Danikou³⁰, Mabel Nabateregga², Ganga Rao V. P. R. Nadigatla¹⁸, An Ritah Nanyonjo²⁴, Athanase Nduwumuremyi³¹, Magne Neby², An Notenbaert¹¹, Jean Claude Nshimiyimana¹², Shadrack Otieno Nyawade¹², Hyacinthe Nyirahabimana¹³, Christopher Ochieng Ojiewo¹⁸, Olamide Olaosebikan⁶, Patrick Obia Ongom⁶, Samuel Onwuka²⁹, Richard Oteng-Frimpong³², Colette Ouidyam Ouedraogo³³, Abhishek Rathore¹⁸, Juan Carlos Rosas³⁴, Placide Rukundo¹², Pieter Rutsaert¹⁸, Abdou Mouizz B. Salaou⁷, Mirjam Schaap¹³, Abdul Shango³⁰, Kalpana Sharma¹², Neeraj Sharma³⁵, Milindi Sibomana²⁰, Amadou Sidibe¹⁷, Silvère Fernand Sohindji⁷, Svein Øivind Solberg², Reuben Ssali¹², Jonathan Steinke¹, Jose Gabriel Suchini¹⁰, Dèdéou Apocalypse Tchokponhoue⁷, Béla Teeken⁶, Theophilus Kwabla Tengey³², Hale Ann Tufan¹⁴, Elysé Tuyishime²⁰, Jacob Ulzen¹, Joost van Heerwaarden¹³, Maarten van Zonneveld [CIP], Mary Yeye²⁸, Brayden Youngberg¹, \[additional authors from the data producers of every trial file, to be confirmed before submission\]^(XX), Jacob van Etten¹
 
 ¹ Bioversity International, Rome, Italy  
 ² University of Inland Norway, Elverum, Norway  
 ³ Wageningen University & Research, Wageningen, The Netherlands 
-⁴ Ahmadu Bello University, Zaria, Nigeria
+⁴ Ahmadu Bello University, Zaria, Nigeria   
 ⁵ Reputed Agriculture 4 Development Stichting and Foundation, Kumasi, Ghana  
 ⁶ International Institute of Tropical Agriculture, Ibadan, Nigeria  
 ⁷ University of Abomey-Calavi, Abomey-Calavi, République du Benin
 ⁸ Tanzania Agricultural Research Institute, Dodoma, Tanzania
-⁹ World Vegetable Center, Tainan, Taiwan
+⁹ World Vegetable Center, Tainan, Taiwan   
 ¹⁰ Centro Agronómico Tropical de Investigación y Enseñanza, Turrialba, Costa Rica  
 ¹¹ International Institute of Tropical Agriculture, Ibadan, Nigeria  
 ¹² International Potato Center, Lima, Peru 
@@ -21,21 +21,21 @@ Kauê de Sousa^(1,2), Marie-Angélique Laporte¹, Legesse Abate³, Rekiya O. Abd
 ¹⁹ Lake Chad Research Institute, Borno, Nigeria
 ²⁰ One Acre Fund, Kakamega, Kenya
 ²¹ Bayero University, Kano, Nigeria
-²² Fundación para la Investigación Participativa con Agricultores de Honduras  
-²³ Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria  
-²⁴ National Crop Resources Research Institute  
-²⁵ Norwegian Institute of Bioeconomy Research  
-²⁶ World Coffee Research  
-²⁷ Ethiopian Biodiversity Institute  
-²⁸ Institute for Agricultural Research  
-²⁹ National Root Crops Research Institute  
-³⁰ World Vegetable Center, Eastern and Southern Africa  
-³¹ Rwanda Agriculture and Animal Resources Development Board  
-³² Savanna Agricultural Research Institute  
-³³ World Vegetable Center, West and Central Africa Drylands  
-³⁴ Zamorano University  
-³⁵ Tuberosum Technologies Inc  
-³⁶ World Vegetable Center  
+²² Fundación para la Investigación Participativa con Agricultores de Honduras, La Ceiba, Honduras  
+²³ Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria, San José, Costa Rica  
+²⁴ National Crop Resources Research Institute, Namulonge, Nigeria  
+²⁵ Norwegian Institute of Bioeconomy Research, Ås, Norway  
+²⁶ World Coffee Research, Portland, USA  
+²⁷ Ethiopian Biodiversity Institute, Addis Ababa, Ethiopia  
+²⁸ Institute for Agricultural Research, Kaduna, Nigeria  
+²⁹ National Crop Resources Research Institute, Namulonge, Nigeria  
+³⁰ World Vegetable Center, Tainan, Taiwan   
+³¹ Rwanda Agriculture and Animal Resources Development Board, Huye, Rwanda  
+³² Savanna Agricultural Research Institute, Tamale Ghana  
+³³ World Vegetable Center, Tainan, Taiwan   
+³⁴ Zamorano Pan-American Agricultural School, Francisco Morazán, Honduras  
+³⁵ International Potato Center, Lima, Peru 
+³⁶ World Vegetable Center, Tainan, Taiwan   
 ^(XX) Affiliations of the additional authors
 
 # Abstract
