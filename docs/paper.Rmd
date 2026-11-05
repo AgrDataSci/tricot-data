@@ -65,7 +65,7 @@ Fifteen years of on-farm trials with the tricot approach produced rankings from 
 
 This release removes the wall. The dataset is reusable at this scale because every trial is published as one self-describing file that carries the credit of the organisation that produced it. That is the whole design, and it is what let 27 organisations agree to release 539 farmer-managed trials and 100,787 sites under CC0, with 130 researcher-managed companion trials on the same genotypes. Methods explains how heterogeneous sources became one schema without losing provenance or exposing farmers. Data Records describes the files and their coverage. Usage Notes explains how people and AI agents fetch the data and how credit flows back to the producers, which is the part of the design that made the release possible.
 
-```{r map, echo = FALSE, out.width = "100%", fig.cap = "Trial sites in the dataset, by crop group. Each point is one site after displacement within 1,500 m. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps."}
+```{r map, echo = FALSE, out.width = "100%", fig.cap = "Trial sites in the dataset, by crop group. Sites of the same trial within 10 km of each other are shown as one point at the centre of their cluster, so 86,180 sites with coordinates appear as 3,337 points. Equal Earth projection, EPSG:8857. Administrative boundaries from Natural Earth. The authors remain neutral with regard to jurisdictional claims in maps."}
 knitr::include_graphics("trial-locations.png")
 ```
 
