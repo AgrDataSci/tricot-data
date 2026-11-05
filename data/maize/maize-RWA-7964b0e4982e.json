@@ -4,7 +4,7 @@
     "changelog": {
       "version": "2.0.0-draft",
       "date": "2026-11-04",
-      "notes": "Schema 2.0. Block renamed to site. Harmonised variable names, units and English descriptions. Country and crop added to site data. Administrative names kept as adm1 to adm3. Coordinates checked against country borders. rank_analysis left empty, to be filled by the data managers. Genotype spellings merged:  CZH15185 -> CZH15185;  CZH15346 -> CZH15346;  H 6213 -> H 6213;  H 628 -> H 628;  H 629 -> H 629;  RHH 1601 -> RHH 1601;  RHH 1611 -> RHH 1611;  SC 555 -> SC 555;  SC 657 -> SC 657;  WH 508 -> WH 508;  WH 605 -> WH 605",
+      "notes": "Schema 2.0. Block renamed to site. Harmonised variable names, units and English descriptions. Country and crop added to site data. Administrative names kept as adm1 to adm3. Coordinates checked against country borders. Genotype spellings merged:  CZH15185 -> CZH15185;  CZH15346 -> CZH15346;  H 6213 -> H 6213;  H 628 -> H 628;  H 629 -> H 629;  RHH 1601 -> RHH 1601;  RHH 1611 -> RHH 1611;  SC 555 -> SC 555;  SC 657 -> SC 657;  WH 508 -> WH 508;  WH 605 -> WH 605",
       "software": {
         "python": "3",
         "script": "script/v2-export/v3_export.py"
@@ -164354,6 +164354,5 @@
       "unit": null,
       "flag": null
     }
-  ],
-  "rank_analysis": []
+  ]
 }

@@ -27,12 +27,13 @@ The current release holds 64 trials and 18,570 sites across 14 crops in 7 countr
 
 ## Data structure
 
-Each trial is one JSON file at `data/<crop>/<crop>-<iso3>-<trial_id>.json`, for example `data/potato/potato-NGA-88f82a3f073e.json`. The trial id comes from ClimMob and is the only identity of a trial. Crop and country in the name make a folder easy to scan. Every file follows release schema v2.0 and has four parts.
+Each trial is one JSON file at `data/<crop>/<crop>-<iso3>-<trial_id>.json`, for example `data/potato/potato-NGA-88f82a3f073e.json`. The trial id comes from ClimMob and is the only identity of a trial. Crop and country in the name make a folder easy to scan. Every file follows release schema v2.0 and has three parts.
 
 - **metadata** describes the trial, its producer, contributors, crop, participants, genotypes, funders and every variable in the file.
 - **site_data** has one row per site, the farm or household where a package of three genotypes was grown, with displaced coordinates, administrative names (region, district, village) where recorded, planting dates and participant-level answers.
 - **plot_data** is the long table of observations, one row per site, plot, collection moment and trait. Values are stored as text and read according to `value_type` (rank, numeric, date, categorical, multiple, or vs_local for the comparison with the farmer's own variety), with the `unit` where one applies.
-- **rank_analysis** is reserved for Plackett-Luce estimates fitted by the data managers. It is empty in this release, and the rankings to fit them are in `plot_data`.
+
+The files hold observations only. Model results such as Plackett-Luce estimates are not part of the release; fit them from the rankings in `plot_data` (see `SKILL.md`).
 
 Site and plot rows link through `site_id`. `metadata.variables` lists every column of `site_data` and `plot_data` with its description, harmonised question id, Crop Ontology term, value type and unit. Rankings are the position of each genotype within its site, where 1 is best. Trait names are harmonised across trials, and `trait_original` keeps the label used in the trial.
 
@@ -76,7 +77,6 @@ Site and plot rows link through `site_id`. `metadata.variables` lists every colu
 │   ├── collection_moment, moment_days
 │   ├── trait, trait_id, trait_original
 │   ├── value, value_type, unit, flag
-├── rank_analysis                           empty in this release
 ```
 
 [`metadata/tricot-trial.schema.json`](metadata/tricot-trial.schema.json) and [`metadata/data-dictionary.csv`](metadata/data-dictionary.csv) still describe schema v1.0 and are being updated to v2.0. Until then, `metadata.variables` inside each file is the reference for its columns.

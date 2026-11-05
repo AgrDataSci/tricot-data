@@ -4,7 +4,7 @@
   "title": "tricot trial file",
   "description": "One tricot trial, as published in data/<crop>-<study_id>.json. Field definitions are in metadata/data-dictionary.csv.",
   "type": "object",
-  "required": ["metadata", "block_data", "plot_data", "rank_analysis"],
+  "required": ["metadata", "block_data", "plot_data"],
   "additionalProperties": false,
   "properties": {
     "metadata": { "$ref": "#/$defs/metadata" },
@@ -37,23 +37,6 @@
           "trait": { "type": "string" },
           "value": { "type": ["string", "number", "null"] },
           "value_type": { "$ref": "#/$defs/value_type" }
-        }
-      }
-    },
-    "rank_analysis": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": ["collection_moment", "trait", "genotype_name", "estimate", "SE", "quasiSE", "quasiVar"],
-        "additionalProperties": false,
-        "properties": {
-          "collection_moment": { "type": "string" },
-          "trait": { "type": "string" },
-          "genotype_name": { "type": "string" },
-          "estimate": { "type": "number" },
-          "SE": { "type": "number" },
-          "quasiSE": { "type": "number" },
-          "quasiVar": { "type": "number" }
         }
       }
     }

@@ -8,7 +8,7 @@ To be released with the next batch of trials.
 - Files now live at `data/<crop>/<crop>-<iso3>-<trial_id>.json`, one folder per crop. `datasets.csv` gives the `path` of each file, keyed by `trial_id`.
 - `block_data` is renamed `site_data` and gains country, crop and administrative names (region, district, village) where recorded. `plot_data` gains `moment_days`, harmonised trait names and ids, `trait_original`, `unit` and `flag`. `metadata.variables` now gives the harmonised question id, Crop Ontology term, value type and unit of every column.
 - The wheat trial is now filed under `breadwheat`, matching the crop list used across the dataset.
-- `rank_analysis` is empty in schema v2.0 and will be refitted by the data managers. The rankings are unchanged in `plot_data`.
+- `rank_analysis` is removed. The files hold observations only, and model results are left to the analyses that use them. The rankings are unchanged in `plot_data`.
 - `metadata/tricot-trial.schema.json` and `metadata/data-dictionary.csv` still describe schema v1.0 and will be updated to v2.0 before the release.
 - License changed from CC BY-SA 4.0 to CC0 1.0 (public domain). The export scripts now write the CC0 license into each trial file.
 - The dataset index moved from `data/aa-available-datasets.csv` to `datasets.csv`. It is rebuilt from the trial files by `script/helper/helper-05-build-dataset-index.R`, uses ISO dates, and adds end date, objective, number of blocks and genotypes, collection moments, ranked traits, file size and license.

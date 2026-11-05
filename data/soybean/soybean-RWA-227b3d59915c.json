@@ -4,7 +4,7 @@
     "changelog": {
       "version": "2.0.0-draft",
       "date": "2026-11-04",
-      "notes": "Schema 2.0. Block renamed to site. Harmonised variable names, units and English descriptions. Country and crop added to site data. Administrative names kept as adm1 to adm3. Coordinates checked against country borders. rank_analysis left empty, to be filled by the data managers. Genotype spellings merged:  Peka 6 -> Peka 6;  RWASOY 20-1 -> RWASOY 20-1;  RWASOY 20-2 -> RWASOY 20-2;  RWASOY 20-3 -> RWASOY 20-3;  RWASOY 20-4 -> RWASOY 20-4;  RWASOY 20-5 -> RWASOY 20-5;  RWASOY 20-6 -> RWASOY 20-6;  RWASOY 20-7 -> RWASOY 20-7;  RWASOY 20-8 -> RWASOY 20-8;  SC Saga -> SC Saga;  SC Squire -> SC Squire;  TGX 1987- 62F -> TGX 1987- 62F;  TGX 2001-20DM -> TGX 2001-20DM;  TGX 2014-19FM -> TGX 2014-19FM;  Tikolore -> Tikolore",
+      "notes": "Schema 2.0. Block renamed to site. Harmonised variable names, units and English descriptions. Country and crop added to site data. Administrative names kept as adm1 to adm3. Coordinates checked against country borders. Genotype spellings merged:  Peka 6 -> Peka 6;  RWASOY 20-1 -> RWASOY 20-1;  RWASOY 20-2 -> RWASOY 20-2;  RWASOY 20-3 -> RWASOY 20-3;  RWASOY 20-4 -> RWASOY 20-4;  RWASOY 20-5 -> RWASOY 20-5;  RWASOY 20-6 -> RWASOY 20-6;  RWASOY 20-7 -> RWASOY 20-7;  RWASOY 20-8 -> RWASOY 20-8;  SC Saga -> SC Saga;  SC Squire -> SC Squire;  TGX 1987- 62F -> TGX 1987- 62F;  TGX 2001-20DM -> TGX 2001-20DM;  TGX 2014-19FM -> TGX 2014-19FM;  Tikolore -> Tikolore",
       "software": {
         "python": "3",
         "script": "script/v2-export/v3_export.py"
@@ -58770,6 +58770,5 @@
       "unit": null,
       "flag": null
     }
-  ],
-  "rank_analysis": []
+  ]
 }
