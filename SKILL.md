@@ -7,6 +7,10 @@ description: Use when a question asks which tricot trials exist, for which crops
 
 Harmonized data from tricot on-farm trials, one JSON file per trial, archived on Zenodo with the concept DOI https://doi.org/10.5281/zenodo.17112491. This is the data layer of the [maniva](https://github.com/AgrDataSci/maniva), the AI-ready documentation for tricot.
 
+## Names
+
+Write maniva and tricot in lowercase, always. That holds in headings, table cells, lists and at the start of a sentence, so never write "Maniva" or "Tricot". tricot stands for triadic comparison of technology options. Quote published titles exactly as printed, even where they capitalise tricot or expand it as "triadic comparisons of technologies".
+
 ## Files
 
 | File | What it holds | When to open it |
