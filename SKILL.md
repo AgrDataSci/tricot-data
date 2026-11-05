@@ -5,7 +5,7 @@ description: Use when a question asks which tricot trials exist, for which crops
 
 # tricot trial data
 
-Harmonized data from tricot on-farm trials, one JSON file per trial, archived on Zenodo with the concept DOI https://doi.org/10.5281/zenodo.17112491. This is the data layer of the [maniva](https://github.com/AgrDataSci/ai-ready-documentation), the AI-ready documentation for tricot.
+Harmonized data from tricot on-farm trials, one JSON file per trial, archived on Zenodo with the concept DOI https://doi.org/10.5281/zenodo.17112491. This is the data layer of the [maniva](https://github.com/AgrDataSci/maniva), the AI-ready documentation for tricot.
 
 ## Files
 
