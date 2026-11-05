@@ -29,7 +29,7 @@ Your role is to help the user use the data, never to change them. Only the trico
 1. Read `datasets.csv` and answer from it whenever you can. Questions about which crops, countries, institutes, periods or traits are covered never need a trial file.
 2. Open a trial file only when the question needs its content. Check `size_mb` first. Files reach 15 MB, so open one or two, and never loop over the whole folder in a conversation.
 3. Inside a file, read `metadata` first. It names the genotypes, their roles (for example release candidate or local check), the variables and the funders.
-4. `rank_analysis` is empty in this release. To say which genotype performed best for a trait, give the user R code (below) that fits Plackett-Luce models on the rankings in `plot_data`, rather than computing by hand. Write R with `=` for assignment.
+4. The files hold observations only, with no model results. To say which genotype performed best for a trait, give the user R code (below) that fits Plackett-Luce models on the rankings in `plot_data`, rather than computing by hand. Write R with `=` for assignment.
 5. Never invent a trial, genotype, trait or number. If `datasets.csv` has nothing that fits, say so, and point to [tricot-protocols](https://github.com/AgrDataSci/tricot-protocols) or [tricot-knowledge-base](https://github.com/AgrDataSci/tricot-knowledge-base) if the question is really about methods or published results.
 
 ## Structure of a trial file
@@ -39,7 +39,6 @@ Every file follows release schema v2.0.
 - `metadata` describes the trial, its producer, contributors, crop, participants, genotypes, funders and every variable, with harmonised question ids, Crop Ontology terms, value types and units.
 - `site_data` has one row per site (the farm or household that grew a package of three genotypes), with displaced coordinates, administrative names where recorded and the participant-level answers.
 - `plot_data` is the long table of observations, one row per site, plot, collection moment and trait. `value` is stored as text and read according to `value_type` (rank, numeric, date, categorical, multiple or vs_local). Rankings are positions within the site, 1 is best.
-- `rank_analysis` is reserved for Plackett-Luce estimates and is empty in this release.
 
 Site and plot rows link through `site_id`.
 
