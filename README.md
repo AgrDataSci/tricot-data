@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-CC0%201.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!-- badges: end --> 
 
-<a href="https://github.com/AgrDataSci/ai-ready-documentation"><img src="docs/maniva-logo.svg" alt="Part of Maniva" height="64" align="right"></a>
+<a href="https://github.com/AgrDataSci/ai-ready-documentation"><img src="docs/maniva-logo.svg" alt="Part of maniva" height="64" align="right"></a>
 
 # Global multi-crop agricultural trial data supported by citizen science
 
@@ -79,7 +79,7 @@ Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-diction
 
 ## Use with AI assistants
 
-This repository is the data layer of the [Maniva](https://github.com/AgrDataSci/ai-ready-documentation), the AI-ready documentation for tricot. Share that link with an AI assistant to reach the data together with the published evidence, protocols and analytical approaches, or use [`SKILL.md`](SKILL.md) on its own.
+This repository is the data layer of the [maniva](https://github.com/AgrDataSci/ai-ready-documentation), the AI-ready documentation for tricot. Share that link with an AI assistant to reach the data together with the published evidence, protocols and analytical approaches, or use [`SKILL.md`](SKILL.md) on its own.
 
 ## Using the ranking data
 This repository provides tricot on-farm ranking data in JSON. The plot_data table stores one row per plot evaluation (e.g., block_id, genotype_name, collection_moment, trait, value, value_type). To analyze rankings, filter rows to value_type == "rank", convert to sparse rankings with rank_tricot2(), and fit Plackett–Luce models.

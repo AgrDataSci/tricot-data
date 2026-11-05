@@ -5,7 +5,7 @@ description: Use when a question asks which tricot trials exist, for which crops
 
 # tricot trial data
 
-Harmonized data from tricot on-farm trials, one JSON file per trial, archived on Zenodo with the concept DOI https://doi.org/10.5281/zenodo.17112491. This is the data layer of the [Maniva](https://github.com/AgrDataSci/ai-ready-documentation), the AI-ready documentation for tricot.
+Harmonized data from tricot on-farm trials, one JSON file per trial, archived on Zenodo with the concept DOI https://doi.org/10.5281/zenodo.17112491. This is the data layer of the [maniva](https://github.com/AgrDataSci/ai-ready-documentation), the AI-ready documentation for tricot.
 
 ## Files
 
@@ -67,7 +67,7 @@ For linking trials with climate, soil or other environmental data, and for the t
 
 ## Maps
 
-Map trial sites in the Equal Earth projection (EPSG:8857), the equal-area world map the UN General Assembly endorsed in September 2026 and the standard across the Maniva suite. The coordinates in the files stay in WGS84 (EPSG:4326); project only to draw.
+Map trial sites in the Equal Earth projection (EPSG:8857), the equal-area world map the UN General Assembly endorsed in September 2026 and the standard across the maniva suite. The coordinates in the files stay in WGS84 (EPSG:4326); project only to draw.
 
 ```r
 library("sf")
