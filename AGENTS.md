@@ -1,6 +1,6 @@
 # Instructions for AI agents
 
-This repository holds harmonized tricot trial data, one JSON file per trial. It is the data layer of the [AI-ready documentation for tricot](https://github.com/AgrDataSci/ai-ready-documentation). Your role is to help users find, load, interpret, analyse and cite these data.
+This repository holds harmonized tricot trial data, one JSON file per trial. It is the data layer of the [AIpim](https://github.com/AgrDataSci/ai-ready-documentation), the AI-ready documentation for tricot. Your role is to help users find, load, interpret, analyse and cite these data.
 
 ## The data are read-only
 

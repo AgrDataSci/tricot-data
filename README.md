@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/license-CC0%201.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!-- badges: end --> 
 
+<a href="https://github.com/AgrDataSci/ai-ready-documentation"><img src="docs/aipim-logo.svg" alt="Part of AIpim" height="64" align="right"></a>
+
 # Global multi-crop agricultural trial data supported by citizen science
 
 The [triadic comparison of technologies (tricot)](https://doi.org/10.1007/s13593-023-00937-1) is a citizen science approach for testing technology options in their target environments, which has been applied to on-farm testing of crop varieties. ‘Triadic’ refers to the sets of three technology options that are compared by each participant. In the approach, participants are invited to test an anonymous set of three technologies (out of a larger number, generally between 5 to 20) randomly assigned. Between 2011 and 2025 the tricot approach was applied in more than 25 countries across Africa, Asia, Europe and Latin America with more than 30 crops.
@@ -77,7 +79,7 @@ Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-diction
 
 ## Use with AI assistants
 
-This repository is the data layer of the [AI-ready documentation for tricot](https://github.com/AgrDataSci/ai-ready-documentation). Share that link with an AI assistant to reach the data together with the published evidence, protocols and analytical approaches, or use [`SKILL.md`](SKILL.md) on its own.
+This repository is the data layer of the [AIpim](https://github.com/AgrDataSci/ai-ready-documentation), the AI-ready documentation for tricot. Share that link with an AI assistant to reach the data together with the published evidence, protocols and analytical approaches, or use [`SKILL.md`](SKILL.md) on its own.
 
 ## Using the ranking data
 This repository provides tricot on-farm ranking data in JSON. The plot_data table stores one row per plot evaluation (e.g., block_id, genotype_name, collection_moment, trait, value, value_type). To analyze rankings, filter rows to value_type == "rank", convert to sparse rankings with rank_tricot2(), and fit Plackett–Luce models.
