@@ -1,6 +1,6 @@
 # tricot trial data
 
-> Harmonized data from tricot on-farm trials, one JSON file per trial, with farmer rankings, genotypes, traits, block and plot data and Plackett-Luce estimates. Archived on Zenodo, https://doi.org/10.5281/zenodo.17112491. Data layer of the AgrDataSci AI-ready documentation for tricot.
+> Harmonized data from tricot on-farm trials, one JSON file per trial, with farmer rankings, genotypes, traits, block and plot data and Plackett-Luce estimates. Archived on Zenodo, https://doi.org/10.5281/zenodo.17112491. Data layer of maniva, the AgrDataSci AI-ready documentation for tricot.
 
 Read SKILL.md before answering, and start every question from datasets.csv. The data are read-only. Only the tricot data managers change this repository, and errors are reported as GitHub issues.
 
@@ -15,5 +15,5 @@ Read SKILL.md before answering, and start every question from datasets.csv. The 
 
 ## Related layers
 
-- [ai-ready-documentation](https://raw.githubusercontent.com/AgrDataSci/ai-ready-documentation/main/SKILL.md): entry point to all layers
+- [maniva](https://raw.githubusercontent.com/AgrDataSci/maniva/main/SKILL.md): entry point to all layers
 - [tricot-analysis-workflows](https://raw.githubusercontent.com/AgrDataSci/tricot-analysis-workflows/main/AGENTS.md): how the team analyses these data
