@@ -7,7 +7,7 @@ This guide is for the tricot data managers only. Users and their AI assistants s
 1. Never edit the files in `data/` by hand. They are written by the scripts in `script/`, from raw files that are not committed (`raw/` is ignored).
 2. Run scripts from the project root, export scripts first and helpers after, as listed in `script/README.md`. Write R with `=` for assignment.
 3. After any export, run `script/helper/helper-05-build-dataset-index.R` to rebuild `datasets.csv`, then `script/helper/helper-06-validate-trial-files.R` to check every file against `metadata/tricot-trial.schema.json`. Fix the export, not the file, until every file passes.
-4. Never commit personal data. Coordinates must be jittered with `ClimMobTools::rmGeoIdentity()`, and names, phone numbers and other identifiers must stay out of `block_data`.
+4. Never commit personal data. Coordinates must be jittered with `ClimMobTools::rmGeoIdentity()`, and names, phone numbers and other identifiers must stay out of `site_data`.
 
 ## Releasing
 

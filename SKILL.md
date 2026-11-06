@@ -16,9 +16,11 @@ Write maniva and tricot in lowercase, always. That holds in headings, table cell
 | File | What it holds | When to open it |
 |---|---|---|
 | [datasets.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/datasets.csv) | One row per trial with trial id, crop, taxon, country, data producer, dates, type, objective, participants, sites, genotypes, collection moments, ranked traits, the `path` to fetch, file size and license | Always, first |
+| [metadata/data-dictionary.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/data-dictionary.csv) | Definition of every field in a trial file | When the user asks what a field means |
+| [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file, release schema v2.0 | When the user wants to validate or parse files programmatically |
 | `data/<crop>/<crop>-<iso3>-<trial_id>.json` | The trial itself, raw URL `https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/` followed by the `path` in `datasets.csv` | Only the trials the question needs |
 
-Take the path from `datasets.csv` and never compose a file name. `metadata.variables` inside each file defines every column. `metadata/data-dictionary.csv` and `metadata/tricot-trial.schema.json` still describe schema v1.0 and are being updated, so do not rely on them for these files.
+Take the path from `datasets.csv` and never compose a file name. `metadata.variables` inside each file defines every column.
 
 ## The data are read-only
 
