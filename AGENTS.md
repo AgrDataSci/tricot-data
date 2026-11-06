@@ -9,7 +9,7 @@ Only the tricot data managers change this repository. Never modify, regenerate, 
 ## Answering questions
 
 1. Read `SKILL.md` first. Start every question from `datasets.csv`, and open trial files in `data/` only when the question needs them, through the `path` column.
-2. Use `metadata.variables` inside each trial file for field definitions. Never guess what a field means.
+2. Use `metadata/data-dictionary.csv` and `metadata.variables` inside each trial file for field definitions. Never guess what a field means.
 3. Never invent a trial, genotype, trait or number. If nothing in `datasets.csv` fits, say so.
 4. Cite the concept DOI, https://doi.org/10.5281/zenodo.17112491, and the publication named in each trial's metadata.
 5. Write maniva and tricot in lowercase, always, including headings, table cells and the start of a sentence. Never write "Maniva" or "Tricot". tricot stands for triadic comparison of technology options. Quote published titles exactly as printed, even where they capitalise tricot or expand it as "triadic comparisons of technologies".

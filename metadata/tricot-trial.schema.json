@@ -1,155 +1,159 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/AgrDataSci/tricot-data/blob/main/metadata/tricot-trial.schema.json",
-  "title": "tricot trial file",
-  "description": "One tricot trial, as published in data/<crop>-<study_id>.json. Field definitions are in metadata/data-dictionary.csv.",
+  "title": "tricot trial file, release schema v2.0",
+  "description": "One trial, as published in data/<crop>/<crop>-[kind-]<iso3>-<trial_id>.json. Field definitions are in metadata/data-dictionary.csv, and metadata.variables in each file describes every column of its tables. Two links are not expressed here and are checked by script/helper/helper-06-validate-trial-files.R, namely that every site_id starts with the trial id and that every plot_data site_id exists in site_data.",
   "type": "object",
-  "required": ["metadata", "block_data", "plot_data"],
+  "required": ["metadata", "site_data", "plot_data"],
   "additionalProperties": false,
   "properties": {
     "metadata": { "$ref": "#/$defs/metadata" },
-    "block_data": {
+    "site_data": {
       "type": "array",
       "minItems": 1,
-      "items": {
-        "type": "object",
-        "required": ["block_id"],
-        "properties": {
-          "block_id": { "type": "string", "pattern": "^[0-9a-f]{12}-.+$" },
-          "longitude": { "type": ["number", "null"], "minimum": -180, "maximum": 180 },
-          "latitude": { "type": ["number", "null"], "minimum": -90, "maximum": 90 }
-        },
-        "additionalProperties": true
-      }
+      "items": { "$ref": "#/$defs/site" }
     },
     "plot_data": {
       "type": "array",
       "minItems": 1,
-      "items": {
-        "type": "object",
-        "required": ["block_id", "plot", "genotype_name", "collection_moment", "trait", "value", "value_type"],
-        "additionalProperties": false,
-        "properties": {
-          "block_id": { "type": "string" },
-          "plot": { "type": ["string", "integer"] },
-          "genotype_name": { "type": "string" },
-          "collection_moment": { "type": "string" },
-          "trait": { "type": "string" },
-          "value": { "type": ["string", "number", "null"] },
-          "value_type": { "$ref": "#/$defs/value_type" }
-        }
-      }
+      "items": { "$ref": "#/$defs/plot" }
+    },
+    "genotype_data": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/genotype_row" }
     }
   },
   "$defs": {
-    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}" },
-    "value_type": {
-      "enum": ["rank", "integer", "decimal", "date", "datetime", "text", "select one", "select all that apply"]
+    "trial_id": {
+      "type": "string",
+      "description": "ClimMob trial id, 12 hex characters for ClimMob v3, 11 hex characters plus v for legacy trials",
+      "pattern": "^([0-9a-f]{12}|[0-9a-f]{11}v)$"
     },
+    "date": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+    "nullable_string": { "type": ["string", "null"] },
+    "ror": { "type": ["string", "null"], "pattern": "^https://ror\\.org/[0-9a-z]{9}$" },
+    "value_type": { "enum": ["rank", "numeric", "date", "categorical", "multiple", "text", "vs_local", "mean"] },
+    "flag": {
+      "type": ["string", "null"],
+      "description": "One or more flags separated by semicolons",
+      "pattern": "^(derived|direction_inverted|unit_unclear|implausible_yield_per_area|outside_plausible_range|outlier_vs_trial_median|plot_failed|mean_of_replicates|inconsistent_with_fresh_yield_and_dm)(;(derived|direction_inverted|unit_unclear|implausible_yield_per_area|outside_plausible_range|outlier_vs_trial_median|plot_failed|mean_of_replicates|inconsistent_with_fresh_yield_and_dm))*$"
+    },
+
     "metadata": {
       "type": "object",
-      "required": ["changelog", "identifier", "license", "publication_year", "study", "date", "geoLocation",
-                   "data_producer", "crop", "participants", "genotypes", "variables", "funder"],
+      "required": ["schema_version", "changelog", "identifier", "license", "study", "date", "geo_location", "location_privacy", "data_producer", "contributors", "crop", "participants", "genotypes", "funder", "variables"],
       "additionalProperties": false,
       "properties": {
+        "schema_version": { "const": "2.0" },
         "changelog": {
           "type": "object",
-          "required": ["version", "notes", "software"],
+          "required": ["version", "date", "notes", "software"],
+          "additionalProperties": false,
           "properties": {
             "version": { "type": "string" },
+            "date": { "$ref": "#/$defs/date" },
             "notes": { "type": "string" },
             "software": {
               "type": "object",
-              "required": ["package", "package_version"],
+              "required": ["script"],
               "properties": {
-                "package": { "type": "string" },
-                "package_version": { "type": "string" }
+                "script": { "type": "string" },
+                "python": { "type": "string" }
               }
             }
           }
         },
-        "identifier": { "type": "string", "format": "uri", "pattern": "^https://doi\\.org/" },
-        "license": { "type": "string", "format": "uri" },
-        "publication_year": { "type": "string", "pattern": "^\\d{4}$" },
-        "study": {
-          "type": "object",
-          "required": ["id", "country", "title", "description", "type", "unit_of_analysis", "objective", "experimental_site"],
+        "identifier": { "const": "https://doi.org/10.5281/zenodo.17112491" },
+        "license": { "const": "CC0-1.0" },
+        "study": { "$ref": "#/$defs/study" },
+        "date": {
+          "type": ["object", "null"],
+          "required": ["start", "end"],
           "additionalProperties": false,
           "properties": {
-            "id": { "type": "string", "pattern": "^[0-9a-f]{12}$" },
-            "country": { "type": "string", "pattern": "^[A-Z]{2}$" },
-            "title": { "type": "string" },
-            "description": { "type": "string" },
-            "type": { "type": "string" },
-            "unit_of_analysis": { "type": "string" },
-            "objective": { "type": "string" },
-            "experimental_site": { "type": "string" }
-          }
-        },
-        "date": {
-          "type": "object",
-          "required": ["start", "end"],
-          "properties": {
             "start": { "$ref": "#/$defs/date" },
-            "end": { "$ref": "#/$defs/date" }
+            "end": { "$ref": "#/$defs/date" },
+            "precision": { "enum": ["year"] }
           }
         },
-        "geoLocation": {
-          "type": "object",
+        "geo_location": {
+          "type": ["object", "null"],
           "required": ["boundingBox"],
+          "additionalProperties": false,
           "properties": {
             "boundingBox": {
               "type": "object",
               "required": ["xmin", "xmax", "ymin", "ymax"],
+              "additionalProperties": false,
               "properties": {
-                "xmin": { "type": "number" },
-                "xmax": { "type": "number" },
-                "ymin": { "type": "number" },
-                "ymax": { "type": "number" }
+                "xmin": { "type": "number", "minimum": -180, "maximum": 180 },
+                "xmax": { "type": "number", "minimum": -180, "maximum": 180 },
+                "ymin": { "type": "number", "minimum": -90, "maximum": 90 },
+                "ymax": { "type": "number", "minimum": -90, "maximum": 90 }
               }
             }
+          }
+        },
+        "location_privacy": {
+          "type": "object",
+          "required": ["method", "radius_m", "admin_names"],
+          "additionalProperties": false,
+          "properties": {
+            "method": { "type": "string" },
+            "radius_m": { "type": ["integer", "null"], "minimum": 0 },
+            "admin_names": { "type": "string" },
+            "gap_filling": { "type": "string" }
           }
         },
         "data_producer": {
           "type": "object",
           "required": ["name", "identifier", "principal_investigator", "email", "program"],
+          "additionalProperties": false,
           "properties": {
             "name": { "type": "string" },
-            "identifier": { "type": "string" },
-            "principal_investigator": { "type": "string" },
-            "email": { "type": "string" },
-            "program": { "type": "string" }
+            "identifier": { "$ref": "#/$defs/ror" },
+            "principal_investigator": { "$ref": "#/$defs/nullable_string" },
+            "email": { "$ref": "#/$defs/nullable_string" },
+            "program": { "$ref": "#/$defs/nullable_string" },
+            "partner": { "type": "string" },
+            "attribution": { "type": "string" }
+          }
+        },
+        "contributors": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "contributorType"],
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "orcid": { "type": ["string", "null"], "description": "ORCID iD, as a URL or bare. The URL form is preferred.", "pattern": "^(https://orcid\\.org/)?[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$" },
+              "affiliation": { "$ref": "#/$defs/nullable_string" },
+              "contributorType": {
+                "description": "DataCite contributorType",
+                "enum": ["ContactPerson", "DataCollector", "DataCurator", "DataManager", "Distributor", "Editor", "HostingInstitution", "Producer", "ProjectLeader", "ProjectManager", "ProjectMember", "RegistrationAgency", "RegistrationAuthority", "RelatedPerson", "Researcher", "ResearchGroup", "RightsHolder", "Sponsor", "Supervisor", "Translator", "WorkPackageLeader", "Other"]
+              }
+            }
           }
         },
         "crop": {
           "type": "object",
           "required": ["name", "taxon"],
+          "additionalProperties": false,
           "properties": {
-            "name": { "type": "string" },
-            "taxon": { "type": "string" }
+            "name": { "type": "string", "pattern": "^[a-z]+$" },
+            "taxon": { "$ref": "#/$defs/nullable_string" }
           }
         },
         "participants": {
-          "type": "object",
-          "required": ["total", "men", "women"],
+          "type": ["object", "null"],
+          "required": ["total", "women", "men", "not_stated"],
+          "additionalProperties": false,
           "properties": {
             "total": { "type": "integer", "minimum": 0 },
+            "women": { "type": "integer", "minimum": 0 },
             "men": { "type": "integer", "minimum": 0 },
-            "women": { "type": "integer", "minimum": 0 }
-          }
-        },
-        "funder": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "required": ["funderName", "funderIdentifier", "awardTitle"],
-            "additionalProperties": false,
-            "properties": {
-              "funderName": { "type": "string" },
-              "funderIdentifier": { "type": "string" },
-              "awardTitle": { "type": "string" },
-              "awardNumber": { "type": ["string", "number"] }
-            }
+            "not_stated": { "type": "integer", "minimum": 0 }
           }
         },
         "genotypes": {
@@ -157,35 +161,213 @@
           "minItems": 1,
           "items": {
             "type": "object",
+            "description": "Genotypes as given by the data producer. Fields beyond genotype_name and role vary between producers.",
             "required": ["genotype_name", "role"],
-            "additionalProperties": false,
+            "additionalProperties": true,
             "properties": {
               "genotype_name": { "type": "string" },
-              "role": { "type": "string" },
-              "release_year": { "type": ["string", "integer"] },
-              "crossing_year": { "type": ["string", "integer"] },
-              "target_trait": { "type": "string" },
-              "origin": { "type": "string" },
-              "remarks": { "type": "string" }
+              "role": { "$ref": "#/$defs/nullable_string" },
+              "release_year": { "$ref": "#/$defs/nullable_string" },
+              "crossing_year": { "$ref": "#/$defs/nullable_string" },
+              "origin": { "$ref": "#/$defs/nullable_string" },
+              "target_trait": { "$ref": "#/$defs/nullable_string" },
+              "remarks": { "$ref": "#/$defs/nullable_string" }
+            }
+          }
+        },
+        "funder": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["funderName"],
+            "additionalProperties": true,
+            "properties": {
+              "funderName": { "type": "string" },
+              "funderIdentifier": { "$ref": "#/$defs/ror" },
+              "awardTitle": { "$ref": "#/$defs/nullable_string" },
+              "awardNumber": { "type": ["string", "integer", "null"] }
             }
           }
         },
         "variables": {
           "type": "array",
           "minItems": 1,
+          "items": { "$ref": "#/$defs/variable" }
+        },
+        "companions": {
+          "type": "array",
+          "description": "tricot trials only. Researcher-managed trials with data on genotypes of this trial.",
           "items": {
             "type": "object",
-            "required": ["variable_name", "description", "ontology_id", "value_type", "controlled_vocabulary"],
+            "required": ["trial_id", "trial_code", "file", "type", "link"],
             "additionalProperties": false,
             "properties": {
-              "variable_name": { "type": "string" },
-              "description": { "type": "string" },
-              "ontology_id": { "type": "string" },
-              "value_type": { "$ref": "#/$defs/value_type" },
-              "controlled_vocabulary": { "type": "string" }
+              "trial_id": { "$ref": "#/$defs/trial_id" },
+              "trial_code": { "type": "string" },
+              "file": { "type": "string", "pattern": "^[a-z]+/[a-z]+-(pvs|station)-[A-Z]{3}-([0-9a-f]{12}|[0-9a-f]{11}v)\\.json$" },
+              "type": { "type": "string" },
+              "link": { "type": "string" },
+              "shared_genotypes": { "type": ["integer", "null"], "minimum": 0 },
+              "shared_genotype_names": { "type": ["array", "null"], "items": { "type": "string" } }
+            }
+          }
+        },
+        "companion_of": {
+          "type": "array",
+          "description": "Researcher-managed trials only. The tricot trials this file relates to.",
+          "items": {
+            "type": "object",
+            "required": ["trial_id", "trial_code", "file", "link"],
+            "additionalProperties": false,
+            "properties": {
+              "trial_id": { "$ref": "#/$defs/trial_id" },
+              "trial_code": { "type": "string" },
+              "file": { "type": "string", "pattern": "^[a-z]+/[a-z]+-[A-Z]{3}-([0-9a-f]{12}|[0-9a-f]{11}v)\\.json$" },
+              "link": { "type": "string" },
+              "shared_genotypes": { "type": "integer", "minimum": 0 },
+              "shared_genotype_names": { "type": "array", "items": { "type": "string" } },
+              "linked_sites": { "type": "integer", "minimum": 0 },
+              "shared_villages": { "type": "integer", "minimum": 0 },
+              "tricot_season": {
+                "type": ["object", "null"],
+                "required": ["start", "end"],
+                "properties": {
+                  "start": { "$ref": "#/$defs/date" },
+                  "end": { "$ref": "#/$defs/date" }
+                }
+              }
             }
           }
         }
+      }
+    },
+
+    "study": {
+      "type": "object",
+      "required": ["id", "code", "title", "description", "type", "objective", "experimental_site", "unit_of_analysis", "country_iso2", "country_iso3", "country_name", "source_platform", "collection_moments"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/trial_id" },
+        "code": { "type": "string" },
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "type": { "enum": ["on-farm", "consumer testing", "concept testing", "participatory varietal selection, mother trial", "on-station breeding trial"] },
+        "objective": { "$ref": "#/$defs/nullable_string" },
+        "experimental_site": { "type": "string" },
+        "unit_of_analysis": { "type": "string" },
+        "country_iso2": { "type": "string", "pattern": "^[A-Z]{2}$" },
+        "country_iso3": { "type": "string", "pattern": "^[A-Z]{3}$" },
+        "country_name": { "type": "string" },
+        "source_platform": { "type": "string" },
+        "source_files": { "type": "array", "items": { "type": "string" } },
+        "published_in_v1": { "type": "boolean" },
+        "collection_moments": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["moment", "moment_days"],
+            "additionalProperties": false,
+            "properties": {
+              "moment": { "type": "string" },
+              "moment_days": { "type": ["number", "null"] }
+            }
+          }
+        },
+        "management": { "enum": ["researcher-managed"] },
+        "season": { "type": "string" },
+        "design": { "type": "object" },
+        "consistency_warning": { "type": "string" }
+      }
+    },
+
+    "variable": {
+      "type": "object",
+      "required": ["level", "variable_name", "description", "description_language", "harmonised_id", "ontology_id", "value_type", "unit", "basis", "controlled_vocabulary"],
+      "additionalProperties": false,
+      "properties": {
+        "level": { "enum": ["site", "plot", "genotype"] },
+        "variable_name": { "type": "string" },
+        "description": { "type": "string" },
+        "description_language": { "$ref": "#/$defs/nullable_string" },
+        "description_original": { "type": "string" },
+        "original_language": { "type": "string" },
+        "harmonised_id": { "type": ["integer", "null"] },
+        "ontology_id": { "type": ["string", "null"], "pattern": "^CO_[0-9]{3}:[0-9]{7}$" },
+        "value_type": {
+          "anyOf": [ { "$ref": "#/$defs/value_type" }, { "type": "null" } ]
+        },
+        "unit": { "$ref": "#/$defs/nullable_string" },
+        "basis": { "$ref": "#/$defs/nullable_string" },
+        "controlled_vocabulary": {
+          "type": ["string", "null"],
+          "description": "Allowed values separated by |"
+        }
+      }
+    },
+
+    "site": {
+      "type": "object",
+      "description": "One row per site. Columns beyond the required ones are listed in metadata.variables with level site.",
+      "required": ["site_id", "trial_id", "country_iso3", "country_name", "crop_name", "longitude", "latitude", "coordinate_source", "coordinate_uncertainty_m", "coordinate_flag"],
+      "additionalProperties": true,
+      "properties": {
+        "site_id": { "type": "string", "pattern": "^([0-9a-f]{12}|[0-9a-f]{11}v)-.+$" },
+        "trial_id": { "$ref": "#/$defs/trial_id" },
+        "country_iso3": { "type": "string", "pattern": "^[A-Z]{3}$" },
+        "country_name": { "type": "string" },
+        "crop_name": { "type": "string", "pattern": "^[a-z]+$" },
+        "longitude": { "type": ["number", "null"], "minimum": -180, "maximum": 180 },
+        "latitude": { "type": ["number", "null"], "minimum": -90, "maximum": 90 },
+        "coordinate_source": { "type": "string" },
+        "coordinate_uncertainty_m": { "type": ["integer", "null"], "minimum": 0 },
+        "coordinate_flag": { "enum": ["ok", "missing", "near_border", "outside", "outside_trial_area", "swapped_candidate"] },
+        "adm1": { "$ref": "#/$defs/nullable_string" },
+        "adm2": { "$ref": "#/$defs/nullable_string" },
+        "adm3": { "$ref": "#/$defs/nullable_string" }
+      }
+    },
+
+    "plot": {
+      "type": "object",
+      "required": ["site_id", "plot", "genotype_name", "collection_moment", "moment_days", "trait", "trait_id", "trait_original", "value", "value_type", "unit", "flag"],
+      "additionalProperties": false,
+      "properties": {
+        "site_id": { "type": "string", "pattern": "^([0-9a-f]{12}|[0-9a-f]{11}v)-.+$" },
+        "plot": { "type": ["string", "integer"] },
+        "genotype_name": { "type": "string" },
+        "collection_moment": { "type": "string" },
+        "moment_days": { "type": ["integer", "null"] },
+        "trait": { "type": "string" },
+        "trait_id": { "type": ["integer", "null"] },
+        "trait_original": { "type": "string" },
+        "value": { "type": "string", "description": "Stored as text, read according to value_type" },
+        "value_type": { "$ref": "#/$defs/value_type" },
+        "unit": { "$ref": "#/$defs/nullable_string" },
+        "flag": { "$ref": "#/$defs/flag" },
+        "rep": { "type": ["integer", "null"] },
+        "block": { "type": ["integer", "null"] },
+        "row": { "type": ["integer", "null"] },
+        "col": { "type": ["integer", "null"] },
+        "entry_type": { "enum": ["test", "check", null] }
+      }
+    },
+
+    "genotype_row": {
+      "type": "object",
+      "required": ["genotype_name", "replicate", "sample", "trait", "trait_id", "trait_original", "value", "value_type", "unit", "flag"],
+      "additionalProperties": false,
+      "properties": {
+        "genotype_name": { "type": "string" },
+        "replicate": { "type": ["integer", "null"] },
+        "sample": { "$ref": "#/$defs/nullable_string" },
+        "trait": { "type": "string" },
+        "trait_id": { "type": ["integer", "null"] },
+        "trait_original": { "type": "string" },
+        "value": { "type": "string" },
+        "value_type": { "$ref": "#/$defs/value_type" },
+        "unit": { "$ref": "#/$defs/nullable_string" },
+        "flag": { "$ref": "#/$defs/flag" }
       }
     }
   }

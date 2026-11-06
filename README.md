@@ -79,7 +79,7 @@ Site and plot rows link through `site_id`. `metadata.variables` lists every colu
 │   ├── value, value_type, unit, flag
 ```
 
-[`metadata/tricot-trial.schema.json`](metadata/tricot-trial.schema.json) and [`metadata/data-dictionary.csv`](metadata/data-dictionary.csv) still describe schema v1.0 and are being updated to v2.0. Until then, `metadata.variables` inside each file is the reference for its columns.
+Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-dictionary.csv), and [`metadata/tricot-trial.schema.json`](metadata/tricot-trial.schema.json) is the JSON Schema of a trial file, release schema v2.0.
 
 ## Repository structure
 
