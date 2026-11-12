@@ -92,6 +92,7 @@ Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-diction
 ├── AGENTS.md       Short instructions for AI agents using the data
 ├── MAINTAINERS.md  Guide for the tricot data managers
 ├── NEWS.md         What each release added
+├── script/        build-parquet.py, which builds the parquet tables attached to each release
 ```
 
 ## Use with AI assistants
@@ -137,6 +138,18 @@ R = lapply(R, function(x) {
 mod = lapply(R, PlackettLuce)
 ```
 For more information, check the [gosset package documentation](https://agrdatasci.github.io/gosset/).
+
+## Analysis tables (parquet)
+
+Each release also carries every trial in three parquet tables, built from the JSON by [`script/build-parquet.py`](script/build-parquet.py):
+
+| Table | One row per | Source in the JSON |
+|---|---|---|
+| [`plots.parquet`](https://github.com/bjyberg/tricot-data/releases/latest/download/plots.parquet) | plot, collection moment and trait | `plot_data` |
+| [`sites.parquet`](https://github.com/bjyberg/tricot-data/releases/latest/download/sites.parquet) | site | `site_data` |
+| [`variables.parquet`](https://github.com/bjyberg/tricot-data/releases/latest/download/variables.parquet) | trial and variable | `metadata.variables` |
+
+Columns are those of the JSON plus `trial_id`, so `rank_tricot2()` reads the plots table as it reads `plot_data`. Use them to pool trials or to filter on site variables. The JSON stays the full record, with the metadata the tables leave out.
 
 ## Report an error
 
