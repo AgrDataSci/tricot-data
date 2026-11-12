@@ -21,7 +21,7 @@ jobs:
       - uses: astral-sh/setup-uv@v6
 
       - name: Build plots, sites and variables
-        run: uv run script/build-parquet.py build/parquet
+        run: uv run script/build-parquet.py
 
       - name: Attach to the release
         if: github.event_name == 'release'
