@@ -12,10 +12,11 @@ This guide is for the tricot data managers only. Users and their AI assistants s
 
 ## Releasing
 
-1. Edit release metadata in `metadata/project-metadata.xlsx`, then regenerate `CITATION.cff` and `.zenodo.json` with helpers 01 and 02. Never edit those two files by hand.
-2. Record the release in `NEWS.md`.
-3. A GitHub release creates a new Zenodo version, so release only when a batch of data is ready.
-4. Never invent a DOI, ORCID, ROR ID, license, funder or date. Leave the field empty and ask the data producer.
+1. `CITATION.cff` and `.zenodo.json` are both kept and both written from `metadata/project-metadata.xlsx`. Zenodo reads `.zenodo.json` for the record of a release and then ignores `CITATION.cff`. GitHub reads `CITATION.cff` for its citation box. Never edit either file by hand.
+2. Update them at every batch. Bring the `authors` sheet in line with the author list of the batch, set `version` and `publication_date` in the `metadata` sheet for a release, then run `python3 script/v2-export/citation_files.py --public <path to this repository>` from the processing repository.
+3. Record the release in `NEWS.md`.
+4. A GitHub release creates a new Zenodo version, so release only when a batch of data is ready.
+5. Never invent a DOI, ORCID, ROR ID, license, funder or date. Leave the field empty and ask the data producer.
 
 ## Handling error reports
 

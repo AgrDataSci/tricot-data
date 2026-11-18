@@ -17,7 +17,7 @@ The [triadic comparison of technology options (tricot)](https://doi.org/10.1007/
 
 The map below shows the trial sites that are currently available for public use, coloured by crop group. Sites of the same trial within 10 km of each other are drawn as one point. The map uses the Equal Earth projection.
 
-![Trial map](docs/trial-locations-global.png)
+![Trial sites currently in the release, by crop group](docs/trial-locations.png)
 
 ## Find a dataset
 
@@ -156,13 +156,13 @@ The dataset is archived on [Zenodo](https://doi.org/10.5281/zenodo.17112491). Th
 
 > The dataset is dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). You can use it without restriction. Please cite it, and the publications named in each trial's metadata, so that the farmers, data producers and funders behind the trials get credit.
 
-de Sousa, K., Laporte, M.-A., Abate, L., Abdulmalik, R. O., Abidin, E., Abolore, B., Achigan-Dako, E. G., Aglinglo, L. A., Aguilar, A., Angudubo, S., Arnaud, E., Assefa, T. M., Atieno, E., Ayenan, M., Barrios, M., Borman, G., Boukar, O., Brown, D., Carey, E., Chaves, N., … van Etten, J. (2025). Global multi-crop agricultural trial data supported by citizen science [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.17112491
+de Sousa, K., Laporte, M.-A., Abate, L., Abdulmalik, R. O., Abidin, E., Abolore, B., Achigan-Dako, E. G., Adonia, J., Agawini, J., Aglinglo, L. A., Aguilar, A., Ahmed, H. O., Andrade Lopez, R. S., Angudubo, S., Arnaud, E., Asirifi, O., Assefa, T. M., Atieno, E. O., Atieno, M., Attamah, P., … van Etten, J. (2025). Global multi-crop agricultural trial data supported by citizen science [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.17112491
 
 ### BibTeX (dataset)
 
 ``` bibtex
 @dataset{desousa_tricot_2025,
-  author       = {de Sousa, Kauê and Laporte, Marie-Angélique and Abate, Legesse and Abdulmalik, Rekiya O. and Abidin, Erna and Abolore, Bello and Achigan-Dako, Enoch G. and Aglinglo, Lys Amavi and Aguilar, Amilcar and Angudubo, Stephen and Arnaud, Elizabeth and Assefa, Teshale M. and Atieno, Elly and Ayenan, Mathieu and Barrios, Mirna and Borman, Gareth and Boukar, Ousmane and Brown, David and Carey, Edward and Chaves, Néstor and Chase, Rachel and … and van Etten, Jacob},
+  author       = {de Sousa, Kauê and Laporte, Marie-Angélique and Abate, Legesse and Abdulmalik, Rekiya O. and Abidin, Erna and Abolore, Bello and Achigan-Dako, Enoch G. and Adonia, Joseph and Agawini, Jonathan and Aglinglo, Lys Amavi and Aguilar, Amilcar and Ahmed, Hauwa Oziohu and Andrade Lopez, Robert Santiago and Angudubo, Stephen and Arnaud, Elizabeth and Asirifi, Ophelia and Assefa, Teshale M. and Atieno, Elly Ouma and Atieno, Mary and Attamah, Patrick and Ayenan, Mathieu and … and van Etten, Jacob},
   title        = {Global multi-crop agricultural trial data supported by citizen science},
   year         = {2025},
   publisher    = {Zenodo},
