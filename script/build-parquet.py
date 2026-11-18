@@ -14,9 +14,8 @@ from pathlib import Path
 
 import duckdb
 
-os.chdir(
-    Path(__file__).resolve().parent.parent
-)  # paths below are relative to the repo root
+# Paths below are relative to the repo root
+os.chdir(Path(__file__).resolve().parent.parent)
 OUT = "build/parquet"
 
 # Columns of tricot-trial.schema.json; keys not listed are ignored

@@ -92,7 +92,7 @@ Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-diction
 ├── AGENTS.md       Short instructions for AI agents using the data
 ├── MAINTAINERS.md  Guide for the tricot data managers
 ├── NEWS.md         What each release added
-├── script/        build-parquet.py, which builds the parquet tables attached to each release
+├── script/         build-parquet.py, which builds the parquet tables attached to each release
 ```
 
 ## Use with AI assistants
