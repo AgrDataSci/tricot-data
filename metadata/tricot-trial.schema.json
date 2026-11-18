@@ -76,7 +76,7 @@
         "null"
       ],
       "description": "One or more flags separated by semicolons",
-      "pattern": "^(derived|direction_inverted|unit_unclear|implausible_yield_per_area|outside_plausible_range|outlier_vs_trial_median|plot_failed|mean_of_replicates|inconsistent_with_fresh_yield_and_dm)(;(derived|direction_inverted|unit_unclear|implausible_yield_per_area|outside_plausible_range|outlier_vs_trial_median|plot_failed|mean_of_replicates|inconsistent_with_fresh_yield_and_dm))*$"
+      "pattern": "^(derived|direction_inverted|unit_unclear|implausible_yield_per_area|outside_plausible_range|outlier_vs_trial_median|plot_failed|mean_of_replicates|plot_area_assumed|unit_assumed)(;(derived|direction_inverted|unit_unclear|implausible_yield_per_area|outside_plausible_range|outlier_vs_trial_median|plot_failed|mean_of_replicates|plot_area_assumed|unit_assumed))*$"
     },
     "metadata": {
       "type": "object",
@@ -100,7 +100,7 @@
       "additionalProperties": false,
       "properties": {
         "schema_version": {
-          "const": "2.1"
+          "const": "3.0"
         },
         "changelog": {
           "type": "object",
@@ -561,6 +561,50 @@
               }
             }
           }
+        },
+        "admin_levels": {
+          "type": "object",
+          "description": "What adm1 to adm5 of site_data are in the country of the trial, for example region, zone, woreda. Null where the country has no such level or is not in config/standard-names/admin_level_types.csv.",
+          "required": [
+            "adm1",
+            "adm2",
+            "adm3",
+            "adm4",
+            "adm5"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "adm1": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "adm2": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "adm3": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "adm4": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "adm5": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
         }
       }
     },
@@ -643,12 +687,28 @@
             "type": "object",
             "required": [
               "moment",
-              "moment_days"
+              "moment_days",
+              "standard_moment",
+              "visit",
+              "assessor"
             ],
             "additionalProperties": false,
             "properties": {
               "moment": {
-                "type": "string"
+                "type": "string",
+                "description": "Label of the moment as used in the trial, the value of plot_data.collection_moment"
+              },
+              "standard_moment": {
+                "type": "string",
+                "description": "Moment in the shared vocabulary (config/standard-names/moments.csv), for example vegetative, harvest, 3 MAP"
+              },
+              "visit": {
+                "$ref": "#/$defs/nullable_string",
+                "description": "Number of the visit when a moment was assessed more than once, for example the second harvest"
+              },
+              "assessor": {
+                "$ref": "#/$defs/nullable_string",
+                "description": "Who assessed, when the label names it (breeder, farmer, technician)"
               },
               "moment_days": {
                 "type": [
@@ -687,7 +747,8 @@
         "value_type",
         "unit",
         "basis",
-        "controlled_vocabulary"
+        "controlled_vocabulary",
+        "original_name"
       ],
       "additionalProperties": false,
       "properties": {
@@ -748,6 +809,10 @@
             "null"
           ],
           "description": "Allowed values separated by |"
+        },
+        "original_name": {
+          "$ref": "#/$defs/nullable_string",
+          "description": "Name of the variable before the standard names were applied; several names separated by '; ' when they were merged; null for the structural columns"
         }
       }
     },
@@ -758,13 +823,13 @@
         "site_id",
         "trial_id",
         "country_iso3",
-        "country_name",
-        "crop_name",
+        "country",
+        "crop",
         "longitude",
         "latitude",
-        "coordinate_source",
-        "coordinate_uncertainty_m",
-        "coordinate_flag"
+        "geo_source",
+        "geo_uncertainty",
+        "geo_flag"
       ],
       "additionalProperties": true,
       "properties": {
@@ -779,12 +844,13 @@
           "type": "string",
           "pattern": "^[A-Z]{3}$"
         },
-        "country_name": {
+        "country": {
           "type": "string"
         },
-        "crop_name": {
+        "crop": {
           "type": "string",
-          "pattern": "^[a-z]+$"
+          "pattern": "^[a-z]+$",
+          "description": "Crop key of the release, for example commonbean, the same as metadata.crop.name and the folder name"
         },
         "longitude": {
           "type": [
@@ -802,24 +868,26 @@
           "minimum": -90,
           "maximum": 90
         },
-        "coordinate_source": {
+        "geo_source": {
           "type": "string"
         },
-        "coordinate_uncertainty_m": {
+        "geo_uncertainty": {
           "type": [
             "integer",
             "null"
           ],
-          "minimum": 0
+          "minimum": 0,
+          "description": "Uncertainty of the point in metres; null when no point"
         },
-        "coordinate_flag": {
+        "geo_flag": {
           "enum": [
             "ok",
             "missing",
             "near_border",
             "outside",
             "outside_trial_area",
-            "swapped_candidate"
+            "swapped_candidate",
+            "georeferenced_approximate"
           ]
         },
         "adm1": {
@@ -863,7 +931,11 @@
           ]
         },
         "genotype_name": {
-          "type": "string"
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Name of the genotype in the plot, as in metadata.genotypes. Null where the variety of the plot at that site is not in the data."
         },
         "collection_moment": {
           "type": "string"
@@ -939,6 +1011,36 @@
             "check",
             null
           ]
+        },
+        "value_standard": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Measured values only (value type numeric or mean): the value in the standard unit, as text; null when the value is not a number"
+        },
+        "unit_standard": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Measured values only: the standard unit of the trait (config/standard-names/units.csv)"
+        },
+        "crop": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[a-z]+$",
+          "description": "Trials with more than one crop only. Crop key of the observation, for example sorghum or commonbean. Null for an observation of the intercrop or of unresolved scope."
+        },
+        "observation_scope": {
+          "enum": [
+            "crop",
+            "intercrop",
+            "unresolved"
+          ],
+          "description": "Trials with more than one crop only. Whether the observation is about one crop, about the intercrop, or not resolved from the question."
         }
       }
     },
@@ -993,6 +1095,20 @@
         },
         "flag": {
           "$ref": "#/$defs/flag"
+        },
+        "value_standard": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Measured values only (value type numeric or mean): the value in the standard unit, as text; null when the value is not a number"
+        },
+        "unit_standard": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Measured values only: the standard unit of the trait (config/standard-names/units.csv)"
         }
       }
     }

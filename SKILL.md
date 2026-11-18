@@ -17,7 +17,7 @@ Write maniva and tricot in lowercase, always. That holds in headings, table cell
 |---|---|---|
 | [datasets.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/datasets.csv) | One row per trial with trial id, crop, taxon, country, data producer, dates, type, objective, participants, sites, genotypes, collection moments, ranked traits, the `path` to fetch, file size and license | Always, first |
 | [metadata/data-dictionary.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/data-dictionary.csv) | Definition of every field in a trial file | When the user asks what a field means |
-| [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file, release schema v2.1 | When the user wants to validate or parse files programmatically |
+| [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file, release schema v3.0 | When the user wants to validate or parse files programmatically |
 | `data/<crop>/<crop>-<iso3>-<trial_id>.json` | The trial itself, raw URL `https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/` followed by the `path` in `datasets.csv` | Only the trials the question needs |
 
 Take the path from `datasets.csv` and never compose a file name. `metadata.variables` inside each file defines every column.
@@ -36,11 +36,11 @@ Your role is to help the user use the data, never to change them. Only the trico
 
 ## Structure of a trial file
 
-Every file follows release schema v2.1.
+Every file follows release schema v3.0.
 
 - `metadata` describes the trial, its producer, contributors, crop, participants, genotypes, funders and every variable, with harmonised question ids, Crop Ontology terms, value types and units.
-- `site_data` has one row per site (the farm or household that grew a package of three genotypes), with coordinates rounded to two decimals, administrative names where recorded and the participant-level answers.
-- `plot_data` is the long table of observations, one row per site, plot, collection moment and trait. `value` is stored as text and read according to `value_type` (rank, numeric, date, categorical, multiple or vs_local). Rankings are positions within the site, 1 is best. `moment_days` is the planned day of the collection moment, the same for every site, and `moment_date` is the date it took place at that site, null when not recorded. Use `moment_date` to link observations to weather.
+- `site_data` has one row per site (the farm or household that grew a package of three genotypes), with coordinates rounded to two decimals, administrative units where recorded (`adm1` to `adm5` as defined for the country in `metadata.admin_levels`, then `location` for the village) and the participant-level answers, with one English spelling per categorical answer.
+- `plot_data` is the long table of observations, one row per site, plot, collection moment and trait. `value` is stored as text and read according to `value_type` (rank, numeric, date, categorical, multiple or vs_local). Rankings are positions within the site, 1 is best. `moment_days` is the planned day of the collection moment, the same for every site, and `moment_date` is the date it took place at that site, null when not recorded. Use `moment_date` to link observations to weather. Measured values carry `value_standard` and `unit_standard`, the value in one unit per trait across trials. Use these, not `value`, when you combine measurements across trials.
 
 Site and plot rows link through `site_id`. Files with `pvs` in the name are researcher-managed companion trials. A tricot trial lists them in `metadata.companions`, they point back through `metadata.companion_of`, and the two join on `genotype_name`. Filter `datasets.csv` on `management` to keep only the farmer-managed tricot trials.
 
@@ -57,14 +57,22 @@ dat = fromJSON(paste0(base, idx$path[idx$trial_id == "88f82a3f073e"]))
 
 R = dat$plot_data
 R = R[R$value_type == "rank", ]
-R$traitmoment = paste(R$collection_moment, R$trait, sep = " - ")
+# trait is the standard name; trait_original keeps apart two questions on the same trait
+R$traitmoment = paste(R$collection_moment, R$trait, R$trait_original, sep = " - ")
 
 R = lapply(split(R, R$traitmoment), function(x) {
   rank_tricot2(data = x, items = "genotype_name", input = "value", id = "site_id")
 })
 
 mod = lapply(R, PlackettLuce)
+
+# measured values in the standard unit, without yields from assumed plot areas
+Y = dat$plot_data
+Y = Y[Y$trait == "yield" & Y$value_type == "numeric" & !grepl("plot_area_assumed", Y$flag), ]
+Y$yield_kg_ha = as.numeric(Y$value_standard)
 ```
+
+Schema 3.0 renamed columns and traits. In code written for earlier files, `country_name` and `crop_name` are now `country` and `crop`, the `coordinate_*` columns are `geo_source`, `geo_uncertainty` and `geo_flag`, `gender` is `farmer_gender`, and trait names follow the standard list. The README has the full table. `flag` can hold several flags separated by `;`, so test it with `grepl()`.
 
 For linking trials with climate, soil or other environmental data, and for the team's analytical approaches, follow [tricot-analysis-workflows](https://github.com/AgrDataSci/tricot-analysis-workflows).
 
@@ -72,7 +80,9 @@ For linking trials with climate, soil or other environmental data, and for the t
 
 - Coordinates in `site_data` are rounded to two decimals to protect participants, so a point lies within about 800 m of the recorded one. They are fine for climate and soil data, not for field-level analysis.
 - A companion link may name a file that is not in the release yet. Check the `path` column of `datasets.csv` before fetching it.
-- Trait names are harmonised across trials, and `trait_original` keeps the label used in the trial. Match variables through `metadata$variables`, its `harmonised_id` and `ontology_id`, not by name alone.
+- Traits, site variables and collection moments have one standard name per concept across trials, so the same `trait` can be combined across trials. `trait_original` keeps the question code of the trial and `metadata$variables$original_name` the earlier name of a site variable. A rank trait and a measured trait can share a concept, for example `plant_height_rank` and `plant_height`. Filter on `value_type` as well as on `trait`.
+- `yield_plot` is the weight harvested from the plot and `yield` the yield per area in kg/ha. A `yield` flagged `derived` was computed from the plot weight and the plot area. One that also has `plot_area_assumed` rests on the protocol plot size, not on a reported one. Say so when you report such yields, or drop them. The `flag` column can hold several flags separated by `;`.
+- The same collection moment has different labels across trials. Use `standard_moment` in `metadata$study$collection_moments` to compare stages across trials.
 - Some fields are still being harmonized across partners. When a field is missing or uses another name, say so rather than guessing.
 - Data were collected by many partners for different purposes. Say which institute produced a trial when you report its results.
 
