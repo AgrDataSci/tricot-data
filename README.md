@@ -15,7 +15,7 @@ The [triadic comparison of technology options (tricot)](https://doi.org/10.1007/
 
 ## Crops and sites currently covered by the dataset
 
-The map below shows the crops and trial sites that are currently available for public use. Each point represents a trial location, and the legend indicates the crop(s) associated with those sites. This visualization helps to quickly identify the regions and crops that are currently represented in the dataset.
+The map below shows the trial sites that are currently available for public use, coloured by crop group. Sites of the same trial within 10 km of each other are drawn as one point. The map uses the Equal Earth projection.
 
 ![Trial map](docs/trial-locations-global.png)
 
@@ -23,23 +23,27 @@ The map below shows the crops and trial sites that are currently available for p
 
 [`datasets.csv`](datasets.csv) is the finding aid. It lists every trial, one row each, with trial id, crop, taxon, country, data producer, start and end dates, type, management, objective, participants, sites, genotypes, collection moments, ranked traits, the `path` to fetch, file size and license. Start there, filter, then open only the files you need through their `path`. Never compose a file name yourself.
 
-The current release holds 64 trials and 18,570 sites across 14 crops in 7 countries. These are the trials of the first release, now in the harmonised format described below.
+The current release holds 431 trials and 70,650 sites across 38 crops in 14 countries, from 16 data producers. Of these, 397 are farmer-managed tricot trials and 34 are researcher-managed mother trials of participatory varietal selection in India, linked to the tricot trials on the same genotypes. The release covers the 64 trials of the first release and adds trials from India, Ethiopia, Central America, Ghana, Nigeria and Laos, all in the harmonised format described below.
 
 ## Data structure
 
-Each trial is one JSON file at `data/<crop>/<crop>-<iso3>-<trial_id>.json`, for example `data/potato/potato-NGA-88f82a3f073e.json`. The trial id comes from ClimMob and is the only identity of a trial. Crop and country in the name make a folder easy to scan. Every file follows release schema v2.0 and has three parts.
+Each trial is one JSON file at `data/<crop>/<crop>-<iso3>-<trial_id>.json`, for example `data/potato/potato-NGA-88f82a3f073e.json`. The trial id is the only identity of a trial. Trials run on ClimMob keep their ClimMob project id, and older trials from partner files have an id that ends in `v`. Crop and country in the name make a folder easy to scan, and `pvs` in the name marks researcher-managed companion data. Every file follows release schema v2.1 and has three parts.
 
 - **metadata** describes the trial, its producer, contributors, crop, participants, genotypes, funders and every variable in the file.
-- **site_data** has one row per site, the farm or household where a package of three genotypes was grown, with displaced coordinates, administrative names (region, district, village) where recorded, planting dates and participant-level answers.
-- **plot_data** is the long table of observations, one row per site, plot, collection moment and trait. Values are stored as text and read according to `value_type` (rank, numeric, date, categorical, multiple, or vs_local for the comparison with the farmer's own variety), with the `unit` where one applies.
+- **site_data** has one row per site, the farm or household where a package of three genotypes was grown, with coordinates rounded to two decimals, administrative names (region, district, village) where recorded, planting dates and participant-level answers.
+- **plot_data** is the long table of observations, one row per site, plot, collection moment and trait. Values are stored as text and read according to `value_type` (rank, numeric, date, categorical, multiple, or vs_local for the comparison with the farmer's own variety), with the `unit` where one applies. `moment_days` is the planned day of the collection moment and `moment_date` is the date it took place at the site, where recorded.
 
 The files hold observations only. Model results such as Plackett-Luce estimates are not part of the release; fit them from the rankings in `plot_data` (see `SKILL.md`).
+
+**Coordinates.** Site coordinates are rounded to two decimals, which places the published point within about 800 m of the recorded one. `metadata.location_privacy` states the method and the radius. This protects participants and keeps the points fit for climate and soil data.
+
+**Companion data.** A tricot trial lists in `metadata.companions` the researcher-managed files with data on its genotypes, and those files point back through `metadata.companion_of`. The `file` in a link is relative to `data/`. Five groundnut trials from Tanzania link to on-station files that are not part of this release yet.
 
 Site and plot rows link through `site_id`. `metadata.variables` lists every column of `site_data` and `plot_data` with its description, harmonised question id, Crop Ontology term, value type and unit. Rankings are the position of each genotype within its site, where 1 is best. Trait names are harmonised across trials, and `trait_original` keeps the label used in the trial.
 
 ``` text
 ├── metadata
-│   ├── schema_version                      "2.0"
+│   ├── schema_version                      "2.1"
 │   ├── changelog (version, date, notes, software)
 │   ├── identifier                          concept DOI, https://doi.org/10.5281/zenodo.17112491
 │   ├── license                             CC0-1.0
@@ -49,17 +53,20 @@ Site and plot rows link through `site_id`. `metadata.variables` lists every colu
 │   │   ├── type, objective, experimental_site, unit_of_analysis
 │   │   ├── country_iso2, country_iso3, country_name
 │   │   ├── source_platform                 ClimMob version the trial came from
-│   │   ├── collection_moments (moment, moment_days)
+│   │   ├── collection_moments (moment, moment_days)   moment_days is the planned day, counted from the start of the trial
+│   │   ├── management, season, design      companion data only (researcher-managed)
 │   ├── date (start, end as YYYY-MM-DD)
 │   ├── geo_location
 │   │   ├── boundingBox (xmin, xmax, ymin, ymax)
-│   ├── location_privacy (method, radius_m, admin_names)
-│   ├── data_producer (name, identifier ROR, principal_investigator, email, program)
+│   ├── location_privacy (method, radius_m, admin_names)   coordinates rounded to two decimals, radius 800 m
+│   ├── data_producer (name, identifier ROR, principal_investigator, email, program, partner)
 │   ├── contributors (name, orcid, affiliation, contributorType)
 │   ├── crop (name, taxon)
 │   ├── participants (total, women, men, not_stated)
 │   ├── genotypes (genotype_name, role, release_year, crossing_year, origin, target_trait, remarks)
 │   ├── funder (funderName, funderIdentifier ROR, awardTitle, awardNumber)
+│   ├── companions                          tricot trials only, the companion files with data on its genotypes
+│   ├── companion_of                        companion data only, the tricot trials the file relates to
 │   ├── variables
 │   │   ├── level                           site or plot
 │   │   ├── variable_name, description
@@ -68,18 +75,19 @@ Site and plot rows link through `site_id`. `metadata.variables` lists every colu
 ├── site_data                               one row per site
 │   ├── site_id                             trial id plus package number
 │   ├── trial_id, country_iso3, country_name, crop_name
-│   ├── longitude, latitude                 WGS84, displaced within radius_m
+│   ├── longitude, latitude                 WGS84, rounded to two decimals
 │   ├── adm1, adm2, adm3                    region, district, village, where recorded
 │   ├── planting_date, plot_area_m2, ...    and the survey variables listed in metadata.variables
 ├── plot_data                               one row per site, plot, moment and trait
 │   ├── site_id, plot                       plot is the package letter (A, B, C)
 │   ├── genotype_name
-│   ├── collection_moment, moment_days
+│   ├── collection_moment, moment_days      moment and its planned day, the same for every site
+│   ├── moment_date                         date the moment took place at the site, null when not recorded
 │   ├── trait, trait_id, trait_original
 │   ├── value, value_type, unit, flag
 ```
 
-Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-dictionary.csv), and [`metadata/tricot-trial.schema.json`](metadata/tricot-trial.schema.json) is the JSON Schema of a trial file, release schema v2.0.
+Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-dictionary.csv), and [`metadata/tricot-trial.schema.json`](metadata/tricot-trial.schema.json) is the JSON Schema of a trial file, release schema v2.1.
 
 ## Repository structure
 
@@ -140,7 +148,7 @@ For more information, check the [gosset package documentation](https://agrdatasc
 
 ## Report an error
 
-The data are maintained by the tricot data managers. If something looks wrong, [open an issue](https://github.com/AgrDataSci/tricot-data/issues/new?template=data-error.md) naming the file, the field and the problem. Corrections are made in the export scripts and published in the next release.
+The data are maintained by the tricot data managers. If something looks wrong, [open an issue](https://github.com/AgrDataSci/tricot-data/issues/new?template=data-error.md) naming the file, the field and the problem. Corrections are made in the data managers' processing repository and published in the next release.
 
 ## Citation
 

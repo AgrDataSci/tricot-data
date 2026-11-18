@@ -2,12 +2,13 @@
 
 This guide is for the tricot data managers only. Users and their AI assistants should follow `SKILL.md` and `AGENTS.md`, which treat the data as read-only. When you work on a batch with an AI agent, point it to this file explicitly.
 
-## Exporting a batch
+## Publishing a batch
 
-1. Never edit the files in `data/` by hand. They are written by the scripts in `script/`, from raw files that are not committed (`raw/` is ignored).
-2. Run scripts from the project root, export scripts first and helpers after, as listed in `script/README.md`. Write R with `=` for assignment.
-3. After any export, run `script/helper/helper-05-build-dataset-index.R` to rebuild `datasets.csv`, then `script/helper/helper-06-validate-trial-files.R` to check every file against `metadata/tricot-trial.schema.json`. Fix the export, not the file, until every file passes.
-4. Never commit personal data. Coordinates must be jittered with `ClimMobTools::rmGeoIdentity()`, and names, phone numbers and other identifiers must stay out of `site_data`.
+1. Never edit the files in `data/` by hand. They are built in the private processing repository of the data managers, AgrDataSci/tricot-data-raw, from raw files and partner metadata that stay there.
+2. A batch is a copy. Take the trial files from `data/` of the processing repository, with the same folders and names, the matching rows of its `datasets.csv`, `metadata/tricot-trial.schema.json` and `metadata/data-dictionary.csv`. Nothing is renamed on the way.
+3. After the copy, check every file against `metadata/tricot-trial.schema.json` and confirm that `datasets.csv` lists exactly the files in `data/`. Fix the export in the processing repository, not the file, until every file passes.
+4. Never publish personal data. Coordinates are rounded to two decimals, and names, phone numbers and other identifiers stay out of `site_data`.
+5. Rebuild the maps in `docs/` from the published files, in the Equal Earth projection.
 
 ## Releasing
 
@@ -18,4 +19,4 @@ This guide is for the tricot data managers only. Users and their AI assistants s
 
 ## Handling error reports
 
-Users report errors as issues with the `data-error` template. Check the report against the raw data, correct the export script or the partner metadata, re-export, and close the issue with a reference to the release that carries the fix.
+Users report errors as issues with the `data-error` template. Check the report against the raw data, correct the export script or the partner metadata in the processing repository, publish the corrected file, and close the issue with a reference to the release that carries the fix.

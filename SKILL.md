@@ -17,7 +17,7 @@ Write maniva and tricot in lowercase, always. That holds in headings, table cell
 |---|---|---|
 | [datasets.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/datasets.csv) | One row per trial with trial id, crop, taxon, country, data producer, dates, type, objective, participants, sites, genotypes, collection moments, ranked traits, the `path` to fetch, file size and license | Always, first |
 | [metadata/data-dictionary.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/data-dictionary.csv) | Definition of every field in a trial file | When the user asks what a field means |
-| [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file, release schema v2.0 | When the user wants to validate or parse files programmatically |
+| [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file, release schema v2.1 | When the user wants to validate or parse files programmatically |
 | `data/<crop>/<crop>-<iso3>-<trial_id>.json` | The trial itself, raw URL `https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/` followed by the `path` in `datasets.csv` | Only the trials the question needs |
 
 Take the path from `datasets.csv` and never compose a file name. `metadata.variables` inside each file defines every column.
@@ -36,13 +36,13 @@ Your role is to help the user use the data, never to change them. Only the trico
 
 ## Structure of a trial file
 
-Every file follows release schema v2.0.
+Every file follows release schema v2.1.
 
 - `metadata` describes the trial, its producer, contributors, crop, participants, genotypes, funders and every variable, with harmonised question ids, Crop Ontology terms, value types and units.
-- `site_data` has one row per site (the farm or household that grew a package of three genotypes), with displaced coordinates, administrative names where recorded and the participant-level answers.
-- `plot_data` is the long table of observations, one row per site, plot, collection moment and trait. `value` is stored as text and read according to `value_type` (rank, numeric, date, categorical, multiple or vs_local). Rankings are positions within the site, 1 is best.
+- `site_data` has one row per site (the farm or household that grew a package of three genotypes), with coordinates rounded to two decimals, administrative names where recorded and the participant-level answers.
+- `plot_data` is the long table of observations, one row per site, plot, collection moment and trait. `value` is stored as text and read according to `value_type` (rank, numeric, date, categorical, multiple or vs_local). Rankings are positions within the site, 1 is best. `moment_days` is the planned day of the collection moment, the same for every site, and `moment_date` is the date it took place at that site, null when not recorded. Use `moment_date` to link observations to weather.
 
-Site and plot rows link through `site_id`.
+Site and plot rows link through `site_id`. Files with `pvs` in the name are researcher-managed companion trials. A tricot trial lists them in `metadata.companions`, they point back through `metadata.companion_of`, and the two join on `genotype_name`. Filter `datasets.csv` on `management` to keep only the farmer-managed tricot trials.
 
 ## Load and model the rankings in R
 
@@ -70,7 +70,8 @@ For linking trials with climate, soil or other environmental data, and for the t
 
 ## Caveats to state
 
-- Coordinates in `site_data` are displaced to protect participants. They are fine for regional climate and soil data, not for field-level analysis.
+- Coordinates in `site_data` are rounded to two decimals to protect participants, so a point lies within about 800 m of the recorded one. They are fine for climate and soil data, not for field-level analysis.
+- A companion link may name a file that is not in the release yet. Check the `path` column of `datasets.csv` before fetching it.
 - Trait names are harmonised across trials, and `trait_original` keeps the label used in the trial. Match variables through `metadata$variables`, its `harmonised_id` and `ontology_id`, not by name alone.
 - Some fields are still being harmonized across partners. When a field is missing or uses another name, say so rather than guessing.
 - Data were collected by many partners for different purposes. Say which institute produced a trial when you report its results.
