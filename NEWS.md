@@ -9,8 +9,8 @@ To be released with the next batch of trials.
 - Researcher-managed companion trials are new in the release. Their files carry `pvs` in the name, and `metadata.companions` and `metadata.companion_of` link them to the tricot trials on the same genotypes.
 - Producers, project leaders, members and funders were confirmed with the partners for the India, Ethiopia, Central America, Nigeria and Laos trials.
 - `docs/trial-locations.png` maps the trials in this repository and `docs/trial-locations-global.png` all trials described in the data paper. Both use the Equal Earth projection. The cropped paper map is removed.
-- The data paper draft has the current map, counts and author list, 181 authors with one headquarters address per institution.
-- `CITATION.cff` and `.zenodo.json` carry the same 181 authors. Both are now written by one script from `metadata/project-metadata.xlsx` and are updated with every batch.
+- The data paper draft has the current map, counts and author list, 182 authors with one headquarters address per institution.
+- `CITATION.cff` and `.zenodo.json` carry the same 182 authors. Both are now written by one script from `metadata/project-metadata.xlsx` and are updated with every batch.
 - The 64 trials of the first release first moved to release schema v2.0, built in the data managers' processing repository. No trial or site was added, and the files cover the same 18,570 sites.
 - Files now live at `data/<crop>/<crop>-<iso3>-<trial_id>.json`, one folder per crop. `datasets.csv` gives the `path` of each file, keyed by `trial_id`.
 - `block_data` is renamed `site_data` and gains country, crop and administrative names (region, district, village) where recorded. `plot_data` gains `moment_days`, harmonised trait names and ids, `trait_original`, `unit` and `flag`. `metadata.variables` now gives the harmonised question id, Crop Ontology term, value type and unit of every column.
