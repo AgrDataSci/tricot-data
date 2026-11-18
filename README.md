@@ -145,9 +145,9 @@ Each release also carries every trial in three parquet tables, built from the JS
 
 | Table | One row per | Source in the JSON |
 |---|---|---|
-| [`plots.parquet`](https://github.com/bjyberg/tricot-data/releases/latest/download/plots.parquet) | plot, collection moment and trait | `plot_data` |
-| [`sites.parquet`](https://github.com/bjyberg/tricot-data/releases/latest/download/sites.parquet) | site | `site_data` |
-| [`variables.parquet`](https://github.com/bjyberg/tricot-data/releases/latest/download/variables.parquet) | trial and variable | `metadata.variables` |
+| [`plots.parquet`](https://github.com/AgrDataSci/tricot-data/releases/latest/download/plots.parquet) | plot, collection moment and trait | `plot_data` |
+| [`sites.parquet`](https://github.com/AgrDataSci/tricot-data/releases/latest/download/sites.parquet) | site | `site_data` |
+| [`variables.parquet`](https://github.com/AgrDataSci/tricot-data/releases/latest/download/variables.parquet) | trial and variable | `metadata.variables` |
 
 Columns are those of the JSON plus `trial_id`, so `rank_tricot2()` reads the plots table as it reads `plot_data`. Use them to pool trials or to filter on site variables. The JSON stays the full record, with the metadata the tables leave out.
 
