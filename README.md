@@ -129,13 +129,21 @@ path = idx$path[idx$trial_id == "88f82a3f073e"]
 # Load the trial
 dat = fromJSON(paste0(base, path))
 
-# study metadata
+# Study metadata, and what adm1 to adm5 are in the country of the trial
 dat$metadata$study
+dat$metadata$admin_levels
 
-# Prepare and model rankings by trait × collection moment
+# Sites, with the standard column names of schema 3.0
+site = dat$site_data
+head(site[, c("site_id", "country", "crop", "adm1", "adm2", "location",
+              "longitude", "latitude", "geo_source", "farmer_gender", "planting_date")])
+
+# Rankings by collection moment and trait.
+# trait is the standard name, the same across trials. trait_original is the
+# question code of the trial, and keeps apart two questions on the same trait.
 R = dat$plot_data
 R = R[R$value_type == "rank", ]
-R$traitmoment = paste(R$collection_moment, R$trait, sep = " - ")
+R$traitmoment = paste(R$collection_moment, R$trait, R$trait_original, sep = " - ")
 
 R = split(R, R$traitmoment)
 R = lapply(R, function(x) {
@@ -148,7 +156,37 @@ R = lapply(R, function(x) {
 })
 
 mod = lapply(R, PlackettLuce)
+
+# Measured values. value_standard is the value in the standard unit of the
+# trait (unit_standard), the same unit in every trial.
+Y = dat$plot_data
+Y = Y[Y$trait == "yield" & Y$value_type == "numeric", ]
+
+# A yield flagged "derived" was computed from the plot weight and the plot area.
+# "plot_area_assumed" marks a protocol plot size, not a reported one. Drop these
+# to keep only yields from reported or published plot areas.
+Y = Y[!grepl("plot_area_assumed", Y$flag), ]
+Y$yield_kg_ha = as.numeric(Y$value_standard)
+
+aggregate(yield_kg_ha ~ genotype_name, data = Y, FUN = median)
 ```
+
+### Moving code from schema 2.1 to 3.0
+
+Code written for the earlier files needs these changes.
+
+| In schema 2.1 | In schema 3.0 |
+|---|---|
+| `site_data$country_name`, `site_data$crop_name` | `site_data$country`, `site_data$crop` |
+| `coordinate_source`, `coordinate_uncertainty_m`, `coordinate_flag` | `geo_source`, `geo_uncertainty`, `geo_flag` |
+| `adm1`, `adm2`, `adm3` as region, district, village | `adm1` to `adm5` as defined for the country in `metadata$admin_levels`, and `location` for the village |
+| `gender`, `plot_area_m2` and other site columns | standard names such as `farmer_gender` and `plot_area`. The earlier name of each column is in `metadata$variables$original_name` |
+| trait names such as `overallchar` or `yieldperse` | standard names such as `overall_performance`, `yield_plot` (plot weight) and `yield` (kg/ha). The question code of the trial stays in `trait_original` |
+| `value` and `unit` for measurements | unchanged, with `value_standard` and `unit_standard` added. Use these to combine trials |
+| one flag in `flag` | one or more flags separated by `;`, so test with `grepl()` and not with `==` |
+| collection moment labels | unchanged, with `standard_moment` added in `metadata$study$collection_moments` |
+
+The table and column structure is the same. `plot_data` is still one row per site, plot, collection moment and trait, and links to `site_data` through `site_id`.
 For more information, check the [gosset package documentation](https://agrdatasci.github.io/gosset/).
 
 ## Report an error

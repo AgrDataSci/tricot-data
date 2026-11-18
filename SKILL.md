@@ -57,14 +57,22 @@ dat = fromJSON(paste0(base, idx$path[idx$trial_id == "88f82a3f073e"]))
 
 R = dat$plot_data
 R = R[R$value_type == "rank", ]
-R$traitmoment = paste(R$collection_moment, R$trait, sep = " - ")
+# trait is the standard name; trait_original keeps apart two questions on the same trait
+R$traitmoment = paste(R$collection_moment, R$trait, R$trait_original, sep = " - ")
 
 R = lapply(split(R, R$traitmoment), function(x) {
   rank_tricot2(data = x, items = "genotype_name", input = "value", id = "site_id")
 })
 
 mod = lapply(R, PlackettLuce)
+
+# measured values in the standard unit, without yields from assumed plot areas
+Y = dat$plot_data
+Y = Y[Y$trait == "yield" & Y$value_type == "numeric" & !grepl("plot_area_assumed", Y$flag), ]
+Y$yield_kg_ha = as.numeric(Y$value_standard)
 ```
+
+Schema 3.0 renamed columns and traits. In code written for earlier files, `country_name` and `crop_name` are now `country` and `crop`, the `coordinate_*` columns are `geo_source`, `geo_uncertainty` and `geo_flag`, `gender` is `farmer_gender`, and trait names follow the standard list. The README has the full table. `flag` can hold several flags separated by `;`, so test it with `grepl()`.
 
 For linking trials with climate, soil or other environmental data, and for the team's analytical approaches, follow [tricot-analysis-workflows](https://github.com/AgrDataSci/tricot-analysis-workflows).
 
