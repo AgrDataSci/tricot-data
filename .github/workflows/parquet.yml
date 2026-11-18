@@ -25,8 +25,9 @@ jobs:
 
       - name: Attach to the release
         if: github.event_name == 'release'
-        run: gh release upload "${{ github.event.release.tag_name }}" build/parquet/*.parquet --clobber
+        run: gh release upload "$TAG" build/parquet/*.parquet --clobber
         env:
+          TAG: ${{ github.event.release.tag_name }}
           GH_TOKEN: ${{ github.token }}
 
       - name: Keep as an artifact
