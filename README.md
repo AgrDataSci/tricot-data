@@ -41,6 +41,8 @@ The files hold observations only. Model results such as Plackett-Luce estimates 
 
 Site and plot rows link through `site_id`. `metadata.variables` lists every column of `site_data` and `plot_data` with its description, harmonised question id, Crop Ontology term, value type and unit. Rankings are the position of each genotype within its site, where 1 is best. Traits, site variables and collection moments have one standard name per concept across trials, after the review by Robert J. Hijmans. `trait_original` keeps the question code of the trial, `metadata.variables[].original_name` the name of a site variable before the standard name, and `standard_moment` in `metadata.study.collection_moments` gives the stage of each moment.
 
+**Small trials.** 16 farmer-managed trials have fewer than 15 sites, 136 sites in all. A trial of that size cannot rank its varieties on its own. Treat it as a record of which varieties were tested where, or pool it with other trials of the same crop and programme that share varieties, as the ISSD trials of Ethiopia do. Seven of these trials, from the GEF project in India, share no variety with any other trial and are descriptive only. They stay in the release because they hold three crops (black gram, rice bean and small millets) and about 140 varieties that no other trial has. To leave small trials out, filter [`datasets.csv`](datasets.csv) on `n_sites`. The 22 mother trials of participatory varietal selection with fewer than 15 sites are small by design, since researchers run them on a few plots.
+
 **Yield.** `yield_plot` is the weight harvested from the plot and `yield` the yield per area in kg/ha. A `yield` with the flag `derived` was computed from the plot weight and the plot area. Where the trial reported no plot area, the area comes from the tricot protocol for the crop, and the yield also carries `plot_area_assumed`. Filter on that flag to keep only yields from reported or published plot areas. `site_data.plot_area_source` says where each plot area comes from.
 
 ``` text
@@ -105,6 +107,7 @@ Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-diction
 ├── AGENTS.md       Short instructions for AI agents using the data
 ├── MAINTAINERS.md  Guide for the tricot data managers
 ├── NEWS.md         What each release added
+├── script/         build-parquet.py, which builds the parquet tables attached to each release
 ```
 
 ## Use with AI assistants
@@ -188,6 +191,18 @@ Code written for the earlier files needs these changes.
 
 The table and column structure is the same. `plot_data` is still one row per site, plot, collection moment and trait, and links to `site_data` through `site_id`.
 For more information, check the [gosset package documentation](https://agrdatasci.github.io/gosset/).
+
+## Analysis tables (parquet)
+
+Each release also carries every trial in three parquet tables, built from the JSON by [`script/build-parquet.py`](script/build-parquet.py):
+
+| Table | One row per | Source in the JSON |
+|---|---|---|
+| [`plots.parquet`](https://github.com/AgrDataSci/tricot-data/releases/latest/download/plots.parquet) | plot, collection moment and trait | `plot_data` |
+| [`sites.parquet`](https://github.com/AgrDataSci/tricot-data/releases/latest/download/sites.parquet) | site | `site_data` |
+| [`variables.parquet`](https://github.com/AgrDataSci/tricot-data/releases/latest/download/variables.parquet) | trial and variable | `metadata.variables` |
+
+Columns are those of the JSON plus `trial_id`, so `rank_tricot2()` reads the plots table as it reads `plot_data`. Use them to pool trials or to filter on site variables. The JSON stays the full record, with the metadata the tables leave out.
 
 ## Report an error
 

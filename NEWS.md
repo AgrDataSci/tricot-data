@@ -4,6 +4,7 @@
 
 To be released with the next batch of trials.
 
+- Each release carries every trial in three parquet tables, `plots`, `sites` and `variables`, built from the trial files by `script/build-parquet.py` (Brayden Youngberg) and attached to the release. They follow schema v3.0 column for column, with `trial_id` added. The JSON files stay the full record.
 - All files move to release schema v3.0, which adopts the standardization that Robert J. Hijmans built and reviewed for this dataset. The 431 trials and 70,650 sites are the same.
 - Traits, site variables and collection moments have one standard name per concept across trials. `trait_original` keeps the question code of the trial, `metadata.variables[].original_name` the earlier name of a site variable, and `metadata.study.collection_moments` gains `standard_moment`, `visit` and `assessor`. The site columns `country_name`, `crop_name`, `coordinate_source`, `coordinate_uncertainty_m` and `coordinate_flag` are now `country`, `crop`, `geo_source`, `geo_uncertainty` and `geo_flag`.
 - Measured values gain `value_standard` and `unit_standard`, the value in one unit per trait. `value` and `unit` stay as recorded. `yield_plot` is the weight harvested from the plot and `yield` the yield per area in kg/ha.
@@ -11,6 +12,7 @@ To be released with the next batch of trials.
 - Administrative units sit in `adm1` to `adm5` as defined for the country, with the village in `location`. Names follow GADM 4.1 where they match. `metadata.admin_levels` says what each level is in the country.
 - Categorical answers of the site table have one spelling across trials, in English.
 - 13 site dates that were clear typing errors are repaired, by a rule that changes a date only when the other sites of the trial show what it should be.
+- The README and `SKILL.md` say how to treat the 16 farmer-managed trials with fewer than 15 sites, which stay in the release.
 - Joachim Madeni of the Tanzania Agricultural Research Institute, who leads the groundnut programme, joins the author list of the paper, `CITATION.cff` and `.zenodo.json`.
 - The five groundnut trials of Tanzania and the six cowpea trials of IITA in Nigeria name their programme as the Dryland Crops Program (DCP, formerly AVISA) and 1000FARMS, in place of the Africa Dryland Crops Improvement Network (ADCIN). Variety details follow the variety catalogue of groundnuts in Tanzania, with release year 2018 for Naliendele 2016 and Tanzanut 2016 and the original ICRISAT codes in the remarks.
 - The release grows from 64 to 431 trials and from 18,570 to 70,650 sites, across 38 crops in 14 countries. New are 114 trials from India (Seeds for Needs, the UNEP-GEF project and the ICAR-Bioversity workplan trials of 2025, with 34 mother trials of participatory varietal selection), 220 from Ethiopia (ISSD Ethiopia and the Seeds for Needs durum wheat trials), the bean trials of Central America, three cowpea trials from Ghana and four pearl millet trials from Nigeria. The Laos forage trial gains its entry descriptions, authors and funders.

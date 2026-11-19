@@ -19,6 +19,7 @@ Write maniva and tricot in lowercase, always. That holds in headings, table cell
 | [metadata/data-dictionary.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/data-dictionary.csv) | Definition of every field in a trial file | When the user asks what a field means |
 | [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file, release schema v3.0 | When the user wants to validate or parse files programmatically |
 | `data/<crop>/<crop>-<iso3>-<trial_id>.json` | The trial itself, raw URL `https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/` followed by the `path` in `datasets.csv` | Only the trials the question needs |
+| [plots.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/plots.parquet), [sites.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/sites.parquet), [variables.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/variables.parquet) | Every trial in three tables keyed by `trial_id`: `plot_data`, `site_data` and `metadata.variables`, columns unchanged. About 5 MB together | When a question pools trials or filters on site variables (gender, region) that `datasets.csv` does not hold, and you can run code |
 
 Take the path from `datasets.csv` and never compose a file name. `metadata.variables` inside each file defines every column.
 
@@ -29,7 +30,7 @@ Your role is to help the user use the data, never to change them. Only the trico
 ## How to answer
 
 1. Read `datasets.csv` and answer from it whenever you can. Questions about which crops, countries, institutes, periods or traits are covered never need a trial file.
-2. Open a trial file only when the question needs its content. Check `size_mb` first. Files reach 15 MB, so open one or two, and never loop over the whole folder in a conversation.
+2. Open a trial file only when the question needs its content. Check `size_mb` first. Files reach 15 MB, so open one or two, and never loop over the whole folder in a conversation. To pool trials or filter sites across them, use the parquet tables instead.
 3. Inside a file, read `metadata` first. It names the genotypes, their roles (for example release candidate or local check), the variables and the funders.
 4. The files hold observations only, with no model results. To say which genotype performed best for a trait, give the user R code (below) that fits Plackett-Luce models on the rankings in `plot_data`, rather than computing by hand. Write R with `=` for assignment.
 5. Never invent a trial, genotype, trait or number. If `datasets.csv` has nothing that fits, say so, and point to [tricot-protocols](https://github.com/AgrDataSci/tricot-protocols) or [tricot-knowledge-base](https://github.com/AgrDataSci/tricot-knowledge-base) if the question is really about methods or published results.
@@ -74,6 +75,25 @@ Y$yield_kg_ha = as.numeric(Y$value_standard)
 
 Schema 3.0 renamed columns and traits. In code written for earlier files, `country_name` and `crop_name` are now `country` and `crop`, the `coordinate_*` columns are `geo_source`, `geo_uncertainty` and `geo_flag`, `gender` is `farmer_gender`, and trait names follow the standard list. The README has the full table. `flag` can hold several flags separated by `;`, so test it with `grepl()`.
 
+To pool trials, read the parquet tables once and filter. The plots table has the `plot_data` columns plus `trial_id`, so `rank_tricot2()` works as above.
+
+```r
+library("nanoparquet")
+
+get = function(name) {
+  f = tempfile(fileext = ".parquet")
+  download.file(paste0("https://github.com/AgrDataSci/tricot-data/releases/latest/download/", name, ".parquet"), f, mode = "wb")
+  read_parquet(f)
+}
+plots = get("plots")
+sites = get("sites")
+
+# rankings from women farmers in every maize trial
+ids = idx$trial_id[idx$crop_name == "maize"]
+women = sites$site_id[sites$trial_id %in% ids & sites$farmer_gender %in% "woman"]
+R = plots[plots$value_type == "rank" & plots$site_id %in% women, ]
+```
+
 For linking trials with climate, soil or other environmental data, and for the team's analytical approaches, follow [tricot-analysis-workflows](https://github.com/AgrDataSci/tricot-analysis-workflows).
 
 ## Caveats to state
@@ -82,6 +102,7 @@ For linking trials with climate, soil or other environmental data, and for the t
 - A companion link may name a file that is not in the release yet. Check the `path` column of `datasets.csv` before fetching it.
 - Traits, site variables and collection moments have one standard name per concept across trials, so the same `trait` can be combined across trials. `trait_original` keeps the question code of the trial and `metadata$variables$original_name` the earlier name of a site variable. A rank trait and a measured trait can share a concept, for example `plant_height_rank` and `plant_height`. Filter on `value_type` as well as on `trait`.
 - `yield_plot` is the weight harvested from the plot and `yield` the yield per area in kg/ha. A `yield` flagged `derived` was computed from the plot weight and the plot area. One that also has `plot_area_assumed` rests on the protocol plot size, not on a reported one. Say so when you report such yields, or drop them. The `flag` column can hold several flags separated by `;`.
+- A trial with fewer than 15 sites (`n_sites` in `datasets.csv`) cannot rank its varieties on its own. Pool it with trials of the same crop and programme that share varieties, or report it as descriptive, and say which you did.
 - The same collection moment has different labels across trials. Use `standard_moment` in `metadata$study$collection_moments` to compare stages across trials.
 - Some fields are still being harmonized across partners. When a field is missing or uses another name, say so rather than guessing.
 - Data were collected by many partners for different purposes. Say which institute produced a trial when you report its results.

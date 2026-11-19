@@ -15,6 +15,12 @@ Read SKILL.md before answering, and start every question from datasets.csv. The 
 - [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json): JSON Schema of a trial file
 - [README.md](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/README.md): overview, structure and citation
 
+## Analysis tables
+
+- [plots.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/plots.parquet): every trial's plot_data in one table, with trial_id
+- [sites.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/sites.parquet): every trial's site_data in one table
+- [variables.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/variables.parquet): every trial's variable definitions
+
 ## Related layers
 
 - [maniva](https://raw.githubusercontent.com/AgrDataSci/maniva/main/SKILL.md): entry point to all layers
