@@ -4,6 +4,9 @@
 
 To be released with the next batch of trials.
 
+- 27 trials from Tanzania join the release, which now holds 458 trials and 73,896 sites. They are 25 common bean trials of the International Center for Tropical Agriculture (CIAT) and the Tanzania Agricultural Research Institute (TARI) run from 2021 to 2024, the common bean trial of One Acre Fund of 2021, and the maize and common bean intercrop trial of TARI of 2022, filed under maize. The CIAT and TARI trials belong to the Pan-Africa Bean Research Alliance (PABRA) and were funded by AVISA and 1000FARMS. Each file names its project leader, project managers and members.
+- Clare M Mukankusi and Jean Claude Rubyogo of CIAT join the author list of the paper, `CITATION.cff` and `.zenodo.json`, which now hold 185 authors. Teshale M. Assefa is listed as Teshale Assefa Mamo and Fadhili Kasubiri as Fadhili Salum Kasubiri.
+- `docs/trial-locations.png` and `docs/trial-xy.csv` show the 458 trials.
 - Each release carries every trial in three parquet tables, `plots`, `sites` and `variables`, built from the trial files by `script/build-parquet.py` (Brayden Youngberg) and attached to the release. They follow schema v3.0 column for column, with `trial_id` added. The JSON files stay the full record.
 - All files move to release schema v3.0, which adopts the standardization that Robert J. Hijmans built and reviewed for this dataset. The 431 trials and 70,650 sites are the same.
 - Traits, site variables and collection moments have one standard name per concept across trials. `trait_original` keeps the question code of the trial, `metadata.variables[].original_name` the earlier name of a site variable, and `metadata.study.collection_moments` gains `standard_moment`, `visit` and `assessor`. The site columns `country_name`, `crop_name`, `coordinate_source`, `coordinate_uncertainty_m` and `coordinate_flag` are now `country`, `crop`, `geo_source`, `geo_uncertainty` and `geo_flag`.
