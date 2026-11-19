@@ -46,3 +46,6 @@ script/dev
 
 
 
+
+# Parquet tables built by script/build-parquet.py
+build/

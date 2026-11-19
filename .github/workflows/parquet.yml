@@ -1,0 +1,38 @@
+# Builds plots, sites and variables parquet from the trial JSON and attaches them to each
+# published release. Run it by hand to build without a release; the files are then kept as
+# a workflow artifact. The build fails if any trial's row counts differ from datasets.csv.
+
+name: parquet
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Build plots, sites and variables
+        run: uv run script/build-parquet.py
+
+      - name: Attach to the release
+        if: github.event_name == 'release'
+        run: gh release upload "$TAG" build/parquet/*.parquet --clobber
+        env:
+          TAG: ${{ github.event.release.tag_name }}
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Keep as an artifact
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v4
+        with:
+          name: parquet
+          path: build/parquet/*.parquet
