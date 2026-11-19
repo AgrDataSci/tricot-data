@@ -1,6 +1,6 @@
 # Builds plots, sites and variables parquet from the trial JSON and attaches them to each
-# published release. Run it by hand to build without a release; the files are then kept as
-# a workflow artifact. The build fails if any trial's row counts differ from datasets.csv.
+# published release. It also runs by hand and on pull requests that touch the script or the
+# schema; the files are then kept as a workflow artifact. The build fails if any trial's row counts differ from datasets.csv.
 
 name: parquet
 
@@ -8,6 +8,12 @@ on:
   release:
     types: [published]
   workflow_dispatch:
+  # Check the build before a change to the script or the schema reaches main
+  pull_request:
+    paths:
+      - script/build-parquet.py
+      - metadata/tricot-trial.schema.json
+      - .github/workflows/parquet.yml
 
 permissions:
   contents: write
@@ -31,7 +37,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
 
       - name: Keep as an artifact
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name != 'release'
         uses: actions/upload-artifact@v4
         with:
           name: parquet

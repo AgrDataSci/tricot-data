@@ -6,9 +6,10 @@
 
     uv run script/build-parquet.py
 
-Types come from the release schema, not from sampling the data. Exits non-zero if any
-trial's row counts differ from datasets.csv."""
+Columns and types come from metadata/tricot-trial.schema.json, not from sampling the data.
+Exits non-zero if any trial's row counts differ from datasets.csv."""
 
+import json
 import os
 from pathlib import Path
 
@@ -18,16 +19,24 @@ import duckdb
 os.chdir(Path(__file__).resolve().parent.parent)
 OUT = "build/parquet"
 
-# Columns of tricot-trial.schema.json; keys not listed are ignored
-PLOT = """STRUCT(site_id VARCHAR, plot VARCHAR, genotype_name VARCHAR, collection_moment VARCHAR,
-  moment_days INTEGER, trait VARCHAR, trait_id INTEGER, trait_original VARCHAR, value VARCHAR,
-  value_type VARCHAR, unit VARCHAR, flag VARCHAR, rep INTEGER, block INTEGER, "row" INTEGER,
-  col INTEGER, entry_type VARCHAR)[]"""
-VARIABLE = """STRUCT(level VARCHAR, variable_name VARCHAR, description VARCHAR,
-  description_language VARCHAR, description_original VARCHAR, original_language VARCHAR,
-  harmonised_id INTEGER, ontology_id VARCHAR, value_type VARCHAR, unit VARCHAR, basis VARCHAR,
-  controlled_vocabulary VARCHAR)[]"""
+# Records of the release schema, read from the schema file so new columns follow it
+SCHEMA = json.loads(Path("metadata/tricot-trial.schema.json").read_text())["$defs"]
 
+
+def struct(record: str) -> str:
+    """DuckDB type of a list of schema records: integer where the schema says so, text for the rest."""
+
+    def kind(prop: dict) -> str:
+        types = prop.get("type", [])
+        types = {types} if isinstance(types, str) else set(types)
+        return "INTEGER" if types - {"null"} == {"integer"} else "VARCHAR"
+
+    fields = ", ".join(f'"{name}" {kind(prop)}' for name, prop in SCHEMA[record]["properties"].items())
+    return f"STRUCT({fields})[]"
+
+
+PLOT = struct("plot")
+VARIABLE = struct("variable")
 
 con = duckdb.connect()
 Path(OUT).mkdir(parents=True, exist_ok=True)
@@ -75,4 +84,10 @@ bad = con.execute(f"""
     WHERE built_plot_rows IS DISTINCT FROM n_plot_rows OR built_sites IS DISTINCT FROM n_sites""").fetchall()
 if bad:
     raise SystemExit(f"{len(bad)} trials differ from datasets.csv: {bad[:5]}")
+for table in ("plots", "sites", "variables"):
+    rows, cols = con.execute(f"""
+        SELECT (SELECT count(*) FROM '{OUT}/{table}.parquet'),
+               (SELECT count(*) FROM (DESCRIBE SELECT * FROM '{OUT}/{table}.parquet'))""").fetchone()
+    size = Path(f"{OUT}/{table}.parquet").stat().st_size / 1e6
+    print(f"{table}: {rows} rows, {cols} columns, {size:.1f} MB")
 print("row counts match datasets.csv")
