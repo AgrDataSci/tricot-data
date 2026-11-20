@@ -5,7 +5,7 @@
 To be released with the next batch of trials.
 
 - Four sorghum trials of Maseno University in Homabay and Migori counties, Kenya, join the release (2021 and 2022, 879 sites, 12 varieties), led by Evans Ochieng Ouma. The release now holds 468 trials and 83,490 sites across 40 crops in 17 countries, from 19 data producers.
-- Mainassara Zaman-Allah leaves the author list of the paper, `CITATION.cff` and `.zenodo.json`, which now hold 189 authors.
+- Mainassara Zaman-Allah leaves the author list of the paper, `CITATION.cff` and `.zenodo.json`, which now hold 189 authors. His Zimbabwe maize project of 2023 held registration data only and leaves the dataset the paper describes, which now counts 600 trials, 553 of them farmer-managed, with 102,539 tricot sites in 22 countries. The cumulative sites figure is redrawn.
 - The banana trial of the Centre de coopération internationale en recherche agronomique pour le développement (CIRAD) in Guadeloupe joins the release (RéVAI project, 28 farms, four CIRAD dessert banana hybrids, 2023 to 2024). Banana and Guadeloupe are new to the release. The file credits Lucile Toniutti, Coline Tourreille, Thierry Van Kin Tran and Charlotte Chemarin, and the thesis of Tourreille (2024, Norwegian University of Life Sciences) describes the trial.
 - CIRAD is named by its full French name in every file, with ROR https://ror.org/05kpkpg04. The cassava concept test of Colombia carries it as partner.
 - Lucile Toniutti, Coline Tourreille and Charlotte Chemarin (CIRAD), Geon Kang (Scuola Superiore Sant'Anna) and Evans Ochieng Ouma (Maseno University) join the author list of the paper, `CITATION.cff` and `.zenodo.json`.
