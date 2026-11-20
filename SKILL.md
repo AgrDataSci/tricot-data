@@ -106,6 +106,7 @@ For linking trials with climate, soil or other environmental data, and for the t
 - The same collection moment has different labels across trials. Use `standard_moment` in `metadata$study$collection_moments` to compare stages across trials.
 - Some fields are still being harmonized across partners. When a field is missing or uses another name, say so rather than guessing.
 - Five files have `type` "concept testing" in `datasets.csv`. Their items are product concepts shown in videos, not varieties, and no crop was grown. A ranking is a stated preference about a description. Never pool them with variety trials, and never report a concept as a variety.
+- Three files have `type` "consumer testing" in `datasets.csv`. Consumers tasted boiled roots of three genotypes and named the best and worst overall; no farmer grew them. Never pool them with field trials.
 - Two files, the maize concept tests of Kenya and Uganda, are under CC BY 4.0 and not CC0 1.0. Check the `license` column of `datasets.csv` and credit the source named in the file.
 - Data were collected by many partners for different purposes. Say which institute produced a trial when you report its results.
 
