@@ -23,7 +23,7 @@ The map below shows the trial sites that are currently available for public use,
 
 [`datasets.csv`](datasets.csv) is the finding aid. It lists every trial, one row each, with trial id, crop, taxon, country, data producer, start and end dates, type, management, objective, participants, sites, genotypes, collection moments, ranked traits, the `path` to fetch, file size and license. Start there, filter, then open only the files you need through their `path`. Never compose a file name yourself.
 
-The current release holds 458 trials and 73,896 sites across 38 crops in 14 countries, from 16 data producers. Of these, 424 are farmer-managed tricot trials and 34 are researcher-managed mother trials of participatory varietal selection in India, linked to the tricot trials on the same genotypes. The release covers the 64 trials of the first release and adds trials from India, Ethiopia, Central America, Ghana, Nigeria, Laos and Tanzania, all in the harmonised format described below.
+The current release holds 462 trials and 82,185 sites across 38 crops in 15 countries, from 17 data producers. Of these, 424 are farmer-managed tricot trials, 4 are video-based product concept tests and 34 are researcher-managed mother trials of participatory varietal selection in India, linked to the tricot trials on the same genotypes. The release covers the 64 trials of the first release and adds trials from India, Ethiopia, Central America, Ghana, Nigeria, Laos and Tanzania, all in the harmonised format described below.
 
 ## Data structure
 
@@ -41,6 +41,8 @@ The files hold observations only. Model results such as Plackett-Luce estimates 
 
 Site and plot rows link through `site_id`. `metadata.variables` lists every column of `site_data` and `plot_data` with its description, harmonised question id, Crop Ontology term, value type and unit. Rankings are the position of each genotype within its site, where 1 is best. Traits, site variables and collection moments have one standard name per concept across trials, after the review by Robert J. Hijmans. `trait_original` keeps the question code of the trial, `metadata.variables[].original_name` the name of a site variable before the standard name, and `standard_moment` in `metadata.study.collection_moments` gives the stage of each moment.
 
+**Concept tests.** Four files have `type` "concept testing" in `datasets.csv`, maize in Kenya and Uganda and groundnut and sorghum in Tanzania, by CIMMYT market intelligence. Each participant watched videos of three product concepts and named the one they would most and least like to acquire. The file has the same parts as a trial file. The items in `metadata.genotypes` are product concepts, descriptions of seed products that do not exist yet, with `role` "product concept", and no crop was grown. A ranking is a stated preference about a description. The two maize files also hold the household survey of the study, 30 variables on the household, its land, income, seed and what it did with the last harvest, with the interview point rounded to two decimals.
+
 **Small trials.** 16 farmer-managed trials have fewer than 15 sites, 136 sites in all. A trial of that size cannot rank its varieties on its own. Treat it as a record of which varieties were tested where, or pool it with other trials of the same crop and programme that share varieties, as the ISSD trials of Ethiopia do. Seven of these trials, from the GEF project in India, share no variety with any other trial and are descriptive only. They stay in the release because they hold three crops (black gram, rice bean and small millets) and about 140 varieties that no other trial has. To leave small trials out, filter [`datasets.csv`](datasets.csv) on `n_sites`. The 22 mother trials of participatory varietal selection with fewer than 15 sites are small by design, since researchers run them on a few plots.
 
 **Yield.** `yield_plot` is the weight harvested from the plot and `yield` the yield per area in kg/ha. A `yield` with the flag `derived` was computed from the plot weight and the plot area. Where the trial reported no plot area, the area comes from the tricot protocol for the crop, and the yield also carries `plot_area_assumed`. Filter on that flag to keep only yields from reported or published plot areas. `site_data.plot_area_source` says where each plot area comes from.
@@ -50,7 +52,7 @@ Site and plot rows link through `site_id`. `metadata.variables` lists every colu
 │   ├── schema_version                      "3.0"
 │   ├── changelog (version, date, notes, software)
 │   ├── identifier                          concept DOI, https://doi.org/10.5281/zenodo.17112491
-│   ├── license                             CC0-1.0
+│   ├── license                             CC0-1.0, or CC-BY-4.0 for the two maize concept tests
 │   ├── study
 │   │   ├── id                              trial id, the identity of the file
 │   │   ├── code, title, description        ClimMob project code and the trial as described by the producer
@@ -213,6 +215,8 @@ The data are maintained by the tricot data managers. If something looks wrong, [
 The dataset is archived on [Zenodo](https://doi.org/10.5281/zenodo.17112491). This DOI always resolves to the latest version.
 
 > The dataset is dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). You can use it without restriction. Please cite it, and the publications named in each trial's metadata, so that the farmers, data producers and funders behind the trials get credit.
+>
+> Two files are the exception. The maize concept tests of Kenya and Uganda (`6834d470d4cv`, `862ed6d6adfv`) keep the licence of their source, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so credit to the source named in their metadata is required. The `license` column of `datasets.csv` and `metadata.license` of each file say which licence applies.
 
 de Sousa, K., Laporte, M.-A., Abate, L., Abdulmalik, R. O., Abidin, E., Abolore, B., Achigan-Dako, E. G., Adonia, J., Agawini, J., Aglinglo, L. A., Aguilar, A., Ahmed, H. O., Andrade Lopez, R. S., Angudubo, S., Arnaud, E., Asirifi, O., Assefa, T. M., Atieno, E. O., Atieno, M., Attamah, P., … van Etten, J. (2025). Global multi-crop agricultural trial data supported by citizen science [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.17112491
 
