@@ -23,7 +23,7 @@ The map below shows the trial sites that are currently available for public use,
 
 [`datasets.csv`](datasets.csv) is the finding aid. It lists every trial, one row each, with trial id, crop, taxon, country, data producer, start and end dates, type, management, objective, participants, sites, genotypes, collection moments, ranked traits, the `path` to fetch, file size and license. Start there, filter, then open only the files you need through their `path`. Never compose a file name yourself.
 
-The current release holds 472 trials and 85,372 sites across 41 crops in 18 countries, from 19 data producers. Of these, 433 are farmer-managed tricot trials, 5 are video-based product concept tests and 34 are researcher-managed mother trials of participatory varietal selection in India, linked to the tricot trials on the same genotypes. The release covers the 64 trials of the first release and adds trials from India, Ethiopia, Central America, Ghana, Nigeria, Laos, Tanzania, Kenya, Uganda, Mozambique, Colombia and Guadeloupe, all in the harmonised format described below.
+The current release holds 501 trials and 89,081 sites across 41 crops in 18 countries, from 19 data producers. Of these, 460 are farmer-managed tricot trials, 2 are consumer tests of boiled sweetpotato, 5 are video-based product concept tests and 34 are researcher-managed mother trials of participatory varietal selection in India, linked to the tricot trials on the same genotypes. The release covers the 64 trials of the first release and adds trials from India, Ethiopia, Central America, Ghana, Nigeria, Laos, Tanzania, Kenya, Uganda, Mozambique, Colombia and Guadeloupe, all in the harmonised format described below.
 
 ## Data structure
 
