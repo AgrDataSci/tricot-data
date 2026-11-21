@@ -4,6 +4,7 @@
 
 To be released with the next batch of trials.
 
+- The three TARI groundnut tricot trials of 2021 to 2023 now name the publications that use them: Daudi et al. (2026) in Food and Energy Security, and the groundnut market intelligence report of Rutsaert et al. (2023).
 - The four CIMMYT market intelligence concept tests (maize in Kenya and Uganda, groundnut and sorghum in Tanzania) become the replication data of the publications they support: Donovan et al. (2025) and Rutsaert et al. (2023) for maize, Rutsaert et al. (2023) for groundnut, and Mbugua et al. (2024) for sorghum. CIMMYT agreed to their release. The two maize files move from CC BY 4.0 to CC0 1.0, so every file in the release is now CC0 1.0. The CIMMYT Dataverse deposits stay named as another version of the data.
 - The authors of those publications who helped design the concepts are credited on the trials: Joy Masimane, Victor Kitoto, Happy Daudi, Justus Ochieng, Jean Claude Rubyogo and Christopher Ochieng Ojiewo on groundnut; Mercy Mbugua, Harish Gandhi, Tamerlane Mark Nas, Noel Templer, Christopher Ochieng Ojiewo, Lilian Gichuru and Emmanuel Mwenda on sorghum; Jacob van Etten on maize and groundnut.
 - Trial contributors now carry their ORCID iD wherever one is known. Most trial files gain ORCID iDs, most often for Kauê de Sousa and Jacob van Etten, the Central American common bean team, and the CIP sweetpotato teams in Ghana and Uganda.
