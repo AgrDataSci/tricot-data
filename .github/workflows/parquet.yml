@@ -1,6 +1,8 @@
 # Builds plots, sites and variables parquet from the trial JSON and attaches them to each
-# published release. It also runs by hand and on pull requests that touch the script or the
-# schema; the files are then kept as a workflow artifact. The build fails if any trial's row counts differ from datasets.csv.
+# published release. A push of data to main refreshes the files on the rolling `dev` pre-release.
+# It also runs by hand and on pull requests that touch the data, the script or the schema; the
+# files are then kept as a workflow artifact. The build fails if any trial's row counts differ
+# from datasets.csv.
 
 name: parquet
 
@@ -8,15 +10,29 @@ on:
   release:
     types: [published]
   workflow_dispatch:
-  # Check the build before a change to the script or the schema reaches main
+  # Rolling build: refresh the files on the `dev` pre-release when the data reaches main
+  push:
+    branches: [main]
+    paths:
+      - data/**
+      - datasets.csv
+      - script/build-parquet.py
+      - metadata/tricot-trial.schema.json
+      - .github/workflows/parquet.yml
+  # Check the build before a change to the data, the script or the schema reaches main
   pull_request:
     paths:
+      - data/**
+      - datasets.csv
       - script/build-parquet.py
       - metadata/tricot-trial.schema.json
       - .github/workflows/parquet.yml
 
 permissions:
   contents: write
+
+# Runs for the same ref wait their turn, so an older build never overwrites a newer one
+concurrency: parquet-${{ github.ref }}
 
 jobs:
   build:
@@ -36,8 +52,20 @@ jobs:
           TAG: ${{ github.event.release.tag_name }}
           GH_TOKEN: ${{ github.token }}
 
+      - name: Refresh the dev pre-release
+        if: github.event_name == 'push'
+        run: |
+          # Create the pre-release once, overwrite its files, then move the dev tag to this commit
+          gh release view dev > /dev/null 2>&1 || gh release create dev --prerelease --target "$GITHUB_SHA" \
+            --title "dev (rolling build of main)" \
+            --notes "Parquet files built from the newest data on main. Overwritten on every change. Not a stable release."
+          gh release upload dev build/parquet/*.parquet --clobber
+          git push --force origin HEAD:refs/tags/dev
+        env:
+          GH_TOKEN: ${{ github.token }}
+
       - name: Keep as an artifact
-        if: github.event_name != 'release'
+        if: github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'
         uses: actions/upload-artifact@v4
         with:
           name: parquet
