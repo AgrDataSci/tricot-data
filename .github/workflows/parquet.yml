@@ -1,7 +1,8 @@
 # Builds plots, sites and variables parquet from the trial JSON and attaches them to each
 # published release. A push of data to main refreshes the files on the rolling `dev` pre-release.
-# It also runs by hand and on pull requests that touch the script or the
-# schema; the files are then kept as a workflow artifact. The build fails if any trial's row counts differ from datasets.csv.
+# It also runs by hand and on pull requests that touch the data, the script or the schema; the
+# files are then kept as a workflow artifact. The build fails if any trial's row counts differ
+# from datasets.csv.
 
 name: parquet
 
@@ -18,9 +19,11 @@ on:
       - script/build-parquet.py
       - metadata/tricot-trial.schema.json
       - .github/workflows/parquet.yml
-  # Check the build before a change to the script or the schema reaches main
+  # Check the build before a change to the data, the script or the schema reaches main
   pull_request:
     paths:
+      - data/**
+      - datasets.csv
       - script/build-parquet.py
       - metadata/tricot-trial.schema.json
       - .github/workflows/parquet.yml
