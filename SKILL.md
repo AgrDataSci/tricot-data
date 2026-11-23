@@ -19,7 +19,7 @@ Write maniva and tricot in lowercase, always. That holds in headings, table cell
 | [metadata/data-dictionary.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/data-dictionary.csv) | Definition of every field in a trial file | When the user asks what a field means |
 | [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file, release schema v3.0 | When the user wants to validate or parse files programmatically |
 | `data/<crop>/<crop>-<iso3>-<trial_id>.json` | The trial itself, raw URL `https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/` followed by the `path` in `datasets.csv` | Only the trials the question needs |
-| [plots.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/plots.parquet), [sites.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/sites.parquet), [variables.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/variables.parquet) | Every trial in three tables keyed by `trial_id`: `plot_data`, `site_data` and `metadata.variables`, columns unchanged. About 5 MB together | When a question pools trials or filters on site variables (gender, region) that `datasets.csv` does not hold, and you can run code |
+| [plots.parquet](https://github.com/AgrDataSci/tricot-data/releases/download/dev/plots.parquet), [sites.parquet](https://github.com/AgrDataSci/tricot-data/releases/download/dev/sites.parquet), [variables.parquet](https://github.com/AgrDataSci/tricot-data/releases/download/dev/variables.parquet) | Every trial in three tables keyed by `trial_id`: `plot_data`, `site_data` and `metadata.variables`, columns unchanged. About 5 MB together | When a question pools trials or filters on site variables (gender, region) that `datasets.csv` does not hold, and you can run code |
 
 Take the path from `datasets.csv` and never compose a file name. `metadata.variables` inside each file defines every column.
 
@@ -82,7 +82,7 @@ library("nanoparquet")
 
 get = function(name) {
   f = tempfile(fileext = ".parquet")
-  download.file(paste0("https://github.com/AgrDataSci/tricot-data/releases/latest/download/", name, ".parquet"), f, mode = "wb")
+  download.file(paste0("https://github.com/AgrDataSci/tricot-data/releases/download/dev/", name, ".parquet"), f, mode = "wb")
   read_parquet(f)
 }
 plots = get("plots")
