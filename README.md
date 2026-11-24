@@ -198,13 +198,13 @@ For more information, check the [gosset package documentation](https://agrdatasc
 
 ## Analysis tables (parquet)
 
-Each release also carries every trial in three parquet tables, built from the JSON by [`script/build-parquet.py`](script/build-parquet.py):
+Each release also carries every trial in three parquet tables, built from the JSON by [`script/build-parquet.py`](script/build-parquet.py). Until v2 is tagged, the links below point to the `dev` pre-release, rebuilt on every push to `main`:
 
 | Table | One row per | Source in the JSON |
 |---|---|---|
-| [`plots.parquet`](https://github.com/AgrDataSci/tricot-data/releases/latest/download/plots.parquet) | plot, collection moment and trait | `plot_data` |
-| [`sites.parquet`](https://github.com/AgrDataSci/tricot-data/releases/latest/download/sites.parquet) | site | `site_data` |
-| [`variables.parquet`](https://github.com/AgrDataSci/tricot-data/releases/latest/download/variables.parquet) | trial and variable | `metadata.variables` |
+| [`plots.parquet`](https://github.com/AgrDataSci/tricot-data/releases/download/dev/plots.parquet) | plot, collection moment and trait | `plot_data` |
+| [`sites.parquet`](https://github.com/AgrDataSci/tricot-data/releases/download/dev/sites.parquet) | site | `site_data` |
+| [`variables.parquet`](https://github.com/AgrDataSci/tricot-data/releases/download/dev/variables.parquet) | trial and variable | `metadata.variables` |
 
 Columns are those of the JSON plus `trial_id`, so `rank_tricot2()` reads the plots table as it reads `plot_data`. Use them to pool trials or to filter on site variables. The JSON stays the full record, with the metadata the tables leave out.
 

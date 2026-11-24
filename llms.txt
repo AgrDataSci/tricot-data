@@ -17,9 +17,9 @@ Read SKILL.md before answering, and start every question from datasets.csv. The 
 
 ## Analysis tables
 
-- [plots.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/plots.parquet): every trial's plot_data in one table, with trial_id
-- [sites.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/sites.parquet): every trial's site_data in one table
-- [variables.parquet](https://github.com/AgrDataSci/tricot-data/releases/latest/download/variables.parquet): every trial's variable definitions
+- [plots.parquet](https://github.com/AgrDataSci/tricot-data/releases/download/dev/plots.parquet): every trial's plot_data in one table, with trial_id
+- [sites.parquet](https://github.com/AgrDataSci/tricot-data/releases/download/dev/sites.parquet): every trial's site_data in one table
+- [variables.parquet](https://github.com/AgrDataSci/tricot-data/releases/download/dev/variables.parquet): every trial's variable definitions
 
 ## Related layers
 
