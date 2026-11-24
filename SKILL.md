@@ -107,6 +107,7 @@ For linking trials with climate, soil or other environmental data, and for the t
 - Some fields are still being harmonized across partners. When a field is missing or uses another name, say so rather than guessing.
 - Five files have `type` "concept testing" in `datasets.csv`. Their items are product concepts shown in videos, not varieties, and no crop was grown. A ranking is a stated preference about a description. Never pool them with variety trials, and never report a concept as a variety.
 - Seven files have `type` "consumer testing" in `datasets.csv`. Consumers tasted three samples, boiled sweetpotato roots or cassava eba, and ranked them; no farmer grew them. Never pool them with field trials. The eba files also hold laboratory measurements of the same genotypes in `genotype_data`.
+- The Parquet tables sit on the `dev` pre-release until v2. It is rebuilt on every push to `main` and has no DOI of its own, so state the build date of the tables you read and cite the concept DOI 10.5281/zenodo.17112491.
 - Data were collected by many partners for different purposes. Say which institute produced a trial when you report its results.
 
 ## Maps
