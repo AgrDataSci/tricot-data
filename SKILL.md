@@ -16,6 +16,7 @@ Write maniva and tricot in lowercase, always. That holds in headings, table cell
 | File | What it holds | When to open it |
 |---|---|---|
 | [datasets.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/datasets.csv) | One row per trial with trial id, crop, taxon, country, data producer, dates, type, objective, participants, sites, genotypes, collection moments, ranked traits, the `path` to fetch, file size and license | Always, first |
+| [metadata/embargoed-trials.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/embargoed-trials.csv) | Trials held by their producer until a paper is published, described without data or path | When a user asks about a trial that is not in `datasets.csv`. Say the data are not public yet and give the release condition |
 | [metadata/data-dictionary.csv](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/data-dictionary.csv) | Definition of every field in a trial file | When the user asks what a field means |
 | [metadata/tricot-trial.schema.json](https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/metadata/tricot-trial.schema.json) | JSON Schema of a trial file, release schema v3.0 | When the user wants to validate or parse files programmatically |
 | `data/<crop>/<crop>-<iso3>-<trial_id>.json` | The trial itself, raw URL `https://raw.githubusercontent.com/AgrDataSci/tricot-data/main/` followed by the `path` in `datasets.csv` | Only the trials the question needs |
