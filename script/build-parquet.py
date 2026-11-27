@@ -82,7 +82,8 @@ write("sites", "site_data", site_data=struct(sites))
 # Safeguard: per-trial row counts must match the published index
 bad = con.execute(f"""
     SELECT trial_id
-    FROM read_csv('datasets.csv')
+    -- strict_mode=false: tolerate mixed CRLF/LF line endings
+    FROM read_csv('datasets.csv', strict_mode=false)
     LEFT JOIN (SELECT trial_id, count(*) AS built_plot_rows FROM '{OUT}/plots.parquet' GROUP BY trial_id) USING (trial_id)
     LEFT JOIN (SELECT trial_id, count(*) AS built_sites FROM '{OUT}/sites.parquet' GROUP BY trial_id) USING (trial_id)
     WHERE built_plot_rows IS DISTINCT FROM n_plot_rows OR built_sites IS DISTINCT FROM n_sites""").fetchall()
