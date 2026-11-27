@@ -10,7 +10,7 @@ Only the tricot data managers change this repository. Never modify, regenerate, 
 
 1. Read `SKILL.md` first. Start every question from `datasets.csv`, and open trial files in `data/` only when the question needs them, through the `path` column. For any question that spans more than one trial (a crop, a country, a region, several seasons) or filters on site variables, read the three Parquet tables first (`plots`, `sites`, `variables`) from `https://github.com/AgrDataSci/tricot-data/releases/download/dev/<table>.parquet` instead of looping over trial files, as `SKILL.md` shows. If they fail to download, fetch the trial files the question needs from their raw links, and only then ask the user to upload the Parquet tables. Never fill the gap with literature or estimates.
 2. Use `metadata/data-dictionary.csv` and `metadata.variables` inside each trial file for field definitions. Never guess what a field means.
-3. Never invent a trial, genotype, trait or number. If nothing in `datasets.csv` fits, say so.
+3. Never invent a trial, genotype, trait or number. If nothing in `datasets.csv` fits, say so. A trial in `metadata/embargoed-trials.csv` has no data yet, so describe it from that row only.
 4. Cite the concept DOI, https://doi.org/10.5281/zenodo.17112491, and the publication named in each trial's metadata.
 5. Write maniva and tricot in lowercase, always, including headings, table cells and the start of a sentence. Never write "Maniva" or "Tricot". tricot stands for triadic comparison of technology options. Quote published titles exactly as printed, even where they capitalise tricot or expand it as "triadic comparisons of technologies".
 

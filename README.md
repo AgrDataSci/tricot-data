@@ -49,6 +49,8 @@ Site and plot rows link through `site_id`. `metadata.variables` lists every colu
 
 **Small trials.** 16 farmer-managed trials have fewer than 15 sites, 136 sites in all. A trial of that size cannot rank its varieties on its own. Treat it as a record of which varieties were tested where, or pool it with other trials of the same crop and programme that share varieties, as the ISSD trials of Ethiopia do. Seven of these trials, from the GEF project in India, share no variety with any other trial and are descriptive only. They stay in the release because they hold three crops (black gram, rice bean and small millets) and about 140 varieties that no other trial has. To leave small trials out, filter [`datasets.csv`](datasets.csv) on `n_sites`. The 22 mother trials of participatory varietal selection with fewer than 15 sites are small by design, since researchers run them on a few plots.
 
+**Embargoed trials.** [`metadata/embargoed-trials.csv`](metadata/embargoed-trials.csv) registers trials whose producer holds the data until a paper is published. They have no file and no path yet, only the row that describes them, with the producer, the contributors and the condition of release. One trial is registered now, the 2025 sorghum and common bean intercrop trial of the Scuola Superiore Sant'Anna in western Kenya, 1,000 farms and 30 sorghum lines. It is counted in the data paper and its people are credited, and its file joins `data/` once the paper is out.
+
 **Yield.** `yield_plot` is the weight harvested from the plot and `yield` the yield per area in kg/ha. A `yield` with the flag `derived` was computed from the plot weight and the plot area. Where the trial reported no plot area, the area comes from the tricot protocol for the crop, and the yield also carries `plot_area_assumed`. Filter on that flag to keep only yields from reported or published plot areas. `site_data.plot_area_source` says where each plot area comes from.
 
 ``` text
@@ -107,7 +109,7 @@ Every field is defined in [`metadata/data-dictionary.csv`](metadata/data-diction
 ``` text
 ├── data/           Trial files, one folder per crop, one JSON per trial
 ├── docs/           Data paper for Scientific Data and the README maps
-├── metadata/       Schema, data dictionary, project and per-partner metadata
+├── metadata/       Schema, data dictionary, project metadata and the register of embargoed trials
 ├── datasets.csv    Index of all trials, with the path to each file
 ├── SKILL.md        Instructions for AI assistants using the data
 ├── AGENTS.md       Short instructions for AI agents using the data
